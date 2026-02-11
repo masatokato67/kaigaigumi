@@ -411,13 +411,13 @@ function parseMatchesFromText(html: string, player: Player): ParsedMatch[] {
 
   // Bundesliga / Eredivisie などのセクションを探す
   const leaguePatterns = [
-    { pattern: /Bundesliga.*?Squad:/gs, competition: "ブンデスリーガ" },
-    { pattern: /Eredivisie.*?Squad:/gs, competition: "エールディヴィジ" },
-    { pattern: /Premier League.*?Squad:/gs, competition: "プレミアリーグ" },
-    { pattern: /La Liga.*?Squad:/gs, competition: "ラ・リーガ" },
-    { pattern: /Conference League.*?Squad:/gs, competition: "カンファレンスリーグ" },
-    { pattern: /KNVB.*?Squad:/gs, competition: "KNVBカップ" },
-    { pattern: /DFB-Pokal.*?Squad:/gs, competition: "DFBポカール" },
+    { pattern: /Bundesliga[\s\S]*?Squad:/g, competition: "ブンデスリーガ" },
+    { pattern: /Eredivisie[\s\S]*?Squad:/g, competition: "エールディヴィジ" },
+    { pattern: /Premier League[\s\S]*?Squad:/g, competition: "プレミアリーグ" },
+    { pattern: /La Liga[\s\S]*?Squad:/g, competition: "ラ・リーガ" },
+    { pattern: /Conference League[\s\S]*?Squad:/g, competition: "カンファレンスリーグ" },
+    { pattern: /KNVB[\s\S]*?Squad:/g, competition: "KNVBカップ" },
+    { pattern: /DFB-Pokal[\s\S]*?Squad:/g, competition: "DFBポカール" },
   ];
 
   for (const { pattern, competition } of leaguePatterns) {
