@@ -1,0 +1,299 @@
+[
+  {
+    "matchId": "mitoma-20260201",
+    "playerId": "mitoma",
+    "date": "2026-02-01",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "ブライトン", "score": 1 },
+    "awayTeam": { "name": "エヴァートン", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "LW", "rating": 6.0 },
+    "notable": false
+  },
+  {
+    "matchId": "mitoma-20260125",
+    "playerId": "mitoma",
+    "date": "2026-01-25",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "フラム", "score": 2 },
+    "awayTeam": { "name": "ブライトン", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "LW", "rating": 6.2 },
+    "notable": false
+  },
+  {
+    "matchId": "mitoma-20260119",
+    "playerId": "mitoma",
+    "date": "2026-01-19",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "ブライトン", "score": 1 },
+    "awayTeam": { "name": "ボーンマス", "score": 1 },
+    "playerStats": { "minutesPlayed": 89, "goals": 0, "assists": 0, "starting": true, "position": "LW", "rating": 6.5 },
+    "notable": false
+  },
+  {
+    "matchId": "mitoma-20260108",
+    "playerId": "mitoma",
+    "date": "2026-01-08",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "マンチェスター・C", "score": 1 },
+    "awayTeam": { "name": "ブライトン", "score": 1 },
+    "playerStats": { "minutesPlayed": 78, "goals": 1, "assists": 0, "starting": true, "position": "LW", "rating": 8.0 },
+    "notable": true
+  },
+  {
+    "matchId": "mitoma-20260104",
+    "playerId": "mitoma",
+    "date": "2026-01-04",
+    "competition": "FAカップ",
+    "homeTeam": { "name": "ブライトン", "score": 2 },
+    "awayTeam": { "name": "バーンリー", "score": 0 },
+    "playerStats": { "minutesPlayed": 70, "goals": 0, "assists": 0, "starting": true, "position": "LW", "rating": 6.8 },
+    "notable": false
+  },
+
+  {
+    "matchId": "kubo-20260118",
+    "playerId": "kubo",
+    "date": "2026-01-18",
+    "competition": "ラ・リーガ",
+    "homeTeam": { "name": "レアル・ソシエダ", "score": 2 },
+    "awayTeam": { "name": "バルセロナ", "score": 1 },
+    "playerStats": { "minutesPlayed": 66, "goals": 0, "assists": 1, "starting": true, "position": "RW", "rating": 7.5 },
+    "notable": true
+  },
+  {
+    "matchId": "kubo-20260112",
+    "playerId": "kubo",
+    "date": "2026-01-12",
+    "competition": "ラ・リーガ",
+    "homeTeam": { "name": "レアル・ソシエダ", "score": 1 },
+    "awayTeam": { "name": "ヘタフェ", "score": 0 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 1, "starting": true, "position": "RW", "rating": 7.3 },
+    "notable": false
+  },
+  {
+    "matchId": "kubo-20260105",
+    "playerId": "kubo",
+    "date": "2026-01-05",
+    "competition": "ラ・リーガ",
+    "homeTeam": { "name": "アトレティコ", "score": 1 },
+    "awayTeam": { "name": "レアル・ソシエダ", "score": 1 },
+    "playerStats": { "minutesPlayed": 85, "goals": 0, "assists": 1, "starting": true, "position": "RW", "rating": 7.8 },
+    "notable": true
+  },
+  {
+    "matchId": "kubo-20251214",
+    "playerId": "kubo",
+    "date": "2025-12-14",
+    "competition": "ラ・リーガ",
+    "homeTeam": { "name": "レアル・ソシエダ", "score": 2 },
+    "awayTeam": { "name": "セルタ", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 1, "assists": 0, "starting": true, "position": "RW", "rating": 8.1 },
+    "notable": true
+  },
+
+  {
+    "matchId": "tomiyasu-20260201",
+    "playerId": "tomiyasu",
+    "date": "2026-02-01",
+    "competition": "エールディヴィジ",
+    "homeTeam": { "name": "エクセルシオール", "score": 2 },
+    "awayTeam": { "name": "アヤックス", "score": 2 },
+    "playerStats": { "minutesPlayed": 10, "goals": 0, "assists": 0, "starting": false, "position": "LB", "rating": 6.5 },
+    "notable": true
+  },
+
+  {
+    "matchId": "kamada-20251214",
+    "playerId": "kamada",
+    "date": "2025-12-14",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "マンチェスター・C", "score": 2 },
+    "awayTeam": { "name": "クリスタルパレス", "score": 0 },
+    "playerStats": { "minutesPlayed": 60, "goals": 0, "assists": 0, "starting": true, "position": "CM", "rating": 5.8 },
+    "notable": false
+  },
+  {
+    "matchId": "kamada-20251212",
+    "playerId": "kamada",
+    "date": "2025-12-12",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": { "name": "クリスタルパレス", "score": 3 },
+    "awayTeam": { "name": "シェルボーン", "score": 0 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 1, "starting": true, "position": "CM", "rating": 7.8 },
+    "notable": true
+  },
+  {
+    "matchId": "kamada-20251123",
+    "playerId": "kamada",
+    "date": "2025-11-23",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "ウルヴス", "score": 0 },
+    "awayTeam": { "name": "クリスタルパレス", "score": 2 },
+    "playerStats": { "minutesPlayed": 81, "goals": 0, "assists": 0, "starting": true, "position": "CM", "rating": 7.2 },
+    "notable": false
+  },
+  {
+    "matchId": "kamada-20250928",
+    "playerId": "kamada",
+    "date": "2025-09-28",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "クリスタルパレス", "score": 1 },
+    "awayTeam": { "name": "リヴァプール", "score": 0 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "CM", "rating": 7.6 },
+    "notable": true
+  },
+
+  {
+    "matchId": "endo-20260128",
+    "playerId": "endo",
+    "date": "2026-01-28",
+    "competition": "チャンピオンズリーグ",
+    "homeTeam": { "name": "リヴァプール", "score": 6 },
+    "awayTeam": { "name": "カラバフ", "score": 0 },
+    "playerStats": { "minutesPlayed": 86, "goals": 0, "assists": 0, "starting": false, "position": "RB", "rating": 7.0 },
+    "notable": true
+  },
+  {
+    "matchId": "endo-20250816",
+    "playerId": "endo",
+    "date": "2025-08-16",
+    "competition": "プレミアリーグ",
+    "homeTeam": { "name": "リヴァプール", "score": 4 },
+    "awayTeam": { "name": "ボーンマス", "score": 2 },
+    "playerStats": { "minutesPlayed": 30, "goals": 0, "assists": 1, "starting": false, "position": "CDM", "rating": 6.5 },
+    "notable": false
+  },
+  {
+    "matchId": "endo-20251029",
+    "playerId": "endo",
+    "date": "2025-10-29",
+    "competition": "カラバオカップ",
+    "homeTeam": { "name": "リヴァプール", "score": 0 },
+    "awayTeam": { "name": "クリスタルパレス", "score": 3 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "CB", "rating": 5.5 },
+    "notable": false
+  },
+
+  {
+    "matchId": "shiogai-20260125",
+    "playerId": "shiogai",
+    "date": "2026-01-25",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "マインツ", "score": 1 },
+    "awayTeam": { "name": "ヴォルフスブルク", "score": 1 },
+    "playerStats": { "minutesPlayed": 6, "goals": 0, "assists": 0, "starting": false, "position": "ST", "rating": 6.2 },
+    "notable": true
+  },
+  {
+    "matchId": "shiogai-20260201",
+    "playerId": "shiogai",
+    "date": "2026-02-01",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "ヴォルフスブルク", "score": 0 },
+    "awayTeam": { "name": "ケルン", "score": 1 },
+    "playerStats": { "minutesPlayed": 45, "goals": 0, "assists": 0, "starting": false, "position": "ST", "rating": 6.4 },
+    "notable": false
+  },
+
+  {
+    "matchId": "sano_kodai-20260204",
+    "playerId": "sano_kodai",
+    "date": "2026-02-04",
+    "competition": "KNVBカップ",
+    "homeTeam": { "name": "NEC", "score": 1 },
+    "awayTeam": { "name": "フォレンダム", "score": 0 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "CM", "rating": 7.0 },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kodai-20260131",
+    "playerId": "sano_kodai",
+    "date": "2026-01-31",
+    "competition": "エールディヴィジ",
+    "homeTeam": { "name": "AZアルクマール", "score": 1 },
+    "awayTeam": { "name": "NEC", "score": 3 },
+    "playerStats": { "minutesPlayed": 77, "goals": 1, "assists": 1, "starting": true, "position": "DM", "rating": 8.0 },
+    "notable": true
+  },
+  {
+    "matchId": "sano_kodai-20260124",
+    "playerId": "sano_kodai",
+    "date": "2026-01-24",
+    "competition": "エールディヴィジ",
+    "homeTeam": { "name": "NEC", "score": 2 },
+    "awayTeam": { "name": "PECズヴォレ", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "DM", "rating": 7.2 },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kodai-20260120",
+    "playerId": "sano_kodai",
+    "date": "2026-01-20",
+    "competition": "KNVBカップ",
+    "homeTeam": { "name": "デ・トレッファース", "score": 1 },
+    "awayTeam": { "name": "NEC", "score": 2 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "CM", "rating": 6.8 },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kodai-20260117",
+    "playerId": "sano_kodai",
+    "date": "2026-01-17",
+    "competition": "エールディヴィジ",
+    "homeTeam": { "name": "NACブレダ", "score": 3 },
+    "awayTeam": { "name": "NEC", "score": 4 },
+    "playerStats": { "minutesPlayed": 90, "goals": 1, "assists": 0, "starting": true, "position": "CM", "rating": 7.5 },
+    "notable": true
+  },
+
+  {
+    "matchId": "sano_kaishu-20260131",
+    "playerId": "sano_kaishu",
+    "date": "2026-01-31",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "ライプツィヒ", "score": 1 },
+    "awayTeam": { "name": "マインツ", "score": 2 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "DM", "rating": 7.5 },
+    "notable": true
+  },
+  {
+    "matchId": "sano_kaishu-20260124",
+    "playerId": "sano_kaishu",
+    "date": "2026-01-24",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "マインツ", "score": 3 },
+    "awayTeam": { "name": "ヴォルフスブルク", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "DM", "rating": 7.2 },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kaishu-20260117",
+    "playerId": "sano_kaishu",
+    "date": "2026-01-17",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "ケルン", "score": 2 },
+    "awayTeam": { "name": "マインツ", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "DM", "rating": 6.5 },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kaishu-20260113",
+    "playerId": "sano_kaishu",
+    "date": "2026-01-13",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "マインツ", "score": 2 },
+    "awayTeam": { "name": "ハイデンハイム", "score": 1 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "DM", "rating": 7.0 },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kaishu-20260110",
+    "playerId": "sano_kaishu",
+    "date": "2026-01-10",
+    "competition": "ブンデスリーガ",
+    "homeTeam": { "name": "ウニオン・ベルリン", "score": 2 },
+    "awayTeam": { "name": "マインツ", "score": 2 },
+    "playerStats": { "minutesPlayed": 90, "goals": 0, "assists": 0, "starting": true, "position": "DM", "rating": 7.0 },
+    "notable": false
+  }
+]

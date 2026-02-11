@@ -1,0 +1,282 @@
+[
+  {
+    "id": "mitoma",
+    "name": {
+      "ja": "三笘薫",
+      "en": "Kaoru Mitoma"
+    },
+    "position": "LW",
+    "positionCategory": "FW",
+    "nationality": "日本",
+    "club": {
+      "name": "Brighton & Hove Albion",
+      "shortName": "ブライトン"
+    },
+    "league": {
+      "name": "Premier League",
+      "shortName": "プレミアリーグ",
+      "country": "イングランド"
+    },
+    "photo": "/images/players/mitoma.png",
+    "marketValue": "€40M",
+    "caps": 32,
+    "transfermarkt": {
+      "playerId": "536819",
+      "slug": "kaoru-mitoma"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 1,
+      "assists": 0,
+      "appearances": 5,
+      "minutesPlayed": 417,
+      "averageRating": 6.7
+    },
+    "featured": true
+  },
+  {
+    "id": "kubo",
+    "name": {
+      "ja": "久保建英",
+      "en": "Takefusa Kubo"
+    },
+    "position": "RW",
+    "positionCategory": "FW",
+    "nationality": "日本",
+    "club": {
+      "name": "Real Sociedad",
+      "shortName": "レアル・ソシエダ"
+    },
+    "league": {
+      "name": "La Liga",
+      "shortName": "ラ・リーガ",
+      "country": "スペイン"
+    },
+    "photo": "/images/players/kubo.jpg",
+    "marketValue": "€55M",
+    "caps": 45,
+    "transfermarkt": {
+      "playerId": "435338",
+      "slug": "takefusa-kubo"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 1,
+      "assists": 3,
+      "appearances": 4,
+      "minutesPlayed": 331,
+      "averageRating": 7.7
+    },
+    "featured": true
+  },
+  {
+    "id": "tomiyasu",
+    "name": {
+      "ja": "冨安健洋",
+      "en": "Takehiro Tomiyasu"
+    },
+    "position": "LB",
+    "positionCategory": "DF",
+    "nationality": "日本",
+    "club": {
+      "name": "AFC Ajax",
+      "shortName": "アヤックス"
+    },
+    "league": {
+      "name": "Eredivisie",
+      "shortName": "エールディヴィジ",
+      "country": "オランダ"
+    },
+    "photo": "/images/players/tomiyasu.jpg",
+    "marketValue": "€15M",
+    "caps": 30,
+    "transfermarkt": {
+      "playerId": "340098",
+      "slug": "takehiro-tomiyasu"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 1,
+      "minutesPlayed": 10,
+      "averageRating": 6.5
+    },
+    "featured": true
+  },
+  {
+    "id": "kamada",
+    "name": {
+      "ja": "鎌田大地",
+      "en": "Daichi Kamada"
+    },
+    "position": "CM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "Crystal Palace",
+      "shortName": "クリスタルパレス"
+    },
+    "league": {
+      "name": "Premier League",
+      "shortName": "プレミアリーグ",
+      "country": "イングランド"
+    },
+    "photo": "/images/players/kamada.jpg",
+    "marketValue": "€18M",
+    "caps": 29,
+    "transfermarkt": {
+      "playerId": "292738",
+      "slug": "daichi-kamada"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 0,
+      "assists": 1,
+      "appearances": 4,
+      "minutesPlayed": 321,
+      "averageRating": 7.2
+    },
+    "featured": false
+  },
+  {
+    "id": "endo",
+    "name": {
+      "ja": "遠藤航",
+      "en": "Wataru Endo"
+    },
+    "position": "CDM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "Liverpool",
+      "shortName": "リヴァプール"
+    },
+    "league": {
+      "name": "Premier League",
+      "shortName": "プレミアリーグ",
+      "country": "イングランド"
+    },
+    "photo": "/images/players/endo.jpg",
+    "marketValue": "€18M",
+    "caps": 62,
+    "transfermarkt": {
+      "playerId": "124757",
+      "slug": "wataru-endo"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 0,
+      "assists": 1,
+      "appearances": 3,
+      "minutesPlayed": 206,
+      "averageRating": 6.4
+    },
+    "featured": false
+  },
+  {
+    "id": "shiogai",
+    "name": {
+      "ja": "塩貝健人",
+      "en": "Kento Shiogai"
+    },
+    "position": "ST",
+    "positionCategory": "FW",
+    "nationality": "日本",
+    "club": {
+      "name": "VfL Wolfsburg",
+      "shortName": "ヴォルフスブルク"
+    },
+    "league": {
+      "name": "Bundesliga",
+      "shortName": "ブンデスリーガ",
+      "country": "ドイツ"
+    },
+    "photo": "/images/players/shiogai.jpg",
+    "marketValue": "€10M",
+    "caps": 0,
+    "transfermarkt": {
+      "playerId": "684880",
+      "slug": "kento-shiogai"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 2,
+      "minutesPlayed": 51,
+      "averageRating": 6.3
+    },
+    "featured": false
+  },
+  {
+    "id": "sano_kodai",
+    "name": {
+      "ja": "佐野航大",
+      "en": "Kodai Sano"
+    },
+    "position": "CM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "NEC Nijmegen",
+      "shortName": "NEC"
+    },
+    "league": {
+      "name": "Eredivisie",
+      "shortName": "エールディヴィジ",
+      "country": "オランダ"
+    },
+    "photo": "/images/players/sano_kodai.png",
+    "marketValue": "€6M",
+    "caps": 1,
+    "transfermarkt": {
+      "playerId": "957544",
+      "slug": "kodai-sano"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 1,
+      "assists": 1,
+      "appearances": 3,
+      "minutesPlayed": 270,
+      "averageRating": 7.2
+    },
+    "featured": false
+  },
+  {
+    "id": "sano_kaishu",
+    "name": {
+      "ja": "佐野海舟",
+      "en": "Kaishu Sano"
+    },
+    "position": "CDM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "1. FSV Mainz 05",
+      "shortName": "マインツ"
+    },
+    "league": {
+      "name": "Bundesliga",
+      "shortName": "ブンデスリーガ",
+      "country": "ドイツ"
+    },
+    "photo": "/images/players/sano_kaishu.jpg",
+    "marketValue": "€25M",
+    "caps": 11,
+    "transfermarkt": {
+      "playerId": "643574",
+      "slug": "kaishu-sano"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 1,
+      "assists": 1,
+      "appearances": 4,
+      "minutesPlayed": 360,
+      "averageRating": 7.4
+    },
+    "featured": false
+  }
+]

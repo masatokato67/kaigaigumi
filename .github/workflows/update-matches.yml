@@ -1,0 +1,80 @@
+name: Update Match Data
+
+on:
+  # 定期実行: 毎日 6:00, 14:00, 22:00 UTC (15:00, 23:00, 7:00 JST)
+  schedule:
+    - cron: '0 6 * * *'   # 毎日 15:00 JST
+    - cron: '0 14 * * *'  # 毎日 23:00 JST
+    - cron: '0 22 * * *'  # 毎日 7:00 JST
+
+  # 手動実行
+  workflow_dispatch:
+    inputs:
+      force_update:
+        description: 'Force update all players'
+        required: false
+        default: 'false'
+        type: boolean
+
+# GitHub Actionsがリポジトリにプッシュするための権限
+permissions:
+  contents: write
+
+jobs:
+  update-matches:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch new matches from Transfermarkt
+        run: npx tsx scripts/fetch-matches.ts
+        env:
+          NODE_ENV: production
+
+      - name: Generate content for new matches
+        run: npx tsx scripts/generate-content.ts
+        env:
+          NODE_ENV: production
+
+      - name: Update player statistics
+        run: npx tsx scripts/update-stats.ts
+        env:
+          NODE_ENV: production
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git diff --exit-code src/data/ || echo "changes=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/
+          git commit -m "chore: auto-update match data $(date +'%Y-%m-%d %H:%M') UTC
+
+          - Updated matches.json with latest match data
+          - Generated media ratings and local voices
+          - Recalculated player statistics
+
+          [skip ci]"
+          git push
+
+      - name: No changes detected
+        if: steps.git-check.outputs.changes != 'true'
+        run: echo "No new matches found. Skipping commit."

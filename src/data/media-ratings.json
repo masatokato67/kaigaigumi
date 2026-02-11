@@ -1,0 +1,1045 @@
+[
+  {
+    "matchId": "mitoma-20260201",
+    "playerId": "mitoma",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 6.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.1, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 6.0, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.0,
+    "localVoices": [
+      {
+        "id": "v001",
+        "username": "@BrightonFanZone",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Mitoma was quiet today against Everton. Didn't get much service. The whole team looked flat.",
+        "translatedText": "三笘は今日エヴァートン戦で目立たなかった。あまりボールが来なかった。チーム全体が精彩を欠いていた。"
+      }
+    ]
+  },
+  {
+    "matchId": "mitoma-20260125",
+    "playerId": "mitoma",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 6.3, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.1, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 6.2, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.2,
+    "localVoices": [
+      {
+        "id": "v002",
+        "username": "@FulhamFaithful",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "We handled Mitoma well today. He had a few moments but our defence stayed tight. Good win for us.",
+        "translatedText": "今日は三笘をうまく抑えた。何度か危ない場面はあったが、守備陣がしっかり対応した。我々にとって良い勝利だ。"
+      }
+    ]
+  },
+  {
+    "matchId": "mitoma-20260119",
+    "playerId": "mitoma",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.4, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.5,
+    "localVoices": [
+      {
+        "id": "v003",
+        "username": "@TacticsBoard",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Mitoma looked lively against Bournemouth. Some good dribbles but couldn't find the final ball. Brighton need more from their star man.",
+        "translatedText": "三笘はボーンマス戦で活発だった。いくつかの良いドリブルを見せたが、決定的なパスを出せなかった。ブライトンはエースにもっと期待している。"
+      }
+    ]
+  },
+  {
+    "matchId": "mitoma-20260108",
+    "playerId": "mitoma",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 8.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 8.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "The Guardian", "country": "イングランド", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 8.2,
+    "localVoices": [
+      {
+        "id": "v004",
+        "username": "@PremierLeagueFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Mitoma absolutely unplayable today. That goal against Man City was stunning. Picked it up deep and drove through their defence.",
+        "translatedText": "三笘は今日完全に止められなかった。マンチェスター・Cに対するあのゴールは衝撃的だった。深い位置でボールを受け、守備陣を切り裂いた。"
+      },
+      {
+        "id": "v005",
+        "username": "@FootballAnalyst_UK",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "What a goal from Mitoma at the Etihad. His ability to accelerate past defenders is terrifying. Brighton earned their point.",
+        "translatedText": "エティハドでの三笘のゴールは見事だった。ディフェンダーを加速して抜き去る能力は恐ろしい。ブライトンは勝ち点1に値した。"
+      },
+      {
+        "id": "v006",
+        "username": "@BrightonSupporter",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Every time Mitoma gets the ball you feel something is about to happen. Brilliant goal. He's our best player by a mile.",
+        "translatedText": "三笘がボールを持つたびに何かが起こりそうな予感がする。素晴らしいゴールだ。彼は断トツで我々の最高の選手だ。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t001",
+        "username": "@SkySportsPL",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "WHAT A GOAL! Kaoru Mitoma picks up the ball in his own half, drives past THREE City players and finishes coolly past Ederson. Absolutely sensational from the Brighton winger!",
+        "translatedText": "なんというゴール！三笘薫が自陣でボールを受け、シティの選手3人を抜き去り、エデルソンの前でクールに決める。ブライトンのウインガーによる絶対的なセンセーション！",
+        "likes": 45200,
+        "retweets": 12800,
+        "replies": [
+          {
+            "id": "r001",
+            "username": "@MCFC_Fan_UK",
+            "languageCode": "EN",
+            "originalText": "Hate to admit it but that was world class. Nobody could stop him once he got going. Unreal acceleration.",
+            "translatedText": "認めたくないけど、あれはワールドクラスだった。一度走り出したら誰も止められなかった。信じられない加速力。",
+            "likes": 3420
+          },
+          {
+            "id": "r002",
+            "username": "@FPLExpert_Dan",
+            "languageCode": "EN",
+            "originalText": "This man is genuinely one of the best dribblers in world football right now. Should be at a bigger club honestly.",
+            "translatedText": "この男は今、世界サッカーで最高のドリブラーの一人だ。正直、もっとビッグクラブにいるべきだ。",
+            "likes": 2890
+          },
+          {
+            "id": "r003",
+            "username": "@BHAFCSupporter",
+            "languageCode": "EN",
+            "originalText": "Don't you dare try to take him from us! He's staying at Brighton forever",
+            "translatedText": "彼を奪おうなんて思うなよ！三笘は永遠にブライトンだ",
+            "likes": 1540
+          }
+        ]
+      },
+      {
+        "id": "t002",
+        "username": "@BBCSport",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma has now scored 5 goals in his last 8 Premier League appearances. The Japanese international is in sensational form for Brighton.",
+        "translatedText": "三笘薫は直近8試合のプレミアリーグで5ゴールを記録した。この日本代表はブライトンで驚異的なフォームを見せている。",
+        "likes": 28900,
+        "retweets": 6540,
+        "replies": [
+          {
+            "id": "r004",
+            "username": "@TacticalAnalyze",
+            "languageCode": "EN",
+            "originalText": "His decision making in the final third has improved so much. Last season he'd try one more dribble, now he picks the right moment to shoot.",
+            "translatedText": "ファイナルサードでの判断力が格段に向上した。昨シーズンならもう一回ドリブルを試みていたが、今は正しいタイミングでシュートを選択する。",
+            "likes": 1890
+          },
+          {
+            "id": "r005",
+            "username": "@PL_Stats_Hub",
+            "languageCode": "EN",
+            "originalText": "Best G/A per 90 in the league for wingers this season. Numbers don't lie.",
+            "translatedText": "今季ウインガーの中でリーグ最高の90分あたりG/A。数字は嘘をつかない。",
+            "likes": 2340
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": "mitoma-20260104",
+    "playerId": "mitoma",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 6.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.9, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 6.7, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v007",
+        "username": "@FACupWatch",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Mitoma was decent in the FA Cup win over Burnley. Subbed off after 70 mins. Brighton progress comfortably.",
+        "translatedText": "三笘はFAカップのバーンリー戦でまずまずのプレー。70分で交代。ブライトンは楽に次のラウンドに進んだ。"
+      }
+    ]
+  },
+  {
+    "matchId": "kubo-20260118",
+    "playerId": "kubo",
+    "ratings": [
+      { "source": "MARCA", "country": "スペイン", "rating": 7.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "AS", "country": "スペイン", "rating": 7.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.6, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "Mundo Deportivo", "country": "スペイン", "rating": 7.5, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.6,
+    "localVoices": [
+      {
+        "id": "v008",
+        "username": "@LaLigaInsider",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "ES",
+        "originalText": "Kubo dio una asistencia brillante contra el Barca antes de salir lesionado. Gran actuacion pero preocupa su estado fisico.",
+        "translatedText": "久保はバルサ戦で素晴らしいアシストを見せたが、負傷で退場した。素晴らしいパフォーマンスだが、コンディションが心配だ。"
+      },
+      {
+        "id": "v009",
+        "username": "@RealSociedadFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "ES",
+        "originalText": "Take Kubo es magia pura. Esa asistencia contra el Barca fue de clase mundial. Esperemos que la lesion no sea grave.",
+        "translatedText": "久保建英は純粋な魔法だ。バルサに対するあのアシストはワールドクラスだった。怪我が深刻でないことを祈ろう。"
+      },
+      {
+        "id": "v010",
+        "username": "@BarcelonaFanPage",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "ES",
+        "originalText": "Kubo nos hizo dano otra vez. Ese chico tiene algo especial. Lastima que salio del club en su dia.",
+        "translatedText": "久保にまたやられた。あの子は特別な何かを持っている。かつてクラブを離れたのは残念だ。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t003",
+        "username": "@ABORRASPORT",
+        "verified": true,
+        "languageCode": "ES",
+        "originalText": "TAKE KUBO vuelve a hacer historia! Asistencia magistral contra el Barcelona. El japones demuestra por que fue canterano del Barca. Una lastima su lesion en el minuto 66.",
+        "translatedText": "久保建英がまた歴史を作った！バルセロナに対する見事なアシスト。この日本人がなぜバルサの下部組織出身だったかを証明した。66分での負傷は残念だ。",
+        "likes": 34500,
+        "retweets": 8920,
+        "replies": [
+          {
+            "id": "r006",
+            "username": "@FCBFan_Carlos",
+            "languageCode": "ES",
+            "originalText": "Por que dejamos salir a este chico? Fue un error enorme. Ahora nos marca y asiste cada vez que jugamos contra el.",
+            "translatedText": "なぜこの子を手放したんだ？大きな間違いだった。今では対戦するたびに得点やアシストをされる。",
+            "likes": 4230
+          },
+          {
+            "id": "r007",
+            "username": "@LaRealTxuri",
+            "languageCode": "ES",
+            "originalText": "El mejor fichaje de nuestra historia. Lo que hace con el balon es arte puro. Esperamos que la lesion no sea grave!",
+            "translatedText": "クラブ史上最高の補強だ。彼がボールで見せるプレーは純粋なアートだ。怪我が深刻でないことを祈る！",
+            "likes": 2890
+          }
+        ]
+      },
+      {
+        "id": "t004",
+        "username": "@MARCAFutbol",
+        "verified": true,
+        "languageCode": "ES",
+        "originalText": "La Real Sociedad vence 2-1 al Barcelona en Anoeta. Take Kubo fue el mejor del partido hasta su lesion. Su asistencia para el gol de Oyarzabal fue de escandalo.",
+        "translatedText": "レアル・ソシエダがアノエタでバルセロナを2-1で下す。久保建英は負傷するまで試合最高の選手だった。オヤルサバルへのアシストは衝撃的だった。",
+        "likes": 28700,
+        "retweets": 5430,
+        "replies": [
+          {
+            "id": "r008",
+            "username": "@FutbolTotalES",
+            "languageCode": "ES",
+            "originalText": "Kubo contra Barcelona siempre es un espectaculo. Parece que juega con una motivacion extra contra su ex equipo.",
+            "translatedText": "バルセロナ戦での久保は常にスペクタクルだ。古巣に対して特別なモチベーションでプレーしているように見える。",
+            "likes": 1670
+          },
+          {
+            "id": "r009",
+            "username": "@JLeagueFanES",
+            "languageCode": "ES",
+            "originalText": "El mejor jugador japones de la historia en LaLiga. Ningun otro ha tenido este nivel de consistencia.",
+            "translatedText": "ラ・リーガ史上最高の日本人選手。これほどの安定感を持った選手は他にいない。",
+            "likes": 2120
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": "kubo-20260112",
+    "playerId": "kubo",
+    "ratings": [
+      { "source": "MARCA", "country": "スペイン", "rating": 7.3, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "AS", "country": "スペイン", "rating": 7.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.4, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.3,
+    "localVoices": [
+      {
+        "id": "v011",
+        "username": "@TxuriUrdin",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "ES",
+        "originalText": "Kubo con otra asistencia contra Getafe. Siempre crea peligro. Es el motor creativo del equipo.",
+        "translatedText": "久保がヘタフェ戦でまたアシスト。常に危険を生み出す。彼はチームの創造的なエンジンだ。"
+      }
+    ]
+  },
+  {
+    "matchId": "kubo-20260105",
+    "playerId": "kubo",
+    "ratings": [
+      { "source": "MARCA", "country": "スペイン", "rating": 7.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "AS", "country": "スペイン", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.9, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.9,
+    "localVoices": [
+      {
+        "id": "v012",
+        "username": "@AtletiFanES",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "ES",
+        "originalText": "Kubo fue un dolor de cabeza para nuestra defensa toda la noche. Nos costo mucho pararle. Buen punto para la Real.",
+        "translatedText": "久保は一晩中我々の守備にとって頭痛の種だった。彼を止めるのに苦労した。ソシエダにとっては良い勝ち点だ。"
+      },
+      {
+        "id": "v013",
+        "username": "@LaLigaTacticsES",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "ES",
+        "originalText": "Kubo con una asistencia fantastica en el Metropolitano. Su vision de juego y capacidad de desborde son excepcionales esta temporada.",
+        "translatedText": "久保がメトロポリターノで素晴らしいアシスト。彼の試合を読む力と突破力は今シーズン例外的だ。"
+      }
+    ]
+  },
+  {
+    "matchId": "kubo-20251214",
+    "playerId": "kubo",
+    "ratings": [
+      { "source": "MARCA", "country": "スペイン", "rating": 8.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "AS", "country": "スペイン", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 8.1, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 8.1,
+    "localVoices": [
+      {
+        "id": "v014",
+        "username": "@LaLigaInsider",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "ES",
+        "originalText": "Kubo fue el mejor jugador del partido contra el Celta. Un gol brillante y domino el flanco derecho durante 90 minutos.",
+        "translatedText": "久保はセルタ戦で最優秀選手だった。素晴らしいゴールを決め、90分間右サイドを支配した。"
+      },
+      {
+        "id": "v015",
+        "username": "@RealSociedadFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "ES",
+        "originalText": "Take Kubo con un golazo. Este chico es pura clase. Lo mejor que nos ha pasado en anos.",
+        "translatedText": "久保建英のスーパーゴール。この選手は純粋なクラスだ。ここ数年で我々に起こった最高の出来事だ。"
+      }
+    ]
+  },
+  {
+    "matchId": "tomiyasu-20260201",
+    "playerId": "tomiyasu",
+    "ratings": [
+      { "source": "Voetbal International", "country": "オランダ", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "De Telegraaf", "country": "オランダ", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.5,
+    "localVoices": [
+      {
+        "id": "v016",
+        "username": "@AjaxFanZone",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "NL",
+        "originalText": "Tomiyasu maakte zijn debuut in de laatste 10 minuten. Kort maar het team werd rustiger toen hij erin kwam.",
+        "translatedText": "冨安が最後の10分間でデビューした。短い時間だったが、彼が入ったことでチームが落ち着いた。"
+      },
+      {
+        "id": "v017",
+        "username": "@EredivisieWatch",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "NL",
+        "originalText": "Na 484 dagen blessureleed is Tomiyasu terug op het veld. Ajax-trainer Farioli prees zijn kalmte en ervaring. Veelbelovend debuut ondanks de korte invalbeurt.",
+        "translatedText": "484日間の負傷離脱を経て冨安がピッチに復帰した。アヤックスのファリオーリ監督は彼の落ち着きと経験を称賛した。短い途中出場ながら期待の持てるデビューだった。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t005",
+        "username": "@AFCAjax",
+        "verified": true,
+        "languageCode": "NL",
+        "originalText": "Na 484 dagen is Takehiro Tomiyasu terug op het veld! De Japanse verdediger maakt zijn debuut voor Ajax. Welkom terug, Tomi!",
+        "translatedText": "484日ぶりに冨安健洋がピッチに帰ってきた！この日本人DFがアヤックスデビューを果たした。おかえり、トミ！",
+        "likes": 52300,
+        "retweets": 14200,
+        "replies": [
+          {
+            "id": "r010",
+            "username": "@AjaxFan_NL",
+            "languageCode": "NL",
+            "originalText": "Wat een moment! Het team speelde meteen rustiger toen hij erin kwam. Je kon zijn ervaring zien ondanks slechts 10 minuten.",
+            "translatedText": "なんという瞬間だ！彼が入った途端、チームは落ち着いてプレーした。たった10分でも彼の経験が見て取れた。",
+            "likes": 3890
+          },
+          {
+            "id": "r011",
+            "username": "@ArsenalFanNL",
+            "languageCode": "EN",
+            "originalText": "Take care of him Ajax! One of the best defenders in the Premier League when fit. Gutted he left us but glad to see him back playing.",
+            "translatedText": "アヤックス、彼を大事にしてくれ！フィットすればプレミアリーグ最高のDFの一人だ。移籍は残念だったけど、プレーする姿が見れて嬉しい。",
+            "likes": 2670
+          },
+          {
+            "id": "r012",
+            "username": "@EredivisieStats",
+            "languageCode": "NL",
+            "originalText": "Farioli na de wedstrijd: 'Het team werd kalmer toen Tomiyasu erin kwam. Hij bracht rust en ervaring.' Veelbelovende start.",
+            "translatedText": "ファリオーリ監督の試合後コメント：「冨安が入るとチームは落ち着いた。彼は安定と経験をもたらした。」期待できるスタートだ。",
+            "likes": 1890
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": "kamada-20251214",
+    "playerId": "kamada",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 5.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 5.7, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 5.8, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 5.8,
+    "localVoices": [
+      {
+        "id": "v018",
+        "username": "@CPFCEagle",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Tough day at the Etihad. Kamada tried hard but the team couldn't get going against City. Subbed off at 60 mins.",
+        "translatedText": "エティハドでの厳しい一日。鎌田は懸命にプレーしたが、チームはシティに対して機能しなかった。60分で交代。"
+      }
+    ]
+  },
+  {
+    "matchId": "kamada-20251212",
+    "playerId": "kamada",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 7.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.9, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 7.7, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.8,
+    "localVoices": [
+      {
+        "id": "v019",
+        "username": "@CPFCEagle",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kamada ran the show in the Conference League tonight! An assist and constantly creating chances. This is the Kamada we signed.",
+        "translatedText": "鎌田が今夜のカンファレンスリーグで試合を支配した！アシストに加え常にチャンスを演出。これこそ我々が獲得した鎌田だ。"
+      },
+      {
+        "id": "v020",
+        "username": "@PalaceInsider",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kamada was involved in two goal-building plays against Shelbourne. Glasner praised his contribution after the game. Palace cruise in Europe.",
+        "translatedText": "鎌田はシェルボーン戦で2つのゴールに絡む展開に関与した。グラスナー監督は試合後に彼の貢献を称賛した。パレスが欧州で快勝。"
+      }
+    ]
+  },
+  {
+    "matchId": "kamada-20251123",
+    "playerId": "kamada",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 7.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.3, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 7.1, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.2,
+    "localVoices": [
+      {
+        "id": "v021",
+        "username": "@WolvesChat",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kamada was tidy in midfield today. Palace controlled the game well and we couldn't deal with their passing.",
+        "translatedText": "鎌田は今日の中盤で堅実だった。パレスがうまく試合をコントロールし、彼らのパス回しに対処できなかった。"
+      }
+    ]
+  },
+  {
+    "matchId": "kamada-20250928",
+    "playerId": "kamada",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 8.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "The Guardian", "country": "イングランド", "rating": 7.5, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.9,
+    "localVoices": [
+      {
+        "id": "v022",
+        "username": "@CPFCEagle",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kamada was man of the match against Liverpool! His corner kick delivery led to the opening goal. What a performance at Selhurst Park.",
+        "translatedText": "鎌田がリヴァプール戦でマン・オブ・ザ・マッチ！彼のコーナーキックから先制点が生まれた。セルハーストパークでの素晴らしいパフォーマンス。"
+      },
+      {
+        "id": "v023",
+        "username": "@PLTacticsHub",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Palace stun Liverpool 1-0 and Kamada was at the heart of everything. His set-piece delivery was outstanding. Glasner has found his playmaker.",
+        "translatedText": "パレスがリヴァプールを1-0で撃破、鎌田がすべての中心にいた。彼のセットプレーの精度は抜群だった。グラスナー監督はプレーメーカーを見つけた。"
+      },
+      {
+        "id": "v024",
+        "username": "@LFCFanView",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Fair play to Kamada, he was excellent today. Controlled the tempo and that corner for the goal was perfectly placed. Frustrating loss for us.",
+        "translatedText": "鎌田は見事だった。テンポをコントロールし、ゴールにつながったコーナーキックは完璧な配球だった。我々にとっては悔しい敗戦。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t006",
+        "username": "@CPFC",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "FULL TIME: Crystal Palace 1-0 Liverpool! A MASSIVE win at Selhurst Park. Daichi Kamada with a dominant midfield display - his corner kick delivery created our winning goal!",
+        "translatedText": "試合終了：クリスタルパレス 1-0 リヴァプール！セルハーストパークでの大勝利。鎌田大地が中盤を支配したパフォーマンス - 彼のコーナーキックから決勝ゴールが生まれた！",
+        "likes": 67800,
+        "retweets": 18900,
+        "replies": [
+          {
+            "id": "r013",
+            "username": "@PLFansHub",
+            "languageCode": "EN",
+            "originalText": "Kamada has been Palace's best signing this season. Controls the tempo, creates chances, and his set-pieces are lethal. What a player.",
+            "translatedText": "鎌田は今季パレス最高の補強だ。テンポをコントロールし、チャンスを作り、セットプレーは致命的。なんという選手だ。",
+            "likes": 4560
+          },
+          {
+            "id": "r014",
+            "username": "@LFCView_Official",
+            "languageCode": "EN",
+            "originalText": "We had no answer for Kamada today. He found pockets of space everywhere and that corner was perfect. Fair result tbh, we weren't good enough.",
+            "translatedText": "今日は鎌田に対する答えがなかった。彼はあらゆるところでスペースを見つけ、あのコーナーは完璧だった。正直妥当な結果、我々は十分ではなかった。",
+            "likes": 3210
+          },
+          {
+            "id": "r015",
+            "username": "@BundesligaExpert",
+            "languageCode": "EN",
+            "originalText": "Told you all he was class at Frankfurt. The Bundesliga effect - players always improve after leaving Germany. Happy to see Kamada thriving!",
+            "translatedText": "フランクフルトで彼がクラスだったと言っただろう。ブンデスリーガ効果 - 選手はドイツを離れると常に成長する。鎌田が活躍しているのを見て嬉しい！",
+            "likes": 2780
+          }
+        ]
+      },
+      {
+        "id": "t007",
+        "username": "@SkySportsPL",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Man of the Match: Daichi Kamada. The Japanese international was everywhere for Palace today. 89% pass accuracy, 3 key passes, and the assist for the winner. Outstanding.",
+        "translatedText": "マン・オブ・ザ・マッチ：鎌田大地。この日本代表はパレスのために今日あらゆる場所にいた。パス成功率89%、キーパス3本、そして決勝点のアシスト。見事。",
+        "likes": 45200,
+        "retweets": 9870,
+        "replies": [
+          {
+            "id": "r016",
+            "username": "@TacticalFPL",
+            "languageCode": "EN",
+            "originalText": "Kamada's heat map is insane. He covered more ground than any other midfielder and still had the quality in the final third. Complete performance.",
+            "translatedText": "鎌田のヒートマップは異常だ。どのMFよりも多くの距離をカバーしながら、ファイナルサードでクオリティを発揮した。完璧なパフォーマンス。",
+            "likes": 2340
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": "endo-20260128",
+    "playerId": "endo",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 7.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "GOAL", "country": "グローバル", "rating": 7.0, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.1,
+    "localVoices": [
+      {
+        "id": "v025",
+        "username": "@LFCTactics",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Endo played at right-back tonight and put in a superb display against Qarabag. Versatility is his greatest asset. Slot clearly trusts him.",
+        "translatedText": "遠藤は今夜右サイドバックでプレーし、カラバフ戦で素晴らしいパフォーマンスを見せた。ユーティリティ性が彼の最大の武器だ。スロット監督は明らかに彼を信頼している。"
+      },
+      {
+        "id": "v026",
+        "username": "@AnfieldRedsFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Endo is the ultimate squad player. Fills in wherever needed and never lets the team down. 6-0 win and he was solid throughout.",
+        "translatedText": "遠藤は究極のスカッド・プレーヤーだ。必要なところどこでもプレーし、チームを裏切らない。6-0の勝利で、終始安定していた。"
+      }
+    ]
+  },
+  {
+    "matchId": "endo-20250816",
+    "playerId": "endo",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.6, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.5,
+    "localVoices": [
+      {
+        "id": "v027",
+        "username": "@LFCMatchday",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Endo came off the bench and added stability in midfield. Picked up an assist too. He's a reliable option off the bench.",
+        "translatedText": "遠藤がベンチから出場し中盤に安定をもたらした。アシストも記録。ベンチからの信頼できるオプションだ。"
+      }
+    ]
+  },
+  {
+    "matchId": "endo-20251029",
+    "playerId": "endo",
+    "ratings": [
+      { "source": "Sky Sports", "country": "イングランド", "rating": 5.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 5.4, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "BBC Sport", "country": "イングランド", "rating": 5.5, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 5.5,
+    "localVoices": [
+      {
+        "id": "v028",
+        "username": "@LFCTactics",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Endo played at centre-back in the Carabao Cup and struggled. Palace scored three past Liverpool's makeshift defence. Not his natural position.",
+        "translatedText": "遠藤はカラバオカップでセンターバックとしてプレーし苦戦した。パレスがリヴァプールの即席守備陣から3ゴールを奪った。彼の本来のポジションではない。"
+      }
+    ]
+  },
+  {
+    "matchId": "shiogai-20260125",
+    "playerId": "shiogai",
+    "ratings": [
+      { "source": "kicker", "country": "ドイツ", "rating": 3.5, "maxRating": 6, "ratingSystem": "german" },
+      { "source": "Bild", "country": "ドイツ", "rating": 6.3, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.1, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.2,
+    "localVoices": [
+      {
+        "id": "v029",
+        "username": "@BundesligaFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Shiogai mit nur 6 Minuten Einsatzzeit, aber er hat in kurzer Zeit Eindruck gemacht. Ein Dribbling gegen drei Spieler war bemerkenswert.",
+        "translatedText": "塩貝はわずか6分の出場だったが、短い時間でインパクトを残した。3人の選手を相手にしたドリブルは注目に値した。"
+      },
+      {
+        "id": "v030",
+        "username": "@WolfsburgDE",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Der neue Japaner Shiogai kam von der Bank. Nur wenige Minuten aber das Debüt in der Bundesliga ist geschafft. Gespannt was noch kommt.",
+        "translatedText": "新加入の日本人・塩貝がベンチから出場。わずか数分だがブンデスリーガデビューを果たした。今後が楽しみだ。"
+      }
+    ]
+  },
+  {
+    "matchId": "shiogai-20260201",
+    "playerId": "shiogai",
+    "ratings": [
+      { "source": "kicker", "country": "ドイツ", "rating": 3.0, "maxRating": 6, "ratingSystem": "german" },
+      { "source": "Bild", "country": "ドイツ", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.3, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.4,
+    "localVoices": [
+      {
+        "id": "v031",
+        "username": "@KickerDE_Writer",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "DE",
+        "originalText": "Shiogai bekam 45 Minuten gegen Köln. Zeigte gute Laufbereitschaft und technisches Können. Wolfsburg verlor aber das lag nicht an ihm.",
+        "translatedText": "塩貝はケルン戦で45分のプレー機会を得た。良い運動量と技術力を見せた。ヴォルフスブルクは敗れたが、それは彼のせいではない。"
+      },
+      {
+        "id": "v032",
+        "username": "@BundesligaBeobachter",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "DE",
+        "originalText": "Der Neuzugang aus den Niederlanden macht einen guten Eindruck. Shiogai hat Tempo und Technik. Wolfsburg braucht Geduld mit dem jungen Japaner.",
+        "translatedText": "オランダからの新加入選手は好印象を与えている。塩貝にはスピードとテクニックがある。ヴォルフスブルクはこの若い日本人に辛抱が必要だ。"
+      }
+    ]
+  },
+
+  {
+    "matchId": "sano_kodai-20260204",
+    "playerId": "sano_kodai",
+    "ratings": [
+      { "source": "Voetbal International", "country": "オランダ", "rating": 7.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "De Telegraaf", "country": "オランダ", "rating": 7.0, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.0,
+    "localVoices": [
+      {
+        "id": "v033",
+        "username": "@NECFanzone",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "NL",
+        "originalText": "Door naar de halve finale van de KNVB Beker! Sano speelde 90 minuten en hield het middenveld goed onder controle.",
+        "translatedText": "KNVBカップ準決勝進出！佐野は90分プレーし、中盤をしっかりコントロールした。"
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kodai-20260131",
+    "playerId": "sano_kodai",
+    "ratings": [
+      { "source": "Voetbal International", "country": "オランダ", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "De Telegraaf", "country": "オランダ", "rating": 8.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 8.1, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 8.0,
+    "localVoices": [
+      {
+        "id": "v034",
+        "username": "@EredivisieAnalyst",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "NL",
+        "originalText": "Kodai Sano met een goal en assist bij AZ! Wat een wedstrijd van de Japanner. Hij is een van de beste middenvelders in de Eredivisie dit seizoen.",
+        "translatedText": "佐野航大がAZ戦でゴールとアシスト！この日本人選手の素晴らしい試合だ。彼は今季エールディヴィジで最高のMFの一人だ。"
+      },
+      {
+        "id": "v035",
+        "username": "@NECFanzone",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "NL",
+        "originalText": "SANO IS ONGELOOFLIJK! Goal en assist tegen AZ. Deze jongen is goud waard!",
+        "translatedText": "佐野は信じられない！AZ戦でゴールとアシスト。この選手は金の価値がある！"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t008",
+        "username": "@NECNijmegen",
+        "verified": true,
+        "languageCode": "NL",
+        "originalText": "GOAL! Kodai Sano schiet NEC op voorsprong bij AZ! 1-2! Wat een wedstrijd van de Japanse middenvelder!",
+        "translatedText": "ゴール！佐野航大がAZ戦でNECをリードに導く！1-2！この日本人MFのなんという試合だ！",
+        "likes": 12500,
+        "retweets": 2800,
+        "replies": [
+          {
+            "id": "r017",
+            "username": "@EredivisieFan",
+            "languageCode": "NL",
+            "originalText": "Sano is echt goed zeg. Goal en assist vandaag. NEC heeft een juweeltje gevonden.",
+            "translatedText": "佐野は本当に上手いな。今日はゴールとアシスト。NECは宝石を見つけた。",
+            "likes": 1290
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kodai-20260124",
+    "playerId": "sano_kodai",
+    "ratings": [
+      { "source": "Voetbal International", "country": "オランダ", "rating": 7.2, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "De Telegraaf", "country": "オランダ", "rating": 7.2, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.2,
+    "localVoices": [
+      {
+        "id": "v036",
+        "username": "@NECFanzone",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "NL",
+        "originalText": "Weer een overwinning! Sano domineerde het middenveld tegen PEC Zwolle. Stabiel en betrouwbaar.",
+        "translatedText": "また勝利！佐野がPECズヴォレ戦で中盤を支配。安定して信頼できる。"
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kodai-20260120",
+    "playerId": "sano_kodai",
+    "ratings": [
+      { "source": "Voetbal International", "country": "オランダ", "rating": 6.8, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v037",
+        "username": "@KNVBCupWatch",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "NL",
+        "originalText": "NEC door naar de kwartfinale na winst bij De Treffers. Sano speelde 90 minuten in het bekerduel.",
+        "translatedText": "NECがデ・トレッファースに勝利して準々決勝進出。佐野はカップ戦で90分プレーした。"
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kodai-20260117",
+    "playerId": "sano_kodai",
+    "ratings": [
+      { "source": "Voetbal International", "country": "オランダ", "rating": 7.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "De Telegraaf", "country": "オランダ", "rating": 7.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.4, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.5,
+    "localVoices": [
+      {
+        "id": "v038",
+        "username": "@NECFanzone",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "NL",
+        "originalText": "Kodai Sano scoort bij NAC! Wat een wedstrijd, 7 doelpunten en NEC wint. Sano was belangrijk met zijn goal.",
+        "translatedText": "佐野航大がNAC戦でゴール！なんという試合だ、7ゴールが生まれNECが勝利。佐野のゴールは重要だった。"
+      },
+      {
+        "id": "v039",
+        "username": "@EredivisieWatch",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "NL",
+        "originalText": "Spectaculaire wedstrijd in Breda! NAC 3-4 NEC. Kodai Sano scoorde een cruciale goal. De Japanner blijft indruk maken.",
+        "translatedText": "ブレダでのスペクタクルな試合！NAC 3-4 NEC。佐野航大が決定的なゴールを決めた。この日本人選手は印象を与え続けている。"
+      }
+    ]
+  },
+
+  {
+    "matchId": "sano_kaishu-20260201",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      { "source": "kicker", "country": "ドイツ", "rating": 2.0, "maxRating": 6, "ratingSystem": "german" },
+      { "source": "Bild", "country": "ドイツ", "rating": 7.8, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.9, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.8,
+    "localVoices": [
+      {
+        "id": "v038",
+        "username": "@Mainz05Fan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Kaishu Sano war heute wieder herausragend! Eine Vorlage und das Mittelfeld komplett unter Kontrolle. Was für ein Spieler!",
+        "translatedText": "佐野海舟は今日も素晴らしかった！アシスト1つと中盤を完全にコントロール。なんという選手だ！"
+      },
+      {
+        "id": "v039",
+        "username": "@BundesligaTaktik",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "DE",
+        "originalText": "Sano dominiert das Mittelfeld gegen Freiburg. Der japanische Nationalspieler zeigt warum er einer der besten defensiven Mittelfeldspieler der Liga ist.",
+        "translatedText": "佐野がフライブルク戦で中盤を支配。この日本代表選手は、なぜ彼がリーグ最高の守備的MFの一人なのかを示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t009",
+        "username": "@Mainz05",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Sieg! Mainz 05 gewinnt 2:0 gegen Freiburg. Kaishu Sano mit einer Vorlage und einer dominanten Leistung im Mittelfeld! 🇯🇵",
+        "translatedText": "勝利！マインツ05がフライブルクに2-0で勝利。佐野海舟がアシストと中盤での支配的なパフォーマンス！🇯🇵",
+        "likes": 15600,
+        "retweets": 3200,
+        "replies": [
+          {
+            "id": "r018",
+            "username": "@BundesligaFanDE",
+            "languageCode": "DE",
+            "originalText": "Sano ist unser bester Spieler diese Saison. Absolut unverzichtbar im Mittelfeld.",
+            "translatedText": "佐野は今季我々の最高の選手だ。中盤で絶対に欠かせない。",
+            "likes": 1890
+          },
+          {
+            "id": "r019",
+            "username": "@JapanFootball_DE",
+            "languageCode": "DE",
+            "originalText": "Die japanischen Spieler in der Bundesliga liefern ab. Sano zeigt jede Woche Weltklasse-Leistungen.",
+            "translatedText": "ブンデスリーガの日本人選手たちは結果を出している。佐野は毎週ワールドクラスのパフォーマンスを見せている。",
+            "likes": 1450
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kaishu-20260125",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      { "source": "kicker", "country": "ドイツ", "rating": 2.5, "maxRating": 6, "ratingSystem": "german" },
+      { "source": "Bild", "country": "ドイツ", "rating": 7.0, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 7.1, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 7.0,
+    "localVoices": [
+      {
+        "id": "v040",
+        "username": "@Mainz05Fan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Unentschieden gegen Wolfsburg. Sano wie immer solide aber das Team konnte nicht den Sieg holen.",
+        "translatedText": "ヴォルフスブルクと引き分け。佐野はいつものように堅実だったが、チームは勝利を収められなかった。"
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kaishu-20260118",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      { "source": "kicker", "country": "ドイツ", "rating": 3.5, "maxRating": 6, "ratingSystem": "german" },
+      { "source": "Bild", "country": "ドイツ", "rating": 6.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 6.4, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 6.5,
+    "localVoices": [
+      {
+        "id": "v041",
+        "username": "@BayernMunichFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Mainz war zäh aber am Ende haben wir verdient gewonnen. Sano war ihr bester Spieler, hat uns viel Arbeit gemacht.",
+        "translatedText": "マインツは粘り強かったが、最終的に我々が当然の勝利を収めた。佐野は彼らの最高の選手で、我々に多くの仕事を強いた。"
+      }
+    ]
+  },
+  {
+    "matchId": "sano_kaishu-20260112",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      { "source": "kicker", "country": "ドイツ", "rating": 1.5, "maxRating": 6, "ratingSystem": "german" },
+      { "source": "Bild", "country": "ドイツ", "rating": 8.5, "maxRating": 10, "ratingSystem": "standard" },
+      { "source": "WhoScored", "country": "イングランド", "rating": 8.2, "maxRating": 10, "ratingSystem": "standard" }
+    ],
+    "averageRating": 8.2,
+    "localVoices": [
+      {
+        "id": "v042",
+        "username": "@Mainz05Fan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "KAISHU SANO TRIFFT! Ein Traumtor gegen Bochum! Der defensive Mittelfeldspieler mit einem Schuss aus 20 Metern direkt in den Winkel!",
+        "translatedText": "佐野海舟がゴール！ボーフム戦で夢のようなゴール！この守備的MFが20メートルから直接コーナーにシュート！"
+      },
+      {
+        "id": "v043",
+        "username": "@KickerDE",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "DE",
+        "originalText": "Sano zeigt gegen Bochum dass er nicht nur ein defensiver Stabilisator ist. Das Traumtor krönt eine perfekte Leistung. Mainz dominiert 3:0.",
+        "translatedText": "佐野はボーフム戦で、彼が守備の安定剤だけでなないことを示した。この夢のようなゴールが完璧なパフォーマンスを締めくくった。マインツが3-0で完勝。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t010",
+        "username": "@Mainz05",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "TOOOOOR! Kaishu Sano mit einem TRAUMTOR aus der Distanz! 2:0 für Mainz 05! Was für ein Schuss! 🚀🇯🇵",
+        "translatedText": "ゴーーール！佐野海舟が遠距離から夢のようなゴール！マインツ05が2-0！なんというシュートだ！🚀🇯🇵",
+        "likes": 28500,
+        "retweets": 7800,
+        "replies": [
+          {
+            "id": "r020",
+            "username": "@BundesligaFanatic",
+            "languageCode": "DE",
+            "originalText": "Sano ist unglaublich. Ein defensiver Mittelfeldspieler der so schießen kann? Mainz hat da einen Diamanten.",
+            "translatedText": "佐野は信じられない。こんなシュートが打てる守備的MF？マインツはダイヤモンドを持っている。",
+            "likes": 3450
+          },
+          {
+            "id": "r021",
+            "username": "@FootballDaily_DE",
+            "languageCode": "EN",
+            "originalText": "Kaishu Sano goal of the month candidate. The technique, the power, the placement. Absolutely stunning.",
+            "translatedText": "佐野海舟は月間ベストゴール候補。テクニック、パワー、コース。本当に見事だ。",
+            "likes": 2890
+          }
+        ]
+      }
+    ]
+  }
+]
