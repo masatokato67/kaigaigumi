@@ -4,14 +4,14 @@ import MatchResultCard from "@/components/top/MatchResultCard";
 import FeaturedPlayerCard from "@/components/top/FeaturedPlayerCard";
 import SeasonStatsSummary from "@/components/top/SeasonStatsSummary";
 import {
-  getNotableMatches,
+  getRecentMatches,
   getFeaturedPlayers,
   getSeasonAggregateStats,
   getPlayerById,
 } from "@/lib/data";
 
 export default function Home() {
-  const notableMatches = getNotableMatches();
+  const recentMatches = getRecentMatches(10);
   const featuredPlayers = getFeaturedPlayers();
   const seasonStats = getSeasonAggregateStats();
 
@@ -19,7 +19,7 @@ export default function Home() {
     <div>
       <HeroSection />
 
-      {/* Notable Match Results */}
+      {/* Recent Match Results */}
       <section className="max-w-6xl mx-auto px-4 py-12">
         <div className="flex items-center gap-2 mb-6">
           <div className="w-1 h-8 bg-red-600 rounded" />
@@ -27,11 +27,11 @@ export default function Home() {
             <p className="text-red-500 text-xs font-medium tracking-wider">
               RESULTS
             </p>
-            <h2 className="text-xl font-bold">注目の試合結果</h2>
+            <h2 className="text-xl font-bold">最新の試合結果</h2>
           </div>
         </div>
         <div className="flex gap-4 overflow-x-auto scrollbar-hide pb-4">
-          {notableMatches.map((match) => {
+          {recentMatches.map((match) => {
             const player = getPlayerById(match.playerId);
             if (!player) return null;
             return (

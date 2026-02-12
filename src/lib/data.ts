@@ -75,6 +75,12 @@ export function getNotableMatches(): Match[] {
     .sort((a, b) => b.date.localeCompare(a.date));
 }
 
+export function getRecentMatches(limit: number = 10): Match[] {
+  return matches
+    .sort((a, b) => b.date.localeCompare(a.date))
+    .slice(0, limit);
+}
+
 export function getFeaturedPlayers(): Player[] {
   return players.filter((p) => p.featured);
 }
