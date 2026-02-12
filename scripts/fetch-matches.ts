@@ -1,9 +1,8 @@
 /**
- * Transfermarktから試合データを取得するスクリプト
+ * FotMob APIから試合データを取得するスクリプト
  * GitHub Actionsで定期実行される
  */
 
-import * as cheerio from "cheerio";
 import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
 
@@ -13,9 +12,8 @@ const PLAYERS_FILE = join(DATA_DIR, "players.json");
 const MATCHES_FILE = join(DATA_DIR, "matches.json");
 
 // 型定義
-interface TransfermarktInfo {
+interface FotMobInfo {
   playerId: string;
-  slug: string;
 }
 
 interface Player {
@@ -23,7 +21,7 @@ interface Player {
   name: { ja: string; en: string };
   club: { name: string; shortName: string };
   league: { name: string; shortName: string; country: string };
-  transfermarkt?: TransfermarktInfo;
+  fotmob?: FotMobInfo;
   position: string;
 }
 
@@ -45,18 +43,34 @@ interface Match {
   notable: boolean;
 }
 
-interface ParsedMatch {
-  date: string;
-  homeTeam: string;
-  awayTeam: string;
+// FotMob APIのレスポンス型
+interface FotMobMatch {
+  matchDate: {
+    utcTime: string;
+  };
+  opponentTeamId: number;
+  opponentTeamName: string;
   homeScore: number;
   awayScore: number;
-  position: string;
+  isHomeTeam: boolean;
   minutesPlayed: number;
   goals: number;
   assists: number;
-  starting: boolean;
-  competition: string;
+  yellowCards: number;
+  redCards: number;
+  ratingProps?: {
+    rating?: string;
+    isTopRating?: boolean;
+  };
+  playerOfTheMatch?: boolean;
+  onBench?: boolean;
+  leagueId?: number;
+  leagueName?: string;
+}
+
+interface FotMobPlayerData {
+  name: string;
+  recentMatches?: FotMobMatch[];
 }
 
 // リーグ名のマッピング（英語→日本語）
@@ -81,10 +95,9 @@ const LEAGUE_NAME_MAP: Record<string, string> = {
   "Copa del Rey": "コパ・デル・レイ",
   "KNVB Beker": "KNVBカップ",
   "KNVB Cup": "KNVBカップ",
-  "UECL Qualifiers": "カンファレンスリーグ予選",
 };
 
-// チーム名のマッピング（一般的なチーム名→日本語表記）
+// チーム名のマッピング（英語→日本語表記）
 const TEAM_NAME_MAP: Record<string, string> = {
   "Brighton": "ブライトン",
   "Brighton & Hove Albion": "ブライトン",
@@ -92,10 +105,11 @@ const TEAM_NAME_MAP: Record<string, string> = {
   "Manchester City": "マンチェスター・C",
   "Man City": "マンチェスター・C",
   "Manchester United": "マンチェスター・U",
-  "Man United": "マンチェスター・U",
+  "Man Utd": "マンチェスター・U",
   "Arsenal": "アーセナル",
   "Chelsea": "チェルシー",
   "Tottenham": "トッテナム",
+  "Tottenham Hotspur": "トッテナム",
   "Everton": "エヴァートン",
   "Crystal Palace": "クリスタルパレス",
   "Real Sociedad": "レアル・ソシエダ",
@@ -123,53 +137,56 @@ const TEAM_NAME_MAP: Record<string, string> = {
   "Bayer Leverkusen": "レバークーゼン",
   "Werder Bremen": "ブレーメン",
   "Frankfurt": "フランクフルト",
+  "Eintracht Frankfurt": "フランクフルト",
   "Hoffenheim": "ホッフェンハイム",
   "Mönchengladbach": "グラードバッハ",
+  "Borussia Mönchengladbach": "グラードバッハ",
   "Union Berlin": "ウニオン・ベルリン",
   "Heidenheim": "ハイデンハイム",
   "St. Pauli": "ザンクト・パウリ",
-  "1.FC Köln": "ケルン",
   "Köln": "ケルン",
-  "Hamburg": "ハンブルク",
+  "1. FC Köln": "ケルン",
   "AZ Alkmaar": "AZアルクマール",
   "AZ": "AZアルクマール",
   "PSV": "PSV",
   "PSV Eindhoven": "PSV",
   "Feyenoord": "フェイエノールト",
-  "PEC Zwolle": "PECズヴォレ",
-  "NAC Breda": "NACブレダ",
-  "FC Volendam": "フォレンダム",
-  "Heracles Almelo": "ヘラクレス",
-  "Twente FC": "トゥエンテ",
-  "FC Groningen": "フローニンゲン",
-  "Fortuna Sittard": "フォルトゥナ",
-  "Go Ahead Eagles": "ゴー・アヘッド",
-  "Utrecht": "ユトレヒト",
-  "Heerenveen": "ヘーレンフェーン",
-  "Sparta R.": "スパルタ",
-  "Excelsior": "エクセルシオール",
+  "Fulham": "フラム",
+  "Bournemouth": "ボーンマス",
+  "Brentford": "ブレントフォード",
+  "Newcastle": "ニューカッスル",
+  "Newcastle United": "ニューカッスル",
+  "Leeds": "リーズ",
+  "Leeds United": "リーズ",
+  "West Ham": "ウェストハム",
+  "West Ham United": "ウェストハム",
+  "Aston Villa": "アストン・ヴィラ",
+  "Nottingham Forest": "ノッティンガム・F",
+  "Nott'm Forest": "ノッティンガム・F",
+  "Wolves": "ウルヴス",
+  "Wolverhampton": "ウルヴス",
+  "Sunderland": "サンダーランド",
+  "Burnley": "バーンリー",
+  "Oxford United": "オックスフォード",
+  "Barnsley": "バーンズリー",
 };
 
 /**
- * チーム名を日本語表記に変換（順位情報を除去）
+ * チーム名を日本語表記に変換
  */
 function translateTeamName(name: string): string {
-  // 順位情報を除去 (例: "Mainz (18.)" -> "Mainz")
-  const cleanName = name.replace(/\s*\(\d+\.?\)$/g, "").trim();
-
-  // 完全一致を試す
-  if (TEAM_NAME_MAP[cleanName]) {
-    return TEAM_NAME_MAP[cleanName];
+  if (TEAM_NAME_MAP[name]) {
+    return TEAM_NAME_MAP[name];
   }
 
   // 部分一致を試す
   for (const [key, value] of Object.entries(TEAM_NAME_MAP)) {
-    if (cleanName.includes(key) || key.includes(cleanName)) {
+    if (name.includes(key) || key.includes(name)) {
       return value;
     }
   }
 
-  return cleanName;
+  return name;
 }
 
 /**
@@ -190,22 +207,16 @@ function translateLeagueName(name: string): string {
 }
 
 /**
- * Transfermarktから選手の試合データを取得
+ * FotMob APIから選手の試合データを取得
  */
-async function fetchPlayerMatches(player: Player): Promise<ParsedMatch[]> {
-  if (!player.transfermarkt) {
-    console.log(`  [SKIP] ${player.name.ja}: Transfermarkt情報がありません`);
+async function fetchPlayerMatches(player: Player): Promise<Match[]> {
+  if (!player.fotmob) {
+    console.log(`  [SKIP] ${player.name.ja}: FotMob情報がありません`);
     return [];
   }
 
-  const { playerId, slug } = player.transfermarkt;
-  const now = new Date();
-  const currentYear = now.getFullYear();
-  const currentMonth = now.getMonth() + 1;
-  // シーズンは8月以降なら今年、1-7月なら前年
-  const season = currentMonth >= 8 ? currentYear : currentYear - 1;
-
-  const url = `https://www.transfermarkt.us/${slug}/leistungsdaten/spieler/${playerId}/saison/${season}/plus/1`;
+  const { playerId } = player.fotmob;
+  const url = `https://www.fotmob.com/api/playerData?id=${playerId}`;
 
   console.log(`  [FETCH] ${player.name.ja}: ${url}`);
 
@@ -213,8 +224,7 @@ async function fetchPlayerMatches(player: Player): Promise<ParsedMatch[]> {
     const response = await fetch(url, {
       headers: {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5",
+        "Accept": "application/json",
       },
     });
 
@@ -223,172 +233,75 @@ async function fetchPlayerMatches(player: Player): Promise<ParsedMatch[]> {
       return [];
     }
 
-    const html = await response.text();
-    const $ = cheerio.load(html);
-    const matches: ParsedMatch[] = [];
+    const data: FotMobPlayerData = await response.json();
 
-    // 各大会セクションを処理
-    const competitionSections = $("div.box");
+    if (!data.recentMatches || data.recentMatches.length === 0) {
+      console.log(`  [INFO] 試合データがありません`);
+      return [];
+    }
 
-    competitionSections.each((_, section) => {
-      const $section = $(section);
-      const headerText = $section.find("h2, .table-header").text();
+    const matches: Match[] = [];
 
-      // 大会名を判定
-      let competition = player.league.shortName;
-      if (headerText.includes("Bundesliga")) competition = "ブンデスリーガ";
-      else if (headerText.includes("Premier League")) competition = "プレミアリーグ";
-      else if (headerText.includes("La Liga") || headerText.includes("LaLiga")) competition = "ラ・リーガ";
-      else if (headerText.includes("Eredivisie")) competition = "エールディヴィジ";
-      else if (headerText.includes("Conference League")) competition = "カンファレンスリーグ";
-      else if (headerText.includes("Champions League")) competition = "チャンピオンズリーグ";
-      else if (headerText.includes("Europa League")) competition = "ヨーロッパリーグ";
-      else if (headerText.includes("DFB-Pokal")) competition = "DFBポカール";
-      else if (headerText.includes("FA Cup")) competition = "FAカップ";
-      else if (headerText.includes("KNVB")) competition = "KNVBカップ";
-      else if (headerText.includes("Copa del Rey")) competition = "コパ・デル・レイ";
+    for (const fm of data.recentMatches) {
+      // 出場していない試合はスキップ
+      if (fm.minutesPlayed === 0 || fm.minutesPlayed === undefined) {
+        continue;
+      }
 
-      // テーブル内の試合データを取得
-      const $table = $section.find("table.items");
-      $table.find("tbody tr").each((_, row) => {
-        try {
-          const $row = $(row);
-          const cells = $row.find("td");
-          if (cells.length < 5) return;
+      // 日付をパース
+      const matchDate = new Date(fm.matchDate.utcTime);
+      const dateStr = matchDate.toISOString().split("T")[0];
 
-          // 日付を取得（2列目）
-          const dateCell = cells.eq(1);
-          const dateLinks = dateCell.find("a");
-          let dateText = "";
-          if (dateLinks.length > 0) {
-            dateText = dateLinks.text().trim();
-          } else {
-            dateText = dateCell.text().trim();
-          }
+      // matchIdを生成
+      const matchId = `${player.id}-${dateStr.replace(/-/g, "")}`;
 
-          if (!dateText) return;
+      // チーム名を取得
+      const opponentName = translateTeamName(fm.opponentTeamName || "Unknown");
+      const playerTeamName = player.club.shortName;
 
-          const parsedDate = parseDate(dateText);
-          if (!parsedDate) return;
+      // ホーム/アウェイを判定
+      const homeTeam = fm.isHomeTeam ? playerTeamName : opponentName;
+      const awayTeam = fm.isHomeTeam ? opponentName : playerTeamName;
+      const homeScore = fm.homeScore;
+      const awayScore = fm.awayScore;
 
-          // ホーム/アウェイチーム（4列目、5列目あたり）
-          // Transfermarktの構造: 試合セル内にホームとアウェイがある
-          let homeTeam = "";
-          let awayTeam = "";
-          let homeScore = 0;
-          let awayScore = 0;
+      // レーティングを取得
+      let rating = 6.5;
+      if (fm.ratingProps?.rating) {
+        rating = parseFloat(fm.ratingProps.rating);
+      }
 
-          // 結果セルを探す
-          cells.each((i, cell) => {
-            const $cell = $(cell);
-            const text = $cell.text().trim();
+      // 大会名
+      const competition = translateLeagueName(fm.leagueName || player.league.shortName);
 
-            // スコアパターン (例: "2:0", "1:1")
-            const scoreMatch = text.match(/^(\d+):(\d+)$/);
-            if (scoreMatch) {
-              homeScore = parseInt(scoreMatch[1], 10);
-              awayScore = parseInt(scoreMatch[2], 10);
-            }
-          });
+      // notableかどうか判定
+      const isNotable = fm.goals > 0 || fm.assists >= 2 || fm.playerOfTheMatch === true;
 
-          // チーム名を取得
-          const teamLinks = $row.find("td a[href*='/spielbericht/']").parent().find("a");
-          const allLinks = $row.find("a");
-          allLinks.each((i, link) => {
-            const href = $(link).attr("href") || "";
-            if (href.includes("/startseite/verein/") || href.includes("/spielplan/verein/")) {
-              const teamText = $(link).text().trim();
-              if (teamText && !teamText.match(/^\d/)) {
-                if (!homeTeam) {
-                  homeTeam = teamText;
-                } else if (!awayTeam && teamText !== homeTeam) {
-                  awayTeam = teamText;
-                }
-              }
-            }
-          });
+      const match: Match = {
+        matchId,
+        playerId: player.id,
+        date: dateStr,
+        competition,
+        homeTeam: {
+          name: homeTeam,
+          score: homeScore,
+        },
+        awayTeam: {
+          name: awayTeam,
+          score: awayScore,
+        },
+        playerStats: {
+          minutesPlayed: fm.minutesPlayed,
+          goals: fm.goals || 0,
+          assists: fm.assists || 0,
+          starting: !fm.onBench,
+          position: player.position,
+          rating: isNaN(rating) ? 6.5 : rating,
+        },
+        notable: isNotable,
+      };
 
-          // チーム名が取れなかった場合は行のテキストからパース
-          if (!homeTeam || !awayTeam) {
-            const rowText = $row.text();
-            // パターン: "Team1 (pos.) Team2 (pos.) X:Y"
-            const teamMatch = rowText.match(/([A-Za-z\s\.]+?)(?:\s*\(\d+\.?\))?\s+([A-Za-z\s\.]+?)(?:\s*\(\d+\.?\))?\s+(\d+):(\d+)/);
-            if (teamMatch) {
-              homeTeam = teamMatch[1].trim();
-              awayTeam = teamMatch[2].trim();
-              homeScore = parseInt(teamMatch[3], 10);
-              awayScore = parseInt(teamMatch[4], 10);
-            }
-          }
-
-          if (!homeTeam || !awayTeam) return;
-
-          // ポジションを取得
-          let position = player.position;
-          cells.each((i, cell) => {
-            const text = $(cell).text().trim();
-            if (text.match(/^(GK|SW|CB|LB|RB|LWB|RWB|DM|CM|AM|LM|RM|LW|RW|CF|SS|ST)$/)) {
-              position = text;
-            }
-          });
-
-          // 出場時間を取得（最後のセルに "'XX'" のパターン）
-          let minutesPlayed = 0;
-          const lastCells = cells.slice(-3);
-          lastCells.each((i, cell) => {
-            const text = $(cell).text().trim();
-            const minutesMatch = text.match(/(\d+)'/);
-            if (minutesMatch) {
-              minutesPlayed = parseInt(minutesMatch[1], 10);
-            }
-          });
-
-          // ゴール・アシストを取得
-          let goals = 0;
-          let assists = 0;
-          const rowHtml = $row.html() || "";
-
-          // ゴールアイコンを探す
-          const goalIcons = $row.find(".icon-tor-symbol, .icons-tor");
-          if (goalIcons.length > 0) {
-            // アイコンの前後のテキストからゴール数を取得
-            const goalCell = goalIcons.closest("td");
-            const goalText = goalCell.text().trim();
-            const goalNum = parseInt(goalText, 10);
-            if (!isNaN(goalNum)) {
-              goals = goalNum;
-            } else {
-              goals = goalIcons.length; // アイコンの数をカウント
-            }
-          }
-
-          // 先発/途中出場を判定
-          const starting = $row.find(".icon-startelf").length > 0 || minutesPlayed >= 60;
-
-          matches.push({
-            date: parsedDate,
-            homeTeam,
-            awayTeam,
-            homeScore,
-            awayScore,
-            position,
-            minutesPlayed,
-            goals,
-            assists,
-            starting,
-            competition,
-          });
-        } catch (e) {
-          // 行のパースに失敗した場合はスキップ
-        }
-      });
-    });
-
-    // テーブルからデータが取れなかった場合、テキストベースでパース
-    if (matches.length === 0) {
-      console.log(`  [INFO] テーブルパース失敗、テキストベースでパース試行...`);
-      const textMatches = parseMatchesFromText(html, player);
-      matches.push(...textMatches);
+      matches.push(match);
     }
 
     console.log(`  [SUCCESS] ${matches.length}件の試合を取得`);
@@ -400,141 +313,10 @@ async function fetchPlayerMatches(player: Player): Promise<ParsedMatch[]> {
 }
 
 /**
- * HTMLテキストから試合データをパース（フォールバック）
- */
-function parseMatchesFromText(html: string, player: Player): ParsedMatch[] {
-  const matches: ParsedMatch[] = [];
-  const $ = cheerio.load(html);
-
-  // ページ全体のテキストを取得
-  const pageText = $("body").text();
-
-  // Bundesliga / Eredivisie などのセクションを探す
-  const leaguePatterns = [
-    { pattern: /Bundesliga[\s\S]*?Squad:/g, competition: "ブンデスリーガ" },
-    { pattern: /Eredivisie[\s\S]*?Squad:/g, competition: "エールディヴィジ" },
-    { pattern: /Premier League[\s\S]*?Squad:/g, competition: "プレミアリーグ" },
-    { pattern: /La Liga[\s\S]*?Squad:/g, competition: "ラ・リーガ" },
-    { pattern: /Conference League[\s\S]*?Squad:/g, competition: "カンファレンスリーグ" },
-    { pattern: /KNVB[\s\S]*?Squad:/g, competition: "KNVBカップ" },
-    { pattern: /DFB-Pokal[\s\S]*?Squad:/g, competition: "DFBポカール" },
-  ];
-
-  for (const { pattern, competition } of leaguePatterns) {
-    const sectionMatches = pageText.match(pattern);
-    if (!sectionMatches) continue;
-
-    for (const section of sectionMatches) {
-      // 日付とスコアのパターンを探す
-      // パターン例: "Feb 7, 2026 Mainz (16.) Augsburg (11.) 2:0 DM 3.0 90'"
-      const matchPattern = /(\w{3}\s+\d{1,2},\s+\d{4})\s+([A-Za-z\s\.\-0-9]+?)\s*(?:\(\d+\.?\))?\s+([A-Za-z\s\.\-0-9]+?)\s*(?:\(\d+\.?\))?\s+(\d+):(\d+)\s+(GK|SW|CB|LB|RB|LWB|RWB|DM|CM|AM|LM|RM|LW|RW|CF|SS|ST)?\s*[\d\.]*\s*(\d+)?'/g;
-
-      let match;
-      while ((match = matchPattern.exec(section)) !== null) {
-        const parsedDate = parseDate(match[1]);
-        if (!parsedDate) continue;
-
-        const homeTeam = match[2].trim();
-        const awayTeam = match[3].trim();
-        const homeScore = parseInt(match[4], 10);
-        const awayScore = parseInt(match[5], 10);
-        const position = match[6] || player.position;
-        const minutesPlayed = match[7] ? parseInt(match[7], 10) : 90;
-
-        matches.push({
-          date: parsedDate,
-          homeTeam,
-          awayTeam,
-          homeScore,
-          awayScore,
-          position,
-          minutesPlayed,
-          goals: 0,
-          assists: 0,
-          starting: minutesPlayed >= 60,
-          competition,
-        });
-      }
-    }
-  }
-
-  return matches;
-}
-
-/**
- * 日付文字列をYYYY-MM-DD形式にパース
- */
-function parseDate(dateText: string): string | null {
-  // フォーマット1: "Feb 8, 2026"
-  const format1 = dateText.match(/([A-Za-z]+)\s+(\d{1,2}),\s+(\d{4})/);
-  if (format1) {
-    const months: Record<string, string> = {
-      Jan: "01", Feb: "02", Mar: "03", Apr: "04", May: "05", Jun: "06",
-      Jul: "07", Aug: "08", Sep: "09", Oct: "10", Nov: "11", Dec: "12",
-    };
-    const month = months[format1[1]];
-    const day = format1[2].padStart(2, "0");
-    const year = format1[3];
-    if (month) {
-      return `${year}-${month}-${day}`;
-    }
-  }
-
-  // フォーマット2: "08.02.2026" (DD.MM.YYYY)
-  const format2 = dateText.match(/(\d{2})\.(\d{2})\.(\d{4})/);
-  if (format2) {
-    return `${format2[3]}-${format2[2]}-${format2[1]}`;
-  }
-
-  // フォーマット3: "2026-02-08" (YYYY-MM-DD)
-  const format3 = dateText.match(/(\d{4})-(\d{2})-(\d{2})/);
-  if (format3) {
-    return dateText;
-  }
-
-  // フォーマット4: "8/2/26" (M/D/YY)
-  const format4 = dateText.match(/(\d{1,2})\/(\d{1,2})\/(\d{2})/);
-  if (format4) {
-    const year = parseInt(format4[3], 10) + 2000;
-    const month = format4[1].padStart(2, "0");
-    const day = format4[2].padStart(2, "0");
-    return `${year}-${month}-${day}`;
-  }
-
-  return null;
-}
-
-/**
- * 試合がnotableかどうかを判定
- */
-function isNotableMatch(match: ParsedMatch, player: Player): boolean {
-  // ゴールを決めた
-  if (match.goals > 0) return true;
-
-  // 2アシスト以上
-  if (match.assists >= 2) return true;
-
-  // 勝利の試合で長時間出場
-  const playerClubShort = player.club.shortName.toLowerCase();
-  const homeTeamNormalized = translateTeamName(match.homeTeam).toLowerCase();
-  const awayTeamNormalized = translateTeamName(match.awayTeam).toLowerCase();
-
-  const isHomeTeam = homeTeamNormalized.includes(playerClubShort) || playerClubShort.includes(homeTeamNormalized);
-  const isAwayTeam = awayTeamNormalized.includes(playerClubShort) || playerClubShort.includes(awayTeamNormalized);
-
-  const isWin = (isHomeTeam && match.homeScore > match.awayScore) ||
-                (isAwayTeam && match.awayScore > match.homeScore);
-
-  if (isWin && match.minutesPlayed >= 80) return true;
-
-  return false;
-}
-
-/**
  * メイン処理
  */
 async function main() {
-  console.log("=== 試合データ自動取得スクリプト ===\n");
+  console.log("=== 試合データ自動取得スクリプト (FotMob API) ===\n");
 
   // データファイルを読み込み
   const players: Player[] = JSON.parse(readFileSync(PLAYERS_FILE, "utf-8"));
@@ -551,45 +333,19 @@ async function main() {
 
     const fetchedMatches = await fetchPlayerMatches(player);
 
-    for (const fm of fetchedMatches) {
-      const matchId = `${player.id}-${fm.date.replace(/-/g, "")}`;
-
-      if (existingMatchIds.has(matchId)) {
+    for (const match of fetchedMatches) {
+      if (existingMatchIds.has(match.matchId)) {
         continue; // 既存の試合はスキップ
       }
 
-      const match: Match = {
-        matchId,
-        playerId: player.id,
-        date: fm.date,
-        competition: fm.competition || player.league.shortName,
-        homeTeam: {
-          name: translateTeamName(fm.homeTeam),
-          score: fm.homeScore,
-        },
-        awayTeam: {
-          name: translateTeamName(fm.awayTeam),
-          score: fm.awayScore,
-        },
-        playerStats: {
-          minutesPlayed: fm.minutesPlayed,
-          goals: fm.goals,
-          assists: fm.assists,
-          starting: fm.starting,
-          position: fm.position || player.position,
-          rating: 6.5, // デフォルト値
-        },
-        notable: isNotableMatch(fm, player),
-      };
-
       newMatches.push(match);
-      existingMatchIds.add(matchId);
+      existingMatchIds.add(match.matchId);
       newMatchCount++;
       console.log(`  [NEW] ${match.date}: ${match.homeTeam.name} ${match.homeTeam.score}-${match.awayTeam.score} ${match.awayTeam.name}`);
     }
 
     // レート制限を避けるため少し待つ
-    await new Promise((resolve) => setTimeout(resolve, 1500));
+    await new Promise((resolve) => setTimeout(resolve, 1000));
   }
 
   if (newMatchCount > 0) {

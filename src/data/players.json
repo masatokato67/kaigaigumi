@@ -21,16 +21,19 @@
     "marketValue": "€40M",
     "caps": 32,
     "transfermarkt": {
-      "playerId": "536819",
+      "playerId": "504849",
       "slug": "kaoru-mitoma"
+    },
+    "fotmob": {
+      "playerId": "862608"
     },
     "seasonStats": {
       "season": "2025-26",
-      "goals": 1,
-      "assists": 0,
-      "appearances": 5,
-      "minutesPlayed": 417,
-      "averageRating": 6.7
+      "goals": 8,
+      "assists": 2,
+      "appearances": 40,
+      "minutesPlayed": 2768,
+      "averageRating": 6.5
     },
     "featured": true
   },
@@ -56,16 +59,19 @@
     "marketValue": "€55M",
     "caps": 45,
     "transfermarkt": {
-      "playerId": "435338",
+      "playerId": "405398",
       "slug": "takefusa-kubo"
+    },
+    "fotmob": {
+      "playerId": "848289"
     },
     "seasonStats": {
       "season": "2025-26",
-      "goals": 1,
-      "assists": 3,
-      "appearances": 4,
-      "minutesPlayed": 331,
-      "averageRating": 7.7
+      "goals": 8,
+      "assists": 12,
+      "appearances": 52,
+      "minutesPlayed": 3747,
+      "averageRating": 6.7
     },
     "featured": true
   },
@@ -91,8 +97,11 @@
     "marketValue": "€15M",
     "caps": 30,
     "transfermarkt": {
-      "playerId": "340098",
+      "playerId": "331560",
       "slug": "takehiro-tomiyasu"
+    },
+    "fotmob": {
+      "playerId": "664444"
     },
     "seasonStats": {
       "season": "2025-26",
@@ -126,16 +135,19 @@
     "marketValue": "€18M",
     "caps": 29,
     "transfermarkt": {
-      "playerId": "292738",
+      "playerId": "356141",
       "slug": "daichi-kamada"
+    },
+    "fotmob": {
+      "playerId": "621515"
     },
     "seasonStats": {
       "season": "2025-26",
-      "goals": 0,
-      "assists": 1,
-      "appearances": 4,
-      "minutesPlayed": 321,
-      "averageRating": 7.2
+      "goals": 4,
+      "assists": 3,
+      "appearances": 57,
+      "minutesPlayed": 3508,
+      "averageRating": 6.5
     },
     "featured": false
   },
@@ -161,16 +173,19 @@
     "marketValue": "€18M",
     "caps": 62,
     "transfermarkt": {
-      "playerId": "124757",
+      "playerId": "146310",
       "slug": "wataru-endo"
+    },
+    "fotmob": {
+      "playerId": "202643"
     },
     "seasonStats": {
       "season": "2025-26",
       "goals": 0,
-      "assists": 1,
-      "appearances": 3,
-      "minutesPlayed": 206,
-      "averageRating": 6.4
+      "assists": 2,
+      "appearances": 33,
+      "minutesPlayed": 1286,
+      "averageRating": 5.9
     },
     "featured": false
   },
@@ -196,16 +211,19 @@
     "marketValue": "€10M",
     "caps": 0,
     "transfermarkt": {
-      "playerId": "684880",
+      "playerId": "1144627",
       "slug": "kento-shiogai"
+    },
+    "fotmob": {
+      "playerId": "1611223"
     },
     "seasonStats": {
       "season": "2025-26",
-      "goals": 0,
+      "goals": 12,
       "assists": 0,
-      "appearances": 2,
-      "minutesPlayed": 51,
-      "averageRating": 6.3
+      "appearances": 32,
+      "minutesPlayed": 1139,
+      "averageRating": 6.2
     },
     "featured": false
   },
@@ -234,13 +252,16 @@
       "playerId": "957544",
       "slug": "kodai-sano"
     },
+    "fotmob": {
+      "playerId": "1337282"
+    },
     "seasonStats": {
       "season": "2025-26",
-      "goals": 1,
-      "assists": 1,
-      "appearances": 3,
-      "minutesPlayed": 270,
-      "averageRating": 7.2
+      "goals": 5,
+      "assists": 6,
+      "appearances": 35,
+      "minutesPlayed": 2998,
+      "averageRating": 7.1
     },
     "featured": false
   },
@@ -269,13 +290,16 @@
       "playerId": "643574",
       "slug": "kaishu-sano"
     },
+    "fotmob": {
+      "playerId": "1033111"
+    },
     "seasonStats": {
       "season": "2025-26",
       "goals": 1,
-      "assists": 1,
-      "appearances": 4,
-      "minutesPlayed": 360,
-      "averageRating": 7.4
+      "assists": 4,
+      "appearances": 51,
+      "minutesPlayed": 4338,
+      "averageRating": 6.8
     },
     "featured": false
   }

@@ -40,7 +40,7 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch new matches from Transfermarkt
+      - name: Fetch new matches from FotMob API
         run: npx tsx scripts/fetch-matches.ts
         env:
           NODE_ENV: production
