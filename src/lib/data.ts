@@ -1,11 +1,13 @@
 import playersData from "@/data/players.json";
 import matchesData from "@/data/matches.json";
 import mediaRatingsData from "@/data/media-ratings.json";
-import type { Player, Match, MatchMediaData, PlayerFilters } from "./types";
+import highlightVideosData from "@/data/highlight-videos.json";
+import type { Player, Match, MatchMediaData, PlayerFilters, HighlightVideo } from "./types";
 
 const players = playersData as Player[];
 const matches = matchesData as Match[];
 const mediaRatings = mediaRatingsData as MatchMediaData[];
+const highlightVideos = highlightVideosData as Record<string, HighlightVideo>;
 
 export function getAllPlayers(): Player[] {
   return players;
@@ -95,4 +97,14 @@ export function getSeasonAggregateStats() {
       0
     ),
   };
+}
+
+export function getHighlightVideoByMatchId(
+  matchId: string
+): HighlightVideo | undefined {
+  const video = highlightVideos[matchId];
+  if (video && video.enabled && video.youtubeId) {
+    return video;
+  }
+  return undefined;
 }

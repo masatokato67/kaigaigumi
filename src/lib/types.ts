@@ -54,10 +54,10 @@ export interface Match {
     rating: number;
   };
   notable: boolean;
-  highlightVideo?: HighlightVideo;
 }
 
 export interface HighlightVideo {
+  enabled: boolean;
   youtubeId: string;
   title: string;
 }

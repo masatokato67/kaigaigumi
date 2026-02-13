@@ -9,6 +9,7 @@ import {
   getPlayerById,
   getMatchById,
   getMediaRatingsByMatchId,
+  getHighlightVideoByMatchId,
 } from "@/lib/data";
 
 export async function generateMetadata({
@@ -35,6 +36,7 @@ export default async function MatchDetailPage({
   const player = getPlayerById(id);
   const match = getMatchById(matchId);
   const mediaData = getMediaRatingsByMatchId(matchId);
+  const highlightVideo = getHighlightVideoByMatchId(matchId);
 
   if (!player || !match) notFound();
 
@@ -50,9 +52,9 @@ export default async function MatchDetailPage({
         averageRating={averageRating}
       />
 
-      {match.highlightVideo && (
+      {highlightVideo && (
         <div className="mt-8">
-          <HighlightVideo video={match.highlightVideo} />
+          <HighlightVideo video={highlightVideo} />
         </div>
       )}
 
