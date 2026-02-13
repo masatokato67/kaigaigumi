@@ -5,7 +5,7 @@ import { getFilteredPlayers } from "@/lib/data";
 import type { LeagueFilter, PositionFilter, SortField, SortOrder } from "@/lib/types";
 
 export const metadata = {
-  title: "選手一覧 | 海外組トラッカー",
+  title: "選手一覧 | 海外組サカレポ",
   description: "海外でプレーする日本人選手を詳しく見る",
 };
 

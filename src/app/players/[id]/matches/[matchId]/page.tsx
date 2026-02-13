@@ -22,7 +22,7 @@ export async function generateMetadata({
   const match = getMatchById(matchId);
   if (!player || !match) return { title: "試合が見つかりません" };
   return {
-    title: `${player.name.ja} vs ${match.homeTeam.name === player.club.shortName ? match.awayTeam.name : match.homeTeam.name} | 海外組トラッカー`,
+    title: `${player.name.ja} vs ${match.homeTeam.name === player.club.shortName ? match.awayTeam.name : match.homeTeam.name} | 海外組サカレポ`,
     description: `${match.date} ${match.competition} - ${player.name.ja}の試合詳細`,
   };
 }

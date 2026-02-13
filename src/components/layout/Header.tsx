@@ -18,12 +18,12 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Image
             src="/images/logo.png"
-            alt="海外組トラッカー"
+            alt="海外組サカレポ"
             width={32}
             height={32}
             className="w-8 h-8"
           />
-          <span className="font-bold text-white">海外組トラッカー</span>
+          <span className="font-bold text-white">海外組サカレポ</span>
         </Link>
         <nav className="flex items-center gap-2">
           {navItems.map((item) => {
