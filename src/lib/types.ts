@@ -73,6 +73,7 @@ export interface MediaRating {
   maxRating: number;
   ratingSystem: "standard" | "german";
   comment?: string;
+  commentTranslated?: string;
 }
 
 export interface LocalVoice {

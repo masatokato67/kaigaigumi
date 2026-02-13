@@ -56,8 +56,15 @@ export default function MediaRatings({
                 </div>
               </div>
               {rating.comment && (
-                <div className="mt-3 pl-11 text-sm text-gray-400 italic border-l-2 border-gray-700 ml-4">
-                  &ldquo;{rating.comment}&rdquo;
+                <div className="mt-3 pl-11 border-l-2 border-gray-700 ml-4 space-y-1">
+                  <div className="text-sm text-gray-400 italic">
+                    &ldquo;{rating.comment}&rdquo;
+                  </div>
+                  {rating.commentTranslated && (
+                    <div className="text-sm text-gray-500">
+                      {rating.commentTranslated}
+                    </div>
+                  )}
                 </div>
               )}
             </div>
