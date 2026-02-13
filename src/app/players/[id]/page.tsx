@@ -4,7 +4,14 @@ import StatBox from "@/components/ui/StatBox";
 import PlayerProfile from "@/components/players/PlayerProfile";
 import RatingChart from "@/components/players/RatingChart";
 import PlayerMatchList from "@/components/players/PlayerMatchList";
-import { getPlayerById, getMatchesByPlayerId } from "@/lib/data";
+import { getPlayerById, getMatchesByPlayerId, getAllPlayers } from "@/lib/data";
+
+export function generateStaticParams() {
+  const players = getAllPlayers();
+  return players.map((player) => ({
+    id: player.id,
+  }));
+}
 
 export async function generateMetadata({
   params,

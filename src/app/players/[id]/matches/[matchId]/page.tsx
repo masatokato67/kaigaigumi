@@ -10,7 +10,16 @@ import {
   getMatchById,
   getMediaRatingsByMatchId,
   getHighlightVideoByMatchId,
+  getAllMatches,
 } from "@/lib/data";
+
+export function generateStaticParams() {
+  const matches = getAllMatches();
+  return matches.map((match) => ({
+    id: match.playerId,
+    matchId: match.matchId,
+  }));
+}
 
 export async function generateMetadata({
   params,

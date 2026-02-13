@@ -13,6 +13,10 @@ export function getAllPlayers(): Player[] {
   return players;
 }
 
+export function getAllMatches(): Match[] {
+  return matches;
+}
+
 export function getPlayerById(id: string): Player | undefined {
   return players.find((p) => p.id === id);
 }

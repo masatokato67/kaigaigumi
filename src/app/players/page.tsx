@@ -1,27 +1,37 @@
+"use client";
+
 import { Suspense } from "react";
+import { useSearchParams } from "next/navigation";
 import FilterBar from "@/components/players/FilterBar";
 import PlayerCard from "@/components/players/PlayerCard";
-import { getFilteredPlayers } from "@/lib/data";
+import { getFilteredPlayers, getAllPlayers } from "@/lib/data";
 import type { LeagueFilter, PositionFilter, SortField, SortOrder } from "@/lib/types";
 
-export const metadata = {
-  title: "選手一覧 | 海外組サカレポ",
-  description: "海外でプレーする日本人選手を詳しく見る",
-};
-
-export default async function PlayersPage({
-  searchParams,
-}: {
-  searchParams: Promise<{ [key: string]: string | undefined }>;
-}) {
-  const params = await searchParams;
+function PlayerList() {
+  const searchParams = useSearchParams();
   const players = getFilteredPlayers({
-    league: (params.league as LeagueFilter) || "all",
-    position: (params.position as PositionFilter) || "all",
-    sortBy: (params.sortBy as SortField) || "rating",
-    sortOrder: (params.order as SortOrder) || "desc",
+    league: (searchParams.get("league") as LeagueFilter) || "all",
+    position: (searchParams.get("position") as PositionFilter) || "all",
+    sortBy: (searchParams.get("sortBy") as SortField) || "rating",
+    sortOrder: (searchParams.get("order") as SortOrder) || "desc",
   });
 
+  return (
+    <>
+      <p className="text-sm text-gray-400 mb-6">
+        {players.length}件の選手が見つかりました
+      </p>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {players.map((player) => (
+          <PlayerCard key={player.id} player={player} />
+        ))}
+      </div>
+    </>
+  );
+}
+
+export default function PlayersPage() {
   return (
     <div className="max-w-6xl mx-auto px-4 py-12">
       <div className="mb-8">
@@ -43,15 +53,9 @@ export default async function PlayersPage({
         <FilterBar />
       </Suspense>
 
-      <p className="text-sm text-gray-400 mb-6">
-        {players.length}件の選手が見つかりました
-      </p>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {players.map((player) => (
-          <PlayerCard key={player.id} player={player} />
-        ))}
-      </div>
+      <Suspense fallback={<p className="text-sm text-gray-400 mb-6">読み込み中...</p>}>
+        <PlayerList />
+      </Suspense>
     </div>
   );
 }
