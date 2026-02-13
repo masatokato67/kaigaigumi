@@ -131,7 +131,7 @@
       "shortName": "プレミアリーグ",
       "country": "イングランド"
     },
-    "photo": "/images/players/kamada.jpg",
+    "photo": "/images/players/kamada.webp",
     "marketValue": "€18M",
     "caps": 29,
     "transfermarkt": {
@@ -169,7 +169,7 @@
       "shortName": "プレミアリーグ",
       "country": "イングランド"
     },
-    "photo": "/images/players/endo.jpg",
+    "photo": "/images/players/endo.webp",
     "marketValue": "€18M",
     "caps": 62,
     "transfermarkt": {
@@ -207,7 +207,7 @@
       "shortName": "ブンデスリーガ",
       "country": "ドイツ"
     },
-    "photo": "/images/players/shiogai.jpg",
+    "photo": "/images/players/shiogai.jpeg",
     "marketValue": "€10M",
     "caps": 0,
     "transfermarkt": {
@@ -245,7 +245,7 @@
       "shortName": "エールディヴィジ",
       "country": "オランダ"
     },
-    "photo": "/images/players/sano_kodai.png",
+    "photo": "/images/players/sano_kodai.jpg",
     "marketValue": "€6M",
     "caps": 1,
     "transfermarkt": {
