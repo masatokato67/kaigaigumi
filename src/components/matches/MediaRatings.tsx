@@ -39,20 +39,27 @@ export default function MediaRatings({
           return (
             <div
               key={rating.source}
-              className="flex items-center justify-between bg-[#0a0e1a] rounded-lg p-4"
+              className="bg-[#0a0e1a] rounded-lg p-4"
             >
-              <div className="flex items-center gap-3">
-                <div className="w-8 h-8 bg-gray-800 rounded flex items-center justify-center text-xs text-gray-400">
-                  {rating.source.charAt(0)}
+              <div className="flex items-center justify-between">
+                <div className="flex items-center gap-3">
+                  <div className="w-8 h-8 bg-gray-800 rounded flex items-center justify-center text-xs text-gray-400">
+                    {rating.source.charAt(0)}
+                  </div>
+                  <div>
+                    <div className="font-medium">{rating.source}</div>
+                    <div className="text-xs text-gray-400">{rating.country}</div>
+                  </div>
                 </div>
-                <div>
-                  <div className="font-medium">{rating.source}</div>
-                  <div className="text-xs text-gray-400">{rating.country}</div>
+                <div className={`text-2xl font-bold ${textColorClass}`}>
+                  {rating.rating.toFixed(1)}
                 </div>
               </div>
-              <div className={`text-2xl font-bold ${textColorClass}`}>
-                {rating.rating.toFixed(1)}
-              </div>
+              {rating.comment && (
+                <div className="mt-3 pl-11 text-sm text-gray-400 italic border-l-2 border-gray-700 ml-4">
+                  &ldquo;{rating.comment}&rdquo;
+                </div>
+              )}
             </div>
           );
         })}

@@ -45,6 +45,7 @@ interface MediaRating {
   rating: number;
   maxRating: number;
   ratingSystem: string;
+  comment?: string;
 }
 
 interface LocalVoice {
@@ -128,6 +129,91 @@ const COUNTRY_LANGUAGE: Record<string, string> = {
   オランダ: "NL",
   フランス: "FR",
   イタリア: "IT",
+};
+
+// メディアコメントテンプレート（パフォーマンスレベル別）
+const MEDIA_COMMENT_TEMPLATES: Record<string, Record<string, string[]>> = {
+  excellent: {
+    EN: [
+      "Outstanding performance. Controlled the tempo and created multiple chances.",
+      "Exceptional display. A constant threat on the wing with superb decision-making.",
+      "Man of the match caliber performance. Dominated throughout.",
+      "Brilliant showing. Combined well and showed great vision.",
+    ],
+    DE: [
+      "Herausragende Leistung. Kontrollierte das Tempo und schuf mehrere Chancen.",
+      "Überragend. War ständig gefährlich und traf kluge Entscheidungen.",
+      "Spieler des Spiels. Dominierte durchgehend.",
+    ],
+    ES: [
+      "Actuación excepcional. Controló el ritmo y creó múltiples ocasiones.",
+      "Exhibición brillante. Una amenaza constante con gran visión.",
+    ],
+    NL: [
+      "Uitstekende prestatie. Beheerste het tempo en creëerde meerdere kansen.",
+      "Briljant optreden. Constant gevaarlijk met geweldige visie.",
+    ],
+  },
+  good: {
+    EN: [
+      "Solid contribution. Worked hard and linked up well with teammates.",
+      "Reliable performance. Made some key passes and tracked back diligently.",
+      "Effective display. Did his job and added quality going forward.",
+      "Composed showing. Rarely gave the ball away and showed good movement.",
+    ],
+    DE: [
+      "Solider Beitrag. Arbeitete hart und verband sich gut mit Mitspielern.",
+      "Zuverlässige Leistung. Einige wichtige Pässe und diszipliniertes Rücklaufen.",
+    ],
+    ES: [
+      "Contribución sólida. Trabajó duro y conectó bien con los compañeros.",
+      "Actuación fiable. Realizó pases clave y ayudó en defensa.",
+    ],
+    NL: [
+      "Solide bijdrage. Werkte hard en combineerde goed met teamgenoten.",
+      "Betrouwbare prestatie. Maakte belangrijke passes.",
+    ],
+  },
+  average: {
+    EN: [
+      "Quiet afternoon. Lacked service but showed moments of quality when on the ball.",
+      "Mixed display. Some good moments but struggled to impose himself.",
+      "Subdued performance. Not his best day but still contributed defensively.",
+      "Inconsistent showing. Flashes of brilliance but not sustained.",
+    ],
+    DE: [
+      "Ruhiger Nachmittag. Wenig Ballbesitz, aber gute Momente mit dem Ball.",
+      "Durchwachsene Leistung. Konnte sich nicht durchsetzen.",
+    ],
+    ES: [
+      "Tarde tranquila. Poco balón pero mostró calidad cuando lo tuvo.",
+      "Actuación irregular. Buenos momentos pero sin continuidad.",
+    ],
+    NL: [
+      "Rustige middag. Weinig balbezit maar toonde kwaliteit wanneer mogelijk.",
+      "Wisselvallige prestatie. Kon zich niet opleggen.",
+    ],
+  },
+  poor: {
+    EN: [
+      "Struggled throughout. Found it difficult to get into the game.",
+      "Off the pace today. Gave the ball away too often and looked frustrated.",
+      "Disappointing display. Well below his usual standards.",
+      "Tough match. Will look to bounce back in the next game.",
+    ],
+    DE: [
+      "Hatte Schwierigkeiten. Kam nicht ins Spiel.",
+      "Nicht auf dem Niveau. Verlor den Ball zu oft.",
+    ],
+    ES: [
+      "Tuvo dificultades. No logró entrar en el partido.",
+      "Actuación decepcionante. Por debajo de su nivel habitual.",
+    ],
+    NL: [
+      "Moeite gehad. Kwam niet in de wedstrijd.",
+      "Teleurstellende prestatie. Onder zijn gebruikelijke niveau.",
+    ],
+  },
 };
 
 // 現地の声テンプレート（パフォーマンス別）
@@ -306,6 +392,32 @@ function getPerformanceLevel(match: Match): "excellent" | "good" | "average" | "
 }
 
 /**
+ * コメントの言語コードを取得
+ */
+function getCommentLanguage(sourceCountry: string): string {
+  const countryToLang: Record<string, string> = {
+    "イングランド": "EN",
+    "スペイン": "ES",
+    "ドイツ": "DE",
+    "オランダ": "NL",
+  };
+  return countryToLang[sourceCountry] || "EN";
+}
+
+/**
+ * パフォーマンスレベルに基づいてコメントを取得
+ */
+function getRandomComment(performanceLevel: string, langCode: string): string | undefined {
+  const levelComments = MEDIA_COMMENT_TEMPLATES[performanceLevel];
+  if (!levelComments) return undefined;
+
+  const comments = levelComments[langCode] || levelComments["EN"];
+  if (!comments || comments.length === 0) return undefined;
+
+  return comments[Math.floor(Math.random() * comments.length)];
+}
+
+/**
  * 試合結果に基づいてレーティングを生成
  */
 function generateRatings(match: Match, player: Player): MediaRating[] {
@@ -325,6 +437,10 @@ function generateRatings(match: Match, player: Player): MediaRating[] {
     const variance = (Math.random() - 0.5) * 0.6;
     const rating = Math.round((baseRating + variance) * 10) / 10;
 
+    // コメントの言語を決定
+    const langCode = getCommentLanguage(source.country);
+    const comment = getRandomComment(performanceLevel, langCode);
+
     // kickerはドイツ式（6段階、低いほど良い）
     if (source.source === "kicker") {
       const kickerRating = Math.round((7 - rating / 1.5) * 10) / 10;
@@ -334,6 +450,7 @@ function generateRatings(match: Match, player: Player): MediaRating[] {
         rating: Math.max(1, Math.min(6, kickerRating)),
         maxRating: 6,
         ratingSystem: "german",
+        comment,
       };
     }
 
@@ -343,6 +460,7 @@ function generateRatings(match: Match, player: Player): MediaRating[] {
       rating: Math.max(4, Math.min(10, rating)),
       maxRating: 10,
       ratingSystem: "standard",
+      comment,
     };
   });
 }
