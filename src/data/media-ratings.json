@@ -66992,5 +66992,217 @@
       }
     ],
     "lastUpdated": "2026-02-13T14:42:39.774Z"
+  },
+  {
+    "matchId": "sano_kaishu-20260213",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      {
+        "source": "kicker",
+        "country": "ドイツ",
+        "rating": 2.5,
+        "maxRating": 6,
+        "ratingSystem": "german",
+        "comment": "Solider Beitrag. Arbeitete hart und verband sich gut mit Mitspielern.",
+        "commentTranslated": "堅実な貢献。ハードワークでチームメイトとよく連携した。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Zuverlässige Leistung. Einige wichtige Pässe und diszipliniertes Rücklaufen.",
+        "commentTranslated": "信頼できるパフォーマンス。重要なパスを通し、規律ある守備を見せた。"
+      },
+      {
+        "source": "WhoScored",
+        "country": "イングランド",
+        "rating": 7.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Composed showing. Rarely gave the ball away and showed good movement.",
+        "commentTranslated": "落ち着いたプレー。ボールロストが少なく、良い動きを見せた。"
+      }
+    ],
+    "averageRating": 7.1,
+    "localVoices": [
+      {
+        "id": "v1771022264615_1",
+        "username": "@マインツFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Solide Leistung von Kaishu Sano gegen ドルトムント. 90 minutes played Weiter so!",
+        "translatedText": "ドルトムント戦で佐野海舟の堅実なパフォーマンス。(90 minutes played)この調子で！"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t1771022264616_0",
+        "username": "@TacticsAnalyst",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Kaishu Sano's positioning today was excellent. Always making himself available. 90 minutes played Good tactical awareness on display.",
+        "translatedText": "佐野海舟の今日のポジショニングは素晴らしかった。常に受ける位置を取っていた。90 minutes played良い戦術的意識を見せた。",
+        "likes": 24402,
+        "retweets": 3421,
+        "replies": [
+          {
+            "id": "r1771022264616_0_0",
+            "username": "@Fan_8863",
+            "languageCode": "EN",
+            "originalText": "Good game! Keep it up Kaishu Sano! 👏",
+            "translatedText": "良い試合！この調子で佐野海舟！👏",
+            "likes": 59
+          },
+          {
+            "id": "r1771022264616_0_1",
+            "username": "@Fan_8131",
+            "languageCode": "JA",
+            "originalText": "Solid as always. Love his consistency.",
+            "translatedText": "いつも通り堅実。彼の安定感が好きだ。",
+            "likes": 238
+          },
+          {
+            "id": "r1771022264616_0_2",
+            "username": "@Fan_6043",
+            "languageCode": "JA",
+            "originalText": "Reliable performance. Exactly what we needed.",
+            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
+            "likes": 100
+          },
+          {
+            "id": "r1771022264616_0_3",
+            "username": "@Fan_301",
+            "languageCode": "JA",
+            "originalText": "He just does his job every week. Respect.",
+            "translatedText": "毎週仕事をこなす。リスペクト。",
+            "likes": 368
+          }
+        ]
+      },
+      {
+        "id": "t1771022264616_1",
+        "username": "@1.FSVMainz05",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Another good display from Kaishu Sano today! 90 minutes played vs ドルトムント.",
+        "translatedText": "佐野海舟の今日も良いプレー！ドルトムント戦で90 minutes played。",
+        "likes": 24521,
+        "retweets": 3425,
+        "replies": [
+          {
+            "id": "r1771022264616_1_0",
+            "username": "@Fan_5046",
+            "languageCode": "EN",
+            "originalText": "He just does his job every week. Respect.",
+            "translatedText": "毎週仕事をこなす。リスペクト。",
+            "likes": 430
+          },
+          {
+            "id": "r1771022264616_1_1",
+            "username": "@Fan_6475",
+            "languageCode": "JA",
+            "originalText": "Reliable performance. Exactly what we needed.",
+            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
+            "likes": 538
+          }
+        ]
+      },
+      {
+        "id": "t1771022264616_2",
+        "username": "@日本サッカーファン",
+        "verified": false,
+        "languageCode": "JA",
+        "originalText": "海外で活躍する佐野海舟を見ると誇らしい気持ちになる🇯🇵",
+        "translatedText": "海外で活躍する佐野海舟を見ると誇らしい気持ちになる🇯🇵",
+        "likes": 2254,
+        "retweets": 1868,
+        "replies": [
+          {
+            "id": "r1771022264616_2_0",
+            "username": "@Fan_1329",
+            "languageCode": "JA",
+            "originalText": "Solid as always. Love his consistency.",
+            "translatedText": "いつも通り堅実。彼の安定感が好きだ。",
+            "likes": 333
+          },
+          {
+            "id": "r1771022264616_2_1",
+            "username": "@Fan_4162",
+            "languageCode": "JA",
+            "originalText": "He just does his job every week. Respect.",
+            "translatedText": "毎週仕事をこなす。リスペクト。",
+            "likes": 161
+          }
+        ]
+      },
+      {
+        "id": "t1771022264616_3",
+        "username": "@ブンデスリーガReporter",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Kaishu Sano showing why he's becoming a fan favorite. Solid display against ドルトムント. 90 minutes played",
+        "translatedText": "佐野海舟がファンのお気に入りになっている理由を示した。ドルトムント戦で堅実なプレー。90 minutes played",
+        "likes": 11762,
+        "retweets": 4342,
+        "replies": [
+          {
+            "id": "r1771022264616_3_0",
+            "username": "@Fan_4640",
+            "languageCode": "JA",
+            "originalText": "Reliable performance. Exactly what we needed.",
+            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
+            "likes": 542
+          },
+          {
+            "id": "r1771022264616_3_1",
+            "username": "@Fan_5606",
+            "languageCode": "EN",
+            "originalText": "Solid as always. Love his consistency.",
+            "translatedText": "いつも通り堅実。彼の安定感が好きだ。",
+            "likes": 528
+          }
+        ]
+      },
+      {
+        "id": "t1771022264616_4",
+        "username": "@マインツSupporter",
+        "verified": false,
+        "languageCode": "DE",
+        "originalText": "Solid game from Kaishu Sano! Love his work rate and attitude. 💙",
+        "translatedText": "佐野海舟の堅実な試合！彼の運動量と姿勢が好きだ。💙",
+        "likes": 9610,
+        "retweets": 1060,
+        "replies": [
+          {
+            "id": "r1771022264616_4_0",
+            "username": "@Fan_9828",
+            "languageCode": "EN",
+            "originalText": "Good game! Keep it up Kaishu Sano! 👏",
+            "translatedText": "良い試合！この調子で佐野海舟！👏",
+            "likes": 208
+          },
+          {
+            "id": "r1771022264616_4_1",
+            "username": "@Fan_1754",
+            "languageCode": "EN",
+            "originalText": "Reliable performance. Exactly what we needed.",
+            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
+            "likes": 333
+          },
+          {
+            "id": "r1771022264616_4_2",
+            "username": "@Fan_6569",
+            "languageCode": "JA",
+            "originalText": "He just does his job every week. Respect.",
+            "translatedText": "毎週仕事をこなす。リスペクト。",
+            "likes": 462
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-02-13T22:37:44.616Z"
   }
 ]
