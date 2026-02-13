@@ -54,6 +54,12 @@ export interface Match {
     rating: number;
   };
   notable: boolean;
+  highlightVideo?: HighlightVideo;
+}
+
+export interface HighlightVideo {
+  youtubeId: string;
+  title: string;
 }
 
 export interface MatchMediaData {

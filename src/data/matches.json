@@ -273,7 +273,11 @@
       "position": "LB",
       "rating": 6.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "冨安健洋 vs エクセルシオール | エールディヴィジ 2026-02-01"
+    }
   },
   {
     "matchId": "shiogai-20260201",
@@ -319,7 +323,11 @@
       "position": "DM",
       "rating": 8
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "佐野航大 vs AZアルクマール 1ゴール・1アシスト | エールディヴィジ 2026-01-31"
+    }
   },
   {
     "matchId": "sano_kaishu-20260131",
@@ -342,7 +350,11 @@
       "position": "DM",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "佐野海舟 vs ライプツィヒ | ブンデスリーガ 2026-01-31"
+    }
   },
   {
     "matchId": "mitoma-20260131",
@@ -434,7 +446,11 @@
       "position": "RB",
       "rating": 7
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "遠藤航 vs リヴァプール | チャンピオンズリーグ 2026-01-28"
+    }
   },
   {
     "matchId": "mitoma-20260125",
@@ -480,7 +496,11 @@
       "position": "ST",
       "rating": 6.2
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "塩貝健人 vs マインツ | ブンデスリーガ 2026-01-25"
+    }
   },
   {
     "matchId": "sano_kodai-20260124",
@@ -664,7 +684,11 @@
       "position": "RW",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "久保建英 vs レアル・ソシエダ 1アシスト | ラ・リーガ 2026-01-18"
+    }
   },
   {
     "matchId": "sano_kodai-20260117",
@@ -687,7 +711,11 @@
       "position": "CM",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "佐野航大 vs NACブレダ 1ゴール | エールディヴィジ 2026-01-17"
+    }
   },
   {
     "matchId": "sano_kaishu-20260117",
@@ -779,7 +807,11 @@
       "position": "RW",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "久保建英 vs レアル・ソシエダ 1アシスト | ラ・リーガ 2026-01-12"
+    }
   },
   {
     "matchId": "mitoma-20260111",
@@ -848,7 +880,11 @@
       "position": "RW",
       "rating": 8.3
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "久保建英 vs Getafe 1アシスト | ラ・リーガ 2026-01-09"
+    }
   },
   {
     "matchId": "mitoma-20260108",
@@ -871,7 +907,11 @@
       "position": "LW",
       "rating": 8
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "三笘薫 vs マンチェスター・C 1ゴール | プレミアリーグ 2026-01-08"
+    }
   },
   {
     "matchId": "mitoma-20260107",
@@ -894,7 +934,11 @@
       "position": "LW",
       "rating": 8.1
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "三笘薫 vs マンチェスター・C 1ゴール | プレミアリーグ 2026-01-07"
+    }
   },
   {
     "matchId": "kubo-20260105",
@@ -917,7 +961,11 @@
       "position": "RW",
       "rating": 7.8
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "久保建英 vs アトレティコ 1アシスト | ラ・リーガ 2026-01-05"
+    }
   },
   {
     "matchId": "mitoma-20260104",
@@ -963,7 +1011,11 @@
       "position": "RW",
       "rating": 8.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "久保建英 vs レアル・ソシエダ 1アシスト | ラ・リーガ 2026-01-04"
+    }
   },
   {
     "matchId": "mitoma-20260103",
@@ -1078,7 +1130,11 @@
       "position": "RW",
       "rating": 8.3
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "久保建英 vs Levante 1ゴール | ラ・リーガ 2025-12-20"
+    }
   },
   {
     "matchId": "shiogai-20251220",
@@ -1193,7 +1249,11 @@
       "position": "ST",
       "rating": 8.9
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "塩貝健人 vs アヤックス 2ゴール | KNVBカップ 2025-12-16"
+    }
   },
   {
     "matchId": "sano_kodai-20251216",
@@ -1239,7 +1299,11 @@
       "position": "RW",
       "rating": 8.1
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "久保建英 vs レアル・ソシエダ 1ゴール | ラ・リーガ 2025-12-14"
+    }
   },
   {
     "matchId": "kamada-20251214",
@@ -1331,7 +1395,11 @@
       "position": "ST",
       "rating": 7.2
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "塩貝健人 vs Telstar 1ゴール | エールディヴィジ 2025-12-13"
+    }
   },
   {
     "matchId": "sano_kodai-20251213",
@@ -1354,7 +1422,11 @@
       "position": "CM",
       "rating": 7.5
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "佐野航大 vs Telstar 1アシスト | エールディヴィジ 2025-12-13"
+    }
   },
   {
     "matchId": "kamada-20251212",
@@ -1377,7 +1449,11 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "鎌田大地 vs クリスタルパレス 1アシスト | カンファレンスリーグ 2025-12-12"
+    }
   },
   {
     "matchId": "kubo-20251212",
@@ -1423,7 +1499,11 @@
       "position": "CM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "鎌田大地 vs Shelbourne 1アシスト | カンファレンスリーグ 2025-12-11"
+    }
   },
   {
     "matchId": "sano_kaishu-20251211",
@@ -1492,7 +1572,11 @@
       "position": "ST",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "塩貝健人 vs FC Volendam 1ゴール | エールディヴィジ 2025-12-07"
+    }
   },
   {
     "matchId": "sano_kodai-20251207",
@@ -1515,7 +1599,11 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "佐野航大 vs FC Volendam 1アシスト | エールディヴィジ 2025-12-07"
+    }
   },
   {
     "matchId": "kubo-20251206",
@@ -1584,7 +1672,11 @@
       "position": "CDM",
       "rating": 8.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "佐野海舟 vs マインツ | ブンデスリーガ 2025-12-05"
+    }
   },
   {
     "matchId": "kamada-20251203",
@@ -1630,7 +1722,11 @@
       "position": "RW",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "久保建英 vs レアル・ソシエダ 1アシスト | ラ・リーガ 2025-11-30"
+    }
   },
   {
     "matchId": "kamada-20251130",
@@ -1814,7 +1910,11 @@
       "position": "ST",
       "rating": 8.6
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "塩貝健人 vs フェイエノールト 2ゴール | エールディヴィジ 2025-11-23"
+    }
   },
   {
     "matchId": "sano_kodai-20251123",
@@ -1929,7 +2029,11 @@
       "position": "RW",
       "rating": 7.5
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "久保建英 vs レアル・ソシエダ 1アシスト | Friendlies 2025-11-18"
+    }
   },
   {
     "matchId": "kamada-20251118",
@@ -1952,7 +2056,11 @@
       "position": "CM",
       "rating": 8.2
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "鎌田大地 vs クリスタルパレス 1ゴール | Friendlies 2025-11-18"
+    }
   },
   {
     "matchId": "endo-20251118",
@@ -1998,7 +2106,11 @@
       "position": "RW",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "久保建英 vs レアル・ソシエダ 1アシスト | Friendlies 2025-11-14"
+    }
   },
   {
     "matchId": "sano_kaishu-20251114",
@@ -2021,7 +2133,11 @@
       "position": "CDM",
       "rating": 8.5
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "佐野海舟 vs マインツ 1アシスト | Friendlies 2025-11-14"
+    }
   },
   {
     "matchId": "kamada-20251109",
@@ -2067,7 +2183,11 @@
       "position": "ST",
       "rating": 7.6
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "塩貝健人 vs ヴォルフスブルク 1ゴール | エールディヴィジ 2025-11-09"
+    }
   },
   {
     "matchId": "sano_kodai-20251109",
@@ -2090,7 +2210,11 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "佐野航大 vs NEC 1ゴール | エールディヴィジ 2025-11-09"
+    }
   },
   {
     "matchId": "sano_kaishu-20251109",
@@ -2182,7 +2306,11 @@
       "position": "CDM",
       "rating": 7.7
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "佐野海舟 vs マインツ 1アシスト | カンファレンスリーグ 2025-11-06"
+    }
   },
   {
     "matchId": "shiogai-20251102",
@@ -2550,7 +2678,11 @@
       "position": "CM",
       "rating": 8.3
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "佐野航大 vs NEC 1アシスト | エールディヴィジ 2025-10-18"
+    }
   },
   {
     "matchId": "sano_kaishu-20251018",
@@ -2688,7 +2820,11 @@
       "position": "CDM",
       "rating": 8.2
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "佐野海舟 vs マインツ 1アシスト | Friendlies 2025-10-10"
+    }
   },
   {
     "matchId": "kubo-20251005",
@@ -2872,7 +3008,11 @@
       "position": "CM",
       "rating": 7.6
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "鎌田大地 vs クリスタルパレス | プレミアリーグ 2025-09-28"
+    }
   },
   {
     "matchId": "kubo-20250928",
@@ -3148,7 +3288,11 @@
       "position": "CDM",
       "rating": 9.1
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "9bZkp7q19f0",
+      "title": "佐野海舟 vs アウクスブルク 1ゴール・1アシスト | ブンデスリーガ 2025-09-20"
+    }
   },
   {
     "matchId": "kubo-20250919",
@@ -3217,7 +3361,11 @@
       "position": "LW",
       "rating": 6.9
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "三笘薫 vs ボーンマス 1ゴール | プレミアリーグ 2025-09-13"
+    }
   },
   {
     "matchId": "kubo-20250913",
@@ -3539,7 +3687,11 @@
       "position": "LW",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "三笘薫 vs ブライトン 1アシスト | プレミアリーグ 2025-08-31"
+    }
   },
   {
     "matchId": "kamada-20250831",
@@ -3930,7 +4082,11 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "遠藤航 vs リヴァプール 1アシスト | プレミアリーグ 2025-08-16"
+    }
   },
   {
     "matchId": "mitoma-20250816",
@@ -3976,7 +4132,11 @@
       "position": "RW",
       "rating": 7.4
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "jNQXAC9IVRw",
+      "title": "久保建英 vs Valencia 1ゴール | ラ・リーガ 2025-08-16"
+    }
   },
   {
     "matchId": "shiogai-20250816",
@@ -3999,7 +4159,11 @@
       "position": "ST",
       "rating": 8.4
     },
-    "notable": true
+    "notable": true,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "塩貝健人 vs Heracles 2ゴール | エールディヴィジ 2025-08-16"
+    }
   },
   {
     "matchId": "sano_kodai-20250816",
@@ -4045,7 +4209,11 @@
       "position": "CDM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "highlightVideo": {
+      "youtubeId": "dQw4w9WgXcQ",
+      "title": "遠藤航 vs リヴァプール 1アシスト | プレミアリーグ 2025-08-15"
+    }
   },
   {
     "matchId": "kamada-20250810",

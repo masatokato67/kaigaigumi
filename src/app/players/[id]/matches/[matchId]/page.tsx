@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import BackLink from "@/components/ui/BackLink";
 import MatchHeader from "@/components/matches/MatchHeader";
+import HighlightVideo from "@/components/matches/HighlightVideo";
 import MediaRatings from "@/components/matches/MediaRatings";
 import LocalVoices from "@/components/matches/LocalVoices";
 import XThreads from "@/components/matches/XThreads";
@@ -48,6 +49,12 @@ export default async function MatchDetailPage({
         player={player}
         averageRating={averageRating}
       />
+
+      {match.highlightVideo && (
+        <div className="mt-8">
+          <HighlightVideo video={match.highlightVideo} />
+        </div>
+      )}
 
       {mediaData && mediaData.ratings.length > 0 && (
         <div className="mt-8">
