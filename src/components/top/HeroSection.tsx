@@ -25,7 +25,7 @@ export default function HeroSection() {
         <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
           海外組
           <br />
-          <span className="ml-2">トラッカー</span>
+          <span className="ml-2">サカレポ</span>
         </h1>
         <p className="text-gray-400 max-w-md mb-8 leading-relaxed">
           日本人選手の海外での活躍を詳細に追跡。試合結果、スタッツ、現地の評価まで全てをカバー。
