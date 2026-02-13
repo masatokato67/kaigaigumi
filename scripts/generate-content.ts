@@ -86,7 +86,7 @@ interface MatchMediaData {
   ratings: MediaRating[];
   averageRating: number;
   localVoices: LocalVoice[];
-  xThreads?: XThread[];
+  xThreads: XThread[];
   lastUpdated?: string;
 }
 
@@ -555,46 +555,252 @@ function generateLocalVoices(match: Match, player: Player): LocalVoice[] {
   return voices;
 }
 
-/**
- * Xスレッドを生成（notableな試合のみ）
- */
-function generateXThreads(match: Match, player: Player): XThread[] | undefined {
-  if (!match.notable) return undefined;
+// Xスレッドテンプレート
+interface XThreadTemplate {
+  type: "club" | "journalist" | "fan" | "analyst" | "japanese";
+  username: string;
+  verified: boolean;
+  templates: {
+    excellent: { original: string; translated: string }[];
+    good: { original: string; translated: string }[];
+    average: { original: string; translated: string }[];
+    poor: { original: string; translated: string }[];
+  };
+}
 
+interface XReplyTemplate {
+  templates: {
+    excellent: { original: string; translated: string }[];
+    good: { original: string; translated: string }[];
+    average: { original: string; translated: string }[];
+    poor: { original: string; translated: string }[];
+  };
+}
+
+const X_THREAD_TEMPLATES: XThreadTemplate[] = [
+  {
+    type: "club",
+    username: "{clubName}",
+    verified: true,
+    templates: {
+      excellent: [
+        { original: "{playerEn} with {stat} against {opponent}! ⚽🔥 What a performance!", translated: "{playerJa}が{opponent}戦で{stat}！⚽🔥 素晴らしいパフォーマンス！" },
+        { original: "🌟 {playerEn} shines bright! {stat} in today's match vs {opponent}. #MOTM", translated: "🌟 {playerJa}が輝く！{opponent}戦で{stat}。#マンオブザマッチ" },
+      ],
+      good: [
+        { original: "{playerEn} puts in a solid shift against {opponent}. {stat} 💪", translated: "{playerJa}が{opponent}戦で堅実なプレー。{stat} 💪" },
+        { original: "Another good display from {playerEn} today! {stat} vs {opponent}.", translated: "{playerJa}の今日も良いプレー！{opponent}戦で{stat}。" },
+      ],
+      average: [
+        { original: "{playerEn} with {minutes} minutes against {opponent} today.", translated: "{playerJa}が{opponent}戦で{minutes}分間プレー。" },
+        { original: "Full time: {playerEn} played his part in today's match vs {opponent}.", translated: "試合終了：{playerJa}が{opponent}戦に出場。" },
+      ],
+      poor: [
+        { original: "{playerEn} featured against {opponent}. On to the next one. 💪", translated: "{playerJa}が{opponent}戦に出場。次に向けて。💪" },
+      ],
+    },
+  },
+  {
+    type: "journalist",
+    username: "{league}Reporter",
+    verified: true,
+    templates: {
+      excellent: [
+        { original: "🎯 {playerEn} was absolutely sensational today. {stat} against {opponent}. Japanese star continues to impress in {league}.", translated: "🎯 {playerJa}は今日絶対的にセンセーショナルだった。{opponent}戦で{stat}。日本のスターが{league}で印象を与え続けている。" },
+        { original: "THREAD: Breaking down {playerEn}'s masterclass vs {opponent}. {stat} - here's why he was the difference maker today 🧵👇", translated: "スレッド：{opponent}戦での{playerJa}のマスタークラスを分析。{stat} - 今日の試合で彼が違いを生んだ理由はこれだ 🧵👇" },
+      ],
+      good: [
+        { original: "{playerEn} showing why he's becoming a fan favorite. Solid display against {opponent}. {stat}", translated: "{playerJa}がファンのお気に入りになっている理由を示した。{opponent}戦で堅実なプレー。{stat}" },
+        { original: "Watching {playerEn} develop in {league} has been a joy. Another composed performance vs {opponent}.", translated: "{league}での{playerJa}の成長を見るのは喜びだ。{opponent}戦でまた落ち着いたパフォーマンス。" },
+      ],
+      average: [
+        { original: "{playerEn} with a quiet game against {opponent}. Not his best but showed glimpses of quality.", translated: "{playerJa}の{opponent}戦は静かな試合だった。ベストではないが質の高さを垣間見せた。" },
+      ],
+      poor: [
+        { original: "Tough day for {playerEn} against {opponent}. Even the best have off days. Will bounce back.", translated: "{opponent}戦で{playerJa}には厳しい一日だった。最高の選手でも不調の日はある。巻き返すだろう。" },
+      ],
+    },
+  },
+  {
+    type: "fan",
+    username: "{clubShort}Supporter",
+    verified: false,
+    templates: {
+      excellent: [
+        { original: "I LOVE THIS MAN!!! {playerEn} YOU ABSOLUTE LEGEND!!! {stat} 🔥🔥🔥 #GOAT", translated: "この男が大好きだ！！！{playerJa}最高のレジェンド！！！{stat} 🔥🔥🔥 #史上最高" },
+        { original: "{playerEn} just keeps getting better and better! {stat} against {opponent}! We're so lucky to have him! 🙌", translated: "{playerJa}はどんどん良くなっている！{opponent}戦で{stat}！彼がいて本当に幸運だ！🙌" },
+        { original: "Best signing we've made in years. {playerEn} is different class. {stat} today. 🇯🇵👏", translated: "何年間で最高の補強だ。{playerJa}は別格。今日{stat}。🇯🇵👏" },
+      ],
+      good: [
+        { original: "{playerEn} did his job again today. Reliable as always. 👍", translated: "{playerJa}は今日も仕事をした。相変わらず頼りになる。👍" },
+        { original: "Solid game from {playerEn}! Love his work rate and attitude. 💙", translated: "{playerJa}の堅実な試合！彼の運動量と姿勢が好きだ。💙" },
+      ],
+      average: [
+        { original: "{playerEn} wasn't at his best today but he never stops trying. That's what we love about him.", translated: "{playerJa}は今日ベストではなかったが、努力を止めない。それが彼の好きなところだ。" },
+      ],
+      poor: [
+        { original: "Not {playerEn}'s day today but we all have those games. He'll be back stronger! 💪", translated: "今日は{playerJa}の日ではなかったが、誰にでもそういう試合はある。もっと強くなって帰ってくるだろう！💪" },
+      ],
+    },
+  },
+  {
+    type: "analyst",
+    username: "TacticsAnalyst",
+    verified: true,
+    templates: {
+      excellent: [
+        { original: "📊 {playerEn} vs {opponent} by numbers:\n• {stat}\n• 92% pass accuracy\n• 4 key passes\n• 3 successful dribbles\nWorld class.", translated: "📊 {playerJa}の{opponent}戦を数字で見る：\n• {stat}\n• パス成功率92%\n• キーパス4本\n• ドリブル成功3回\nワールドクラス。" },
+        { original: "Heat map analysis: {playerEn} covered every blade of grass today. His off-the-ball movement was exceptional. {stat} 📈", translated: "ヒートマップ分析：{playerJa}は今日ピッチ全体をカバーした。ボールを持っていない時の動きが卓越していた。{stat} 📈" },
+      ],
+      good: [
+        { original: "{playerEn}'s positioning today was excellent. Always making himself available. {stat} Good tactical awareness on display.", translated: "{playerJa}の今日のポジショニングは素晴らしかった。常に受ける位置を取っていた。{stat}良い戦術的意識を見せた。" },
+      ],
+      average: [
+        { original: "{playerEn} had limited touches today ({minutes} mins) but his decision-making when on the ball was still sharp.", translated: "{playerJa}は今日タッチ数が限られていた（{minutes}分）が、ボールを持った時の判断は依然として鋭かった。" },
+      ],
+      poor: [
+        { original: "Interesting tactical battle today. {playerEn} was well-marked by {opponent}'s defense. Sometimes that's just football.", translated: "今日は興味深い戦術的な戦いだった。{playerJa}は{opponent}の守備によくマークされた。サッカーとはそういうものだ。" },
+      ],
+    },
+  },
+  {
+    type: "japanese",
+    username: "日本サッカーファン",
+    verified: false,
+    templates: {
+      excellent: [
+        { original: "{playerJa}やばすぎる！！！{opponent}相手に{stat}！！これが日本の誇りだ！🇯🇵⚽", translated: "{playerJa}やばすぎる！！！{opponent}相手に{stat}！！これが日本の誇りだ！🇯🇵⚽" },
+        { original: "今日の{playerJa}は神がかってた…{stat}とか冗談でしょ…🔥🔥", translated: "今日の{playerJa}は神がかってた…{stat}とか冗談でしょ…🔥🔥" },
+        { original: "{playerJa}のプレー見てると朝から元気出る！{stat}！最高かよ！", translated: "{playerJa}のプレー見てると朝から元気出る！{stat}！最高かよ！" },
+      ],
+      good: [
+        { original: "{playerJa}今日も安定してたね！{stat}でしっかり貢献👏", translated: "{playerJa}今日も安定してたね！{stat}でしっかり貢献👏" },
+        { original: "海外で活躍する{playerJa}を見ると誇らしい気持ちになる🇯🇵", translated: "海外で活躍する{playerJa}を見ると誇らしい気持ちになる🇯🇵" },
+      ],
+      average: [
+        { original: "{playerJa}今日はちょっと静かだったけど、守備は頑張ってた。次に期待！", translated: "{playerJa}今日はちょっと静かだったけど、守備は頑張ってた。次に期待！" },
+      ],
+      poor: [
+        { original: "{playerJa}今日は苦しかったけど、こういう日もある。切り替えて次頑張れ！💪", translated: "{playerJa}今日は苦しかったけど、こういう日もある。切り替えて次頑張れ！💪" },
+      ],
+    },
+  },
+];
+
+const X_REPLY_TEMPLATES: XReplyTemplate = {
+  templates: {
+    excellent: [
+      { original: "What a player! {playerEn} is on fire! 🔥", translated: "なんという選手だ！{playerJa}が絶好調！🔥" },
+      { original: "This guy is special. Glad he's on our team! 🙌", translated: "この選手は特別だ。チームにいて嬉しい！🙌" },
+      { original: "MOTM easily. No debate needed.", translated: "文句なしのマンオブザマッチ。議論の余地なし。" },
+      { original: "Japanese players really bringing quality to {league} 🇯🇵", translated: "日本人選手が本当に{league}にクオリティをもたらしている 🇯🇵" },
+      { original: "Best performance I've seen from him! Incredible!", translated: "彼の最高のパフォーマンスを見た！信じられない！" },
+      { original: "Give this man a new contract NOW! 📝", translated: "今すぐこの男に新契約を！📝" },
+    ],
+    good: [
+      { original: "Solid as always. Love his consistency.", translated: "いつも通り堅実。彼の安定感が好きだ。" },
+      { original: "Good game! Keep it up {playerEn}! 👏", translated: "良い試合！この調子で{playerJa}！👏" },
+      { original: "Reliable performance. Exactly what we needed.", translated: "頼れるパフォーマンス。まさに必要としていたもの。" },
+      { original: "He just does his job every week. Respect.", translated: "毎週仕事をこなす。リスペクト。" },
+    ],
+    average: [
+      { original: "Not his best but still contributed. On to the next!", translated: "ベストではないが貢献した。次に向けて！" },
+      { original: "Quiet game but these happen. He'll be back.", translated: "静かな試合だったが、こういうこともある。戻ってくるだろう。" },
+      { original: "Need to see more from him but not worried.", translated: "もっと見たいが心配はしていない。" },
+    ],
+    poor: [
+      { original: "Tough day. Everyone has them. Move on.", translated: "厳しい一日。誰にでもある。前に進もう。" },
+      { original: "He'll bounce back. Quality players always do.", translated: "巻き返すだろう。質の高い選手は常にそうする。" },
+      { original: "Not his day but still a great player.", translated: "彼の日ではなかったが、それでも素晴らしい選手だ。" },
+    ],
+  },
+};
+
+/**
+ * Xスレッドを生成（全試合に対して生成）
+ */
+function generateXThreads(match: Match, player: Player): XThread[] {
   const opponent = match.homeTeam.name.includes(player.club.shortName)
     ? match.awayTeam.name
     : match.homeTeam.name;
 
   const performanceLevel = getPerformanceLevel(match);
-  const statString = generateStatString(match);
+  const statString = generateStatString(match) || "a strong showing";
+  const langCode = COUNTRY_LANGUAGE[player.league.country] || "EN";
 
-  // クラブ公式アカウント風のポスト
-  const clubThread: XThread = {
-    id: `t${Date.now()}`,
-    username: `@${player.club.name.replace(/\s/g, "")}`,
-    verified: true,
-    languageCode: COUNTRY_LANGUAGE[player.league.country] || "EN",
-    originalText: `${player.name.en} with ${statString || "a strong performance"} against ${opponent}! ${match.playerStats.goals > 0 ? "⚽" : "💪"}`,
-    translatedText: `${player.name.ja}が${opponent}戦で${statString || "素晴らしいパフォーマンス"}！${match.playerStats.goals > 0 ? "⚽" : "💪"}`,
-    likes: Math.floor(5000 + Math.random() * 20000),
-    retweets: Math.floor(1000 + Math.random() * 5000),
-    replies: [
-      {
-        id: `r${Date.now()}`,
-        username: `@FootballFan_${Math.floor(Math.random() * 1000)}`,
-        languageCode: "EN",
-        originalText: performanceLevel === "excellent"
-          ? `What a player! ${player.name.en} is on fire!`
-          : `Good game from ${player.name.en}. Keep it up!`,
-        translatedText: performanceLevel === "excellent"
-          ? `なんという選手だ！${player.name.ja}が絶好調！`
-          : `${player.name.ja}の良い試合だった。この調子で！`,
-        likes: Math.floor(100 + Math.random() * 1000),
-      },
-    ],
-  };
+  const threads: XThread[] = [];
+  const usedTemplateIndices = new Set<number>();
 
-  return [clubThread];
+  // 5つのスレッドを生成
+  for (let i = 0; i < 5; i++) {
+    // 使用可能なテンプレートを選択
+    let templateIndex: number;
+    do {
+      templateIndex = Math.floor(Math.random() * X_THREAD_TEMPLATES.length);
+    } while (usedTemplateIndices.has(templateIndex) && usedTemplateIndices.size < X_THREAD_TEMPLATES.length);
+    usedTemplateIndices.add(templateIndex);
+
+    const threadTemplate = X_THREAD_TEMPLATES[templateIndex];
+    const levelTemplates = threadTemplate.templates[performanceLevel];
+
+    if (!levelTemplates || levelTemplates.length === 0) continue;
+
+    const selectedTemplate = levelTemplates[Math.floor(Math.random() * levelTemplates.length)];
+
+    // テンプレート変数を置換
+    const replaceVars = (text: string): string => {
+      return text
+        .replace(/{playerEn}/g, player.name.en)
+        .replace(/{playerJa}/g, player.name.ja)
+        .replace(/{opponent}/g, opponent)
+        .replace(/{stat}/g, statString)
+        .replace(/{minutes}/g, String(match.playerStats.minutesPlayed))
+        .replace(/{clubName}/g, player.club.name.replace(/\s/g, ""))
+        .replace(/{clubShort}/g, player.club.shortName.replace(/\s/g, ""))
+        .replace(/{league}/g, player.league.shortName);
+    };
+
+    const username = replaceVars(threadTemplate.username);
+
+    // リプライを生成（2-4個）
+    const replyCount = 2 + Math.floor(Math.random() * 3);
+    const replies: XReply[] = [];
+    const replyTemplates = X_REPLY_TEMPLATES.templates[performanceLevel];
+    const usedReplyIndices = new Set<number>();
+
+    for (let j = 0; j < replyCount && j < replyTemplates.length; j++) {
+      let replyIndex: number;
+      do {
+        replyIndex = Math.floor(Math.random() * replyTemplates.length);
+      } while (usedReplyIndices.has(replyIndex) && usedReplyIndices.size < replyTemplates.length);
+      usedReplyIndices.add(replyIndex);
+
+      const replyTemplate = replyTemplates[replyIndex];
+
+      replies.push({
+        id: `r${Date.now()}_${i}_${j}`,
+        username: `@Fan_${Math.floor(Math.random() * 10000)}`,
+        languageCode: Math.random() > 0.5 ? "EN" : "JA",
+        originalText: replaceVars(replyTemplate.original),
+        translatedText: replaceVars(replyTemplate.translated),
+        likes: Math.floor(50 + Math.random() * 500),
+      });
+    }
+
+    threads.push({
+      id: `t${Date.now()}_${i}`,
+      username: `@${username}`,
+      verified: threadTemplate.verified,
+      languageCode: threadTemplate.type === "japanese" ? "JA" : langCode,
+      originalText: replaceVars(selectedTemplate.original),
+      translatedText: replaceVars(selectedTemplate.translated),
+      likes: Math.floor(1000 + Math.random() * 25000),
+      retweets: Math.floor(200 + Math.random() * 5000),
+      replies,
+    });
+  }
+
+  return threads;
 }
 
 /**

@@ -62,7 +62,7 @@ export interface MatchMediaData {
   ratings: MediaRating[];
   averageRating: number;
   localVoices: LocalVoice[];
-  xThreads?: XThread[];
+  xThreads: XThread[];
   lastUpdated?: string; // ISO 8601形式 (例: "2026-02-10T15:30:00Z")
 }
 
