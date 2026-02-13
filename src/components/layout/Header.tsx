@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 
 export default function Header() {
@@ -15,15 +16,13 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-[#0a0e1a]/95 backdrop-blur-sm border-b border-gray-800">
       <div className="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <div className="w-8 h-8 bg-red-600 rounded-full flex items-center justify-center">
-            <svg
-              className="w-4 h-4 text-white"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-            >
-              <path d="M10 2L13 8H17L14 12L15 18L10 15L5 18L6 12L3 8H7L10 2Z" />
-            </svg>
-          </div>
+          <Image
+            src="/images/logo.png"
+            alt="海外組トラッカー"
+            width={32}
+            height={32}
+            className="w-8 h-8"
+          />
           <span className="font-bold text-white">海外組トラッカー</span>
         </Link>
         <nav className="flex items-center gap-2">
