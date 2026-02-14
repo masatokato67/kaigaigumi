@@ -67204,5 +67204,233 @@
       }
     ],
     "lastUpdated": "2026-02-13T22:37:44.616Z"
+  },
+  {
+    "matchId": "mitoma-20260214",
+    "playerId": "mitoma",
+    "ratings": [
+      {
+        "source": "Sky Sports",
+        "country": "イングランド",
+        "rating": 5.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Off the pace today. Gave the ball away too often and looked frustrated.",
+        "commentTranslated": "今日はペースについていけなかった。ボールロストが多く、フラストレーションが見られた。"
+      },
+      {
+        "source": "WhoScored",
+        "country": "イングランド",
+        "rating": 5.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Disappointing display. Well below his usual standards.",
+        "commentTranslated": "期待外れのパフォーマンス。いつもの水準を大きく下回った。"
+      },
+      {
+        "source": "BBC Sport",
+        "country": "イングランド",
+        "rating": 5.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Struggled throughout. Found it difficult to get into the game.",
+        "commentTranslated": "試合を通じて苦戦した。ゲームに入り込むのが難しかった。"
+      }
+    ],
+    "averageRating": 5.5,
+    "localVoices": [
+      {
+        "id": "v1771108145618_1",
+        "username": "@ブライトンFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Tough day for Kaoru Mitoma against リヴァプール. 28 minutes played Not his day.",
+        "translatedText": "リヴァプール戦で三笘薫にとって厳しい一日だった。(28 minutes played)彼の日ではなかった。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t1771108145618_0",
+        "username": "@Brighton&HoveAlbion",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma featured against リヴァプール. On to the next one. 💪",
+        "translatedText": "三笘薫がリヴァプール戦に出場。次に向けて。💪",
+        "likes": 22885,
+        "retweets": 2318,
+        "replies": [
+          {
+            "id": "r1771108145618_0_0",
+            "username": "@Fan_1322",
+            "languageCode": "EN",
+            "originalText": "Not his day but still a great player.",
+            "translatedText": "彼の日ではなかったが、それでも素晴らしい選手だ。",
+            "likes": 267
+          },
+          {
+            "id": "r1771108145618_0_1",
+            "username": "@Fan_2277",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back. Quality players always do.",
+            "translatedText": "巻き返すだろう。質の高い選手は常にそうする。",
+            "likes": 212
+          },
+          {
+            "id": "r1771108145618_0_2",
+            "username": "@Fan_3644",
+            "languageCode": "JA",
+            "originalText": "Tough day. Everyone has them. Move on.",
+            "translatedText": "厳しい一日。誰にでもある。前に進もう。",
+            "likes": 156
+          }
+        ]
+      },
+      {
+        "id": "t1771108145619_1",
+        "username": "@TacticsAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Interesting tactical battle today. Kaoru Mitoma was well-marked by リヴァプール's defense. Sometimes that's just football.",
+        "translatedText": "今日は興味深い戦術的な戦いだった。三笘薫はリヴァプールの守備によくマークされた。サッカーとはそういうものだ。",
+        "likes": 11697,
+        "retweets": 4675,
+        "replies": [
+          {
+            "id": "r1771108145619_1_0",
+            "username": "@Fan_2468",
+            "languageCode": "JA",
+            "originalText": "He'll bounce back. Quality players always do.",
+            "translatedText": "巻き返すだろう。質の高い選手は常にそうする。",
+            "likes": 508
+          },
+          {
+            "id": "r1771108145619_1_1",
+            "username": "@Fan_810",
+            "languageCode": "JA",
+            "originalText": "Not his day but still a great player.",
+            "translatedText": "彼の日ではなかったが、それでも素晴らしい選手だ。",
+            "likes": 220
+          },
+          {
+            "id": "r1771108145619_1_2",
+            "username": "@Fan_3663",
+            "languageCode": "EN",
+            "originalText": "Tough day. Everyone has them. Move on.",
+            "translatedText": "厳しい一日。誰にでもある。前に進もう。",
+            "likes": 342
+          }
+        ]
+      },
+      {
+        "id": "t1771108145619_2",
+        "username": "@プレミアリーグReporter",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Tough day for Kaoru Mitoma against リヴァプール. Even the best have off days. Will bounce back.",
+        "translatedText": "リヴァプール戦で三笘薫には厳しい一日だった。最高の選手でも不調の日はある。巻き返すだろう。",
+        "likes": 20424,
+        "retweets": 1387,
+        "replies": [
+          {
+            "id": "r1771108145619_2_0",
+            "username": "@Fan_6828",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back. Quality players always do.",
+            "translatedText": "巻き返すだろう。質の高い選手は常にそうする。",
+            "likes": 224
+          },
+          {
+            "id": "r1771108145619_2_1",
+            "username": "@Fan_3870",
+            "languageCode": "EN",
+            "originalText": "Not his day but still a great player.",
+            "translatedText": "彼の日ではなかったが、それでも素晴らしい選手だ。",
+            "likes": 330
+          },
+          {
+            "id": "r1771108145619_2_2",
+            "username": "@Fan_770",
+            "languageCode": "JA",
+            "originalText": "Tough day. Everyone has them. Move on.",
+            "translatedText": "厳しい一日。誰にでもある。前に進もう。",
+            "likes": 497
+          }
+        ]
+      },
+      {
+        "id": "t1771108145619_3",
+        "username": "@日本サッカーファン",
+        "verified": false,
+        "languageCode": "JA",
+        "originalText": "三笘薫今日は苦しかったけど、こういう日もある。切り替えて次頑張れ！💪",
+        "translatedText": "三笘薫今日は苦しかったけど、こういう日もある。切り替えて次頑張れ！💪",
+        "likes": 4393,
+        "retweets": 4348,
+        "replies": [
+          {
+            "id": "r1771108145619_3_0",
+            "username": "@Fan_9325",
+            "languageCode": "EN",
+            "originalText": "Tough day. Everyone has them. Move on.",
+            "translatedText": "厳しい一日。誰にでもある。前に進もう。",
+            "likes": 219
+          },
+          {
+            "id": "r1771108145619_3_1",
+            "username": "@Fan_9923",
+            "languageCode": "JA",
+            "originalText": "Not his day but still a great player.",
+            "translatedText": "彼の日ではなかったが、それでも素晴らしい選手だ。",
+            "likes": 76
+          },
+          {
+            "id": "r1771108145619_3_2",
+            "username": "@Fan_233",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back. Quality players always do.",
+            "translatedText": "巻き返すだろう。質の高い選手は常にそうする。",
+            "likes": 462
+          }
+        ]
+      },
+      {
+        "id": "t1771108145619_4",
+        "username": "@ブライトンSupporter",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Not Kaoru Mitoma's day today but we all have those games. He'll be back stronger! 💪",
+        "translatedText": "今日は三笘薫の日ではなかったが、誰にでもそういう試合はある。もっと強くなって帰ってくるだろう！💪",
+        "likes": 18624,
+        "retweets": 1047,
+        "replies": [
+          {
+            "id": "r1771108145619_4_0",
+            "username": "@Fan_365",
+            "languageCode": "JA",
+            "originalText": "Tough day. Everyone has them. Move on.",
+            "translatedText": "厳しい一日。誰にでもある。前に進もう。",
+            "likes": 289
+          },
+          {
+            "id": "r1771108145619_4_1",
+            "username": "@Fan_7395",
+            "languageCode": "JA",
+            "originalText": "He'll bounce back. Quality players always do.",
+            "translatedText": "巻き返すだろう。質の高い選手は常にそうする。",
+            "likes": 238
+          },
+          {
+            "id": "r1771108145619_4_2",
+            "username": "@Fan_2481",
+            "languageCode": "EN",
+            "originalText": "Not his day but still a great player.",
+            "translatedText": "彼の日ではなかったが、それでも素晴らしい選手だ。",
+            "likes": 326
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-02-14T22:29:05.619Z"
   }
 ]
