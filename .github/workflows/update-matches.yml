@@ -1,13 +1,13 @@
 name: Update Match Data
 
 on:
-  # 定期実行: 毎日 6:00, 14:00, 22:00 UTC (15:00, 23:00, 7:00 JST)
-  schedule:
-    - cron: '0 6 * * *'   # 毎日 15:00 JST
-    - cron: '0 14 * * *'  # 毎日 23:00 JST
-    - cron: '0 22 * * *'  # 毎日 7:00 JST
+  # 定期実行: 無効化（FotMob APIがGitHub ActionsのIPをブロックしているため）
+  # schedule:
+  #   - cron: '0 6 * * *'   # 毎日 15:00 JST
+  #   - cron: '0 14 * * *'  # 毎日 23:00 JST
+  #   - cron: '0 22 * * *'  # 毎日 7:00 JST
 
-  # 手動実行
+  # 手動実行（緊急時用）
   workflow_dispatch:
     inputs:
       force_update:
