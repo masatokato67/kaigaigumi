@@ -10,6 +10,14 @@ import { join } from "path";
 const DATA_DIR = join(__dirname, "../src/data");
 const PLAYERS_FILE = join(DATA_DIR, "players.json");
 const MATCHES_FILE = join(DATA_DIR, "matches.json");
+const HIGHLIGHT_VIDEOS_FILE = join(DATA_DIR, "highlight-videos.json");
+
+// ハイライト動画の型
+interface HighlightVideo {
+  enabled: boolean;
+  youtubeId: string;
+  title: string;
+}
 
 // 型定義
 interface FotMobInfo {
@@ -356,6 +364,40 @@ async function main() {
     allMatches.sort((a, b) => b.date.localeCompare(a.date));
 
     writeFileSync(MATCHES_FILE, JSON.stringify(allMatches, null, 2));
+
+    // highlight-videos.json に新しい試合のエントリを追加
+    const highlightVideos: Record<string, HighlightVideo> = JSON.parse(
+      readFileSync(HIGHLIGHT_VIDEOS_FILE, "utf-8")
+    );
+
+    for (const match of newMatches) {
+      if (!highlightVideos[match.matchId]) {
+        highlightVideos[match.matchId] = {
+          enabled: false,
+          youtubeId: "",
+          title: "",
+        };
+      }
+    }
+
+    // matchIdでソートして保存（新しい順）
+    const sortedHighlightVideos: Record<string, HighlightVideo> = {};
+    const sortedKeys = Object.keys(highlightVideos).sort((a, b) => {
+      // matchIdから日付部分を抽出してソート（例: mitoma-20260211 → 20260211）
+      const dateA = a.split("-").pop() || "";
+      const dateB = b.split("-").pop() || "";
+      return dateB.localeCompare(dateA);
+    });
+
+    for (const key of sortedKeys) {
+      sortedHighlightVideos[key] = highlightVideos[key];
+    }
+
+    writeFileSync(
+      HIGHLIGHT_VIDEOS_FILE,
+      JSON.stringify(sortedHighlightVideos, null, 2)
+    );
+
     console.log(`\n=== 完了: ${newMatchCount}件の新しい試合を追加しました ===`);
   } else {
     console.log("\n=== 完了: 新しい試合はありませんでした ===");
