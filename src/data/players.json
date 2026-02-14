@@ -302,5 +302,39 @@
       "averageRating": 6.8
     },
     "featured": false
+  },
+  {
+    "id": "suzuki_yuito",
+    "name": {
+      "ja": "鈴木唯人",
+      "en": "Yuito Suzuki"
+    },
+    "position": "AM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "SC Freiburg",
+      "shortName": "フライブルク"
+    },
+    "league": {
+      "name": "Bundesliga",
+      "shortName": "ブンデスリーガ",
+      "country": "ドイツ"
+    },
+    "photo": "/images/players/suzuki_yuito.jpg",
+    "marketValue": "€11.7M",
+    "caps": 5,
+    "fotmob": {
+      "playerId": "1134467"
+    },
+    "seasonStats": {
+      "season": "2025-26",
+      "goals": 10,
+      "assists": 6,
+      "appearances": 46,
+      "minutesPlayed": 3275,
+      "averageRating": 6.6
+    },
+    "featured": false
   }
 ]

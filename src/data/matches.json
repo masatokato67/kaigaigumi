@@ -23,6 +23,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20260214",
+    "playerId": "suzuki_yuito",
+    "date": "2026-02-14",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ホッフェンハイム",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 58,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 5.2
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kaishu-20260213",
     "playerId": "sano_kaishu",
     "date": "2026-02-13",
@@ -136,6 +159,29 @@
       "rating": 8
     },
     "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20260210",
+    "playerId": "suzuki_yuito",
+    "date": "2026-02-10",
+    "competition": "DFB Pokal",
+    "homeTeam": {
+      "name": "Hertha BSC",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 120,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.2
+    },
+    "notable": true
   },
   {
     "matchId": "mitoma-20260208",
@@ -253,6 +299,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20260207",
+    "playerId": "suzuki_yuito",
+    "date": "2026-02-07",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "ブレーメン",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 34,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.9
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kodai-20260204",
     "playerId": "sano_kodai",
     "date": "2026-02-04",
@@ -341,6 +410,29 @@
       "starting": false,
       "position": "ST",
       "rating": 6.4
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20260201",
+    "playerId": "suzuki_yuito",
+    "date": "2026-02-01",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "シュトゥットガルト",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 76,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.8
     },
     "notable": false
   },
@@ -460,6 +552,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20260129",
+    "playerId": "suzuki_yuito",
+    "date": "2026-01-29",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "Lille",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 83,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.6
+    },
+    "notable": false
+  },
+  {
     "matchId": "endo-20260128",
     "playerId": "endo",
     "date": "2026-01-28",
@@ -527,6 +642,29 @@
       "rating": 6.2
     },
     "notable": true
+  },
+  {
+    "matchId": "suzuki_yuito-20260125",
+    "playerId": "suzuki_yuito",
+    "date": "2026-01-25",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "ケルン",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.2
+    },
+    "notable": false
   },
   {
     "matchId": "sano_kodai-20260124",
@@ -644,6 +782,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20260122",
+    "playerId": "suzuki_yuito",
+    "date": "2026-01-22",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Maccabi Tel Aviv",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 79,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.9
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kodai-20260120",
     "playerId": "sano_kodai",
     "date": "2026-01-20",
@@ -713,6 +874,29 @@
     "notable": true
   },
   {
+    "matchId": "suzuki_yuito-20260118",
+    "playerId": "suzuki_yuito",
+    "date": "2026-01-18",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "アウクスブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 34,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7
+    },
+    "notable": true
+  },
+  {
     "matchId": "sano_kodai-20260117",
     "playerId": "sano_kodai",
     "date": "2026-01-17",
@@ -755,6 +939,29 @@
       "starting": true,
       "position": "DM",
       "rating": 6.5
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20260114",
+    "playerId": "suzuki_yuito",
+    "date": "2026-01-14",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ライプツィヒ",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 55,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.7
     },
     "notable": false
   },
@@ -870,6 +1077,29 @@
       "starting": true,
       "position": "DM",
       "rating": 7
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20260110",
+    "playerId": "suzuki_yuito",
+    "date": "2026-01-10",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Hamburger SV",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.3
     },
     "notable": false
   },
@@ -1173,6 +1403,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20251220",
+    "playerId": "suzuki_yuito",
+    "date": "2025-12-20",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ヴォルフスブルク",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 4
+    },
+    "playerStats": {
+      "minutesPlayed": 89,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kaishu-20251218",
     "playerId": "sano_kaishu",
     "date": "2025-12-18",
@@ -1330,6 +1583,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.7
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251214",
+    "playerId": "suzuki_yuito",
+    "date": "2025-12-14",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "ドルトムント",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7
     },
     "notable": false
   },
@@ -1495,6 +1771,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20251211",
+    "playerId": "suzuki_yuito",
+    "date": "2025-12-11",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Salzburg",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.4
+    },
+    "notable": false
+  },
+  {
     "matchId": "kamada-20251207",
     "playerId": "kamada",
     "date": "2025-12-07",
@@ -1610,6 +1909,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20251206",
+    "playerId": "suzuki_yuito",
+    "date": "2025-12-06",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ハイデンハイム",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 23,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.4
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kaishu-20251205",
     "playerId": "sano_kaishu",
     "date": "2025-12-05",
@@ -1652,6 +1974,29 @@
       "starting": true,
       "position": "CM",
       "rating": 7.1
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251203",
+    "playerId": "suzuki_yuito",
+    "date": "2025-12-03",
+    "competition": "DFB Pokal",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Darmstadt",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 64,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7
     },
     "notable": false
   },
@@ -1721,6 +2066,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.5
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251130",
+    "playerId": "suzuki_yuito",
+    "date": "2025-11-30",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 4
+    },
+    "awayTeam": {
+      "name": "マインツ",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 69,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.8
     },
     "notable": false
   },
@@ -1813,6 +2181,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.5
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251127",
+    "playerId": "suzuki_yuito",
+    "date": "2025-11-27",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "Viktoria Plzen",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 69,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 5.9
     },
     "notable": false
   },
@@ -1930,6 +2321,29 @@
       "rating": 7.3
     },
     "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251122",
+    "playerId": "suzuki_yuito",
+    "date": "2025-11-22",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "バイエルン",
+      "score": 6
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 77,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.3
+    },
+    "notable": true
   },
   {
     "matchId": "sano_kaishu-20251121",
@@ -2162,6 +2576,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20251109",
+    "playerId": "suzuki_yuito",
+    "date": "2025-11-09",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "ザンクト・パウリ",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 71,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.3
+    },
+    "notable": true
+  },
+  {
     "matchId": "kubo-20251107",
     "playerId": "kubo",
     "date": "2025-11-07",
@@ -2229,6 +2666,29 @@
       "rating": 7.7
     },
     "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251106",
+    "playerId": "suzuki_yuito",
+    "date": "2025-11-06",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "Nice",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.4
+    },
+    "notable": true
   },
   {
     "matchId": "shiogai-20251102",
@@ -2438,6 +2898,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20251029",
+    "playerId": "suzuki_yuito",
+    "date": "2025-10-29",
+    "competition": "DFB Pokal",
+    "homeTeam": {
+      "name": "Fortuna Düsseldorf",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.4
+    },
+    "notable": true
+  },
+  {
     "matchId": "kamada-20251026",
     "playerId": "kamada",
     "date": "2025-10-26",
@@ -2480,6 +2963,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.5
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251026",
+    "playerId": "suzuki_yuito",
+    "date": "2025-10-26",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "レバークーゼン",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.4
     },
     "notable": false
   },
@@ -2549,6 +3055,52 @@
       "starting": true,
       "position": "CDM",
       "rating": 7.3
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20251023",
+    "playerId": "suzuki_yuito",
+    "date": "2025-10-23",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "FC Utrecht",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 75,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.3
+    },
+    "notable": true
+  },
+  {
+    "matchId": "suzuki_yuito-20251019",
+    "playerId": "suzuki_yuito",
+    "date": "2025-10-19",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フランクフルト",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 26,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.3
     },
     "notable": false
   },
@@ -3450,6 +4002,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250909",
+    "playerId": "suzuki_yuito",
+    "date": "2025-09-09",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "USA",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 62,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.6
+    },
+    "notable": false
+  },
+  {
     "matchId": "mitoma-20250907",
     "playerId": "mitoma",
     "date": "2025-09-07",
@@ -3561,6 +4136,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.2
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250907",
+    "playerId": "suzuki_yuito",
+    "date": "2025-09-07",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "Mexico",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 9,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.5
     },
     "notable": false
   },
@@ -3699,6 +4297,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.9
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250831",
+    "playerId": "suzuki_yuito",
+    "date": "2025-08-31",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ケルン",
+      "score": 4
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 69,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 5.7
     },
     "notable": false
   },
@@ -3910,6 +4531,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250823",
+    "playerId": "suzuki_yuito",
+    "date": "2025-08-23",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "アウクスブルク",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 70,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kaishu-20250821",
     "playerId": "sano_kaishu",
     "date": "2025-08-21",
@@ -4067,6 +4711,29 @@
       "starting": true,
       "position": "CM",
       "rating": 8.1
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250816",
+    "playerId": "suzuki_yuito",
+    "date": "2025-08-16",
+    "competition": "DFB Pokal",
+    "homeTeam": {
+      "name": "Sportfreunde Lotte",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 28,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6
     },
     "notable": false
   },
@@ -4554,6 +5221,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250605",
+    "playerId": "suzuki_yuito",
+    "date": "2025-06-05",
+    "competition": "World Cup Qualification AFC 3rd Round Grp. C",
+    "homeTeam": {
+      "name": "Australia",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.2
+    },
+    "notable": false
+  },
+  {
     "matchId": "mitoma-20250525",
     "playerId": "mitoma",
     "date": "2025-05-25",
@@ -4621,6 +5311,29 @@
       "rating": 6.9
     },
     "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250525",
+    "playerId": "suzuki_yuito",
+    "date": "2025-05-25",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "AGF",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 89,
+      "goals": 1,
+      "assists": 1,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.6
+    },
+    "notable": true
   },
   {
     "matchId": "kubo-20250524",
@@ -4757,6 +5470,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250519",
+    "playerId": "suzuki_yuito",
+    "date": "2025-05-19",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "FC Midtjylland",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 71,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 5.4
     },
     "notable": false
   },
@@ -5014,6 +5750,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250511",
+    "playerId": "suzuki_yuito",
+    "date": "2025-05-11",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "Nordsjælland",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.4
+    },
+    "notable": true
+  },
+  {
     "matchId": "mitoma-20250510",
     "playerId": "mitoma",
     "date": "2025-05-10",
@@ -5079,6 +5838,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 7.4
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250507",
+    "playerId": "suzuki_yuito",
+    "date": "2025-05-07",
+    "competition": "DBU Pokalen",
+    "homeTeam": {
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.5
     },
     "notable": false
   },
@@ -5175,6 +5957,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250504",
+    "playerId": "suzuki_yuito",
+    "date": "2025-05-04",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "FC København",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 82,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.4
+    },
+    "notable": false
+  },
+  {
     "matchId": "shiogai-20250503",
     "playerId": "shiogai",
     "date": "2025-05-03",
@@ -5217,6 +6022,29 @@
       "starting": true,
       "position": "CM",
       "rating": 7.6
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250430",
+    "playerId": "suzuki_yuito",
+    "date": "2025-04-30",
+    "competition": "DBU Pokalen",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "Silkeborg",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.5
     },
     "notable": false
   },
@@ -5359,6 +6187,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250425",
+    "playerId": "suzuki_yuito",
+    "date": "2025-04-25",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "Randers FC",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.1
+    },
+    "notable": false
+  },
+  {
     "matchId": "kubo-20250423",
     "playerId": "kubo",
     "date": "2025-04-23",
@@ -5403,6 +6254,29 @@
       "rating": 7.1
     },
     "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250421",
+    "playerId": "suzuki_yuito",
+    "date": "2025-04-21",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 4
+    },
+    "awayTeam": {
+      "name": "Randers FC",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 77,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.4
+    },
+    "notable": true
   },
   {
     "matchId": "kubo-20250420",
@@ -5497,6 +6371,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250418",
+    "playerId": "suzuki_yuito",
+    "date": "2025-04-18",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Nordsjælland",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 23,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.2
+    },
+    "notable": false
+  },
+  {
     "matchId": "kamada-20250416",
     "playerId": "kamada",
     "date": "2025-04-16",
@@ -5539,6 +6436,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.5
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250413",
+    "playerId": "suzuki_yuito",
+    "date": "2025-04-13",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "FC København",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 89,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.3
     },
     "notable": false
   },
@@ -5656,6 +6576,29 @@
       "rating": 8.4
     },
     "notable": true
+  },
+  {
+    "matchId": "suzuki_yuito-20250407",
+    "playerId": "suzuki_yuito",
+    "date": "2025-04-07",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "AGF",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.1
+    },
+    "notable": false
   },
   {
     "matchId": "kubo-20250406",
@@ -5907,6 +6850,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 7.6
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250330",
+    "playerId": "suzuki_yuito",
+    "date": "2025-03-30",
+    "competition": "Superligaen Championship Playoff",
+    "homeTeam": {
+      "name": "FC Midtjylland",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 64,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.5
     },
     "notable": false
   },
@@ -6210,6 +7176,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20250316",
+    "playerId": "suzuki_yuito",
+    "date": "2025-03-16",
+    "competition": "Superligaen",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Silkeborg",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7
+    },
+    "notable": false
+  },
+  {
     "matchId": "mitoma-20250315",
     "playerId": "mitoma",
     "date": "2025-03-15",
@@ -6344,6 +7333,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.5
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250310",
+    "playerId": "suzuki_yuito",
+    "date": "2025-03-10",
+    "competition": "Superligaen",
+    "homeTeam": {
+      "name": "Randers FC",
+      "score": 4
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "AM",
+      "rating": 8
     },
     "notable": false
   },
@@ -6528,6 +7540,29 @@
       "starting": true,
       "position": "CDM",
       "rating": 6.2
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250303",
+    "playerId": "suzuki_yuito",
+    "date": "2025-03-03",
+    "competition": "Superligaen",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Lyngby",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 7.4
     },
     "notable": false
   },
@@ -6737,6 +7772,29 @@
       "rating": 6.5
     },
     "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20250223",
+    "playerId": "suzuki_yuito",
+    "date": "2025-02-23",
+    "competition": "Superligaen",
+    "homeTeam": {
+      "name": "Vejle Boldklub",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 2,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.9
+    },
+    "notable": true
   },
   {
     "matchId": "mitoma-20250222",
