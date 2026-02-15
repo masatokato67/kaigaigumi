@@ -23,7 +23,7 @@ export default function Header() {
             height={28}
             className="w-7 h-7 sm:w-7 sm:h-7"
           />
-          <span className="font-bold text-white text-[22px] leading-[22px] sm:text-sm whitespace-nowrap">海外組サカレポ</span>
+          <span className="font-bold text-white text-[20px] leading-[20px] sm:text-sm whitespace-nowrap">海外組サカレポ</span>
         </Link>
         <nav className="flex items-center">
           {navItems.map((item) => {
