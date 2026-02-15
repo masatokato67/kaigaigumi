@@ -1,5 +1,28 @@
 [
   {
+    "matchId": "shiogai-20260215",
+    "playerId": "shiogai",
+    "date": "2026-02-15",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ライプツィヒ",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "ヴォルフスブルク",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 60,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "ST",
+      "rating": 6.1
+    },
+    "notable": false
+  },
+  {
     "matchId": "mitoma-20260214",
     "playerId": "mitoma",
     "date": "2026-02-14",

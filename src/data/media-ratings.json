@@ -65959,5 +65959,209 @@
       }
     ],
     "lastUpdated": "2026-02-15T09:29:47.707Z"
+  },
+  {
+    "matchId": "shiogai-20260215",
+    "playerId": "shiogai",
+    "ratings": [
+      {
+        "source": "kicker",
+        "country": "ドイツ",
+        "rating": 2.7,
+        "maxRating": 6,
+        "ratingSystem": "german",
+        "comment": "Durchwachsene Leistung. Konnte sich nicht durchsetzen.",
+        "commentTranslated": "出来にムラがあった。存在感を発揮できなかった。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 6.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Durchwachsene Leistung. Konnte sich nicht durchsetzen.",
+        "commentTranslated": "出来にムラがあった。存在感を発揮できなかった。"
+      },
+      {
+        "source": "WhoScored",
+        "country": "イングランド",
+        "rating": 6.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Inconsistent showing. Flashes of brilliance but not sustained.",
+        "commentTranslated": "不安定なプレー。輝きを見せる瞬間はあったが、持続しなかった。"
+      }
+    ],
+    "averageRating": 6.3,
+    "localVoices": [
+      {
+        "id": "v1771198494160_1",
+        "username": "@ヴォルフスブルクFan",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "DE",
+        "originalText": "Ruhiges Spiel von Kento Shiogai heute gegen ライプツィヒ. 60 minutes played",
+        "translatedText": "ライプツィヒ戦で塩貝健人は静かな試合だった。(60 minutes played)"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t1771198494161_0",
+        "username": "@日本サッカーファン",
+        "verified": false,
+        "languageCode": "JA",
+        "originalText": "塩貝健人今日はちょっと静かだったけど、守備は頑張ってた。次に期待！",
+        "translatedText": "塩貝健人今日はちょっと静かだったけど、守備は頑張ってた。次に期待！",
+        "likes": 21662,
+        "retweets": 1475,
+        "replies": [
+          {
+            "id": "r1771198494161_0_0",
+            "username": "@Fan_7232",
+            "languageCode": "JA",
+            "originalText": "Quiet game but these happen. He'll be back.",
+            "translatedText": "静かな試合だったが、こういうこともある。戻ってくるだろう。",
+            "likes": 340
+          },
+          {
+            "id": "r1771198494161_0_1",
+            "username": "@Fan_9563",
+            "languageCode": "JA",
+            "originalText": "Need to see more from him but not worried.",
+            "translatedText": "もっと見たいが心配はしていない。",
+            "likes": 161
+          },
+          {
+            "id": "r1771198494161_0_2",
+            "username": "@Fan_3361",
+            "languageCode": "EN",
+            "originalText": "Not his best but still contributed. On to the next!",
+            "translatedText": "ベストではないが貢献した。次に向けて！",
+            "likes": 535
+          }
+        ]
+      },
+      {
+        "id": "t1771198494161_1",
+        "username": "@TacticsAnalyst",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Kento Shiogai had limited touches today (60 mins) but his decision-making when on the ball was still sharp.",
+        "translatedText": "塩貝健人は今日タッチ数が限られていた（60分）が、ボールを持った時の判断は依然として鋭かった。",
+        "likes": 3373,
+        "retweets": 721,
+        "replies": [
+          {
+            "id": "r1771198494161_1_0",
+            "username": "@Fan_7078",
+            "languageCode": "JA",
+            "originalText": "Not his best but still contributed. On to the next!",
+            "translatedText": "ベストではないが貢献した。次に向けて！",
+            "likes": 197
+          },
+          {
+            "id": "r1771198494161_1_1",
+            "username": "@Fan_6686",
+            "languageCode": "JA",
+            "originalText": "Need to see more from him but not worried.",
+            "translatedText": "もっと見たいが心配はしていない。",
+            "likes": 350
+          }
+        ]
+      },
+      {
+        "id": "t1771198494161_2",
+        "username": "@ヴォルフスブルクSupporter",
+        "verified": false,
+        "languageCode": "DE",
+        "originalText": "Kento Shiogai wasn't at his best today but he never stops trying. That's what we love about him.",
+        "translatedText": "塩貝健人は今日ベストではなかったが、努力を止めない。それが彼の好きなところだ。",
+        "likes": 8483,
+        "retweets": 4308,
+        "replies": [
+          {
+            "id": "r1771198494161_2_0",
+            "username": "@Fan_8341",
+            "languageCode": "JA",
+            "originalText": "Not his best but still contributed. On to the next!",
+            "translatedText": "ベストではないが貢献した。次に向けて！",
+            "likes": 186
+          },
+          {
+            "id": "r1771198494161_2_1",
+            "username": "@Fan_5447",
+            "languageCode": "JA",
+            "originalText": "Quiet game but these happen. He'll be back.",
+            "translatedText": "静かな試合だったが、こういうこともある。戻ってくるだろう。",
+            "likes": 537
+          },
+          {
+            "id": "r1771198494161_2_2",
+            "username": "@Fan_9838",
+            "languageCode": "EN",
+            "originalText": "Need to see more from him but not worried.",
+            "translatedText": "もっと見たいが心配はしていない。",
+            "likes": 66
+          }
+        ]
+      },
+      {
+        "id": "t1771198494161_3",
+        "username": "@ブンデスリーガReporter",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Kento Shiogai with a quiet game against ライプツィヒ. Not his best but showed glimpses of quality.",
+        "translatedText": "塩貝健人のライプツィヒ戦は静かな試合だった。ベストではないが質の高さを垣間見せた。",
+        "likes": 7060,
+        "retweets": 3811,
+        "replies": [
+          {
+            "id": "r1771198494161_3_0",
+            "username": "@Fan_9726",
+            "languageCode": "JA",
+            "originalText": "Need to see more from him but not worried.",
+            "translatedText": "もっと見たいが心配はしていない。",
+            "likes": 518
+          },
+          {
+            "id": "r1771198494161_3_1",
+            "username": "@Fan_8582",
+            "languageCode": "JA",
+            "originalText": "Not his best but still contributed. On to the next!",
+            "translatedText": "ベストではないが貢献した。次に向けて！",
+            "likes": 520
+          }
+        ]
+      },
+      {
+        "id": "t1771198494161_4",
+        "username": "@VfLWolfsburg",
+        "verified": true,
+        "languageCode": "DE",
+        "originalText": "Full time: Kento Shiogai played his part in today's match vs ライプツィヒ.",
+        "translatedText": "試合終了：塩貝健人がライプツィヒ戦に出場。",
+        "likes": 2649,
+        "retweets": 4909,
+        "replies": [
+          {
+            "id": "r1771198494161_4_0",
+            "username": "@Fan_2372",
+            "languageCode": "EN",
+            "originalText": "Need to see more from him but not worried.",
+            "translatedText": "もっと見たいが心配はしていない。",
+            "likes": 471
+          },
+          {
+            "id": "r1771198494161_4_1",
+            "username": "@Fan_2360",
+            "languageCode": "EN",
+            "originalText": "Not his best but still contributed. On to the next!",
+            "translatedText": "ベストではないが貢献した。次に向けて！",
+            "likes": 52
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-02-15T23:34:54.161Z"
   }
 ]
