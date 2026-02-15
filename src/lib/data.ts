@@ -87,8 +87,10 @@ export function getRecentMatches(limit: number = 10): Match[] {
     .slice(0, limit);
 }
 
-export function getFeaturedPlayers(): Player[] {
-  return players.filter((p) => p.featured);
+export function getFeaturedPlayers(limit: number = 6): Player[] {
+  return [...players]
+    .sort((a, b) => b.seasonStats.averageRating - a.seasonStats.averageRating)
+    .slice(0, limit);
 }
 
 export function getSeasonAggregateStats() {
