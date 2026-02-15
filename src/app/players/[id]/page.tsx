@@ -38,7 +38,7 @@ export default async function PlayerDetailPage({
 
   const matches = getMatchesByPlayerId(id);
   const ratingData = matches
-    .slice()
+    .slice(0, 10) // 最新10試合のみ
     .sort((a, b) => a.date.localeCompare(b.date))
     .map((m) => ({
       date: m.date,
