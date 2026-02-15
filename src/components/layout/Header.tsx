@@ -14,16 +14,16 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 bg-[#0a0e1a]/95 backdrop-blur-sm border-b border-gray-800">
-      <div className="max-w-6xl mx-auto px-3 sm:px-4 h-12 sm:h-14 flex items-center justify-between">
-        <Link href="/" className="flex items-center gap-1 shrink-0">
+      <div className="max-w-6xl mx-auto px-3 sm:px-4 h-14 sm:h-14 flex items-center justify-between">
+        <Link href="/" className="flex items-center gap-1.5 shrink-0">
           <Image
             src="/images/logo.png"
             alt="海外組サカレポ"
-            width={24}
-            height={24}
-            className="w-6 h-6 sm:w-7 sm:h-7"
+            width={28}
+            height={28}
+            className="w-7 h-7 sm:w-7 sm:h-7"
           />
-          <span className="font-bold text-white text-xs sm:text-sm whitespace-nowrap">海外組サカレポ</span>
+          <span className="font-bold text-white text-[22px] leading-[22px] sm:text-sm whitespace-nowrap">海外組サカレポ</span>
         </Link>
         <nav className="flex items-center">
           {navItems.map((item) => {
@@ -35,7 +35,7 @@ export default function Header() {
               <Link
                 key={item.href}
                 href={item.href}
-                className={`px-2 py-1 sm:py-1.5 rounded-md text-xs sm:text-sm font-medium transition-colors whitespace-nowrap ${
+                className={`px-2.5 py-1.5 sm:py-1.5 rounded-md text-sm sm:text-sm font-medium transition-colors whitespace-nowrap ${
                   isActive
                     ? "bg-red-600 text-white"
                     : "text-gray-400 hover:text-white"
@@ -44,7 +44,7 @@ export default function Header() {
                 <span className="inline-flex items-center gap-1">
                   {item.icon === "home" && (
                     <svg
-                      className="w-4 h-4"
+                      className="w-5 h-5 sm:w-4 sm:h-4"
                       fill="currentColor"
                       viewBox="0 0 20 20"
                     >
@@ -53,7 +53,7 @@ export default function Header() {
                   )}
                   {item.icon === "players" && (
                     <svg
-                      className="w-4 h-4"
+                      className="w-5 h-5 sm:w-4 sm:h-4"
                       fill="currentColor"
                       viewBox="0 0 20 20"
                     >
