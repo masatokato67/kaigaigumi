@@ -117,3 +117,25 @@ export function getMediaAverageRating(matchId: string): number | undefined {
   const media = mediaRatings.find((mr) => mr.matchId === matchId);
   return media?.averageRating;
 }
+
+export function getTopRatedMatches(limit: number = 10): Match[] {
+  const oneMonthAgo = new Date();
+  oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
+  const oneMonthAgoStr = oneMonthAgo.toISOString().split("T")[0];
+
+  // 1ヶ月以内の試合をフィルタし、メディア平均評価でソート
+  const recentMatches = matches.filter((m) => m.date >= oneMonthAgoStr);
+
+  const matchesWithRating = recentMatches.map((match) => {
+    const mediaRating = getMediaAverageRating(match.matchId);
+    return {
+      match,
+      rating: mediaRating ?? match.playerStats.rating,
+    };
+  });
+
+  return matchesWithRating
+    .sort((a, b) => b.rating - a.rating)
+    .slice(0, limit)
+    .map((item) => item.match);
+}

@@ -5,6 +5,7 @@ import FeaturedPlayerCard from "@/components/top/FeaturedPlayerCard";
 import SeasonStatsSummary from "@/components/top/SeasonStatsSummary";
 import {
   getRecentMatches,
+  getTopRatedMatches,
   getFeaturedPlayers,
   getSeasonAggregateStats,
   getPlayerById,
@@ -12,6 +13,7 @@ import {
 
 export default function Home() {
   const recentMatches = getRecentMatches(10);
+  const topRatedMatches = getTopRatedMatches(10);
   const featuredPlayers = getFeaturedPlayers();
   const seasonStats = getSeasonAggregateStats();
 
@@ -32,6 +34,32 @@ export default function Home() {
         </div>
         <div className="flex gap-4 overflow-x-auto scrollbar-hide pb-4">
           {recentMatches.map((match) => {
+            const player = getPlayerById(match.playerId);
+            if (!player) return null;
+            return (
+              <MatchResultCard
+                key={match.matchId}
+                match={match}
+                player={player}
+              />
+            );
+          })}
+        </div>
+      </section>
+
+      {/* Top Rated Matches */}
+      <section className="max-w-6xl mx-auto px-4 py-12">
+        <div className="flex items-center gap-2 mb-6">
+          <div className="w-1 h-8 bg-yellow-500 rounded" />
+          <div>
+            <p className="text-yellow-500 text-xs font-medium tracking-wider">
+              HIGHLIGHTS
+            </p>
+            <h2 className="text-xl font-bold">注目の試合結果</h2>
+          </div>
+        </div>
+        <div className="flex gap-4 overflow-x-auto scrollbar-hide pb-4">
+          {topRatedMatches.map((match) => {
             const player = getPlayerById(match.playerId);
             if (!player) return null;
             return (
