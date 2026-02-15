@@ -112,3 +112,8 @@ export function getHighlightVideoByMatchId(
   }
   return undefined;
 }
+
+export function getMediaAverageRating(matchId: string): number | undefined {
+  const media = mediaRatings.find((mr) => mr.matchId === matchId);
+  return media?.averageRating;
+}

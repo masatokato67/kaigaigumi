@@ -1,5 +1,6 @@
 import Link from "next/link";
 import RatingBadge from "@/components/ui/RatingBadge";
+import { getMediaAverageRating } from "@/lib/data";
 import type { Match } from "@/lib/types";
 
 export default function PlayerMatchList({
@@ -9,6 +10,8 @@ export default function PlayerMatchList({
   matches: Match[];
   playerId: string;
 }) {
+  const getRating = (match: Match) =>
+    getMediaAverageRating(match.matchId) ?? match.playerStats.rating;
   return (
     <div className="bg-[#131829] rounded-xl p-6 border border-gray-800">
       <div className="flex items-center gap-2 mb-4">
@@ -59,7 +62,7 @@ export default function PlayerMatchList({
                   )}
                 </div>
               </div>
-              <RatingBadge rating={match.playerStats.rating} size="md" />
+              <RatingBadge rating={getRating(match)} size="md" />
             </div>
           </Link>
         ))}

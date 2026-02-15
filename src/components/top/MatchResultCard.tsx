@@ -1,5 +1,6 @@
 import Link from "next/link";
 import RatingBadge from "@/components/ui/RatingBadge";
+import { getMediaAverageRating } from "@/lib/data";
 import type { Match, Player } from "@/lib/types";
 
 export default function MatchResultCard({
@@ -9,6 +10,7 @@ export default function MatchResultCard({
   match: Match;
   player: Player;
 }) {
+  const rating = getMediaAverageRating(match.matchId) ?? match.playerStats.rating;
   return (
     <Link
       href={`/players/${match.playerId}/matches/${match.matchId}`}
@@ -44,7 +46,7 @@ export default function MatchResultCard({
             </span>
           </div>
         </div>
-        <RatingBadge rating={match.playerStats.rating} size="sm" />
+        <RatingBadge rating={rating} size="sm" />
       </div>
     </Link>
   );
