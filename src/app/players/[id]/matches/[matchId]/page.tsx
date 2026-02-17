@@ -12,6 +12,7 @@ import {
   getHighlightVideoByMatchId,
   getAllMatches,
 } from "@/lib/data";
+import AdBanner from "@/components/ads/AdBanner";
 
 export function generateStaticParams() {
   const matches = getAllMatches();
@@ -73,6 +74,11 @@ export default async function MatchDetailPage({
         </div>
       )}
 
+      {/* Ad Banner 1 */}
+      <div className="mt-8">
+        <AdBanner slot="match-1" format="horizontal" />
+      </div>
+
       {mediaData && mediaData.localVoices.length > 0 && (
         <div className="mt-8">
           <LocalVoices voices={mediaData.localVoices} />
@@ -84,6 +90,11 @@ export default async function MatchDetailPage({
           <XThreads threads={mediaData.xThreads} />
         </div>
       )}
+
+      {/* Ad Banner 2 */}
+      <div className="mt-8">
+        <AdBanner slot="match-2" format="horizontal" />
+      </div>
     </div>
   );
 }

@@ -3,6 +3,7 @@ import HeroSection from "@/components/top/HeroSection";
 import MatchResultCard from "@/components/top/MatchResultCard";
 import FeaturedPlayerCard from "@/components/top/FeaturedPlayerCard";
 import SeasonStatsSummary from "@/components/top/SeasonStatsSummary";
+import AdBanner from "@/components/ads/AdBanner";
 import {
   getRecentMatches,
   getTopRatedMatches,
@@ -45,6 +46,11 @@ export default function Home() {
             );
           })}
         </div>
+      </section>
+
+      {/* Ad Banner 1 */}
+      <section className="max-w-6xl mx-auto px-4 py-6">
+        <AdBanner slot="home-1" format="horizontal" />
       </section>
 
       {/* Top Rated Matches */}
@@ -110,6 +116,11 @@ export default function Home() {
             <FeaturedPlayerCard key={player.id} player={player} />
           ))}
         </div>
+      </section>
+
+      {/* Ad Banner 2 */}
+      <section className="max-w-6xl mx-auto px-4 py-6">
+        <AdBanner slot="home-2" format="horizontal" />
       </section>
 
       {/* Season Stats */}
