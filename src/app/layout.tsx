@@ -26,6 +26,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ja">
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2824221352087137"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body
         className={`${notoSansJP.variable} font-sans antialiased bg-[#0a0e1a] text-white min-h-screen`}
       >

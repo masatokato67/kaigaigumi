@@ -45,7 +45,7 @@ export default function AdBanner({
       <ins
         className="adsbygoogle"
         style={{ display: "block" }}
-        data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" // TODO: Publisher IDを設定
+        data-ad-client="ca-pub-2824221352087137"
         data-ad-slot={slot}
         data-ad-format="auto"
         data-full-width-responsive="true"
