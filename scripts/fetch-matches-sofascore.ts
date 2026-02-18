@@ -334,6 +334,206 @@ function randomChoice<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
+// リプライのユーザー名テンプレート
+const REPLY_USERNAMES = [
+  "@FootballFan_JP", "@SoccerLover99", "@JLeagueWatcher", "@EuroFootball_",
+  "@TacticsNerd", "@MatchdayVibes", "@GoalDigger_", "@PitchSideView",
+  "@FootyAnalysis", "@SamuraiBlue_Fan", "@BundesligaFan", "@LaLigaLover",
+  "@PremFan2024", "@EredivisieFan", "@SerieAWatch", "@FootballTruth_"
+];
+
+// ポジティブなリプライテンプレート（英語）
+const POSITIVE_REPLIES_EN: Record<string, string[]> = {
+  excellent: [
+    "Absolutely world class today! 🔥",
+    "Best player on the pitch, no doubt!",
+    "This is why top clubs are watching him 👀",
+    "Incredible performance. Keep it up! 💪",
+    "What a display! Europe's elite should take notice.",
+  ],
+  good: [
+    "Solid game from him today 👍",
+    "Always reliable. Great asset for the team.",
+    "Good performance, building momentum.",
+    "Impressed with his work rate today!",
+    "Consistent as always. Well done! 💪",
+  ],
+  average: [
+    "Not bad, room for improvement though",
+    "Decent effort, will be better next time",
+    "Okay performance, I believe in him",
+    "Average day but still contributed",
+    "He'll bounce back stronger 💪",
+  ],
+  poor: [
+    "Rough day but everyone has off days",
+    "Not his best but he'll come back stronger",
+    "Bad game happens, still support him!",
+    "Keep your head up! Next game will be better",
+    "One bad game doesn't define a player",
+  ],
+};
+
+// ネガティブなリプライテンプレート（英語）
+const NEGATIVE_REPLIES_EN: Record<string, string[]> = {
+  excellent: [
+    "Good game but let's see consistency first",
+    "One good game doesn't make him elite",
+    "Still needs to improve decision making",
+    "Decent but overhyped imo",
+    "Good performance but the team carried him sometimes",
+  ],
+  good: [
+    "Expected more from him tbh",
+    "Could have done better in key moments",
+    "Not as impactful as the stats suggest",
+    "Average at best, don't get the hype",
+    "Needs to step up in bigger games",
+  ],
+  average: [
+    "Invisible for most of the game...",
+    "Not good enough for this level",
+    "Disappointing, expected more",
+    "Where was he when it mattered?",
+    "Needs to do more to justify his place",
+  ],
+  poor: [
+    "Worst performance I've seen from him",
+    "Maybe not ready for this level yet?",
+    "Time to bench him for a while",
+    "Terrible game. No excuses.",
+    "Honestly, he let the team down today",
+  ],
+};
+
+// ポジティブなリプライテンプレート（日本語）
+const POSITIVE_REPLIES_JA: Record<string, string[]> = {
+  excellent: [
+    "今日は本当に素晴らしかった！🔥",
+    "ピッチで一番の選手だった！",
+    "トップクラブが注目するのも納得 👀",
+    "信じられないパフォーマンス。この調子で！💪",
+    "さすが！欧州のビッグクラブも見てるはず。",
+  ],
+  good: [
+    "今日も安定した試合だった 👍",
+    "いつも信頼できる。チームの財産だね。",
+    "良いパフォーマンス、勢いが出てきた。",
+    "今日の運動量には感心した！",
+    "相変わらず安定してる。よくやった！💪",
+  ],
+  average: [
+    "悪くはない、でも改善の余地はあるかな",
+    "まあまあの出来、次はもっとやれる",
+    "普通のパフォーマンスだったけど、信じてる",
+    "平均的な日だったけど、貢献はした",
+    "次はもっと強く戻ってくるよ 💪",
+  ],
+  poor: [
+    "厳しい日だったけど、誰にでもある",
+    "ベストじゃなかったけど、挽回するよ",
+    "悪い試合もある、それでも応援！",
+    "頭を上げて！次の試合は良くなる",
+    "1試合の悪いゲームで選手は決まらない",
+  ],
+};
+
+// ネガティブなリプライテンプレート（日本語）
+const NEGATIVE_REPLIES_JA: Record<string, string[]> = {
+  excellent: [
+    "良い試合だけど、継続性を見せてほしい",
+    "1試合良くても、それでエリートとは言えない",
+    "まだ判断力の改善が必要だと思う",
+    "まあまあだけど、過大評価されすぎでは",
+    "良いパフォーマンスだけど、チームに助けられた場面も",
+  ],
+  good: [
+    "正直もっと期待してた",
+    "重要な場面でもっとできたはず",
+    "スタッツほどインパクトなかった",
+    "正直平均的。なぜ騒がれてるのかわからない",
+    "大きな試合でもっと活躍しないと",
+  ],
+  average: [
+    "試合のほとんどで存在感なかった...",
+    "このレベルには足りてないかも",
+    "がっかり、もっとできると思ってた",
+    "肝心な時にどこにいた？",
+    "ポジション確保するにはもっとやらないと",
+  ],
+  poor: [
+    "今まで見た中で最悪のパフォーマンス",
+    "このレベルにはまだ早いのかも？",
+    "しばらくベンチでいいと思う",
+    "ひどい試合。言い訳できない。",
+    "正直、今日はチームの足を引っ張った",
+  ],
+};
+
+/**
+ * スレッドへのリプライを生成
+ */
+function generateReplies(
+  matchId: string,
+  threadIndex: number,
+  player: Player,
+  ratingLevel: string,
+  count: number = 3
+): { id: string; username: string; languageCode: string; originalText: string; translatedText: string; likes: number }[] {
+  const replies = [];
+  const usedUsernames = new Set<string>();
+
+  for (let i = 0; i < count; i++) {
+    // ランダムなユーザー名を選択（重複なし）
+    let username;
+    do {
+      username = randomChoice(REPLY_USERNAMES);
+    } while (usedUsernames.has(username));
+    usedUsernames.add(username);
+
+    // ポジティブかネガティブかをランダムに決定（6:4の比率）
+    const isPositive = Math.random() < 0.6;
+
+    // 言語をランダムに決定（英語:日本語 = 5:5）
+    const isEnglish = Math.random() < 0.5;
+
+    let originalText: string;
+    let translatedText: string;
+
+    if (isEnglish) {
+      if (isPositive) {
+        originalText = randomChoice(POSITIVE_REPLIES_EN[ratingLevel]);
+        // 日本語訳を生成
+        const jaIdx = POSITIVE_REPLIES_EN[ratingLevel].indexOf(originalText);
+        translatedText = POSITIVE_REPLIES_JA[ratingLevel][jaIdx] || POSITIVE_REPLIES_JA[ratingLevel][0];
+      } else {
+        originalText = randomChoice(NEGATIVE_REPLIES_EN[ratingLevel]);
+        const jaIdx = NEGATIVE_REPLIES_EN[ratingLevel].indexOf(originalText);
+        translatedText = NEGATIVE_REPLIES_JA[ratingLevel][jaIdx] || NEGATIVE_REPLIES_JA[ratingLevel][0];
+      }
+    } else {
+      if (isPositive) {
+        originalText = randomChoice(POSITIVE_REPLIES_JA[ratingLevel]);
+        translatedText = ""; // 日本語なので翻訳不要
+      } else {
+        originalText = randomChoice(NEGATIVE_REPLIES_JA[ratingLevel]);
+        translatedText = "";
+      }
+    }
+
+    replies.push({
+      id: `r_${matchId}_${threadIndex}_${i + 1}`,
+      username,
+      languageCode: isEnglish ? "EN" : "JA",
+      originalText,
+      translatedText,
+      likes: Math.floor(10 + Math.random() * 500),
+    });
+  }
+
+  return replies;
+}
+
 /**
  * メディア評価データを生成
  */
@@ -375,7 +575,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
     translatedText: generateVoiceCommentJa(player, match, ratingLevel),
   }));
 
-  // Xスレッドを生成
+  // Xスレッドを生成（各スレッドに2-4件のリプライを追加）
   const xThreads = [
     // 1. リーグ公式ニュース（英語）
     {
@@ -387,7 +587,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: `${match.homeTeam.name} ${match.homeTeam.score}-${match.awayTeam.score} ${match.awayTeam.name}。${player.name.ja}は${match.playerStats.minutesPlayed}分間プレー。`,
       likes: Math.floor(500 + Math.random() * 2000),
       retweets: Math.floor(50 + Math.random() * 300),
-      replies: [],
+      replies: generateReplies(match.matchId, 1, player, ratingLevel, 3),
     },
     // 2. 日本サッカーニュース
     {
@@ -399,7 +599,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: "",
       likes: Math.floor(1000 + Math.random() * 3000),
       retweets: Math.floor(100 + Math.random() * 500),
-      replies: [],
+      replies: generateReplies(match.matchId, 2, player, ratingLevel, 4),
     },
     // 3. 現地サポーターの反応
     {
@@ -411,7 +611,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: generateFanThreadCommentJa(player, match, ratingLevel),
       likes: Math.floor(200 + Math.random() * 1000),
       retweets: Math.floor(20 + Math.random() * 100),
-      replies: [],
+      replies: generateReplies(match.matchId, 3, player, ratingLevel, 3),
     },
     // 4. サッカーアナリスト
     {
@@ -423,7 +623,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: generateAnalystCommentJa(player, match, ratingLevel),
       likes: Math.floor(300 + Math.random() * 1500),
       retweets: Math.floor(30 + Math.random() * 200),
-      replies: [],
+      replies: generateReplies(match.matchId, 4, player, ratingLevel, 2),
     },
   ];
 
@@ -440,7 +640,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: "",
       likes: Math.floor(3000 + Math.random() * 5000),
       retweets: Math.floor(500 + Math.random() * 1000),
-      replies: [],
+      replies: generateReplies(match.matchId, 5, player, ratingLevel, 4),
     });
   }
 
@@ -455,7 +655,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: "",
       likes: Math.floor(2000 + Math.random() * 4000),
       retweets: Math.floor(400 + Math.random() * 800),
-      replies: [],
+      replies: generateReplies(match.matchId, 6, player, ratingLevel, 3),
     });
   }
 
