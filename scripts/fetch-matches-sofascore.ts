@@ -471,7 +471,7 @@ const NEGATIVE_REPLIES_JA: Record<string, string[]> = {
 };
 
 /**
- * スレッドへのリプライを生成
+ * スレッドへのリプライを生成（英語のみ）
  */
 function generateReplies(
   matchId: string,
@@ -482,6 +482,7 @@ function generateReplies(
 ): { id: string; username: string; languageCode: string; originalText: string; translatedText: string; likes: number }[] {
   const replies = [];
   const usedUsernames = new Set<string>();
+  const usedComments = new Set<string>();
 
   for (let i = 0; i < count; i++) {
     // ランダムなユーザー名を選択（重複なし）
@@ -494,16 +495,14 @@ function generateReplies(
     // ポジティブかネガティブかをランダムに決定（6:4の比率）
     const isPositive = Math.random() < 0.6;
 
-    // 言語をランダムに決定（英語:日本語 = 5:5）
-    const isEnglish = Math.random() < 0.5;
-
+    // 英語コメントのみ使用
     let originalText: string;
     let translatedText: string;
 
-    if (isEnglish) {
+    // 重複しないコメントを選択
+    do {
       if (isPositive) {
         originalText = randomChoice(POSITIVE_REPLIES_EN[ratingLevel]);
-        // 日本語訳を生成
         const jaIdx = POSITIVE_REPLIES_EN[ratingLevel].indexOf(originalText);
         translatedText = POSITIVE_REPLIES_JA[ratingLevel][jaIdx] || POSITIVE_REPLIES_JA[ratingLevel][0];
       } else {
@@ -511,20 +510,13 @@ function generateReplies(
         const jaIdx = NEGATIVE_REPLIES_EN[ratingLevel].indexOf(originalText);
         translatedText = NEGATIVE_REPLIES_JA[ratingLevel][jaIdx] || NEGATIVE_REPLIES_JA[ratingLevel][0];
       }
-    } else {
-      if (isPositive) {
-        originalText = randomChoice(POSITIVE_REPLIES_JA[ratingLevel]);
-        translatedText = ""; // 日本語なので翻訳不要
-      } else {
-        originalText = randomChoice(NEGATIVE_REPLIES_JA[ratingLevel]);
-        translatedText = "";
-      }
-    }
+    } while (usedComments.has(originalText) && usedComments.size < 8);
+    usedComments.add(originalText);
 
     replies.push({
       id: `r_${matchId}_${threadIndex}_${i + 1}`,
       username,
-      languageCode: isEnglish ? "EN" : "JA",
+      languageCode: "EN",
       originalText,
       translatedText,
       likes: Math.floor(10 + Math.random() * 500),
