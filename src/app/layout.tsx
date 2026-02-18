@@ -15,8 +15,14 @@ export const metadata: Metadata = {
   description:
     "日本人選手の海外での活躍を詳細に追跡。試合結果、スタッツ、現地の評価まで全てをカバー。",
   icons: {
-    icon: "/favicon.ico",
+    icon: [
+      { url: "/favicon.ico", sizes: "48x48" },
+      { url: "/icon-192.png", type: "image/png", sizes: "192x192" },
+      { url: "/icon-512.png", type: "image/png", sizes: "512x512" },
+    ],
+    apple: "/apple-touch-icon.png",
   },
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({
