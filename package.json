@@ -11,9 +11,10 @@
     "add-voice": "tsx scripts/add-local-voice.ts",
     "add-thread": "tsx scripts/add-x-thread.ts",
     "update-stats": "tsx scripts/update-stats.ts",
-    "fetch-matches": "tsx scripts/fetch-matches.ts",
+    "fetch-matches": "tsx scripts/fetch-matches-sofascore.ts",
+    "fetch-matches-fotmob": "tsx scripts/fetch-matches.ts",
     "generate-content": "tsx scripts/generate-content.ts",
-    "auto-update": "tsx scripts/fetch-matches.ts && tsx scripts/generate-content.ts && tsx scripts/update-stats.ts",
+    "auto-update": "tsx scripts/fetch-matches-sofascore.ts && tsx scripts/generate-content.ts && tsx scripts/update-stats.ts",
     "manual-add": "tsx scripts/manual-add-match.ts"
   },
   "dependencies": {
