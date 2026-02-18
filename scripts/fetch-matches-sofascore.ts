@@ -377,6 +377,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
 
   // Xスレッドを生成
   const xThreads = [
+    // 1. リーグ公式ニュース（英語）
     {
       id: `t_${match.matchId}_1`,
       username: `@${match.competition.replace(/[・\s]/g, "")}News`,
@@ -388,6 +389,7 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       retweets: Math.floor(50 + Math.random() * 300),
       replies: [],
     },
+    // 2. 日本サッカーニュース
     {
       id: `t_${match.matchId}_2`,
       username: "@JFootballNews",
@@ -399,14 +401,38 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       retweets: Math.floor(100 + Math.random() * 500),
       replies: [],
     },
+    // 3. 現地サポーターの反応
+    {
+      id: `t_${match.matchId}_3`,
+      username: `@${player.club.shortName.replace(/[・\s]/g, "")}Fans`,
+      verified: false,
+      languageCode: "EN",
+      originalText: generateFanThreadComment(player, match, ratingLevel),
+      translatedText: generateFanThreadCommentJa(player, match, ratingLevel),
+      likes: Math.floor(200 + Math.random() * 1000),
+      retweets: Math.floor(20 + Math.random() * 100),
+      replies: [],
+    },
+    // 4. サッカーアナリスト
+    {
+      id: `t_${match.matchId}_4`,
+      username: "@FootballAnalyst",
+      verified: true,
+      languageCode: "EN",
+      originalText: generateAnalystComment(player, match, ratingLevel),
+      translatedText: generateAnalystCommentJa(player, match, ratingLevel),
+      likes: Math.floor(300 + Math.random() * 1500),
+      retweets: Math.floor(30 + Math.random() * 200),
+      replies: [],
+    },
   ];
 
-  // ゴールやアシストがあれば追加スレッド
+  // 5. ゴールやアシストがあれば追加スレッド
   if (match.playerStats.goals > 0 || match.playerStats.assists > 0) {
     const goalText = match.playerStats.goals > 0 ? `⚽ ${match.playerStats.goals}ゴール` : "";
     const assistText = match.playerStats.assists > 0 ? `🅰️ ${match.playerStats.assists}アシスト` : "";
     xThreads.push({
-      id: `t_${match.matchId}_3`,
+      id: `t_${match.matchId}_5`,
       username: "@SoccerKingJP",
       verified: true,
       languageCode: "JA",
@@ -414,6 +440,21 @@ function generateMediaRating(match: Match, player: Player): MediaRating {
       translatedText: "",
       likes: Math.floor(3000 + Math.random() * 5000),
       retweets: Math.floor(500 + Math.random() * 1000),
+      replies: [],
+    });
+  }
+
+  // 6. 高評価の場合は追加スレッド
+  if (ratingLevel === "excellent") {
+    xThreads.push({
+      id: `t_${match.matchId}_6`,
+      username: "@WorldSoccerJP",
+      verified: true,
+      languageCode: "JA",
+      originalText: `🌟 ${player.name.ja}が圧巻のパフォーマンス！評価${averageRating}でチームを牽引。${match.competition}で存在感を示す。`,
+      translatedText: "",
+      likes: Math.floor(2000 + Math.random() * 4000),
+      retweets: Math.floor(400 + Math.random() * 800),
       replies: [],
     });
   }
@@ -481,6 +522,122 @@ function generateVoiceCommentJa(player: Player, match: Match, level: string): st
       `${player.name.ja}にとってベストの日ではなかった。次は挽回してくれるだろう。`,
       `${player.name.ja}は今日苦しんだ。厳しい試合だった。`,
       `${player.name.ja}は静かな試合だった。改善が必要。`,
+    ],
+  };
+  return randomChoice(templates[level]);
+}
+
+/**
+ * ファンスレッドコメントを生成（英語）
+ */
+function generateFanThreadComment(player: Player, match: Match, level: string): string {
+  const templates: Record<string, string[]> = {
+    excellent: [
+      `${player.name.en} is on fire! 🔥 What a player we have!`,
+      `Incredible display from ${player.name.en}! This is why we love him!`,
+      `${player.name.en} proving his worth once again. Absolutely brilliant!`,
+    ],
+    good: [
+      `Another solid performance from ${player.name.en}. Keep it up! 💪`,
+      `${player.name.en} did well today. Good to see him contributing.`,
+      `Happy with ${player.name.en}'s work rate. Important player for us.`,
+    ],
+    average: [
+      `${player.name.en} had an okay game. Nothing spectacular but got the job done.`,
+      `Decent effort from ${player.name.en}. Room for improvement though.`,
+      `${player.name.en} was alright. We know he can do better.`,
+    ],
+    poor: [
+      `Tough day for ${player.name.en}. Hope he bounces back soon.`,
+      `Not ${player.name.en}'s day today. We still support him! 🙌`,
+      `${player.name.en} struggled but these things happen. Next time!`,
+    ],
+  };
+  return randomChoice(templates[level]);
+}
+
+/**
+ * ファンスレッドコメントを生成（日本語）
+ */
+function generateFanThreadCommentJa(player: Player, match: Match, level: string): string {
+  const templates: Record<string, string[]> = {
+    excellent: [
+      `${player.name.ja}が絶好調！🔥 素晴らしい選手だ！`,
+      `${player.name.ja}の信じられないプレー！だから彼が大好きなんだ！`,
+      `${player.name.ja}がまたしても価値を証明。本当に素晴らしい！`,
+    ],
+    good: [
+      `${player.name.ja}、またしても堅実なパフォーマンス。この調子で！💪`,
+      `${player.name.ja}は今日良いプレーをした。貢献してくれて嬉しい。`,
+      `${player.name.ja}の運動量に満足。チームにとって重要な選手だ。`,
+    ],
+    average: [
+      `${player.name.ja}はまあまあの試合だった。派手ではないが仕事はした。`,
+      `${player.name.ja}、まずまずの出来。改善の余地はある。`,
+      `${player.name.ja}は悪くなかった。もっとできることはわかってる。`,
+    ],
+    poor: [
+      `${player.name.ja}にとって厳しい日だった。早く復調してほしい。`,
+      `今日は${player.name.ja}の日ではなかった。それでも応援してる！🙌`,
+      `${player.name.ja}は苦しんだが、こういうこともある。次がある！`,
+    ],
+  };
+  return randomChoice(templates[level]);
+}
+
+/**
+ * アナリストコメントを生成（英語）
+ */
+function generateAnalystComment(player: Player, match: Match, level: string): string {
+  const templates: Record<string, string[]> = {
+    excellent: [
+      `${player.name.en} with an outstanding tactical display. Reading the game brilliantly.`,
+      `Key stats for ${player.name.en}: ${match.playerStats.minutesPlayed}min played, excellent positioning throughout.`,
+      `${player.name.en} dominated his zone. Top-class technical ability on show.`,
+    ],
+    good: [
+      `${player.name.en} showed good decision-making today. Solid overall contribution.`,
+      `Positive stats for ${player.name.en}: ${match.playerStats.minutesPlayed}min, efficient in his role.`,
+      `${player.name.en} maintaining consistency. Professional performance.`,
+    ],
+    average: [
+      `${player.name.en} had mixed moments. Some good, some areas to work on.`,
+      `Stats show ${player.name.en} was average today. ${match.playerStats.minutesPlayed}min played.`,
+      `${player.name.en} needs to find more consistency in his game.`,
+    ],
+    poor: [
+      `${player.name.en} struggled with the tactical setup today. Needs adjustment.`,
+      `Below-par performance from ${player.name.en}. Limited impact on the game.`,
+      `${player.name.en} will want to forget this one. Room for improvement.`,
+    ],
+  };
+  return randomChoice(templates[level]);
+}
+
+/**
+ * アナリストコメントを生成（日本語）
+ */
+function generateAnalystCommentJa(player: Player, match: Match, level: string): string {
+  const templates: Record<string, string[]> = {
+    excellent: [
+      `${player.name.ja}、傑出した戦術的なプレー。試合を見事に読んでいた。`,
+      `${player.name.ja}の主要スタッツ：${match.playerStats.minutesPlayed}分出場、試合を通じて優れたポジショニング。`,
+      `${player.name.ja}がゾーンを支配。トップクラスの技術力を披露。`,
+    ],
+    good: [
+      `${player.name.ja}、今日は良い判断力を見せた。全体的に堅実な貢献。`,
+      `${player.name.ja}のポジティブなスタッツ：${match.playerStats.minutesPlayed}分、役割を効率的にこなした。`,
+      `${player.name.ja}、安定感を維持。プロフェッショナルなパフォーマンス。`,
+    ],
+    average: [
+      `${player.name.ja}、良い場面と改善が必要な場面が混在。`,
+      `スタッツは${player.name.ja}が今日は平均的だったことを示す。${match.playerStats.minutesPlayed}分出場。`,
+      `${player.name.ja}、プレーの一貫性をもっと見つける必要がある。`,
+    ],
+    poor: [
+      `${player.name.ja}、今日の戦術的セットアップに苦しんだ。調整が必要。`,
+      `${player.name.ja}、期待以下のパフォーマンス。試合への影響は限定的。`,
+      `${player.name.ja}、この試合は忘れたいだろう。改善の余地あり。`,
     ],
   };
   return randomChoice(templates[level]);
