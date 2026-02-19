@@ -32650,6 +32650,215 @@
     "lastUpdated": "2026-02-15T09:29:47.705Z"
   },
   {
+    "matchId": "kamada-20260219",
+    "playerId": "kamada",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 6.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v_kamada-20260219_1",
+        "username": "@クリスタルパレス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada had a solid game. Good contribution overall.",
+        "translatedText": "鎌田大地のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_kamada-20260219_2",
+        "username": "@クリスタルパレス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada showing why he's so valuable to the team.",
+        "translatedText": "鎌田大地は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_kamada-20260219_3",
+        "username": "@クリスタルパレス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada had a solid game. Good contribution overall.",
+        "translatedText": "鎌田大地は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_kamada-20260219_1",
+        "username": "@カンファレンスリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "HŠK Zrinjski Mostar 1-1 クリスタルパレス. Daichi Kamada played 90 minutes.",
+        "translatedText": "HŠK Zrinjski Mostar 1-1 クリスタルパレス。鎌田大地は90分間プレー。",
+        "likes": 1328,
+        "retweets": 133,
+        "replies": [
+          {
+            "id": "r_kamada-20260219_1_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 415
+          },
+          {
+            "id": "r_kamada-20260219_1_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 163
+          },
+          {
+            "id": "r_kamada-20260219_1_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 349
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260219_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鎌田大地】カンファレンスリーグ第19節、HŠK Zrinjski Mostar vs クリスタルパレスで90分出場。評価6.8を獲得。",
+        "translatedText": "",
+        "likes": 2239,
+        "retweets": 178,
+        "replies": [
+          {
+            "id": "r_kamada-20260219_2_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 450
+          },
+          {
+            "id": "r_kamada-20260219_2_2",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 462
+          },
+          {
+            "id": "r_kamada-20260219_2_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 470
+          },
+          {
+            "id": "r_kamada-20260219_2_4",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 134
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260219_3",
+        "username": "@クリスタルパレスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada did well today. Good to see him contributing.",
+        "translatedText": "鎌田大地は今日良いプレーをした。貢献してくれて嬉しい。",
+        "likes": 485,
+        "retweets": 73,
+        "replies": [
+          {
+            "id": "r_kamada-20260219_3_1",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 452
+          },
+          {
+            "id": "r_kamada-20260219_3_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 71
+          },
+          {
+            "id": "r_kamada-20260219_3_3",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 227
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260219_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada showed good decision-making today. Solid overall contribution.",
+        "translatedText": "鎌田大地、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 1303,
+        "retweets": 65,
+        "replies": [
+          {
+            "id": "r_kamada-20260219_4_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 14
+          },
+          {
+            "id": "r_kamada-20260219_4_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 67
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "kamada-20260211",
     "playerId": "kamada",
     "ratings": [

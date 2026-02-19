@@ -1,5 +1,28 @@
 [
   {
+    "matchId": "kamada-20260219",
+    "playerId": "kamada",
+    "date": "2026-02-19",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": {
+      "name": "HŠK Zrinjski Mostar",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "クリスタルパレス",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6.8
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kodai-20260217",
     "playerId": "sano_kodai",
     "date": "2026-02-17",
