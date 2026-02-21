@@ -1,5 +1,28 @@
 [
   {
+    "matchId": "sano_kaishu-20260220",
+    "playerId": "sano_kaishu",
+    "date": "2026-02-20",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "マインツ",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Hamburger SV",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 7
+    },
+    "notable": false
+  },
+  {
     "matchId": "kamada-20260219",
     "playerId": "kamada",
     "date": "2026-02-19",
