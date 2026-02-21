@@ -5768,6 +5768,259 @@
     "lastUpdated": "2026-02-15T09:29:47.707Z"
   },
   {
+    "matchId": "shiogai-20260221",
+    "playerId": "shiogai",
+    "ratings": [
+      {
+        "source": "Kicker",
+        "country": "ドイツ",
+        "rating": 7.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 7.5,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "Sport1",
+        "country": "ドイツ",
+        "rating": 7.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 7.5,
+    "localVoices": [
+      {
+        "id": "v_shiogai-20260221_1",
+        "username": "@ヴォルフスブルク_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai showing why he's so valuable to the team.",
+        "translatedText": "塩貝健人のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_shiogai-20260221_2",
+        "username": "@ヴォルフスブルク_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai had a solid game. Good contribution overall.",
+        "translatedText": "塩貝健人は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_shiogai-20260221_3",
+        "username": "@ヴォルフスブルク_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai showing why he's so valuable to the team.",
+        "translatedText": "塩貝健人は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_shiogai-20260221_1",
+        "username": "@ブンデスリーガNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "ヴォルフスブルク 2-3 アウクスブルク. Kento Shiogai played 25 minutes.",
+        "translatedText": "ヴォルフスブルク 2-3 アウクスブルク。塩貝健人は25分間プレー。",
+        "likes": 762,
+        "retweets": 93,
+        "replies": [
+          {
+            "id": "r_shiogai-20260221_1_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 174
+          },
+          {
+            "id": "r_shiogai-20260221_1_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 39
+          },
+          {
+            "id": "r_shiogai-20260221_1_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 466
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260221_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【塩貝健人】ブンデスリーガ第17節、ヴォルフスブルク vs アウクスブルクで25分出場。評価7.5を獲得。",
+        "translatedText": "",
+        "likes": 1612,
+        "retweets": 216,
+        "replies": [
+          {
+            "id": "r_shiogai-20260221_2_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 133
+          },
+          {
+            "id": "r_shiogai-20260221_2_2",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 181
+          },
+          {
+            "id": "r_shiogai-20260221_2_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 72
+          },
+          {
+            "id": "r_shiogai-20260221_2_4",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 303
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260221_3",
+        "username": "@ヴォルフスブルクFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai did well today. Good to see him contributing.",
+        "translatedText": "塩貝健人、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 552,
+        "retweets": 39,
+        "replies": [
+          {
+            "id": "r_shiogai-20260221_3_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 134
+          },
+          {
+            "id": "r_shiogai-20260221_3_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 52
+          },
+          {
+            "id": "r_shiogai-20260221_3_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 40
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260221_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai maintaining consistency. Professional performance.",
+        "translatedText": "塩貝健人、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 525,
+        "retweets": 159,
+        "replies": [
+          {
+            "id": "r_shiogai-20260221_4_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 440
+          },
+          {
+            "id": "r_shiogai-20260221_4_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 79
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260221_5",
+        "username": "@SoccerKingJP",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "塩貝健人が⚽ 1ゴールの活躍！ヴォルフスブルク 2-3 アウクスブルク 🇯🇵",
+        "translatedText": "",
+        "likes": 5118,
+        "retweets": 888,
+        "replies": [
+          {
+            "id": "r_shiogai-20260221_5_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 490
+          },
+          {
+            "id": "r_shiogai-20260221_5_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 23
+          },
+          {
+            "id": "r_shiogai-20260221_5_3",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 107
+          },
+          {
+            "id": "r_shiogai-20260221_5_4",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 499
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "shiogai-20260215",
     "playerId": "shiogai",
     "ratings": [
@@ -22554,6 +22807,215 @@
       }
     ],
     "lastUpdated": "2026-02-15T09:29:47.704Z"
+  },
+  {
+    "matchId": "mitoma-20260221",
+    "playerId": "mitoma",
+    "ratings": [
+      {
+        "source": "Sky Sports",
+        "country": "イングランド",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "BBC Sport",
+        "country": "イングランド",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "The Guardian",
+        "country": "イングランド",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.9,
+    "localVoices": [
+      {
+        "id": "v_mitoma-20260221_1",
+        "username": "@ブライトン_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma showing why he's so valuable to the team.",
+        "translatedText": "三笘薫は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_mitoma-20260221_2",
+        "username": "@ブライトン_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma showing why he's so valuable to the team.",
+        "translatedText": "三笘薫は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_mitoma-20260221_3",
+        "username": "@ブライトン_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Kaoru Mitoma's performance. Did his job well.",
+        "translatedText": "三笘薫がチームにとって貴重な存在である理由を示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_mitoma-20260221_1",
+        "username": "@プレミアリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "ブレントフォード 0-2 ブライトン. Kaoru Mitoma played 90 minutes.",
+        "translatedText": "ブレントフォード 0-2 ブライトン。三笘薫は90分間プレー。",
+        "likes": 1950,
+        "retweets": 50,
+        "replies": [
+          {
+            "id": "r_mitoma-20260221_1_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 504
+          },
+          {
+            "id": "r_mitoma-20260221_1_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 291
+          },
+          {
+            "id": "r_mitoma-20260221_1_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 357
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260221_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【三笘薫】プレミアリーグ第20節、ブレントフォード vs ブライトンで90分出場。評価6.9を獲得。",
+        "translatedText": "",
+        "likes": 2894,
+        "retweets": 229,
+        "replies": [
+          {
+            "id": "r_mitoma-20260221_2_1",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 401
+          },
+          {
+            "id": "r_mitoma-20260221_2_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 61
+          },
+          {
+            "id": "r_mitoma-20260221_2_3",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 384
+          },
+          {
+            "id": "r_mitoma-20260221_2_4",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 425
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260221_3",
+        "username": "@ブライトンFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Another solid performance from Kaoru Mitoma. Keep it up! 💪",
+        "translatedText": "三笘薫、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 1097,
+        "retweets": 76,
+        "replies": [
+          {
+            "id": "r_mitoma-20260221_3_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 286
+          },
+          {
+            "id": "r_mitoma-20260221_3_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 302
+          },
+          {
+            "id": "r_mitoma-20260221_3_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 108
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260221_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Positive stats for Kaoru Mitoma: 90min, efficient in his role.",
+        "translatedText": "三笘薫のポジティブなスタッツ：90分、役割を効率的にこなした。",
+        "likes": 1404,
+        "retweets": 200,
+        "replies": [
+          {
+            "id": "r_mitoma-20260221_4_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 462
+          },
+          {
+            "id": "r_mitoma-20260221_4_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 484
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "mitoma-20260214",

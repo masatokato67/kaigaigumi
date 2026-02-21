@@ -1,4 +1,14 @@
 {
+  "mitoma-20260221": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260221": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "sano_kaishu-20260220": {
     "enabled": true,
     "youtubeId": "gB2rpdu977E",
