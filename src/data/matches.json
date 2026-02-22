@@ -1,5 +1,51 @@
 [
   {
+    "matchId": "kamada-20260222",
+    "playerId": "kamada",
+    "date": "2026-02-22",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "クリスタルパレス",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "ウルヴス",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CM",
+      "rating": 6.8
+    },
+    "notable": false
+  },
+  {
+    "matchId": "suzuki_yuito-20260222",
+    "playerId": "suzuki_yuito",
+    "date": "2026-02-22",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Borussia M'gladbach",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 79,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.3
+    },
+    "notable": false
+  },
+  {
     "matchId": "mitoma-20260221",
     "playerId": "mitoma",
     "date": "2026-02-21",
