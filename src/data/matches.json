@@ -46,6 +46,52 @@
     "notable": true
   },
   {
+    "matchId": "tomiyasu-20260221",
+    "playerId": "tomiyasu",
+    "date": "2026-02-21",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "アヤックス",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "NEC",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 25,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LB",
+      "rating": 6.8
+    },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kodai-20260221",
+    "playerId": "sano_kodai",
+    "date": "2026-02-21",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "アヤックス",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "NEC",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 5.9
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kaishu-20260220",
     "playerId": "sano_kaishu",
     "date": "2026-02-20",

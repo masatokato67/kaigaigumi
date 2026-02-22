@@ -1,10 +1,20 @@
 {
   "mitoma-20260221": {
+    "enabled": true,
+    "youtubeId": "dLkAkBh-QoE",
+    "title": ""
+  },
+  "shiogai-20260221": {
+    "enabled": true,
+    "youtubeId": "PD5FWdpvq0c",
+    "title": ""
+  },
+  "tomiyasu-20260221": {
     "enabled": false,
     "youtubeId": "",
     "title": ""
   },
-  "shiogai-20260221": {
+  "sano_kodai-20260221": {
     "enabled": false,
     "youtubeId": "",
     "title": ""

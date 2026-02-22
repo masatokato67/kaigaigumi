@@ -1,5 +1,214 @@
 [
   {
+    "matchId": "tomiyasu-20260221",
+    "playerId": "tomiyasu",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 6.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v_tomiyasu-20260221_1",
+        "username": "@アヤックス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu showing why he's so valuable to the team.",
+        "translatedText": "冨安健洋のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_tomiyasu-20260221_2",
+        "username": "@アヤックス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Pleased with Takehiro Tomiyasu's performance. Did his job well.",
+        "translatedText": "冨安健洋がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_tomiyasu-20260221_3",
+        "username": "@アヤックス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Takehiro Tomiyasu's performance. Did his job well.",
+        "translatedText": "冨安健洋のパフォーマンスに満足。しっかり仕事をした。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_tomiyasu-20260221_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "アヤックス 1-1 NEC. Takehiro Tomiyasu played 25 minutes.",
+        "translatedText": "アヤックス 1-1 NEC。冨安健洋は25分間プレー。",
+        "likes": 587,
+        "retweets": 338,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260221_1_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 127
+          },
+          {
+            "id": "r_tomiyasu-20260221_1_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 234
+          },
+          {
+            "id": "r_tomiyasu-20260221_1_3",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 413
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260221_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【冨安健洋】エールディヴィジ第8節、アヤックス vs NECで25分出場。評価6.8を獲得。",
+        "translatedText": "",
+        "likes": 3096,
+        "retweets": 385,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260221_2_1",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 390
+          },
+          {
+            "id": "r_tomiyasu-20260221_2_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 506
+          },
+          {
+            "id": "r_tomiyasu-20260221_2_3",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 180
+          },
+          {
+            "id": "r_tomiyasu-20260221_2_4",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 173
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260221_3",
+        "username": "@アヤックスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Happy with Takehiro Tomiyasu's work rate. Important player for us.",
+        "translatedText": "冨安健洋の運動量に満足。チームにとって重要な選手だ。",
+        "likes": 787,
+        "retweets": 51,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260221_3_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 138
+          },
+          {
+            "id": "r_tomiyasu-20260221_3_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 331
+          },
+          {
+            "id": "r_tomiyasu-20260221_3_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 180
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260221_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Positive stats for Takehiro Tomiyasu: 25min, efficient in his role.",
+        "translatedText": "冨安健洋、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 514,
+        "retweets": 213,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260221_4_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 47
+          },
+          {
+            "id": "r_tomiyasu-20260221_4_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 347
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "tomiyasu-20260201",
     "playerId": "tomiyasu",
     "ratings": [
@@ -10142,6 +10351,215 @@
       }
     ],
     "lastUpdated": "2026-02-15T09:29:47.704Z"
+  },
+  {
+    "matchId": "sano_kodai-20260221",
+    "playerId": "sano_kodai",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Decent showing. Did the basics well but nothing spectacular.",
+        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 5.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Standard performance. Met expectations without exceeding them.",
+        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 5.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Workmanlike display. Fulfilled his duties adequately.",
+        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      }
+    ],
+    "averageRating": 5.9,
+    "localVoices": [
+      {
+        "id": "v_sano_kodai-20260221_1",
+        "username": "@NEC_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano did what was needed. Hoping for more next time.",
+        "translatedText": "佐野航大にとって平均的な日。もっと良いプレーを見たことがある。"
+      },
+      {
+        "id": "v_sano_kodai-20260221_2",
+        "username": "@NEC_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano did what was needed. Hoping for more next time.",
+        "translatedText": "佐野航大は今日はまあまあだった。特別ではないが基本はこなした。"
+      },
+      {
+        "id": "v_sano_kodai-20260221_3",
+        "username": "@NEC_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano did what was needed. Hoping for more next time.",
+        "translatedText": "佐野航大は今日はまあまあだった。特別ではないが基本はこなした。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kodai-20260221_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "アヤックス 1-1 NEC. Kodai Sano played 90 minutes.",
+        "translatedText": "アヤックス 1-1 NEC。佐野航大は90分間プレー。",
+        "likes": 1290,
+        "retweets": 60,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260221_1_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 485
+          },
+          {
+            "id": "r_sano_kodai-20260221_1_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 12
+          },
+          {
+            "id": "r_sano_kodai-20260221_1_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 470
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260221_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野航大】エールディヴィジ第19節、アヤックス vs NECで90分出場。評価5.9を獲得。",
+        "translatedText": "",
+        "likes": 3969,
+        "retweets": 159,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260221_2_1",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 181
+          },
+          {
+            "id": "r_sano_kodai-20260221_2_2",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 55
+          },
+          {
+            "id": "r_sano_kodai-20260221_2_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Average day but still contributed",
+            "translatedText": "平均的な日だったけど、貢献はした",
+            "likes": 414
+          },
+          {
+            "id": "r_sano_kodai-20260221_2_4",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 343
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260221_3",
+        "username": "@NECFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano was alright. We know he can do better.",
+        "translatedText": "佐野航大、まずまずの出来。改善の余地はある。",
+        "likes": 635,
+        "retweets": 104,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260221_3_1",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 496
+          },
+          {
+            "id": "r_sano_kodai-20260221_3_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 449
+          },
+          {
+            "id": "r_sano_kodai-20260221_3_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 263
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260221_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano needs to find more consistency in his game.",
+        "translatedText": "佐野航大、プレーの一貫性をもっと見つける必要がある。",
+        "likes": 594,
+        "retweets": 143,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260221_4_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 66
+          },
+          {
+            "id": "r_sano_kodai-20260221_4_2",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 128
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "sano_kodai-20260217",
