@@ -22,9 +22,22 @@ export async function generateMetadata({
   const { id } = await params;
   const player = getPlayerById(id);
   if (!player) return { title: "選手が見つかりません" };
+  const title = `${player.name.ja}（${player.club.shortName}）`;
+  const description = `${player.name.ja}（${player.club.shortName}/${player.league.shortName}）の試合評価・スタッツ・現地の声`;
   return {
-    title: `${player.name.ja} | 海外組サカレポ`,
-    description: `${player.name.ja}（${player.club.shortName}）の試合評価・スタッツ`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      images: ["/ogp.png"],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ["/ogp.png"],
+    },
   };
 }
 

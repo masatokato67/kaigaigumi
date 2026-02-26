@@ -10,10 +10,40 @@ const notoSansJP = Noto_Sans_JP({
   variable: "--font-noto-sans-jp",
 });
 
+const SITE_URL = "https://kaigaigumi-football.com";
+
 export const metadata: Metadata = {
-  title: "海外組サカレポ",
+  title: {
+    default: "海外組サカレポ",
+    template: "%s | 海外組サカレポ",
+  },
   description:
     "日本人選手の海外での活躍を詳細に追跡。試合結果、スタッツ、現地の評価まで全てをカバー。",
+  metadataBase: new URL(SITE_URL),
+  openGraph: {
+    title: "海外組サカレポ",
+    description:
+      "日本人選手の海外での活躍を詳細に追跡。試合結果、スタッツ、現地の評価まで全てをカバー。",
+    url: SITE_URL,
+    siteName: "海外組サカレポ",
+    images: [
+      {
+        url: "/ogp.png",
+        width: 1200,
+        height: 630,
+        alt: "海外組サカレポ",
+      },
+    ],
+    locale: "ja_JP",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "海外組サカレポ",
+    description:
+      "日本人選手の海外での活躍を詳細に追跡。試合結果、スタッツ、現地の評価まで全てをカバー。",
+    images: ["/ogp.png"],
+  },
   icons: {
     icon: [
       { url: "/favicon.ico", sizes: "48x48" },

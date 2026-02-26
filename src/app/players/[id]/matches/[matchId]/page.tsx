@@ -31,9 +31,23 @@ export async function generateMetadata({
   const player = getPlayerById(id);
   const match = getMatchById(matchId);
   if (!player || !match) return { title: "試合が見つかりません" };
+  const opponent = match.homeTeam.name === player.club.shortName ? match.awayTeam.name : match.homeTeam.name;
+  const title = `${player.name.ja} vs ${opponent}`;
+  const description = `${match.date} ${match.competition} ${match.homeTeam.name} ${match.homeTeam.score}-${match.awayTeam.score} ${match.awayTeam.name} - ${player.name.ja}の試合詳細・評価・現地の声`;
   return {
-    title: `${player.name.ja} vs ${match.homeTeam.name === player.club.shortName ? match.awayTeam.name : match.homeTeam.name} | 海外組サカレポ`,
-    description: `${match.date} ${match.competition} - ${player.name.ja}の試合詳細`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      images: ["/ogp.png"],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: ["/ogp.png"],
+    },
   };
 }
 
