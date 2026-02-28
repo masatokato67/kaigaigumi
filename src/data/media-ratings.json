@@ -16439,6 +16439,215 @@
     "lastUpdated": "2026-02-15T09:29:47.704Z"
   },
   {
+    "matchId": "sano_kaishu-20260228",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      {
+        "source": "Kicker",
+        "country": "ドイツ",
+        "rating": 6.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 6.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "Sport1",
+        "country": "ドイツ",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v_sano_kaishu-20260228_1",
+        "username": "@マインツ_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野海舟がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_sano_kaishu-20260228_2",
+        "username": "@マインツ_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野海舟のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kaishu-20260228_3",
+        "username": "@マインツ_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野海舟がチームにとって貴重な存在である理由を示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kaishu-20260228_1",
+        "username": "@ブンデスリーガNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "レバークーゼン 1-1 マインツ. Kaishu Sano played 90 minutes.",
+        "translatedText": "レバークーゼン 1-1 マインツ。佐野海舟は90分間プレー。",
+        "likes": 861,
+        "retweets": 91,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260228_1_1",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 109
+          },
+          {
+            "id": "r_sano_kaishu-20260228_1_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 469
+          },
+          {
+            "id": "r_sano_kaishu-20260228_1_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 334
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260228_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野海舟】ブンデスリーガ第20節、レバークーゼン vs マインツで90分出場。評価6.8を獲得。",
+        "translatedText": "",
+        "likes": 2734,
+        "retweets": 241,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260228_2_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 311
+          },
+          {
+            "id": "r_sano_kaishu-20260228_2_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 461
+          },
+          {
+            "id": "r_sano_kaishu-20260228_2_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 323
+          },
+          {
+            "id": "r_sano_kaishu-20260228_2_4",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 36
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260228_3",
+        "username": "@マインツFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Happy with Kaishu Sano's work rate. Important player for us.",
+        "translatedText": "佐野海舟の運動量に満足。チームにとって重要な選手だ。",
+        "likes": 663,
+        "retweets": 110,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260228_3_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 380
+          },
+          {
+            "id": "r_sano_kaishu-20260228_3_2",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 105
+          },
+          {
+            "id": "r_sano_kaishu-20260228_3_3",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 207
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260228_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano showed good decision-making today. Solid overall contribution.",
+        "translatedText": "佐野海舟のポジティブなスタッツ：90分、役割を効率的にこなした。",
+        "likes": 490,
+        "retweets": 198,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260228_4_1",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 359
+          },
+          {
+            "id": "r_sano_kaishu-20260228_4_2",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 471
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "sano_kaishu-20260220",
     "playerId": "sano_kaishu",
     "ratings": [

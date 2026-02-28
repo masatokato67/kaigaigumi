@@ -1,5 +1,28 @@
 [
   {
+    "matchId": "sano_kaishu-20260228",
+    "playerId": "sano_kaishu",
+    "date": "2026-02-28",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "レバークーゼン",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "マインツ",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 6.8
+    },
+    "notable": false
+  },
+  {
     "matchId": "kamada-20260226",
     "playerId": "kamada",
     "date": "2026-02-26",
