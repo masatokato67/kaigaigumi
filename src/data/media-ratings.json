@@ -10562,6 +10562,215 @@
     "lastUpdated": "2026-02-15T09:29:47.704Z"
   },
   {
+    "matchId": "sano_kodai-20260228",
+    "playerId": "sano_kodai",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Decent showing. Did the basics well but nothing spectacular.",
+        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 6.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Standard performance. Met expectations without exceeding them.",
+        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 6.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Workmanlike display. Fulfilled his duties adequately.",
+        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      }
+    ],
+    "averageRating": 6.1,
+    "localVoices": [
+      {
+        "id": "v_sano_kodai-20260228_1",
+        "username": "@NEC_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Average day for Kodai Sano. We've seen better from him.",
+        "translatedText": "佐野航大は必要なことをした。次はもっと期待したい。"
+      },
+      {
+        "id": "v_sano_kodai-20260228_2",
+        "username": "@NEC_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Average day for Kodai Sano. We've seen better from him.",
+        "translatedText": "佐野航大にとって平均的な日。もっと良いプレーを見たことがある。"
+      },
+      {
+        "id": "v_sano_kodai-20260228_3",
+        "username": "@NEC_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano was okay today. Nothing special but did the basics.",
+        "translatedText": "佐野航大は必要なことをした。次はもっと期待したい。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kodai-20260228_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "NEC 2-3 Fortuna Sittard. Kodai Sano played 90 minutes.",
+        "translatedText": "NEC 2-3 Fortuna Sittard。佐野航大は90分間プレー。",
+        "likes": 1200,
+        "retweets": 162,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260228_1_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Where was he when it mattered?",
+            "translatedText": "肝心な時にどこにいた？",
+            "likes": 284
+          },
+          {
+            "id": "r_sano_kodai-20260228_1_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 335
+          },
+          {
+            "id": "r_sano_kodai-20260228_1_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 450
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260228_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野航大】エールディヴィジ第10節、NEC vs Fortuna Sittardで90分出場。評価6.1を獲得。",
+        "translatedText": "",
+        "likes": 1722,
+        "retweets": 428,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260228_2_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 35
+          },
+          {
+            "id": "r_sano_kodai-20260228_2_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 139
+          },
+          {
+            "id": "r_sano_kodai-20260228_2_3",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Average day but still contributed",
+            "translatedText": "平均的な日だったけど、貢献はした",
+            "likes": 370
+          },
+          {
+            "id": "r_sano_kodai-20260228_2_4",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 430
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260228_3",
+        "username": "@NECFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano had an okay game. Nothing spectacular but got the job done.",
+        "translatedText": "佐野航大、まずまずの出来。改善の余地はある。",
+        "likes": 1189,
+        "retweets": 41,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260228_3_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 35
+          },
+          {
+            "id": "r_sano_kodai-20260228_3_2",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 82
+          },
+          {
+            "id": "r_sano_kodai-20260228_3_3",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 180
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260228_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano needs to find more consistency in his game.",
+        "translatedText": "スタッツは佐野航大が今日は平均的だったことを示す。90分出場。",
+        "likes": 1423,
+        "retweets": 186,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260228_4_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 275
+          },
+          {
+            "id": "r_sano_kodai-20260228_4_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 361
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "sano_kodai-20260221",
     "playerId": "sano_kodai",
     "ratings": [

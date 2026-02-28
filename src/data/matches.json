@@ -23,6 +23,29 @@
     "notable": false
   },
   {
+    "matchId": "sano_kodai-20260228",
+    "playerId": "sano_kodai",
+    "date": "2026-02-28",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "NEC",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Fortuna Sittard",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6
+    },
+    "notable": false
+  },
+  {
     "matchId": "kamada-20260226",
     "playerId": "kamada",
     "date": "2026-02-26",
