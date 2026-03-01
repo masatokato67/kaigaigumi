@@ -1,5 +1,214 @@
 [
   {
+    "matchId": "tomiyasu-20260301",
+    "playerId": "tomiyasu",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 6.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v_tomiyasu-20260301_1",
+        "username": "@アヤックス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu showing why he's so valuable to the team.",
+        "translatedText": "冨安健洋のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_tomiyasu-20260301_2",
+        "username": "@アヤックス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu had a solid game. Good contribution overall.",
+        "translatedText": "冨安健洋は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_tomiyasu-20260301_3",
+        "username": "@アヤックス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu had a solid game. Good contribution overall.",
+        "translatedText": "冨安健洋がチームにとって貴重な存在である理由を示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_tomiyasu-20260301_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "PEC Zwolle 0-0 アヤックス. Takehiro Tomiyasu played 13 minutes.",
+        "translatedText": "PEC Zwolle 0-0 アヤックス。冨安健洋は13分間プレー。",
+        "likes": 1768,
+        "retweets": 99,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260301_1_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 435
+          },
+          {
+            "id": "r_tomiyasu-20260301_1_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 241
+          },
+          {
+            "id": "r_tomiyasu-20260301_1_3",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 156
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260301_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【冨安健洋】エールディヴィジ第19節、PEC Zwolle vs アヤックスで13分出場。評価6.8を獲得。",
+        "translatedText": "",
+        "likes": 2125,
+        "retweets": 521,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260301_2_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 347
+          },
+          {
+            "id": "r_tomiyasu-20260301_2_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 235
+          },
+          {
+            "id": "r_tomiyasu-20260301_2_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 419
+          },
+          {
+            "id": "r_tomiyasu-20260301_2_4",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 347
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260301_3",
+        "username": "@アヤックスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu did well today. Good to see him contributing.",
+        "translatedText": "冨安健洋、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 435,
+        "retweets": 29,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260301_3_1",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 23
+          },
+          {
+            "id": "r_tomiyasu-20260301_3_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 154
+          },
+          {
+            "id": "r_tomiyasu-20260301_3_3",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 449
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260301_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu showed good decision-making today. Solid overall contribution.",
+        "translatedText": "冨安健洋のポジティブなスタッツ：13分、役割を効率的にこなした。",
+        "likes": 978,
+        "retweets": 54,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260301_4_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 297
+          },
+          {
+            "id": "r_tomiyasu-20260301_4_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 365
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "tomiyasu-20260221",
     "playerId": "tomiyasu",
     "ratings": [
@@ -6184,6 +6393,215 @@
       }
     ],
     "lastUpdated": "2026-02-15T09:29:47.707Z"
+  },
+  {
+    "matchId": "shiogai-20260301",
+    "playerId": "shiogai",
+    "ratings": [
+      {
+        "source": "Kicker",
+        "country": "ドイツ",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Decent showing. Did the basics well but nothing spectacular.",
+        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 6.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Standard performance. Met expectations without exceeding them.",
+        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
+      },
+      {
+        "source": "Sport1",
+        "country": "ドイツ",
+        "rating": 6.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Workmanlike display. Fulfilled his duties adequately.",
+        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      }
+    ],
+    "averageRating": 6.1,
+    "localVoices": [
+      {
+        "id": "v_shiogai-20260301_1",
+        "username": "@ヴォルフスブルク_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Average day for Kento Shiogai. We've seen better from him.",
+        "translatedText": "塩貝健人は今日はまあまあだった。特別ではないが基本はこなした。"
+      },
+      {
+        "id": "v_shiogai-20260301_2",
+        "username": "@ヴォルフスブルク_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai did what was needed. Hoping for more next time.",
+        "translatedText": "塩貝健人にとって平均的な日。もっと良いプレーを見たことがある。"
+      },
+      {
+        "id": "v_shiogai-20260301_3",
+        "username": "@ヴォルフスブルク_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai was okay today. Nothing special but did the basics.",
+        "translatedText": "塩貝健人は必要なことをした。次はもっと期待したい。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_shiogai-20260301_1",
+        "username": "@ブンデスリーガNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "シュトゥットガルト 4-0 ヴォルフスブルク. Kento Shiogai played 45 minutes.",
+        "translatedText": "シュトゥットガルト 4-0 ヴォルフスブルク。塩貝健人は45分間プレー。",
+        "likes": 1123,
+        "retweets": 118,
+        "replies": [
+          {
+            "id": "r_shiogai-20260301_1_1",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 134
+          },
+          {
+            "id": "r_shiogai-20260301_1_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 96
+          },
+          {
+            "id": "r_shiogai-20260301_1_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 408
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260301_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【塩貝健人】ブンデスリーガ第6節、シュトゥットガルト vs ヴォルフスブルクで45分出場。評価6.1を獲得。",
+        "translatedText": "",
+        "likes": 1689,
+        "retweets": 595,
+        "replies": [
+          {
+            "id": "r_shiogai-20260301_2_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 195
+          },
+          {
+            "id": "r_shiogai-20260301_2_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 157
+          },
+          {
+            "id": "r_shiogai-20260301_2_3",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Where was he when it mattered?",
+            "translatedText": "肝心な時にどこにいた？",
+            "likes": 401
+          },
+          {
+            "id": "r_shiogai-20260301_2_4",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 69
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260301_3",
+        "username": "@ヴォルフスブルクFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Decent effort from Kento Shiogai. Room for improvement though.",
+        "translatedText": "塩貝健人はまあまあの試合だった。派手ではないが仕事はした。",
+        "likes": 892,
+        "retweets": 34,
+        "replies": [
+          {
+            "id": "r_shiogai-20260301_3_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 438
+          },
+          {
+            "id": "r_shiogai-20260301_3_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 141
+          },
+          {
+            "id": "r_shiogai-20260301_3_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 460
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260301_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai had mixed moments. Some good, some areas to work on.",
+        "translatedText": "塩貝健人、プレーの一貫性をもっと見つける必要がある。",
+        "likes": 354,
+        "retweets": 56,
+        "replies": [
+          {
+            "id": "r_shiogai-20260301_4_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 58
+          },
+          {
+            "id": "r_shiogai-20260301_4_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 99
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "shiogai-20260221",
@@ -23854,6 +24272,215 @@
     "lastUpdated": "2026-02-15T09:29:47.704Z"
   },
   {
+    "matchId": "mitoma-20260301",
+    "playerId": "mitoma",
+    "ratings": [
+      {
+        "source": "Sky Sports",
+        "country": "イングランド",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "BBC Sport",
+        "country": "イングランド",
+        "rating": 6.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "The Guardian",
+        "country": "イングランド",
+        "rating": 6.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.7,
+    "localVoices": [
+      {
+        "id": "v_mitoma-20260301_1",
+        "username": "@ブライトン_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Pleased with Kaoru Mitoma's performance. Did his job well.",
+        "translatedText": "三笘薫のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_mitoma-20260301_2",
+        "username": "@ブライトン_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma showing why he's so valuable to the team.",
+        "translatedText": "三笘薫は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_mitoma-20260301_3",
+        "username": "@ブライトン_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Kaoru Mitoma's performance. Did his job well.",
+        "translatedText": "三笘薫は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_mitoma-20260301_1",
+        "username": "@プレミアリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "ブライトン 2-1 ノッティンガム・F. Kaoru Mitoma played 89 minutes.",
+        "translatedText": "ブライトン 2-1 ノッティンガム・F。三笘薫は89分間プレー。",
+        "likes": 1849,
+        "retweets": 233,
+        "replies": [
+          {
+            "id": "r_mitoma-20260301_1_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 331
+          },
+          {
+            "id": "r_mitoma-20260301_1_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 248
+          },
+          {
+            "id": "r_mitoma-20260301_1_3",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 179
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260301_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【三笘薫】プレミアリーグ第20節、ブライトン vs ノッティンガム・Fで89分出場。評価6.7を獲得。",
+        "translatedText": "",
+        "likes": 2830,
+        "retweets": 244,
+        "replies": [
+          {
+            "id": "r_mitoma-20260301_2_1",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 96
+          },
+          {
+            "id": "r_mitoma-20260301_2_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 230
+          },
+          {
+            "id": "r_mitoma-20260301_2_3",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 492
+          },
+          {
+            "id": "r_mitoma-20260301_2_4",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 472
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260301_3",
+        "username": "@ブライトンFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma did well today. Good to see him contributing.",
+        "translatedText": "三笘薫、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 897,
+        "retweets": 27,
+        "replies": [
+          {
+            "id": "r_mitoma-20260301_3_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 88
+          },
+          {
+            "id": "r_mitoma-20260301_3_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 228
+          },
+          {
+            "id": "r_mitoma-20260301_3_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 234
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260301_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Positive stats for Kaoru Mitoma: 89min, efficient in his role.",
+        "translatedText": "三笘薫、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 802,
+        "retweets": 46,
+        "replies": [
+          {
+            "id": "r_mitoma-20260301_4_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 416
+          },
+          {
+            "id": "r_mitoma-20260301_4_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 128
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "mitoma-20260221",
     "playerId": "mitoma",
     "ratings": [
@@ -34364,6 +34991,215 @@
       }
     ],
     "lastUpdated": "2026-02-15T09:29:47.705Z"
+  },
+  {
+    "matchId": "kamada-20260301",
+    "playerId": "kamada",
+    "ratings": [
+      {
+        "source": "Sky Sports",
+        "country": "イングランド",
+        "rating": 6.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Decent showing. Did the basics well but nothing spectacular.",
+        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+      },
+      {
+        "source": "BBC Sport",
+        "country": "イングランド",
+        "rating": 6.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Standard performance. Met expectations without exceeding them.",
+        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
+      },
+      {
+        "source": "The Guardian",
+        "country": "イングランド",
+        "rating": 6.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Workmanlike display. Fulfilled his duties adequately.",
+        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      }
+    ],
+    "averageRating": 6.3,
+    "localVoices": [
+      {
+        "id": "v_kamada-20260301_1",
+        "username": "@クリスタルパレス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Average day for Daichi Kamada. We've seen better from him.",
+        "translatedText": "鎌田大地は必要なことをした。次はもっと期待したい。"
+      },
+      {
+        "id": "v_kamada-20260301_2",
+        "username": "@クリスタルパレス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Average day for Daichi Kamada. We've seen better from him.",
+        "translatedText": "鎌田大地は必要なことをした。次はもっと期待したい。"
+      },
+      {
+        "id": "v_kamada-20260301_3",
+        "username": "@クリスタルパレス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada did what was needed. Hoping for more next time.",
+        "translatedText": "鎌田大地にとって平均的な日。もっと良いプレーを見たことがある。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_kamada-20260301_1",
+        "username": "@プレミアリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "マンチェスター・U 2-1 クリスタルパレス. Daichi Kamada played 85 minutes.",
+        "translatedText": "マンチェスター・U 2-1 クリスタルパレス。鎌田大地は85分間プレー。",
+        "likes": 1689,
+        "retweets": 324,
+        "replies": [
+          {
+            "id": "r_kamada-20260301_1_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 210
+          },
+          {
+            "id": "r_kamada-20260301_1_2",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 361
+          },
+          {
+            "id": "r_kamada-20260301_1_3",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 474
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260301_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鎌田大地】プレミアリーグ第23節、マンチェスター・U vs クリスタルパレスで85分出場。評価6.3を獲得。",
+        "translatedText": "",
+        "likes": 3855,
+        "retweets": 276,
+        "replies": [
+          {
+            "id": "r_kamada-20260301_2_1",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 184
+          },
+          {
+            "id": "r_kamada-20260301_2_2",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 408
+          },
+          {
+            "id": "r_kamada-20260301_2_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 400
+          },
+          {
+            "id": "r_kamada-20260301_2_4",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 469
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260301_3",
+        "username": "@クリスタルパレスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Decent effort from Daichi Kamada. Room for improvement though.",
+        "translatedText": "鎌田大地、まずまずの出来。改善の余地はある。",
+        "likes": 321,
+        "retweets": 76,
+        "replies": [
+          {
+            "id": "r_kamada-20260301_3_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Average day but still contributed",
+            "translatedText": "平均的な日だったけど、貢献はした",
+            "likes": 364
+          },
+          {
+            "id": "r_kamada-20260301_3_2",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 168
+          },
+          {
+            "id": "r_kamada-20260301_3_3",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 241
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260301_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Stats show Daichi Kamada was average today. 85min played.",
+        "translatedText": "鎌田大地、良い場面と改善が必要な場面が混在。",
+        "likes": 659,
+        "retweets": 89,
+        "replies": [
+          {
+            "id": "r_kamada-20260301_4_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 198
+          },
+          {
+            "id": "r_kamada-20260301_4_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 410
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "kamada-20260226",

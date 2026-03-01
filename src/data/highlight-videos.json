@@ -1,4 +1,24 @@
 {
+  "mitoma-20260301": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260301": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260301": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260301": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "sano_kaishu-20260228": {
     "enabled": true,
     "youtubeId": "tL1_X6n1Lhk",
