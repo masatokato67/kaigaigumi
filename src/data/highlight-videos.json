@@ -1,22 +1,22 @@
 {
   "mitoma-20260301": {
-    "enabled": false,
-    "youtubeId": "",
+    "enabled": true,
+    "youtubeId": "ql8mO1o6ytg",
     "title": ""
   },
   "tomiyasu-20260301": {
-    "enabled": false,
-    "youtubeId": "",
+    "enabled": true,
+    "youtubeId": "rcKvLM563EY",
     "title": ""
   },
   "kamada-20260301": {
-    "enabled": false,
-    "youtubeId": "",
+    "enabled": true,
+    "youtubeId": "eXYfYs3DPVU",
     "title": ""
   },
   "shiogai-20260301": {
-    "enabled": false,
-    "youtubeId": "",
+    "enabled": true,
+    "youtubeId": "3sXvXzIJpCs",
     "title": ""
   },
   "sano_kaishu-20260228": {
