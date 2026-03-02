@@ -92,6 +92,29 @@
     "notable": false
   },
   {
+    "matchId": "suzuki_yuito-20260301",
+    "playerId": "suzuki_yuito",
+    "date": "2026-03-01",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フランクフルト",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.4
+    },
+    "notable": false
+  },
+  {
     "matchId": "sano_kaishu-20260228",
     "playerId": "sano_kaishu",
     "date": "2026-02-28",
