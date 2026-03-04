@@ -11189,6 +11189,215 @@
     "lastUpdated": "2026-02-15T09:29:47.704Z"
   },
   {
+    "matchId": "sano_kodai-20260303",
+    "playerId": "sano_kodai",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 7.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 7.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 7.1,
+    "localVoices": [
+      {
+        "id": "v_sano_kodai-20260303_1",
+        "username": "@NEC_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野航大のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kodai-20260303_2",
+        "username": "@NEC_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野航大のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kodai-20260303_3",
+        "username": "@NEC_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野航大がチームにとって貴重な存在である理由を示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kodai-20260303_1",
+        "username": "@KNVBカップNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "NEC 3-2 PSV. Kodai Sano played 90 minutes.",
+        "translatedText": "NEC 3-2 PSV。佐野航大は90分間プレー。",
+        "likes": 1198,
+        "retweets": 234,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260303_1_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 496
+          },
+          {
+            "id": "r_sano_kodai-20260303_1_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 434
+          },
+          {
+            "id": "r_sano_kodai-20260303_1_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 239
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260303_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野航大】KNVBカップ第16節、NEC vs PSVで90分出場。評価7.1を獲得。",
+        "translatedText": "",
+        "likes": 3029,
+        "retweets": 143,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260303_2_1",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 232
+          },
+          {
+            "id": "r_sano_kodai-20260303_2_2",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 153
+          },
+          {
+            "id": "r_sano_kodai-20260303_2_3",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 200
+          },
+          {
+            "id": "r_sano_kodai-20260303_2_4",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 404
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260303_3",
+        "username": "@NECFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Another solid performance from Kodai Sano. Keep it up! 💪",
+        "translatedText": "佐野航大は今日良いプレーをした。貢献してくれて嬉しい。",
+        "likes": 494,
+        "retweets": 89,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260303_3_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 450
+          },
+          {
+            "id": "r_sano_kodai-20260303_3_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 207
+          },
+          {
+            "id": "r_sano_kodai-20260303_3_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 309
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260303_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Positive stats for Kodai Sano: 90min, efficient in his role.",
+        "translatedText": "佐野航大、安定感を維持。プロフェッショナルなパフォーマンス。",
+        "likes": 1415,
+        "retweets": 63,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260303_4_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 480
+          },
+          {
+            "id": "r_sano_kodai-20260303_4_2",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 313
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "sano_kodai-20260228",
     "playerId": "sano_kodai",
     "ratings": [
@@ -24479,6 +24688,215 @@
       }
     ],
     "lastUpdated": "2026-02-15T09:29:47.704Z"
+  },
+  {
+    "matchId": "mitoma-20260304",
+    "playerId": "mitoma",
+    "ratings": [
+      {
+        "source": "Sky Sports",
+        "country": "イングランド",
+        "rating": 6.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "BBC Sport",
+        "country": "イングランド",
+        "rating": 6.5,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "The Guardian",
+        "country": "イングランド",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.7,
+    "localVoices": [
+      {
+        "id": "v_mitoma-20260304_1",
+        "username": "@ブライトン_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma had a solid game. Good contribution overall.",
+        "translatedText": "三笘薫のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_mitoma-20260304_2",
+        "username": "@ブライトン_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma showing why he's so valuable to the team.",
+        "translatedText": "三笘薫がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_mitoma-20260304_3",
+        "username": "@ブライトン_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Kaoru Mitoma's performance. Did his job well.",
+        "translatedText": "三笘薫は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_mitoma-20260304_1",
+        "username": "@プレミアリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "ブライトン 0-1 アーセナル. Kaoru Mitoma played 45 minutes.",
+        "translatedText": "ブライトン 0-1 アーセナル。三笘薫は45分間プレー。",
+        "likes": 639,
+        "retweets": 274,
+        "replies": [
+          {
+            "id": "r_mitoma-20260304_1_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 175
+          },
+          {
+            "id": "r_mitoma-20260304_1_2",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 74
+          },
+          {
+            "id": "r_mitoma-20260304_1_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 91
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260304_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【三笘薫】プレミアリーグ第9節、ブライトン vs アーセナルで45分出場。評価6.7を獲得。",
+        "translatedText": "",
+        "likes": 1417,
+        "retweets": 243,
+        "replies": [
+          {
+            "id": "r_mitoma-20260304_2_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 361
+          },
+          {
+            "id": "r_mitoma-20260304_2_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 79
+          },
+          {
+            "id": "r_mitoma-20260304_2_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 239
+          },
+          {
+            "id": "r_mitoma-20260304_2_4",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 438
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260304_3",
+        "username": "@ブライトンFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma did well today. Good to see him contributing.",
+        "translatedText": "三笘薫、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 423,
+        "retweets": 99,
+        "replies": [
+          {
+            "id": "r_mitoma-20260304_3_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 241
+          },
+          {
+            "id": "r_mitoma-20260304_3_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 398
+          },
+          {
+            "id": "r_mitoma-20260304_3_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 44
+          }
+        ]
+      },
+      {
+        "id": "t_mitoma-20260304_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma maintaining consistency. Professional performance.",
+        "translatedText": "三笘薫、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 997,
+        "retweets": 228,
+        "replies": [
+          {
+            "id": "r_mitoma-20260304_4_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 417
+          },
+          {
+            "id": "r_mitoma-20260304_4_2",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 390
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "mitoma-20260301",
