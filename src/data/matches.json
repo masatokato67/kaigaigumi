@@ -1,5 +1,45 @@
 [
   {
+    "matchId": "kamada-20260305",
+    "playerId": "kamada",
+    "date": "2026-03-05",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "トッテナム",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "クリスタルパレス",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0319,
+      "totalPass": 48,
+      "accuratePass": 45,
+      "totalCross": 4,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 2,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 6,
+      "touches": 60,
+      "fouls": 2,
+      "possessionLostCtrl": 8
+    }
+  },
+  {
     "matchId": "mitoma-20260304",
     "playerId": "mitoma",
     "date": "2026-03-04",
