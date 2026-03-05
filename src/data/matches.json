@@ -20,7 +20,27 @@
       "position": "LW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.0644,
+      "expectedAssists": 0.0137,
+      "totalPass": 9,
+      "accuratePass": 9,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "blockedScoringAttempt": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "touches": 16,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 2
+    }
   },
   {
     "matchId": "sano_kodai-20260303",
@@ -43,7 +63,29 @@
       "position": "CM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 32,
+      "accuratePass": 25,
+      "keyPass": 2,
+      "totalCross": 2,
+      "totalLongBalls": 7,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "interceptionWon": 6,
+      "totalClearance": 7,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 5,
+      "duelWon": 2,
+      "duelLost": 7,
+      "aerialLost": 1,
+      "touches": 57,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 12,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "mitoma-20260301",
@@ -66,7 +108,30 @@
       "position": "LW",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.6199,
+      "expectedAssists": 0.0946,
+      "totalPass": 36,
+      "accuratePass": 30,
+      "keyPass": 3,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "totalClearance": 3,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 50,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "tomiyasu-20260301",
@@ -89,7 +154,20 @@
       "position": "LB",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0068,
+      "totalPass": 13,
+      "accuratePass": 9,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelWon": 1,
+      "touches": 21,
+      "possessionLostCtrl": 5
+    }
   },
   {
     "matchId": "kamada-20260301",
@@ -112,7 +190,29 @@
       "position": "CM",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0269,
+      "totalPass": 38,
+      "accuratePass": 30,
+      "keyPass": 2,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 6,
+      "duelWon": 6,
+      "duelLost": 6,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 50,
+      "fouls": 3,
+      "wasFouled": 2,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "shiogai-20260301",
@@ -135,7 +235,26 @@
       "position": "ST",
       "rating": 6.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.2671,
+      "totalPass": 4,
+      "totalLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 5,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 12,
+      "fouls": 1,
+      "possessionLostCtrl": 6,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20260301",
@@ -158,7 +277,26 @@
       "position": "AM",
       "rating": 6.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0059,
+      "totalPass": 22,
+      "accuratePass": 14,
+      "totalCross": 2,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 4,
+      "ballRecovery": 4,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 38,
+      "fouls": 1,
+      "possessionLostCtrl": 15,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20260228",
@@ -181,7 +319,26 @@
       "position": "CDM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.5583,
+      "totalPass": 42,
+      "accuratePass": 32,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "interceptionWon": 4,
+      "ballRecovery": 11,
+      "duelWon": 3,
+      "duelLost": 4,
+      "touches": 56,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 13
+    }
   },
   {
     "matchId": "sano_kodai-20260228",
@@ -204,7 +361,29 @@
       "position": "CM",
       "rating": 6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.12,
+      "expectedAssists": 0.0381,
+      "totalPass": 36,
+      "accuratePass": 31,
+      "totalCross": 6,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 12,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 59,
+      "fouls": 4,
+      "possessionLostCtrl": 17,
+      "dispossessed": 5
+    }
   },
   {
     "matchId": "kamada-20260226",
@@ -227,7 +406,30 @@
       "position": "CM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.1065,
+      "expectedAssists": 0.6508,
+      "totalPass": 45,
+      "accuratePass": 39,
+      "keyPass": 3,
+      "totalCross": 9,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 3,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 7,
+      "duelWon": 4,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 68,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14
+    }
   },
   {
     "matchId": "kamada-20260222",
@@ -250,7 +452,25 @@
       "position": "CM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0569,
+      "expectedAssists": 0.0521,
+      "totalPass": 23,
+      "accuratePass": 19,
+      "keyPass": 1,
+      "totalLongBalls": 1,
+      "totalClearance": 3,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 30,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "suzuki_yuito-20260222",
@@ -273,7 +493,27 @@
       "position": "AM",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0351,
+      "expectedAssists": 0.131,
+      "totalPass": 13,
+      "accuratePass": 10,
+      "keyPass": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 8,
+      "aerialLost": 1,
+      "touches": 22,
+      "fouls": 3,
+      "possessionLostCtrl": 8,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "mitoma-20260221",
@@ -296,7 +536,30 @@
       "position": "LW",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.2944,
+      "expectedAssists": 0.0573,
+      "totalPass": 30,
+      "accuratePass": 24,
+      "keyPass": 2,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 4,
+      "aerialWon": 2,
+      "touches": 46,
+      "fouls": 4,
+      "wasFouled": 1,
+      "possessionLostCtrl": 12,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "shiogai-20260221",
@@ -319,7 +582,25 @@
       "position": "ST",
       "rating": 7.4
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.7056,
+      "expectedAssists": 0.0007,
+      "totalPass": 3,
+      "accuratePass": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialLost": 2,
+      "touches": 7,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 1
+    }
   },
   {
     "matchId": "tomiyasu-20260221",
@@ -342,7 +623,20 @@
       "position": "LB",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0005,
+      "totalPass": 8,
+      "accuratePass": 6,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelWon": 1,
+      "aerialWon": 1,
+      "touches": 16,
+      "possessionLostCtrl": 2
+    }
   },
   {
     "matchId": "sano_kodai-20260221",
@@ -365,7 +659,28 @@
       "position": "CM",
       "rating": 5.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.2434,
+      "totalPass": 57,
+      "accuratePass": 43,
+      "keyPass": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 3,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "totalClearance": 3,
+      "ballRecovery": 6,
+      "duelWon": 5,
+      "duelLost": 4,
+      "aerialWon": 3,
+      "aerialLost": 1,
+      "touches": 76,
+      "fouls": 1,
+      "possessionLostCtrl": 19
+    }
   },
   {
     "matchId": "sano_kaishu-20260220",
@@ -388,7 +703,26 @@
       "position": "CDM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0204,
+      "totalPass": 28,
+      "accuratePass": 22,
+      "totalCross": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "ballRecovery": 4,
+      "duelWon": 7,
+      "duelLost": 3,
+      "aerialWon": 3,
+      "aerialLost": 2,
+      "touches": 37,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "kamada-20260219",
@@ -411,7 +745,28 @@
       "position": "CM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.084,
+      "expectedAssists": 0.136,
+      "totalPass": 67,
+      "accuratePass": 58,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalLongBalls": 2,
+      "totalTackle": 4,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "ballRecovery": 8,
+      "duelWon": 8,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "touches": 82,
+      "fouls": 2,
+      "wasFouled": 3,
+      "possessionLostCtrl": 11
+    }
   },
   {
     "matchId": "sano_kodai-20260217",
@@ -434,7 +789,29 @@
       "position": "CM",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0794,
+      "expectedAssists": 0.3294,
+      "totalPass": 57,
+      "accuratePass": 46,
+      "keyPass": 3,
+      "totalCross": 5,
+      "totalLongBalls": 8,
+      "accurateLongBalls": 4,
+      "totalTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 6,
+      "duelWon": 9,
+      "duelLost": 3,
+      "aerialWon": 4,
+      "aerialLost": 1,
+      "touches": 82,
+      "wasFouled": 1,
+      "possessionLostCtrl": 20
+    }
   },
   {
     "matchId": "shiogai-20260215",
@@ -457,7 +834,24 @@
       "position": "ST",
       "rating": 6.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.004,
+      "totalPass": 12,
+      "accuratePass": 10,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 9,
+      "touches": 22,
+      "possessionLostCtrl": 6,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "mitoma-20260214",
@@ -480,7 +874,25 @@
       "position": "LW",
       "rating": 6.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "totalPass": 20,
+      "accuratePass": 18,
+      "keyPass": 1,
+      "totalCross": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialLost": 1,
+      "touches": 29,
+      "wasFouled": 1,
+      "possessionLostCtrl": 5
+    }
   },
   {
     "matchId": "suzuki_yuito-20260214",
@@ -503,7 +915,21 @@
       "position": "AM",
       "rating": 5.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0272,
+      "expectedAssists": 0.0007,
+      "totalPass": 5,
+      "accuratePass": 4,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "ballRecovery": 1,
+      "duelLost": 5,
+      "touches": 14,
+      "possessionLostCtrl": 7,
+      "dispossessed": 5
+    }
   },
   {
     "matchId": "sano_kaishu-20260213",
@@ -526,7 +952,25 @@
       "position": "CDM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1754,
+      "totalPass": 46,
+      "accuratePass": 35,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 4,
+      "totalTackle": 2,
+      "interceptionWon": 3,
+      "ballRecovery": 7,
+      "duelWon": 3,
+      "duelLost": 1,
+      "touches": 61,
+      "wasFouled": 1,
+      "possessionLostCtrl": 13,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "mitoma-20260211",
@@ -549,7 +993,29 @@
       "position": "LW",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.068,
+      "expectedAssists": 0.0988,
+      "totalPass": 21,
+      "accuratePass": 19,
+      "keyPass": 1,
+      "totalCross": 4,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 2,
+      "ballRecovery": 3,
+      "duelWon": 5,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "touches": 39,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 7
+    }
   },
   {
     "matchId": "kamada-20260211",
@@ -572,7 +1038,28 @@
       "position": "CM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "expectedGoals": 0.4632,
+      "expectedAssists": 0.4223,
+      "totalPass": 46,
+      "accuratePass": 38,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 2,
+      "ballRecovery": 7,
+      "duelWon": 3,
+      "duelLost": 1,
+      "touches": 60,
+      "possessionLostCtrl": 11,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "endo-20260211",
@@ -595,7 +1082,30 @@
       "position": "CDM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0386,
+      "expectedAssists": 0.0081,
+      "totalPass": 23,
+      "accuratePass": 20,
+      "totalCross": 2,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "totalClearance": 6,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 3,
+      "duelWon": 7,
+      "duelLost": 4,
+      "aerialWon": 4,
+      "aerialLost": 2,
+      "touches": 43,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "sano_kodai-20260211",
@@ -618,7 +1128,29 @@
       "position": "CM",
       "rating": 8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0185,
+      "expectedAssists": 0.5929,
+      "totalPass": 89,
+      "accuratePass": 74,
+      "keyPass": 5,
+      "totalCross": 3,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 9,
+      "duelLost": 6,
+      "aerialWon": 2,
+      "aerialLost": 1,
+      "touches": 114,
+      "wasFouled": 1,
+      "possessionLostCtrl": 25
+    }
   },
   {
     "matchId": "suzuki_yuito-20260210",
@@ -641,7 +1173,28 @@
       "position": "AM",
       "rating": 8.2
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 4,
+      "shotsOnTarget": 3,
+      "totalPass": 31,
+      "accuratePass": 24,
+      "keyPass": 4,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 3,
+      "ballRecovery": 8,
+      "duelWon": 6,
+      "duelLost": 5,
+      "touches": 59,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 18,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "mitoma-20260208",
@@ -664,7 +1217,27 @@
       "position": "LW",
       "rating": 6.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.2467,
+      "totalPass": 28,
+      "accuratePass": 25,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 4,
+      "duelWon": 6,
+      "duelLost": 6,
+      "aerialWon": 2,
+      "touches": 51,
+      "wasFouled": 2,
+      "possessionLostCtrl": 14,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kamada-20260208",
@@ -687,7 +1260,21 @@
       "position": "CM",
       "rating": 6.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0001,
+      "totalPass": 7,
+      "accuratePass": 5,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 3,
+      "duelWon": 1,
+      "duelLost": 2,
+      "touches": 11,
+      "possessionLostCtrl": 3,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "shiogai-20260207",
@@ -710,7 +1297,21 @@
       "position": "ST",
       "rating": 5.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0071,
+      "totalPass": 10,
+      "accuratePass": 7,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelLost": 6,
+      "aerialLost": 1,
+      "touches": 17,
+      "fouls": 1,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "sano_kodai-20260207",
@@ -733,7 +1334,30 @@
       "position": "CM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.1977,
+      "expectedAssists": 0.1255,
+      "totalPass": 52,
+      "accuratePass": 41,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 3,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "ballRecovery": 8,
+      "duelWon": 7,
+      "duelLost": 8,
+      "aerialWon": 1,
+      "touches": 68,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 18,
+      "dispossessed": 4
+    }
   },
   {
     "matchId": "sano_kaishu-20260207",
@@ -756,7 +1380,28 @@
       "position": "CDM",
       "rating": 7.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0209,
+      "expectedAssists": 0.0135,
+      "totalPass": 37,
+      "accuratePass": 31,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 3,
+      "totalTackle": 3,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 6,
+      "duelWon": 6,
+      "duelLost": 2,
+      "touches": 53,
+      "wasFouled": 1,
+      "possessionLostCtrl": 8,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20260207",
@@ -779,7 +1424,24 @@
       "position": "AM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0115,
+      "totalPass": 4,
+      "accuratePass": 3,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalClearance": 2,
+      "ballRecovery": 1,
+      "duelWon": 4,
+      "duelLost": 3,
+      "aerialLost": 1,
+      "touches": 13,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "sano_kodai-20260204",
@@ -802,7 +1464,24 @@
       "position": "CM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "totalPass": 45,
+      "accuratePass": 35,
+      "keyPass": 1,
+      "totalLongBalls": 9,
+      "accurateLongBalls": 3,
+      "interceptionWon": 4,
+      "totalClearance": 2,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 4,
+      "aerialWon": 3,
+      "touches": 66,
+      "fouls": 1,
+      "possessionLostCtrl": 17
+    }
   },
   {
     "matchId": "mitoma-20260201",
@@ -848,7 +1527,19 @@
       "position": "LB",
       "rating": 6.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0051,
+      "totalPass": 10,
+      "accuratePass": 9,
+      "ballRecovery": 1,
+      "duelWon": 1,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 14,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "shiogai-20260201",
@@ -894,7 +1585,25 @@
       "position": "AM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1166,
+      "expectedAssists": 0.0292,
+      "totalPass": 14,
+      "accuratePass": 11,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "interceptionWon": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 5,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialLost": 1,
+      "touches": 24,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "sano_kodai-20260131",
@@ -917,7 +1626,33 @@
       "position": "DM",
       "rating": 8
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.2045,
+      "expectedAssists": 0.0676,
+      "totalPass": 51,
+      "accuratePass": 39,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 4,
+      "totalClearance": 1,
+      "ballRecovery": 9,
+      "duelWon": 6,
+      "duelLost": 13,
+      "aerialWon": 2,
+      "aerialLost": 2,
+      "touches": 73,
+      "fouls": 7,
+      "wasFouled": 1,
+      "possessionLostCtrl": 18,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20260131",
@@ -940,7 +1675,29 @@
       "position": "DM",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1717,
+      "expectedAssists": 0.0129,
+      "totalPass": 42,
+      "accuratePass": 28,
+      "keyPass": 1,
+      "totalLongBalls": 6,
+      "totalTackle": 5,
+      "wonTackle": 3,
+      "interceptionWon": 2,
+      "totalClearance": 3,
+      "ballRecovery": 8,
+      "duelWon": 11,
+      "duelLost": 1,
+      "aerialWon": 5,
+      "aerialLost": 1,
+      "touches": 62,
+      "wasFouled": 1,
+      "possessionLostCtrl": 17
+    }
   },
   {
     "matchId": "mitoma-20260131",
@@ -963,7 +1720,27 @@
       "position": "LW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.4911,
+      "expectedAssists": 0.2055,
+      "totalPass": 30,
+      "accuratePass": 24,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 7,
+      "duelWon": 4,
+      "duelLost": 8,
+      "aerialLost": 2,
+      "touches": 50,
+      "wasFouled": 2,
+      "possessionLostCtrl": 14,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "endo-20260131",
@@ -986,7 +1763,16 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0016,
+      "totalPass": 2,
+      "accuratePass": 2,
+      "totalCross": 1,
+      "touches": 3,
+      "possessionLostCtrl": 1
+    }
   },
   {
     "matchId": "shiogai-20260130",
@@ -1009,7 +1795,24 @@
       "position": "ST",
       "rating": 6.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.2814,
+      "expectedAssists": 0.0047,
+      "totalPass": 9,
+      "accuratePass": 6,
+      "totalClearance": 1,
+      "ballRecovery": 4,
+      "duelWon": 1,
+      "duelLost": 4,
+      "aerialLost": 1,
+      "touches": 22,
+      "fouls": 1,
+      "possessionLostCtrl": 7,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "suzuki_yuito-20260129",
@@ -1032,7 +1835,24 @@
       "position": "AM",
       "rating": 6.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0169,
+      "totalPass": 16,
+      "accuratePass": 12,
+      "keyPass": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 4,
+      "duelLost": 4,
+      "aerialWon": 2,
+      "touches": 22,
+      "fouls": 3,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "endo-20260128",
@@ -1055,7 +1875,31 @@
       "position": "RB",
       "rating": 7
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0692,
+      "expectedAssists": 0.0292,
+      "totalPass": 40,
+      "accuratePass": 39,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 6,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 53,
+      "fouls": 2,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "mitoma-20260125",
@@ -1124,7 +1968,26 @@
       "position": "AM",
       "rating": 8.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.4416,
+      "totalPass": 20,
+      "accuratePass": 17,
+      "keyPass": 3,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 1,
+      "aerialLost": 1,
+      "touches": 26,
+      "wasFouled": 1,
+      "possessionLostCtrl": 3
+    }
   },
   {
     "matchId": "sano_kodai-20260124",
@@ -1147,7 +2010,29 @@
       "position": "DM",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0171,
+      "expectedAssists": 0.0061,
+      "totalPass": 30,
+      "accuratePass": 19,
+      "totalCross": 3,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "interceptionWon": 3,
+      "totalClearance": 7,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 6,
+      "duelLost": 7,
+      "aerialWon": 3,
+      "touches": 59,
+      "fouls": 1,
+      "possessionLostCtrl": 22,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20260124",
@@ -1170,7 +2055,26 @@
       "position": "DM",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0225,
+      "expectedAssists": 0.0225,
+      "totalPass": 39,
+      "accuratePass": 35,
+      "totalCross": 1,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 5,
+      "interceptionWon": 3,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialWon": 2,
+      "touches": 51,
+      "possessionLostCtrl": 7
+    }
   },
   {
     "matchId": "mitoma-20260124",
@@ -1193,7 +2097,26 @@
       "position": "LW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.2617,
+      "expectedAssists": 0.3484,
+      "totalPass": 37,
+      "accuratePass": 27,
+      "keyPass": 1,
+      "totalCross": 4,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 4,
+      "aerialLost": 2,
+      "touches": 51,
+      "possessionLostCtrl": 18,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "endo-20260124",
@@ -1216,7 +2139,24 @@
       "position": "CDM",
       "rating": 6.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0404,
+      "totalPass": 41,
+      "accuratePass": 36,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "totalClearance": 4,
+      "duelWon": 4,
+      "duelLost": 2,
+      "aerialWon": 2,
+      "aerialLost": 1,
+      "touches": 51,
+      "wasFouled": 1,
+      "possessionLostCtrl": 7
+    }
   },
   {
     "matchId": "shiogai-20260124",
@@ -1239,7 +2179,21 @@
       "position": "ST",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0053,
+      "totalPass": 1,
+      "accuratePass": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "duelWon": 2,
+      "duelLost": 1,
+      "touches": 4,
+      "wasFouled": 1,
+      "possessionLostCtrl": 1,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20260122",
@@ -1262,7 +2216,24 @@
       "position": "AM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "expectedGoals": 0.2106,
+      "expectedAssists": 0.1631,
+      "totalPass": 27,
+      "accuratePass": 23,
+      "keyPass": 2,
+      "totalCross": 2,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 41,
+      "wasFouled": 1,
+      "possessionLostCtrl": 9,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kodai-20260120",
@@ -1285,7 +2256,26 @@
       "position": "CM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 56,
+      "accuratePass": 49,
+      "keyPass": 3,
+      "totalCross": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 2,
+      "interceptionWon": 3,
+      "totalClearance": 2,
+      "ballRecovery": 10,
+      "duelWon": 1,
+      "duelLost": 8,
+      "aerialLost": 5,
+      "touches": 70,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 12
+    }
   },
   {
     "matchId": "mitoma-20260119",
@@ -1308,7 +2298,28 @@
       "position": "LW",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0797,
+      "expectedAssists": 0.0412,
+      "totalPass": 32,
+      "accuratePass": 23,
+      "keyPass": 2,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "totalClearance": 1,
+      "duelWon": 4,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 47,
+      "wasFouled": 1,
+      "possessionLostCtrl": 16
+    }
   },
   {
     "matchId": "kubo-20260118",
@@ -1331,7 +2342,22 @@
       "position": "RW",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.027,
+      "totalPass": 12,
+      "accuratePass": 10,
+      "keyPass": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "duelWon": 3,
+      "duelLost": 6,
+      "touches": 27,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "suzuki_yuito-20260118",
@@ -1354,7 +2380,22 @@
       "position": "AM",
       "rating": 7
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.106,
+      "expectedAssists": 0.002,
+      "totalPass": 9,
+      "accuratePass": 6,
+      "duelWon": 1,
+      "duelLost": 1,
+      "aerialWon": 1,
+      "touches": 13,
+      "fouls": 1,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20260117",
@@ -1377,7 +2418,29 @@
       "position": "CM",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0887,
+      "expectedAssists": 0.0756,
+      "totalPass": 41,
+      "accuratePass": 34,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "ballRecovery": 8,
+      "duelWon": 10,
+      "duelLost": 7,
+      "aerialLost": 3,
+      "touches": 68,
+      "fouls": 1,
+      "wasFouled": 3,
+      "possessionLostCtrl": 15,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20260117",
@@ -1400,7 +2463,28 @@
       "position": "DM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0813,
+      "totalPass": 27,
+      "accuratePass": 16,
+      "keyPass": 1,
+      "totalLongBalls": 4,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 3,
+      "totalClearance": 2,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 3,
+      "aerialWon": 3,
+      "aerialLost": 2,
+      "touches": 41,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14
+    }
   },
   {
     "matchId": "suzuki_yuito-20260114",
@@ -1423,7 +2507,29 @@
       "position": "AM",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1249,
+      "totalPass": 10,
+      "accuratePass": 8,
+      "keyPass": 2,
+      "totalCross": 3,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "totalClearance": 2,
+      "ballRecovery": 5,
+      "duelWon": 3,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 21,
+      "fouls": 1,
+      "possessionLostCtrl": 7,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20260113",
@@ -1446,7 +2552,27 @@
       "position": "DM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0864,
+      "totalPass": 38,
+      "accuratePass": 26,
+      "keyPass": 2,
+      "totalLongBalls": 5,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "ballRecovery": 7,
+      "duelWon": 9,
+      "duelLost": 4,
+      "aerialWon": 2,
+      "aerialLost": 1,
+      "touches": 56,
+      "wasFouled": 4,
+      "possessionLostCtrl": 18,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "kubo-20260113",
@@ -1469,7 +2595,29 @@
       "position": "RW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 1,
+      "totalPass": 45,
+      "accuratePass": 39,
+      "keyPass": 3,
+      "totalCross": 11,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 14,
+      "aerialLost": 4,
+      "touches": 89,
+      "wasFouled": 3,
+      "possessionLostCtrl": 27,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kubo-20260112",
@@ -1515,7 +2663,17 @@
       "position": "LW",
       "rating": 5.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 8,
+      "accuratePass": 5,
+      "totalLongBalls": 1,
+      "duelLost": 2,
+      "touches": 9,
+      "fouls": 1,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "sano_kaishu-20260110",
@@ -1538,7 +2696,27 @@
       "position": "DM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0154,
+      "totalPass": 29,
+      "accuratePass": 24,
+      "keyPass": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 3,
+      "ballRecovery": 6,
+      "duelWon": 9,
+      "duelLost": 9,
+      "aerialWon": 6,
+      "aerialLost": 6,
+      "touches": 46,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "suzuki_yuito-20260110",
@@ -1561,7 +2739,30 @@
       "position": "AM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 5,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.1306,
+      "expectedAssists": 0.0293,
+      "totalPass": 23,
+      "accuratePass": 18,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 3,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 6,
+      "duelWon": 4,
+      "duelLost": 3,
+      "aerialLost": 1,
+      "touches": 41,
+      "wasFouled": 2,
+      "possessionLostCtrl": 10,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "kubo-20260109",
@@ -1584,7 +2785,28 @@
       "position": "RW",
       "rating": 8.3
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0689,
+      "expectedAssists": 0.2552,
+      "totalPass": 20,
+      "accuratePass": 15,
+      "keyPass": 3,
+      "totalCross": 3,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "interceptionWon": 1,
+      "ballRecovery": 7,
+      "duelWon": 11,
+      "duelLost": 10,
+      "aerialLost": 1,
+      "touches": 62,
+      "fouls": 1,
+      "wasFouled": 4,
+      "possessionLostCtrl": 22,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "mitoma-20260108",
@@ -1630,7 +2852,27 @@
       "position": "LW",
       "rating": 8.1
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.265,
+      "expectedAssists": 0.5876,
+      "totalPass": 19,
+      "accuratePass": 16,
+      "keyPass": 1,
+      "totalTackle": 1,
+      "interceptionWon": 3,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 2,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 32,
+      "fouls": 2,
+      "possessionLostCtrl": 6,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "kubo-20260105",
@@ -1699,7 +2941,28 @@
       "position": "RW",
       "rating": 8.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 3,
+      "expectedGoals": 0.1841,
+      "expectedAssists": 0.2961,
+      "totalPass": 19,
+      "accuratePass": 17,
+      "keyPass": 3,
+      "totalCross": 4,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "interceptionWon": 1,
+      "ballRecovery": 1,
+      "duelWon": 10,
+      "duelLost": 1,
+      "touches": 43,
+      "wasFouled": 2,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "mitoma-20260103",
@@ -1722,7 +2985,26 @@
       "position": "LW",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0115,
+      "totalPass": 37,
+      "accuratePass": 29,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "ballRecovery": 3,
+      "duelWon": 4,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 47,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "mitoma-20251230",
@@ -1745,7 +3027,24 @@
       "position": "LW",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.082,
+      "expectedAssists": 0.0381,
+      "totalPass": 19,
+      "accuratePass": 16,
+      "keyPass": 3,
+      "totalCross": 4,
+      "ballRecovery": 3,
+      "duelWon": 5,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 34,
+      "wasFouled": 1,
+      "possessionLostCtrl": 11
+    }
   },
   {
     "matchId": "sano_kaishu-20251221",
@@ -1768,7 +3067,28 @@
       "position": "CDM",
       "rating": 7.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.011,
+      "totalPass": 38,
+      "accuratePass": 29,
+      "keyPass": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 6,
+      "totalClearance": 2,
+      "ballRecovery": 9,
+      "duelWon": 3,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 54,
+      "wasFouled": 2,
+      "possessionLostCtrl": 11,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "mitoma-20251220",
@@ -1791,7 +3111,20 @@
       "position": "LW",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1391,
+      "totalPass": 10,
+      "accuratePass": 7,
+      "keyPass": 2,
+      "totalCross": 4,
+      "duelWon": 1,
+      "duelLost": 5,
+      "touches": 20,
+      "fouls": 1,
+      "possessionLostCtrl": 9
+    }
   },
   {
     "matchId": "kubo-20251220",
@@ -1814,7 +3147,31 @@
       "position": "RW",
       "rating": 8.3
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.4292,
+      "expectedAssists": 0.242,
+      "totalPass": 25,
+      "accuratePass": 23,
+      "keyPass": 3,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 7,
+      "duelLost": 4,
+      "aerialLost": 3,
+      "touches": 45,
+      "wasFouled": 4,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "shiogai-20251220",
@@ -1837,7 +3194,18 @@
       "position": "ST",
       "rating": 6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.1284,
+      "blockedScoringAttempt": 1,
+      "duelWon": 1,
+      "duelLost": 1,
+      "aerialLost": 1,
+      "touches": 3,
+      "wasFouled": 1,
+      "possessionLostCtrl": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251220",
@@ -1860,7 +3228,30 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.072,
+      "expectedAssists": 0.208,
+      "totalPass": 33,
+      "accuratePass": 26,
+      "keyPass": 1,
+      "totalCross": 3,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 6,
+      "wonTackle": 5,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 8,
+      "duelWon": 11,
+      "duelLost": 8,
+      "aerialLost": 1,
+      "touches": 58,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251220",
@@ -1883,7 +3274,26 @@
       "position": "AM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.8744,
+      "expectedAssists": 0.0174,
+      "totalPass": 17,
+      "accuratePass": 12,
+      "totalCross": 2,
+      "totalLongBalls": 2,
+      "totalClearance": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 31,
+      "possessionLostCtrl": 13,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20251218",
@@ -1906,7 +3316,28 @@
       "position": "CDM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0383,
+      "expectedAssists": 0.058,
+      "totalPass": 41,
+      "accuratePass": 30,
+      "keyPass": 1,
+      "totalLongBalls": 11,
+      "accurateLongBalls": 4,
+      "totalTackle": 2,
+      "interceptionWon": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 4,
+      "aerialLost": 2,
+      "touches": 53,
+      "fouls": 1,
+      "possessionLostCtrl": 16,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kubo-20251216",
@@ -1929,7 +3360,27 @@
       "position": "RW",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 26,
+      "accuratePass": 20,
+      "keyPass": 2,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 2,
+      "duelWon": 9,
+      "duelLost": 5,
+      "aerialWon": 3,
+      "touches": 44,
+      "fouls": 1,
+      "wasFouled": 3,
+      "possessionLostCtrl": 13,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "shiogai-20251216",
@@ -1952,7 +3403,24 @@
       "position": "ST",
       "rating": 8.9
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 5,
+      "shotsOnTarget": 4,
+      "totalPass": 12,
+      "accuratePass": 9,
+      "keyPass": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 26,
+      "possessionLostCtrl": 8,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "sano_kodai-20251216",
@@ -1975,7 +3443,29 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "totalPass": 62,
+      "accuratePass": 49,
+      "keyPass": 2,
+      "totalCross": 3,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 3,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "blockedScoringAttempt": 2,
+      "ballRecovery": 5,
+      "duelWon": 8,
+      "duelLost": 3,
+      "aerialWon": 2,
+      "touches": 81,
+      "wasFouled": 1,
+      "possessionLostCtrl": 18,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kubo-20251214",
@@ -2021,7 +3511,29 @@
       "position": "CM",
       "rating": 5.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1977,
+      "totalPass": 28,
+      "accuratePass": 22,
+      "keyPass": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 6,
+      "duelWon": 3,
+      "duelLost": 5,
+      "aerialWon": 1,
+      "touches": 36,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 8,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20251214",
@@ -2044,7 +3556,24 @@
       "position": "CDM",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0038,
+      "totalPass": 16,
+      "accuratePass": 12,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 3,
+      "duelLost": 1,
+      "aerialWon": 2,
+      "touches": 21,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251214",
@@ -2067,7 +3596,31 @@
       "position": "AM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1932,
+      "expectedAssists": 0.2403,
+      "totalPass": 46,
+      "accuratePass": 35,
+      "keyPass": 3,
+      "totalCross": 4,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 7,
+      "duelLost": 8,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 67,
+      "wasFouled": 1,
+      "possessionLostCtrl": 20,
+      "dispossessed": 4
+    }
   },
   {
     "matchId": "mitoma-20251213",
@@ -2090,7 +3643,22 @@
       "position": "LW",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.1868,
+      "expectedAssists": 0.0392,
+      "totalPass": 19,
+      "accuratePass": 19,
+      "keyPass": 1,
+      "totalCross": 2,
+      "interceptionWon": 1,
+      "duelWon": 1,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "touches": 24,
+      "possessionLostCtrl": 3
+    }
   },
   {
     "matchId": "shiogai-20251213",
@@ -2113,7 +3681,21 @@
       "position": "ST",
       "rating": 7.2
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 1.0222,
+      "expectedAssists": 0.0004,
+      "totalPass": 2,
+      "accuratePass": 2,
+      "keyPass": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 1,
+      "duelLost": 1,
+      "touches": 8,
+      "fouls": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251213",
@@ -2136,7 +3718,29 @@
       "position": "CM",
       "rating": 7.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.787,
+      "totalPass": 35,
+      "accuratePass": 32,
+      "keyPass": 3,
+      "totalCross": 3,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "ballRecovery": 2,
+      "duelWon": 4,
+      "duelLost": 12,
+      "aerialLost": 1,
+      "touches": 60,
+      "fouls": 2,
+      "possessionLostCtrl": 15,
+      "dispossessed": 4
+    }
   },
   {
     "matchId": "kamada-20251212",
@@ -2182,7 +3786,29 @@
       "position": "RW",
       "rating": 7.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.3029,
+      "expectedAssists": 0.1761,
+      "totalPass": 44,
+      "accuratePass": 37,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 8,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 63,
+      "wasFouled": 1,
+      "possessionLostCtrl": 11
+    }
   },
   {
     "matchId": "kamada-20251211",
@@ -2205,7 +3831,22 @@
       "position": "CM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1961,
+      "totalPass": 28,
+      "accuratePass": 24,
+      "keyPass": 2,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelLost": 1,
+      "touches": 32,
+      "fouls": 1,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "sano_kaishu-20251211",
@@ -2228,7 +3869,30 @@
       "position": "CDM",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0121,
+      "totalPass": 29,
+      "accuratePass": 27,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 3,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "totalClearance": 7,
+      "ballRecovery": 8,
+      "duelWon": 8,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 53,
+      "wasFouled": 1,
+      "possessionLostCtrl": 4,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251211",
@@ -2251,7 +3915,29 @@
       "position": "AM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 6,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.3335,
+      "expectedAssists": 0.1989,
+      "totalPass": 32,
+      "accuratePass": 29,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "blockedScoringAttempt": 2,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 7,
+      "aerialWon": 3,
+      "touches": 51,
+      "fouls": 3,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251207",
@@ -2274,7 +3960,29 @@
       "position": "CM",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0521,
+      "expectedAssists": 0.0218,
+      "totalPass": 41,
+      "accuratePass": 37,
+      "keyPass": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 2,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 53,
+      "fouls": 1,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "shiogai-20251207",
@@ -2297,7 +4005,25 @@
       "position": "ST",
       "rating": 7.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.4043,
+      "expectedAssists": 0.0019,
+      "totalPass": 3,
+      "accuratePass": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 1,
+      "duelWon": 4,
+      "duelLost": 2,
+      "aerialLost": 1,
+      "touches": 11,
+      "fouls": 1,
+      "wasFouled": 3,
+      "possessionLostCtrl": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251207",
@@ -2320,7 +4046,27 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0374,
+      "totalPass": 37,
+      "accuratePass": 34,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 4,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialLost": 2,
+      "touches": 50,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kubo-20251206",
@@ -2343,7 +4089,25 @@
       "position": "RW",
       "rating": 6.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.021,
+      "expectedAssists": 0.0501,
+      "totalPass": 26,
+      "accuratePass": 21,
+      "keyPass": 1,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "duelWon": 7,
+      "duelLost": 4,
+      "touches": 46,
+      "wasFouled": 3,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "endo-20251206",
@@ -2366,7 +4130,17 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0005,
+      "totalPass": 6,
+      "accuratePass": 3,
+      "totalTackle": 1,
+      "duelWon": 1,
+      "touches": 8,
+      "possessionLostCtrl": 3
+    }
   },
   {
     "matchId": "suzuki_yuito-20251206",
@@ -2389,7 +4163,24 @@
       "position": "AM",
       "rating": 6.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.1052,
+      "expectedAssists": 0.0885,
+      "totalPass": 12,
+      "accuratePass": 9,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 1,
+      "duelLost": 3,
+      "touches": 20,
+      "fouls": 1,
+      "possessionLostCtrl": 5
+    }
   },
   {
     "matchId": "sano_kaishu-20251205",
@@ -2412,7 +4203,30 @@
       "position": "CDM",
       "rating": 8.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1932,
+      "totalPass": 68,
+      "accuratePass": 51,
+      "keyPass": 3,
+      "totalCross": 1,
+      "totalLongBalls": 7,
+      "accurateLongBalls": 5,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 5,
+      "totalClearance": 2,
+      "ballRecovery": 16,
+      "duelWon": 11,
+      "duelLost": 5,
+      "aerialWon": 5,
+      "aerialLost": 2,
+      "touches": 92,
+      "wasFouled": 1,
+      "possessionLostCtrl": 21,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251203",
@@ -2435,7 +4249,27 @@
       "position": "CM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.2758,
+      "totalPass": 25,
+      "accuratePass": 19,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "interceptionWon": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 43,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 11,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "suzuki_yuito-20251203",
@@ -2458,7 +4292,22 @@
       "position": "AM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 32,
+      "accuratePass": 26,
+      "keyPass": 3,
+      "totalCross": 1,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 39,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "kubo-20251130",
@@ -2481,7 +4330,29 @@
       "position": "RW",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0943,
+      "expectedAssists": 0.0439,
+      "totalPass": 31,
+      "accuratePass": 22,
+      "keyPass": 3,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 5,
+      "duelWon": 5,
+      "duelLost": 2,
+      "touches": 48,
+      "wasFouled": 3,
+      "possessionLostCtrl": 18,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251130",
@@ -2504,7 +4375,28 @@
       "position": "CM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1279,
+      "expectedAssists": 0.0143,
+      "totalPass": 35,
+      "accuratePass": 27,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 2,
+      "totalTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 3,
+      "ballRecovery": 6,
+      "duelWon": 4,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 49,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 12
+    }
   },
   {
     "matchId": "sano_kaishu-20251130",
@@ -2527,7 +4419,24 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0054,
+      "totalPass": 29,
+      "accuratePass": 21,
+      "totalLongBalls": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 7,
+      "duelWon": 2,
+      "duelLost": 2,
+      "touches": 38,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251130",
@@ -2550,7 +4459,26 @@
       "position": "AM",
       "rating": 7.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.1318,
+      "expectedAssists": 0.1371,
+      "totalPass": 22,
+      "accuratePass": 17,
+      "keyPass": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 1,
+      "duelWon": 1,
+      "touches": 29,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "shiogai-20251129",
@@ -2573,7 +4501,25 @@
       "position": "ST",
       "rating": 6.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0431,
+      "expectedAssists": 0.0035,
+      "totalPass": 3,
+      "accuratePass": 2,
+      "keyPass": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "duelLost": 3,
+      "aerialLost": 1,
+      "touches": 8,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 2,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251129",
@@ -2596,7 +4542,31 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.112,
+      "expectedAssists": 0.1257,
+      "totalPass": 34,
+      "accuratePass": 27,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "interceptionWon": 1,
+      "totalClearance": 3,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 5,
+      "duelWon": 9,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "touches": 57,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14
+    }
   },
   {
     "matchId": "kamada-20251127",
@@ -2619,7 +4589,13 @@
       "position": "CM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 1,
+      "touches": 1,
+      "possessionLostCtrl": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20251127",
@@ -2642,7 +4618,23 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0429,
+      "totalPass": 17,
+      "accuratePass": 15,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "interceptionWon": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 21,
+      "wasFouled": 1,
+      "possessionLostCtrl": 3
+    }
   },
   {
     "matchId": "suzuki_yuito-20251127",
@@ -2665,7 +4657,26 @@
       "position": "AM",
       "rating": 5.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0625,
+      "totalPass": 17,
+      "accuratePass": 12,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "interceptionWon": 1,
+      "ballRecovery": 4,
+      "duelWon": 2,
+      "duelLost": 9,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 31,
+      "fouls": 3,
+      "possessionLostCtrl": 14,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251123",
@@ -2711,7 +4722,23 @@
       "position": "ST",
       "rating": 8.6
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.2616,
+      "expectedAssists": 0,
+      "totalPass": 2,
+      "accuratePass": 1,
+      "duelWon": 4,
+      "duelLost": 3,
+      "aerialWon": 3,
+      "aerialLost": 1,
+      "touches": 8,
+      "fouls": 3,
+      "wasFouled": 1,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "sano_kodai-20251123",
@@ -2734,7 +4761,30 @@
       "position": "CM",
       "rating": 8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0173,
+      "expectedAssists": 0.0241,
+      "totalPass": 42,
+      "accuratePass": 32,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 3,
+      "totalTackle": 3,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "ballRecovery": 14,
+      "duelWon": 6,
+      "duelLost": 7,
+      "aerialLost": 1,
+      "touches": 72,
+      "fouls": 2,
+      "possessionLostCtrl": 21,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kubo-20251122",
@@ -2757,7 +4807,23 @@
       "position": "RW",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.204,
+      "expectedAssists": 0.0572,
+      "totalPass": 10,
+      "accuratePass": 10,
+      "totalTackle": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 2,
+      "duelLost": 1,
+      "touches": 19,
+      "possessionLostCtrl": 2
+    }
   },
   {
     "matchId": "kamada-20251122",
@@ -2780,7 +4846,29 @@
       "position": "CM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0464,
+      "expectedAssists": 0.0105,
+      "totalPass": 31,
+      "accuratePass": 24,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 4,
+      "ballRecovery": 2,
+      "duelWon": 9,
+      "duelLost": 9,
+      "aerialWon": 2,
+      "aerialLost": 2,
+      "touches": 51,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 15,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251122",
@@ -2803,7 +4891,27 @@
       "position": "AM",
       "rating": 7.3
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.2419,
+      "expectedAssists": 0.0064,
+      "totalPass": 11,
+      "accuratePass": 7,
+      "totalLongBalls": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 3,
+      "duelWon": 3,
+      "duelLost": 10,
+      "touches": 30,
+      "fouls": 3,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20251121",
@@ -2826,7 +4934,29 @@
       "position": "CDM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.2313,
+      "expectedAssists": 0.0411,
+      "totalPass": 33,
+      "accuratePass": 24,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 3,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 14,
+      "duelLost": 7,
+      "aerialWon": 11,
+      "aerialLost": 4,
+      "touches": 51,
+      "fouls": 1,
+      "possessionLostCtrl": 12
+    }
   },
   {
     "matchId": "kubo-20251118",
@@ -2849,7 +4979,24 @@
       "position": "RW",
       "rating": 7.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 21,
+      "accuratePass": 14,
+      "keyPass": 2,
+      "totalCross": 3,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "touches": 32,
+      "wasFouled": 2,
+      "possessionLostCtrl": 14,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251118",
@@ -2872,7 +5019,28 @@
       "position": "CM",
       "rating": 8.2
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "totalPass": 26,
+      "accuratePass": 22,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 5,
+      "duelLost": 3,
+      "touches": 38,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 7,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "endo-20251118",
@@ -2895,7 +5063,26 @@
       "position": "CDM",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 44,
+      "accuratePass": 40,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 5,
+      "totalTackle": 3,
+      "wonTackle": 3,
+      "totalClearance": 1,
+      "ballRecovery": 4,
+      "duelWon": 5,
+      "duelLost": 9,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 53,
+      "fouls": 4,
+      "wasFouled": 1,
+      "possessionLostCtrl": 5
+    }
   },
   {
     "matchId": "kubo-20251114",
@@ -2918,7 +5105,22 @@
       "position": "RW",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 34,
+      "accuratePass": 27,
+      "keyPass": 3,
+      "totalCross": 3,
+      "totalLongBalls": 2,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "touches": 44,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "sano_kaishu-20251114",
@@ -2941,7 +5143,26 @@
       "position": "CDM",
       "rating": 8.5
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "totalPass": 58,
+      "accuratePass": 52,
+      "keyPass": 3,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 5,
+      "wonTackle": 3,
+      "interceptionWon": 6,
+      "ballRecovery": 5,
+      "duelWon": 5,
+      "duelLost": 7,
+      "touches": 77,
+      "fouls": 4,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251109",
@@ -2964,7 +5185,27 @@
       "position": "CM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.1744,
+      "expectedAssists": 0.0206,
+      "totalPass": 30,
+      "accuratePass": 24,
+      "totalCross": 1,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 6,
+      "duelWon": 4,
+      "duelLost": 4,
+      "aerialLost": 1,
+      "touches": 44,
+      "fouls": 1,
+      "possessionLostCtrl": 11,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "shiogai-20251109",
@@ -2987,7 +5228,22 @@
       "position": "ST",
       "rating": 7.6
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.6416,
+      "expectedAssists": 0.0503,
+      "totalPass": 8,
+      "accuratePass": 7,
+      "keyPass": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 3,
+      "touches": 15,
+      "possessionLostCtrl": 4,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251109",
@@ -3010,7 +5266,28 @@
       "position": "CM",
       "rating": 7.8
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.1304,
+      "expectedAssists": 0.3345,
+      "totalPass": 39,
+      "accuratePass": 36,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 3,
+      "totalClearance": 1,
+      "ballRecovery": 9,
+      "duelWon": 2,
+      "duelLost": 11,
+      "aerialWon": 1,
+      "touches": 61,
+      "fouls": 1,
+      "possessionLostCtrl": 14,
+      "dispossessed": 6
+    }
   },
   {
     "matchId": "sano_kaishu-20251109",
@@ -3033,7 +5310,26 @@
       "position": "CDM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0392,
+      "totalPass": 40,
+      "accuratePass": 35,
+      "totalLongBalls": 2,
+      "totalTackle": 3,
+      "wonTackle": 3,
+      "interceptionWon": 3,
+      "totalClearance": 2,
+      "ballRecovery": 4,
+      "duelWon": 6,
+      "duelLost": 3,
+      "aerialWon": 3,
+      "touches": 55,
+      "fouls": 1,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251109",
@@ -3056,7 +5352,27 @@
       "position": "AM",
       "rating": 7.3
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.2526,
+      "expectedAssists": 0.0105,
+      "totalPass": 20,
+      "accuratePass": 16,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "interceptionWon": 1,
+      "ballRecovery": 3,
+      "duelWon": 1,
+      "duelLost": 6,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 28,
+      "fouls": 1,
+      "possessionLostCtrl": 8,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kubo-20251107",
@@ -3079,7 +5395,29 @@
       "position": "RW",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1056,
+      "expectedAssists": 0.0799,
+      "totalPass": 22,
+      "accuratePass": 15,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "totalTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 6,
+      "duelLost": 4,
+      "aerialLost": 1,
+      "touches": 42,
+      "fouls": 1,
+      "wasFouled": 3,
+      "possessionLostCtrl": 14
+    }
   },
   {
     "matchId": "kamada-20251106",
@@ -3102,7 +5440,24 @@
       "position": "CM",
       "rating": 6.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.3026,
+      "expectedAssists": 0.0004,
+      "totalPass": 2,
+      "accuratePass": 2,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 14,
+      "possessionLostCtrl": 4,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20251106",
@@ -3125,7 +5480,25 @@
       "position": "CDM",
       "rating": 7.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.1159,
+      "expectedAssists": 0.1081,
+      "totalPass": 19,
+      "accuratePass": 15,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "interceptionWon": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "touches": 30,
+      "wasFouled": 1,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "suzuki_yuito-20251106",
@@ -3148,7 +5521,29 @@
       "position": "AM",
       "rating": 8.4
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0354,
+      "expectedAssists": 0.0855,
+      "totalPass": 26,
+      "accuratePass": 21,
+      "keyPass": 2,
+      "totalCross": 2,
+      "totalLongBalls": 1,
+      "totalTackle": 3,
+      "wonTackle": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 8,
+      "duelWon": 7,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 39,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "shiogai-20251102",
@@ -3171,7 +5566,25 @@
       "position": "ST",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0041,
+      "totalPass": 6,
+      "accuratePass": 4,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 10,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 4,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251102",
@@ -3194,7 +5607,29 @@
       "position": "CM",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0138,
+      "expectedAssists": 0.1615,
+      "totalPass": 52,
+      "accuratePass": 44,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "ballRecovery": 6,
+      "duelWon": 2,
+      "duelLost": 8,
+      "aerialLost": 3,
+      "touches": 67,
+      "fouls": 2,
+      "wasFouled": 2,
+      "possessionLostCtrl": 15,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "kubo-20251101",
@@ -3217,7 +5652,21 @@
       "position": "RW",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0014,
+      "totalPass": 6,
+      "accuratePass": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "duelWon": 4,
+      "duelLost": 1,
+      "aerialLost": 1,
+      "touches": 12,
+      "wasFouled": 2,
+      "possessionLostCtrl": 4
+    }
   },
   {
     "matchId": "kamada-20251101",
@@ -3240,7 +5689,29 @@
       "position": "CM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.0819,
+      "expectedAssists": 0.0263,
+      "totalPass": 32,
+      "accuratePass": 23,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "totalTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 9,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialWon": 2,
+      "touches": 44,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 13,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20251101",
@@ -3263,7 +5734,28 @@
       "position": "CDM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0422,
+      "totalPass": 45,
+      "accuratePass": 37,
+      "totalCross": 1,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 4,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 5,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 3,
+      "duelLost": 3,
+      "aerialLost": 2,
+      "touches": 61,
+      "wasFouled": 1,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "shiogai-20251030",
@@ -3286,7 +5778,20 @@
       "position": "ST",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 18,
+      "accuratePass": 12,
+      "keyPass": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "ballRecovery": 4,
+      "duelLost": 3,
+      "aerialLost": 2,
+      "touches": 22,
+      "possessionLostCtrl": 9
+    }
   },
   {
     "matchId": "endo-20251029",
@@ -3309,7 +5814,28 @@
       "position": "CB",
       "rating": 5.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 70,
+      "accuratePass": 63,
+      "keyPass": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 7,
+      "duelWon": 5,
+      "duelLost": 7,
+      "aerialLost": 1,
+      "touches": 82,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 11,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kamada-20251029",
@@ -3332,7 +5858,25 @@
       "position": "CM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 52,
+      "accuratePass": 48,
+      "keyPass": 1,
+      "totalCross": 4,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 3,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 1,
+      "duelLost": 2,
+      "touches": 66,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "sano_kaishu-20251029",
@@ -3355,7 +5899,28 @@
       "position": "CDM",
       "rating": 6.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 46,
+      "accuratePass": 34,
+      "totalCross": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 4,
+      "ballRecovery": 7,
+      "duelWon": 3,
+      "duelLost": 5,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 58,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 13
+    }
   },
   {
     "matchId": "suzuki_yuito-20251029",
@@ -3378,7 +5943,26 @@
       "position": "AM",
       "rating": 8.4
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 20,
+      "accuratePass": 15,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "ballRecovery": 4,
+      "duelWon": 9,
+      "duelLost": 2,
+      "touches": 41,
+      "wasFouled": 4,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "kamada-20251026",
@@ -3401,7 +5985,24 @@
       "position": "CM",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.021,
+      "totalPass": 29,
+      "accuratePass": 25,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "totalTackle": 1,
+      "totalClearance": 3,
+      "ballRecovery": 7,
+      "duelWon": 1,
+      "duelLost": 4,
+      "aerialLost": 1,
+      "touches": 38,
+      "fouls": 1,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "sano_kaishu-20251026",
@@ -3424,7 +6025,26 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0083,
+      "totalPass": 34,
+      "accuratePass": 27,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 2,
+      "aerialWon": 3,
+      "touches": 42,
+      "fouls": 1,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251026",
@@ -3447,7 +6067,22 @@
       "position": "AM",
       "rating": 6.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0053,
+      "totalPass": 7,
+      "accuratePass": 6,
+      "keyPass": 1,
+      "interceptionWon": 1,
+      "ballRecovery": 4,
+      "duelWon": 1,
+      "duelLost": 1,
+      "aerialLost": 1,
+      "touches": 9,
+      "wasFouled": 1,
+      "possessionLostCtrl": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251025",
@@ -3470,7 +6105,30 @@
       "position": "CM",
       "rating": 7.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0434,
+      "expectedAssists": 0.0551,
+      "totalPass": 49,
+      "accuratePass": 41,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "totalTackle": 3,
+      "wonTackle": 3,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 11,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 71,
+      "wasFouled": 3,
+      "possessionLostCtrl": 12,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251023",
@@ -3493,7 +6151,18 @@
       "position": "CM",
       "rating": 6.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0,
+      "totalPass": 1,
+      "accuratePass": 1,
+      "totalCross": 1,
+      "duelWon": 1,
+      "aerialWon": 1,
+      "touches": 7,
+      "possessionLostCtrl": 3
+    }
   },
   {
     "matchId": "sano_kaishu-20251023",
@@ -3516,7 +6185,23 @@
       "position": "CDM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0163,
+      "totalPass": 51,
+      "accuratePass": 43,
+      "totalLongBalls": 2,
+      "interceptionWon": 2,
+      "ballRecovery": 7,
+      "duelWon": 5,
+      "duelLost": 3,
+      "aerialWon": 4,
+      "aerialLost": 1,
+      "touches": 59,
+      "wasFouled": 1,
+      "possessionLostCtrl": 11
+    }
   },
   {
     "matchId": "suzuki_yuito-20251023",
@@ -3539,7 +6224,26 @@
       "position": "AM",
       "rating": 8.3
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 3,
+      "expectedGoals": 0.4179,
+      "expectedAssists": 0.1043,
+      "totalPass": 24,
+      "accuratePass": 19,
+      "keyPass": 2,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "ballRecovery": 3,
+      "duelWon": 6,
+      "duelLost": 6,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "touches": 37,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20251019",
@@ -3562,7 +6266,23 @@
       "position": "AM",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0111,
+      "totalPass": 6,
+      "accuratePass": 5,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "duelLost": 3,
+      "touches": 12,
+      "fouls": 1,
+      "possessionLostCtrl": 3,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251018",
@@ -3585,7 +6305,27 @@
       "position": "CM",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.2847,
+      "totalPass": 39,
+      "accuratePass": 35,
+      "keyPass": 1,
+      "totalCross": 5,
+      "totalLongBalls": 9,
+      "accurateLongBalls": 8,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "ballRecovery": 5,
+      "duelWon": 8,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 56,
+      "fouls": 2,
+      "wasFouled": 3,
+      "possessionLostCtrl": 9
+    }
   },
   {
     "matchId": "sano_kodai-20251018",
@@ -3608,7 +6348,32 @@
       "position": "CM",
       "rating": 8.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0117,
+      "expectedAssists": 0.1263,
+      "totalPass": 37,
+      "accuratePass": 33,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 3,
+      "wonTackle": 3,
+      "interceptionWon": 1,
+      "totalClearance": 3,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 5,
+      "duelWon": 10,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "touches": 63,
+      "fouls": 1,
+      "wasFouled": 3,
+      "possessionLostCtrl": 8,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20251018",
@@ -3631,7 +6396,25 @@
       "position": "CDM",
       "rating": 7.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.098,
+      "totalPass": 40,
+      "accuratePass": 29,
+      "totalLongBalls": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 2,
+      "ballRecovery": 6,
+      "duelWon": 7,
+      "duelLost": 1,
+      "aerialWon": 5,
+      "touches": 50,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kubo-20251014",
@@ -3654,7 +6437,22 @@
       "position": "RW",
       "rating": 7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 19,
+      "accuratePass": 15,
+      "keyPass": 1,
+      "totalCross": 3,
+      "ballRecovery": 3,
+      "duelWon": 4,
+      "duelLost": 4,
+      "aerialLost": 1,
+      "touches": 32,
+      "wasFouled": 2,
+      "possessionLostCtrl": 11,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251014",
@@ -3677,7 +6475,22 @@
       "position": "CM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 55,
+      "accuratePass": 51,
+      "totalCross": 1,
+      "totalLongBalls": 3,
+      "interceptionWon": 5,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 7,
+      "duelLost": 9,
+      "touches": 74,
+      "fouls": 3,
+      "possessionLostCtrl": 12,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kaishu-20251014",
@@ -3700,7 +6513,24 @@
       "position": "CDM",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 32,
+      "accuratePass": 26,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 5,
+      "duelWon": 2,
+      "duelLost": 6,
+      "aerialWon": 2,
+      "touches": 47,
+      "fouls": 1,
+      "possessionLostCtrl": 10
+    }
   },
   {
     "matchId": "kamada-20251010",
@@ -3723,7 +6553,19 @@
       "position": "CM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 21,
+      "accuratePass": 17,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "ballRecovery": 2,
+      "duelWon": 1,
+      "duelLost": 1,
+      "touches": 24,
+      "possessionLostCtrl": 5
+    }
   },
   {
     "matchId": "sano_kaishu-20251010",
@@ -3746,7 +6588,26 @@
       "position": "CDM",
       "rating": 8.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 49,
+      "accuratePass": 40,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 4,
+      "ballRecovery": 5,
+      "duelWon": 8,
+      "duelLost": 2,
+      "aerialWon": 5,
+      "touches": 61,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 12
+    }
   },
   {
     "matchId": "kubo-20251005",
@@ -3769,7 +6630,21 @@
       "position": "RW",
       "rating": 6.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0004,
+      "totalPass": 6,
+      "accuratePass": 5,
+      "ballRecovery": 2,
+      "duelWon": 4,
+      "duelLost": 1,
+      "aerialWon": 1,
+      "touches": 14,
+      "wasFouled": 3,
+      "possessionLostCtrl": 4,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20251005",
@@ -3792,7 +6667,28 @@
       "position": "CM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "expectedGoals": 0.0672,
+      "expectedAssists": 0.0204,
+      "totalPass": 39,
+      "accuratePass": 35,
+      "totalCross": 2,
+      "totalTackle": 8,
+      "wonTackle": 3,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 7,
+      "duelWon": 11,
+      "duelLost": 4,
+      "aerialWon": 2,
+      "touches": 58,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 8,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20251005",
@@ -3815,7 +6711,28 @@
       "position": "CM",
       "rating": 7.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0099,
+      "expectedAssists": 0.0288,
+      "totalPass": 44,
+      "accuratePass": 38,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 6,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 4,
+      "touches": 61,
+      "fouls": 2,
+      "wasFouled": 2,
+      "possessionLostCtrl": 8,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20251005",
@@ -3838,7 +6755,30 @@
       "position": "CDM",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0329,
+      "expectedAssists": 0.0404,
+      "totalPass": 55,
+      "accuratePass": 48,
+      "keyPass": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 1,
+      "ballRecovery": 8,
+      "duelWon": 7,
+      "duelLost": 4,
+      "aerialWon": 4,
+      "aerialLost": 2,
+      "touches": 74,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "endo-20251004",
@@ -3861,7 +6801,20 @@
       "position": "CDM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0003,
+      "totalPass": 4,
+      "accuratePass": 3,
+      "totalTackle": 1,
+      "totalClearance": 1,
+      "duelWon": 3,
+      "aerialWon": 1,
+      "touches": 10,
+      "wasFouled": 1,
+      "possessionLostCtrl": 2
+    }
   },
   {
     "matchId": "kamada-20251002",
@@ -3884,7 +6837,26 @@
       "position": "CM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0978,
+      "expectedAssists": 0.0129,
+      "totalPass": 18,
+      "accuratePass": 15,
+      "totalCross": 4,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 1,
+      "duelWon": 5,
+      "duelLost": 4,
+      "touches": 36,
+      "wasFouled": 3,
+      "possessionLostCtrl": 13,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20251002",
@@ -3953,7 +6925,23 @@
       "position": "RW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.1412,
+      "expectedAssists": 0.0457,
+      "totalPass": 15,
+      "accuratePass": 13,
+      "keyPass": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 4,
+      "touches": 22,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20250928",
@@ -3976,7 +6964,28 @@
       "position": "CM",
       "rating": 7.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0268,
+      "totalPass": 33,
+      "accuratePass": 27,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 1,
+      "totalClearance": 2,
+      "ballRecovery": 8,
+      "duelWon": 7,
+      "duelLost": 2,
+      "touches": 57,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 16,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "mitoma-20250927",
@@ -3999,7 +7008,22 @@
       "position": "LW",
       "rating": 6.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0185,
+      "totalPass": 9,
+      "accuratePass": 7,
+      "totalClearance": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 7,
+      "aerialWon": 2,
+      "touches": 25,
+      "wasFouled": 2,
+      "possessionLostCtrl": 10,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "kamada-20250927",
@@ -4022,7 +7046,26 @@
       "position": "CM",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0448,
+      "totalPass": 28,
+      "accuratePass": 21,
+      "keyPass": 1,
+      "totalCross": 3,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 4,
+      "totalTackle": 3,
+      "wonTackle": 2,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 4,
+      "touches": 41,
+      "fouls": 4,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14
+    }
   },
   {
     "matchId": "sano_kaishu-20250927",
@@ -4068,7 +7111,26 @@
       "position": "RW",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1506,
+      "expectedAssists": 0.6203,
+      "totalPass": 31,
+      "accuratePass": 23,
+      "keyPass": 2,
+      "totalCross": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 3,
+      "aerialWon": 3,
+      "aerialLost": 1,
+      "touches": 44,
+      "possessionLostCtrl": 14
+    }
   },
   {
     "matchId": "endo-20250923",
@@ -4091,7 +7153,28 @@
       "position": "CDM",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 77,
+      "accuratePass": 69,
+      "keyPass": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 5,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "totalClearance": 4,
+      "ballRecovery": 9,
+      "duelWon": 12,
+      "duelLost": 5,
+      "aerialLost": 2,
+      "touches": 107,
+      "fouls": 1,
+      "wasFouled": 6,
+      "possessionLostCtrl": 13,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "shiogai-20250921",
@@ -4114,7 +7197,22 @@
       "position": "ST",
       "rating": 6.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0048,
+      "totalPass": 9,
+      "accuratePass": 6,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "ballRecovery": 3,
+      "duelLost": 4,
+      "aerialLost": 2,
+      "touches": 14,
+      "possessionLostCtrl": 7,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20250921",
@@ -4137,7 +7235,28 @@
       "position": "CM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0375,
+      "totalPass": 66,
+      "accuratePass": 56,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 3,
+      "totalTackle": 3,
+      "wonTackle": 3,
+      "interceptionWon": 3,
+      "totalClearance": 7,
+      "ballRecovery": 8,
+      "duelWon": 6,
+      "duelLost": 8,
+      "aerialWon": 1,
+      "touches": 94,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 13,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "mitoma-20250920",
@@ -4160,7 +7279,28 @@
       "position": "LW",
       "rating": 6.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0896,
+      "expectedAssists": 0.0652,
+      "totalPass": 23,
+      "accuratePass": 16,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalClearance": 2,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 9,
+      "aerialWon": 1,
+      "aerialLost": 3,
+      "touches": 39,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 15,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20250920",
@@ -4183,7 +7323,28 @@
       "position": "CM",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.2534,
+      "expectedAssists": 0.22,
+      "totalPass": 29,
+      "accuratePass": 24,
+      "keyPass": 3,
+      "totalCross": 8,
+      "totalTackle": 4,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "duelWon": 11,
+      "duelLost": 4,
+      "aerialWon": 2,
+      "aerialLost": 2,
+      "touches": 57,
+      "wasFouled": 2,
+      "possessionLostCtrl": 16,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20250920",
@@ -4229,7 +7390,25 @@
       "position": "RW",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0596,
+      "expectedAssists": 0.0239,
+      "totalPass": 18,
+      "accuratePass": 14,
+      "keyPass": 1,
+      "totalCross": 2,
+      "totalTackle": 4,
+      "wonTackle": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 6,
+      "duelWon": 6,
+      "duelLost": 2,
+      "touches": 32,
+      "wasFouled": 2,
+      "possessionLostCtrl": 8
+    }
   },
   {
     "matchId": "kamada-20250916",
@@ -4252,7 +7431,25 @@
       "position": "CM",
       "rating": 7.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 63,
+      "accuratePass": 50,
+      "keyPass": 3,
+      "totalLongBalls": 8,
+      "accurateLongBalls": 3,
+      "totalTackle": 3,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "ballRecovery": 9,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialLost": 2,
+      "touches": 80,
+      "wasFouled": 1,
+      "possessionLostCtrl": 20
+    }
   },
   {
     "matchId": "mitoma-20250913",
@@ -4275,7 +7472,21 @@
       "position": "LW",
       "rating": 6.9
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.3694,
+      "expectedAssists": 0.0282,
+      "totalPass": 23,
+      "accuratePass": 17,
+      "totalCross": 2,
+      "duelWon": 2,
+      "duelLost": 5,
+      "touches": 37,
+      "possessionLostCtrl": 13,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kubo-20250913",
@@ -4298,7 +7509,21 @@
       "position": "RW",
       "rating": 6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0657,
+      "expectedAssists": 0.0205,
+      "totalPass": 13,
+      "accuratePass": 10,
+      "totalCross": 4,
+      "duelWon": 1,
+      "duelLost": 2,
+      "touches": 22,
+      "fouls": 1,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20250913",
@@ -4321,7 +7546,29 @@
       "position": "CM",
       "rating": 6.5
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.0678,
+      "expectedAssists": 0.2154,
+      "totalPass": 29,
+      "accuratePass": 23,
+      "keyPass": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelWon": 2,
+      "duelLost": 4,
+      "aerialLost": 1,
+      "touches": 37,
+      "wasFouled": 1,
+      "possessionLostCtrl": 9,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "shiogai-20250913",
@@ -4344,7 +7591,27 @@
       "position": "ST",
       "rating": 6.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.2279,
+      "expectedAssists": 0.0215,
+      "totalPass": 7,
+      "accuratePass": 5,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 3,
+      "aerialLost": 1,
+      "touches": 17,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 5,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "sano_kodai-20250913",
@@ -4367,7 +7634,30 @@
       "position": "CM",
       "rating": 7.6
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.019,
+      "expectedAssists": 0.1043,
+      "totalPass": 41,
+      "accuratePass": 32,
+      "keyPass": 1,
+      "totalCross": 7,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "totalTackle": 5,
+      "wonTackle": 3,
+      "interceptionWon": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 10,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 68,
+      "wasFouled": 1,
+      "possessionLostCtrl": 16
+    }
   },
   {
     "matchId": "sano_kaishu-20250913",
@@ -4413,7 +7703,20 @@
       "position": "LW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 15,
+      "accuratePass": 14,
+      "totalCross": 3,
+      "ballRecovery": 1,
+      "duelWon": 3,
+      "duelLost": 1,
+      "aerialWon": 1,
+      "touches": 23,
+      "fouls": 1,
+      "possessionLostCtrl": 6
+    }
   },
   {
     "matchId": "kamada-20250909",
@@ -4505,7 +7808,24 @@
       "position": "LW",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 26,
+      "accuratePass": 22,
+      "keyPass": 1,
+      "totalTackle": 4,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 4,
+      "duelWon": 6,
+      "duelLost": 4,
+      "touches": 45,
+      "fouls": 3,
+      "wasFouled": 1,
+      "possessionLostCtrl": 11
+    }
   },
   {
     "matchId": "kubo-20250907",
@@ -4528,7 +7848,26 @@
       "position": "RW",
       "rating": 7.2
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "totalPass": 18,
+      "accuratePass": 13,
+      "keyPass": 2,
+      "totalCross": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "totalClearance": 1,
+      "ballRecovery": 5,
+      "duelWon": 6,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "touches": 34,
+      "fouls": 2,
+      "wasFouled": 3,
+      "possessionLostCtrl": 13
+    }
   },
   {
     "matchId": "kamada-20250907",
@@ -4574,7 +7913,25 @@
       "position": "CDM",
       "rating": 6.4
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 65,
+      "accuratePass": 59,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 3,
+      "totalTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 6,
+      "duelWon": 4,
+      "duelLost": 6,
+      "aerialLost": 1,
+      "touches": 77,
+      "fouls": 3,
+      "wasFouled": 3,
+      "possessionLostCtrl": 8,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20250907",
@@ -4643,7 +8000,30 @@
       "position": "LW",
       "rating": 7.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0788,
+      "expectedAssists": 0.0371,
+      "totalPass": 24,
+      "accuratePass": 18,
+      "keyPass": 3,
+      "totalCross": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 11,
+      "aerialLost": 2,
+      "touches": 41,
+      "fouls": 6,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20250831",
@@ -4712,7 +8092,23 @@
       "position": "ST",
       "rating": 5.9
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.4349,
+      "expectedAssists": 0.0283,
+      "totalPass": 8,
+      "accuratePass": 5,
+      "blockedScoringAttempt": 1,
+      "duelWon": 2,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 14,
+      "fouls": 1,
+      "possessionLostCtrl": 6,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20250831",
@@ -4735,7 +8131,27 @@
       "position": "CM",
       "rating": 7.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.079,
+      "totalPass": 60,
+      "accuratePass": 55,
+      "totalCross": 4,
+      "totalLongBalls": 7,
+      "accurateLongBalls": 4,
+      "interceptionWon": 2,
+      "totalClearance": 11,
+      "ballRecovery": 8,
+      "duelWon": 4,
+      "duelLost": 3,
+      "aerialWon": 2,
+      "aerialLost": 1,
+      "touches": 86,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 12
+    }
   },
   {
     "matchId": "sano_kaishu-20250831",
@@ -4804,7 +8220,28 @@
       "position": "RW",
       "rating": 6.7
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1044,
+      "expectedAssists": 0.206,
+      "totalPass": 19,
+      "accuratePass": 16,
+      "keyPass": 2,
+      "totalCross": 7,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 1,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialLost": 1,
+      "touches": 40,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 14,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "kamada-20250828",
@@ -4896,7 +8333,26 @@
       "position": "LW",
       "rating": 6.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.1498,
+      "expectedAssists": 0.0928,
+      "totalPass": 28,
+      "accuratePass": 26,
+      "keyPass": 3,
+      "totalCross": 3,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "ballRecovery": 4,
+      "duelWon": 2,
+      "duelLost": 8,
+      "aerialLost": 1,
+      "touches": 46,
+      "fouls": 1,
+      "possessionLostCtrl": 11,
+      "dispossessed": 3
+    }
   },
   {
     "matchId": "kubo-20250824",
@@ -4919,7 +8375,30 @@
       "position": "RW",
       "rating": 7.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1672,
+      "expectedAssists": 0.1485,
+      "totalPass": 41,
+      "accuratePass": 32,
+      "keyPass": 4,
+      "totalCross": 3,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalClearance": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 2,
+      "duelWon": 6,
+      "duelLost": 6,
+      "aerialLost": 1,
+      "touches": 62,
+      "fouls": 1,
+      "wasFouled": 5,
+      "possessionLostCtrl": 17,
+      "dispossessed": 2
+    }
   },
   {
     "matchId": "shiogai-20250824",
@@ -4942,7 +8421,19 @@
       "position": "ST",
       "rating": 5.8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 3,
+      "totalTackle": 1,
+      "duelWon": 3,
+      "duelLost": 4,
+      "aerialWon": 2,
+      "aerialLost": 3,
+      "touches": 8,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20250824",
@@ -4965,7 +8456,29 @@
       "position": "CM",
       "rating": 8
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.8242,
+      "totalPass": 55,
+      "accuratePass": 50,
+      "keyPass": 3,
+      "totalCross": 3,
+      "totalLongBalls": 1,
+      "totalTackle": 4,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "totalClearance": 2,
+      "ballRecovery": 10,
+      "duelWon": 5,
+      "duelLost": 6,
+      "aerialLost": 1,
+      "touches": 78,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 8,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kaishu-20250824",
@@ -5103,7 +8616,20 @@
       "position": "LW",
       "rating": 6.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0707,
+      "expectedAssists": 0.0394,
+      "totalPass": 19,
+      "accuratePass": 17,
+      "duelWon": 1,
+      "duelLost": 6,
+      "aerialLost": 1,
+      "touches": 27,
+      "fouls": 3,
+      "possessionLostCtrl": 7
+    }
   },
   {
     "matchId": "kubo-20250816",
@@ -5126,7 +8652,24 @@
       "position": "RW",
       "rating": 7.4
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.1806,
+      "expectedAssists": 0.0348,
+      "totalPass": 18,
+      "accuratePass": 13,
+      "keyPass": 1,
+      "totalCross": 1,
+      "ballRecovery": 1,
+      "duelWon": 3,
+      "duelLost": 4,
+      "touches": 31,
+      "wasFouled": 2,
+      "possessionLostCtrl": 10,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "shiogai-20250816",
@@ -5149,7 +8692,20 @@
       "position": "ST",
       "rating": 8.4
     },
-    "notable": true
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.3979,
+      "expectedAssists": 0.0133,
+      "totalPass": 6,
+      "accuratePass": 5,
+      "totalCross": 1,
+      "duelLost": 1,
+      "touches": 10,
+      "possessionLostCtrl": 3,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "sano_kodai-20250816",
@@ -5172,7 +8728,28 @@
       "position": "CM",
       "rating": 8.1
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.4245,
+      "totalPass": 112,
+      "accuratePass": 104,
+      "keyPass": 4,
+      "totalCross": 5,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "totalClearance": 5,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 6,
+      "aerialWon": 1,
+      "aerialLost": 3,
+      "touches": 134,
+      "possessionLostCtrl": 15,
+      "dispossessed": 1
+    }
   },
   {
     "matchId": "suzuki_yuito-20250816",
@@ -5333,7 +8910,31 @@
       "position": "CM",
       "rating": 8.3
     },
-    "notable": false
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "expectedGoals": 0.0349,
+      "expectedAssists": 0.0561,
+      "totalPass": 47,
+      "accuratePass": 39,
+      "keyPass": 1,
+      "totalCross": 1,
+      "totalLongBalls": 9,
+      "accurateLongBalls": 4,
+      "totalTackle": 5,
+      "wonTackle": 2,
+      "interceptionWon": 1,
+      "totalClearance": 6,
+      "ballRecovery": 6,
+      "duelWon": 11,
+      "duelLost": 2,
+      "aerialWon": 2,
+      "aerialLost": 1,
+      "touches": 70,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 9
+    }
   },
   {
     "matchId": "endo-20250804",

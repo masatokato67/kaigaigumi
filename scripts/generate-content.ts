@@ -47,6 +47,9 @@ interface MediaRating {
   ratingSystem: string;
   comment?: string;
   commentTranslated?: string;
+  isManual?: boolean;
+  articleUrl?: string;
+  hasArticleRating?: boolean;
 }
 
 interface LocalVoice {
@@ -141,83 +144,83 @@ interface CommentTemplate {
 const MEDIA_COMMENT_TEMPLATES: Record<string, Record<string, CommentTemplate[]>> = {
   excellent: {
     EN: [
-      { original: "Outstanding performance. Controlled the tempo and created multiple chances.", translated: "傑出したパフォーマンス。試合のテンポをコントロールし、複数のチャンスを演出した。" },
-      { original: "Exceptional display. A constant threat on the wing with superb decision-making.", translated: "卓越したプレー。サイドで常に脅威となり、素晴らしい判断力を見せた。" },
-      { original: "Man of the match caliber performance. Dominated throughout.", translated: "マン・オブ・ザ・マッチ級のパフォーマンス。試合を通じて支配した。" },
-      { original: "Brilliant showing. Combined well and showed great vision.", translated: "見事なプレー。連携も良く、優れたビジョンを披露した。" },
+      { original: "Outstanding performance that lit up the match. Controlled the tempo throughout and created multiple clear-cut chances with his vision and passing range. His movement off the ball was exceptional, constantly finding pockets of space that the opposition simply couldn't cope with. A display that underlined his growing importance to the team.", translated: "試合を彩る傑出したパフォーマンス。終始テンポをコントロールし、そのビジョンとパスレンジで複数の決定機を演出した。オフ・ザ・ボールの動きも卓越しており、相手が対処しきれないスペースを常に見つけ出した。チームにおける存在感の高まりを裏付けるプレーだった。" },
+      { original: "Exceptional display from start to finish. A constant threat on the wing with superb decision-making in the final third. Drew multiple fouls and created overloads that stretched the opposing defence to breaking point. His work rate without the ball was equally impressive, pressing high and winning possession back in dangerous areas.", translated: "キックオフから最後まで卓越したプレー。ファイナルサードでの判断力が素晴らしく、サイドで常に脅威を与え続けた。複数のファウルを誘発し、オーバーロードを作り出して相手の守備を限界まで引き伸ばした。ボールを持たない時の運動量も同様に印象的で、高い位置からプレスをかけ、危険なエリアでボールを奪い返した。" },
+      { original: "Man of the match caliber performance. Dominated his area of the pitch from the first whistle, dictating play with a composure that belied the intensity of the occasion. His passing accuracy was near-perfect, and he combined a creative spark with defensive diligence. The kind of complete performance that managers dream of.", translated: "マン・オブ・ザ・マッチ級のパフォーマンス。開始の笛から自分のエリアを支配し、試合の激しさからは想像できない落ち着きでプレーを操った。パス精度はほぼ完璧で、創造性と守備の勤勉さを両立させた。監督が夢見るような完全なパフォーマンスだった。" },
+      { original: "Brilliant showing that had the crowd on their feet. Combined beautifully with his teammates, showing great vision and awareness of the spaces around him. Every touch was purposeful, every run was intelligent. His influence on the game was clear for all to see, and he fully deserved the standing ovation he received.", translated: "観客を立ち上がらせる見事なプレー。チームメイトと美しく連携し、周囲のスペースへの優れたビジョンと意識を見せた。すべてのタッチに意図があり、すべてのランニングが知的だった。試合への影響は誰の目にも明らかで、受けたスタンディングオベーションは完全に相応しいものだった。" },
     ],
     DE: [
-      { original: "Herausragende Leistung. Kontrollierte das Tempo und schuf mehrere Chancen.", translated: "傑出したパフォーマンス。テンポをコントロールし、複数のチャンスを作り出した。" },
-      { original: "Überragend. War ständig gefährlich und traf kluge Entscheidungen.", translated: "圧倒的だった。常に危険な存在で、賢明な判断を下した。" },
-      { original: "Spieler des Spiels. Dominierte durchgehend.", translated: "試合のベストプレーヤー。終始支配的だった。" },
+      { original: "Herausragende Leistung, die das Spiel prägte. Kontrollierte das Tempo souverän und schuf mehrere hochkarätige Chancen mit seiner Übersicht und Passqualität. Seine Laufwege ohne Ball waren erstklassig, und er fand immer wieder Räume, die der Gegner nicht schließen konnte. Eine Vorstellung, die seine wachsende Bedeutung für die Mannschaft unterstrich.", translated: "試合を彩る傑出したパフォーマンス。テンポを堂々とコントロールし、その視野とパスの質で複数の決定機を作り出した。ボールなしの動きは一流で、相手が埋められないスペースを繰り返し見つけ出した。チームにおける重要性の高まりを裏付ける出来だった。" },
+      { original: "Überragend von der ersten bis zur letzten Minute. War ständig gefährlich, traf kluge Entscheidungen im letzten Drittel und zeigte ein außergewöhnliches Spielverständnis. Seine Zweikampfstärke und sein unermüdlicher Einsatz machten ihn zum Schlüsselspieler dieser Partie.", translated: "最初から最後まで圧倒的だった。常に危険な存在で、ファイナルサードでの賢明な判断と卓越した試合理解力を見せた。デュエルの強さとたゆまぬ献身性が、この試合のキープレーヤーたらしめた。" },
+      { original: "Spieler des Spiels – und das völlig verdient. Dominierte das Geschehen durchgehend, setzte seine Mitspieler immer wieder gekonnt in Szene und war mit seiner Dynamik kaum zu stoppen. Eine Weltklasse-Leistung, die Erinnerungen an seine besten Auftritte weckt.", translated: "試合のベストプレーヤー──完全に相応しい。終始試合を支配し、チームメイトを巧みに活かし続け、そのダイナミズムはほとんど止められなかった。彼の最高のパフォーマンスを彷彿とさせるワールドクラスの出来だった。" },
     ],
     ES: [
-      { original: "Actuación excepcional. Controló el ritmo y creó múltiples ocasiones.", translated: "卓越したパフォーマンス。リズムをコントロールし、複数のチャンスを生み出した。" },
-      { original: "Exhibición brillante. Una amenaza constante con gran visión.", translated: "見事な出来。常に脅威となり、優れたビジョンを見せた。" },
+      { original: "Actuación excepcional que iluminó el partido. Controló el ritmo con una naturalidad asombrosa, creando múltiples ocasiones de gol con su visión y capacidad de pase. Su movimiento sin balón fue brillante, encontrando espacios que la defensa rival simplemente no podía cubrir. Un despliegue que confirma su creciente importancia en el equipo.", translated: "試合を照らす卓越したパフォーマンス。驚くべき自然さでリズムをコントロールし、そのビジョンとパス能力で複数のゴールチャンスを生み出した。ボールを持たない動きも素晴らしく、相手守備が埋められないスペースを見つけ出した。チームにおける重要性の高まりを確認する出来だった。" },
+      { original: "Exhibición brillante de principio a fin. Una amenaza constante por la banda con decisiones inteligentes en el último tercio. Su capacidad para desequilibrar con el regate y su lectura del juego fueron sobresalientes. El público no dejó de aplaudirle.", translated: "最初から最後まで見事な出来。サイドで常に脅威となり、ファイナルサードでの判断が知的だった。ドリブルで均衡を崩す能力と試合を読む力が傑出していた。観客からの拍手が絶えなかった。" },
     ],
     NL: [
-      { original: "Uitstekende prestatie. Beheerste het tempo en creëerde meerdere kansen.", translated: "素晴らしいパフォーマンス。テンポを支配し、複数のチャンスを作った。" },
-      { original: "Briljant optreden. Constant gevaarlijk met geweldige visie.", translated: "輝かしいプレー。常に危険で、素晴らしいビジョンを持っていた。" },
+      { original: "Uitstekende prestatie die de wedstrijd kleur gaf. Beheerste het tempo van begin tot eind en creëerde meerdere grote kansen met zijn overzicht en passvermogen. Zijn beweging zonder bal was uitzonderlijk, waardoor hij steeds weer vrij kwam in gevaarlijke posities. Een optreden dat zijn groeiende waarde voor het team bevestigt.", translated: "試合に色を添える素晴らしいパフォーマンス。最初から最後までテンポを支配し、その視野とパス能力で複数の大きなチャンスを作り出した。ボールなしの動きが卓越しており、危険なポジションで繰り返しフリーになった。チームにとっての価値の高まりを確認する出来だった。" },
+      { original: "Briljant optreden van de eerste tot de laatste minuut. Constant gevaarlijk met geweldige visie, sterk aan de bal en onvermoeibaar in zijn loopacties. Zijn technische klasse en spelintelligentie maakten het verschil in deze wedstrijd.", translated: "最初から最後まで輝かしいプレー。常に危険で素晴らしいビジョンを持ち、ボール扱いが巧みで、ランニングは疲れ知らずだった。そのテクニカルなクオリティと試合の知性がこの試合の違いを生んだ。" },
     ],
   },
   good: {
     EN: [
-      { original: "Solid contribution. Worked hard and linked up well with teammates.", translated: "堅実な貢献。ハードワークでチームメイトとの連携も良好だった。" },
-      { original: "Reliable performance. Made some key passes and tracked back diligently.", translated: "頼れるパフォーマンス。キーパスを通し、献身的な守備も見せた。" },
-      { original: "Effective display. Did his job and added quality going forward.", translated: "効果的なプレー。役割を果たし、攻撃時にクオリティを加えた。" },
-      { original: "Composed showing. Rarely gave the ball away and showed good movement.", translated: "落ち着いたプレー。ボールロストが少なく、良い動きを見せた。" },
+      { original: "Solid contribution that helped the team maintain control. Worked hard across the pitch, linking up well with teammates and providing a reliable outlet in possession. Showed good positioning throughout and made several important interventions when the team needed him most.", translated: "チームがコントロールを維持する上で堅実な貢献を見せた。ピッチ全体でハードワークし、チームメイトとよく連携してポゼッション時に信頼できるパスコースとなった。終始良いポジショニングを見せ、チームが最も必要とした場面でいくつかの重要な介入を行った。" },
+      { original: "Reliable performance that showcased his growing maturity. Made some key passes that unlocked the defence and tracked back diligently when possession was lost. His tactical discipline was evident, rarely being caught out of position. A professional display that his manager will be pleased with.", translated: "成長する成熟度を示す頼れるパフォーマンス。守備を崩すキーパスを通し、ボールを失った際には献身的に戻った。戦術的な規律が明確で、ポジションを外すことがほとんどなかった。監督も満足するプロフェッショナルなプレーだった。" },
+      { original: "Effective display in a hard-fought contest. Did his job without fuss, adding quality going forward while never neglecting his defensive responsibilities. His touch and passing were crisp, and he showed a good understanding of the game's rhythm. A quietly impressive outing.", translated: "激戦の中で効果的なプレー。目立たずとも役割を果たし、守備の責任を怠ることなく攻撃時にクオリティを加えた。タッチとパスがキレており、試合のリズムへの理解も良好だった。静かに印象的な出来だった。" },
+      { original: "Composed showing in a tight encounter. Rarely gave the ball away, demonstrating excellent ball retention under pressure. His movement created space for others, and he showed good awareness of when to play simple and when to take risks. A mature display.", translated: "拮抗した試合で落ち着いたプレー。ボールロストが少なく、プレッシャー下での優れたボール保持を示した。その動きが味方にスペースを作り、シンプルにプレーすべき時とリスクを取るべき時の判断力を見せた。成熟したプレーだった。" },
     ],
     DE: [
-      { original: "Solider Beitrag. Arbeitete hart und verband sich gut mit Mitspielern.", translated: "堅実な貢献。ハードワークでチームメイトとよく連携した。" },
-      { original: "Zuverlässige Leistung. Einige wichtige Pässe und diszipliniertes Rücklaufen.", translated: "信頼できるパフォーマンス。重要なパスを通し、規律ある守備を見せた。" },
+      { original: "Solider Beitrag in einem umkämpften Spiel. Arbeitete hart über den gesamten Platz, verband sich gut mit den Mitspielern und bot sich als verlässliche Anspielstation an. Seine taktische Disziplin war auffällig, und er machte einige wichtige Ballgewinne in entscheidenden Momenten.", translated: "激戦の中での堅実な貢献。ピッチ全体でハードワークし、チームメイトとよく連携して信頼できるパスコースとなった。戦術的な規律が目立ち、決定的な場面でいくつかの重要なボール奪取を行った。" },
+      { original: "Zuverlässige Leistung mit einigen wichtigen Pässen und diszipliniertem Rücklaufen. Zeigte ein gutes Gespür für den Spielrhythmus und war in seinen Aktionen stets besonnen. Ein Auftritt, der Vertrauen schafft und seine Konstanz unterstreicht.", translated: "重要なパスと規律ある守備を見せた信頼できるパフォーマンス。試合のリズムに対する良い感覚を示し、常に冷静なプレーだった。信頼を築き、安定感を裏付ける出来だった。" },
     ],
     ES: [
-      { original: "Contribución sólida. Trabajó duro y conectó bien con los compañeros.", translated: "堅実な貢献。ハードワークでチームメイトとよく繋がった。" },
-      { original: "Actuación fiable. Realizó pases clave y ayudó en defensa.", translated: "信頼できるプレー。キーパスを出し、守備でも貢献した。" },
+      { original: "Contribución sólida en un partido exigente. Trabajó duro por todo el campo, conectando bien con los compañeros y ofreciendo una opción fiable en posesión. Su disciplina táctica fue notable, y realizó varias intervenciones importantes cuando el equipo más lo necesitaba.", translated: "厳しい試合での堅実な貢献。ピッチ全体でハードワークし、チームメイトとよく繋がりポゼッション時に信頼できる選択肢となった。戦術的規律が注目に値し、チームが最も必要とした時にいくつかの重要な介入を行った。" },
+      { original: "Actuación fiable que demostró su madurez creciente. Realizó pases clave que desarmaron la defensa y ayudó en labores defensivas con diligencia. Su lectura del juego fue acertada y su aportación al equipo, consistente.", translated: "成長する成熟度を示す信頼できるプレー。守備を崩すキーパスを出し、守備面でも勤勉に貢献した。試合の読みが的確で、チームへの貢献は一貫していた。" },
     ],
     NL: [
-      { original: "Solide bijdrage. Werkte hard en combineerde goed met teamgenoten.", translated: "堅実な貢献。ハードワークでチームメイトとよくコンビネーションした。" },
-      { original: "Betrouwbare prestatie. Maakte belangrijke passes.", translated: "頼れるパフォーマンス。重要なパスを通した。" },
+      { original: "Solide bijdrage in een lastige wedstrijd. Werkte hard over het hele veld, combineerde goed met teamgenoten en bood een betrouwbare aanspeeloptie. Zijn tactische discipline viel op, en hij maakte enkele belangrijke balveroveringen op cruciale momenten.", translated: "難しい試合での堅実な貢献。ピッチ全体でハードワークし、チームメイトとよくコンビネーションして信頼できるパスコースとなった。戦術的規律が目立ち、重要な場面でいくつかのボール奪取を行った。" },
+      { original: "Betrouwbare prestatie met enkele slimme passes en een sterk positiespel. Liet zien dat hij het ritme van de wedstrijd goed aanvoelde en was zuiver in zijn acties. Een optreden dat vertrouwen geeft voor de komende weken.", translated: "巧みなパスと強いポジショニングを見せた頼れるパフォーマンス。試合のリズムをよく感じ取り、プレーの精度が高かった。今後に向けて信頼を与える出来だった。" },
     ],
   },
   average: {
     EN: [
-      { original: "Quiet afternoon. Lacked service but showed moments of quality when on the ball.", translated: "静かな午後だった。ボール供給が少なかったが、ボールを持った時には質の高いプレーを見せた。" },
-      { original: "Mixed display. Some good moments but struggled to impose himself.", translated: "出来にムラがあった。良い場面もあったが、存在感を示すのに苦労した。" },
-      { original: "Subdued performance. Not his best day but still contributed defensively.", translated: "控えめなパフォーマンス。ベストの日ではなかったが、守備では貢献した。" },
-      { original: "Inconsistent showing. Flashes of brilliance but not sustained.", translated: "不安定なプレー。輝きを見せる瞬間はあったが、持続しなかった。" },
+      { original: "A quiet afternoon in which he struggled to find his rhythm. Service was limited, but when he did receive the ball, he showed moments of quality that reminded us of his ability. Defensively he remained disciplined, but going forward he lacked the spark we have come to expect from him.", translated: "リズムを掴むのに苦労した静かな午後だった。ボール供給は限られていたが、ボールを受けた時にはその能力を思い出させる質の高い瞬間を見せた。守備面では規律を保ったが、攻撃面では彼に期待されるキレを欠いた。" },
+      { original: "Mixed display with some promising moments but an overall lack of consistency. He showed flashes of his best, particularly in the first half, but faded as the game wore on. The quality is clearly there, but today it appeared only in glimpses rather than sustained spells.", translated: "有望な瞬間もあったが全体的に一貫性を欠く出来だった。特に前半にはベストの片鱗を見せたが、試合が進むにつれて存在感が薄れた。クオリティがあるのは明らかだが、今日は持続的ではなく断片的にしか現れなかった。" },
+      { original: "Subdued performance in a frustrating team display. Not his best day by any means, but he still contributed defensively and showed glimpses of his technical quality. Lacked the service to truly influence the game, though his work rate could not be faulted.", translated: "チーム全体がフラストレーションの溜まる中で控えめなパフォーマンス。決してベストの日ではなかったが、守備では貢献しテクニカルな質の片鱗も見せた。試合に真に影響を与えるボール供給を欠いたが、運動量は批判の余地がなかった。" },
+      { original: "Inconsistent showing that left room for improvement. There were flashes of brilliance — a clever turn here, a precise pass there — but they were not sustained over the ninety minutes. He will know he can do better, and his manager will expect more in the coming weeks.", translated: "改善の余地を残す不安定なプレーだった。巧みなターンや正確なパスなど輝きの瞬間はあったが、90分間持続しなかった。本人ももっとできると分かっているはずで、監督も今後数週間でさらなる向上を期待するだろう。" },
     ],
     DE: [
-      { original: "Ruhiger Nachmittag. Wenig Ballbesitz, aber gute Momente mit dem Ball.", translated: "静かな午後だった。ボールに触る機会は少なかったが、ボールを持った時は良かった。" },
-      { original: "Durchwachsene Leistung. Konnte sich nicht durchsetzen.", translated: "出来にムラがあった。存在感を発揮できなかった。" },
+      { original: "Ruhiger Nachmittag, an dem er seinen Rhythmus nicht fand. Wenig Ballbesitz und begrenzte Einbindung ins Kombinationsspiel. Wenn er den Ball hatte, zeigte er Qualität, doch diese Momente waren zu selten. Defensiv blieb er stabil, nach vorne fehlte der Zug zum Tor.", translated: "リズムを見つけられなかった静かな午後だった。ボール保持が少なくコンビネーションへの関与も限定的だった。ボールを持った時には質を見せたが、そのような場面は少なすぎた。守備は安定していたが、攻撃面ではゴールへの推進力を欠いた。" },
+      { original: "Durchwachsene Leistung mit einigen guten Ansätzen, aber ohne Durchschlagskraft. In der ersten Halbzeit noch engagiert, ließ die Intensität nach der Pause nach. Die Klasse ist unbestritten, doch heute kam sie nur phasenweise zum Vorschein.", translated: "良い兆しはあったが決定力を欠いた出来にムラのあるパフォーマンス。前半はまだ積極的だったが、後半はインテンシティが低下した。クオリティは疑いないが、今日は断片的にしか発揮されなかった。" },
     ],
     ES: [
-      { original: "Tarde tranquila. Poco balón pero mostró calidad cuando lo tuvo.", translated: "静かな午後だった。ボールに触る機会は少なかったが、持った時には質を見せた。" },
-      { original: "Actuación irregular. Buenos momentos pero sin continuidad.", translated: "不安定なプレー。良い瞬間はあったが、継続しなかった。" },
+      { original: "Una tarde tranquila en la que le costó encontrar su ritmo. Recibió pocos balones, pero cuando los tuvo, mostró destellos de su calidad habitual. En defensa cumplió con disciplina, aunque en ataque le faltó esa chispa que le caracteriza. Un día de esos que todos los jugadores tienen.", translated: "リズムを見つけるのに苦労した静かな午後だった。ボールを受ける機会は少なかったが、受けた時にはいつもの質の片鱗を見せた。守備では規律を持って務めたが、攻撃では彼の特徴であるキレを欠いた。どの選手にもあるような日だった。" },
+      { original: "Actuación irregular con momentos prometedores pero sin continuidad. Mostró su mejor versión a ratos, sobre todo en la primera parte, pero fue perdiendo protagonismo con el paso de los minutos. La calidad está ahí, pero hoy solo se vio a destellos.", translated: "有望な瞬間はあったが継続性のない不安定なプレー。特に前半には最高の姿を見せたが、時間の経過とともに存在感を失った。クオリティは確かにあるが、今日は閃きでしか見られなかった。" },
     ],
     NL: [
-      { original: "Rustige middag. Weinig balbezit maar toonde kwaliteit wanneer mogelijk.", translated: "静かな午後だった。ボール保持は少なかったが、機会があれば質を見せた。" },
-      { original: "Wisselvallige prestatie. Kon zich niet opleggen.", translated: "不安定なパフォーマンス。存在感を示せなかった。" },
+      { original: "Rustige middag waarin hij moeite had zijn ritme te vinden. Weinig balbezit, maar wanneer hij de bal kreeg, toonde hij momenten van klasse die zijn kwaliteit bevestigen. Verdedigend bleef hij gedisciplineerd, maar aanvallend ontbrak de scherpte die we van hem gewend zijn.", translated: "リズムを見つけるのに苦労した静かな午後だった。ボール保持は少なかったが、ボールを受けた時にはそのクオリティを確認させる瞬間を見せた。守備では規律を保ったが、攻撃面では慣れ親しんだキレを欠いた。" },
+      { original: "Wisselvallige prestatie met enkele goede momenten, maar zonder de consistentie die hem kenmerkt. In de eerste helft nog betrokken, maar na rust minder zichtbaar. De klasse is er, maar vandaag kwam die alleen in vlagen naar voren.", translated: "良い瞬間はあったが、彼の特徴である一貫性を欠いた不安定なパフォーマンス。前半はまだ関与していたが、後半は目立たなくなった。クオリティはあるが、今日は断片的にしか現れなかった。" },
     ],
   },
   poor: {
     EN: [
-      { original: "Struggled throughout. Found it difficult to get into the game.", translated: "試合を通じて苦戦した。ゲームに入り込むのが難しかった。" },
-      { original: "Off the pace today. Gave the ball away too often and looked frustrated.", translated: "今日はペースについていけなかった。ボールロストが多く、フラストレーションが見られた。" },
-      { original: "Disappointing display. Well below his usual standards.", translated: "期待外れのパフォーマンス。いつもの水準を大きく下回った。" },
-      { original: "Tough match. Will look to bounce back in the next game.", translated: "厳しい試合だった。次戦での巻き返しに期待。" },
+      { original: "Struggled throughout a difficult encounter. Found it hard to get into the game as the opposition pressed high and cut off his supply lines. His touches were heavy at times, and he was unable to create the chances his team desperately needed. A frustrating afternoon that he will want to put behind him quickly.", translated: "厳しい試合を通じて苦戦した。相手の高いプレスでボール供給が断たれ、試合に入り込むのが難しかった。タッチが重い場面もあり、チームが切実に必要としていたチャンスを作れなかった。早く忘れたいフラストレーションの溜まる午後だった。" },
+      { original: "Off the pace in a game that passed him by. Gave the ball away too often in dangerous areas and looked frustrated with his own inability to influence proceedings. The pressing intensity of the opposition seemed to catch him off guard, and he never truly settled into a rhythm. A rare off day.", translated: "試合のペースについていけず、存在感を示せなかった。危険なエリアでのボールロストが多く、自身が試合に影響を与えられないことへのフラストレーションが見て取れた。相手のプレス強度に不意を突かれたようで、最後までリズムを掴めなかった。珍しい不調の日だった。" },
+      { original: "Disappointing display that fell well below his usual high standards. Struggled to find space against a well-organised defence and was guilty of some uncharacteristic errors in possession. His body language suggested frustration, and he was eventually substituted as the manager looked for a different approach.", translated: "いつもの高い水準を大きく下回る期待外れのパフォーマンス。よく組織された守備の前でスペースを見つけるのに苦労し、ポゼッション時に彼らしくないミスを犯した。ボディランゲージにフラストレーションが滲み、監督が異なるアプローチを模索する中で途中交代となった。" },
+      { original: "A tough match in which little went right for him. The conditions, combined with a physical opponent, made it difficult for him to express himself. He showed character by never giving up, but the quality of his play was not at the level we know he is capable of. He will look to bounce back strongly in the next fixture.", translated: "彼にとってほとんど何もうまくいかない厳しい試合だった。コンディションとフィジカルの強い相手の組み合わせが自分らしさの発揮を困難にした。最後まで諦めない姿勢は見せたが、プレーの質は彼が発揮できるレベルではなかった。次の試合で力強い巻き返しを目指すだろう。" },
     ],
     DE: [
-      { original: "Hatte Schwierigkeiten. Kam nicht ins Spiel.", translated: "苦戦した。試合に入れなかった。" },
-      { original: "Nicht auf dem Niveau. Verlor den Ball zu oft.", translated: "いつものレベルではなかった。ボールロストが多すぎた。" },
+      { original: "Hatte von Beginn an Schwierigkeiten, ins Spiel zu finden. Die gegnerische Mannschaft presste hoch und schnitt ihm die Passwege ab. Seine Ballkontakte waren unpräzise, und es gelang ihm nicht, die nötigen Akzente zu setzen. Ein Nachmittag zum Vergessen, den er schnell abhaken wird.", translated: "序盤から試合に入るのに苦労した。相手チームが高い位置からプレスをかけ、パスコースを断った。ボールタッチが不正確で、必要なアクセントを付けることができなかった。早く忘れたい午後だった。" },
+      { original: "Nicht auf dem Niveau, das man von ihm gewohnt ist. Verlor den Ball zu oft in gefährlichen Zonen und wirkte zunehmend frustriert über seine eigene Leistung. Die defensive Arbeit war in Ordnung, doch nach vorne fehlte es an Ideen und Durchsetzungskraft.", translated: "彼に慣れ親しんだレベルではなかった。危険なゾーンでのボールロストが多く、自身のパフォーマンスへのフラストレーションが増していった。守備面は問題なかったが、攻撃面ではアイデアと推進力を欠いた。" },
     ],
     ES: [
-      { original: "Tuvo dificultades. No logró entrar en el partido.", translated: "苦労した。試合に入り込めなかった。" },
-      { original: "Actuación decepcionante. Por debajo de su nivel habitual.", translated: "期待外れのプレー。通常のレベルを下回った。" },
+      { original: "Tuvo serias dificultades para entrar en el partido. La presión alta del rival le anuló y apenas pudo recibir balones en buenas condiciones. Cuando los tuvo, sus decisiones no fueron las mejores. Una tarde complicada que querrá olvidar cuanto antes.", translated: "試合に入るのに深刻な困難を抱えた。相手の高いプレスに封じられ、良い状態でボールを受けることがほとんどできなかった。ボールを持った時も判断が最善ではなかった。できるだけ早く忘れたい厳しい午後だった。" },
+      { original: "Actuación decepcionante, muy por debajo de su nivel habitual. No encontró espacios ante una defensa bien organizada y cometió errores impropios de él. Su lenguaje corporal reflejó la frustración de un día en el que nada le salió como esperaba.", translated: "いつもの水準を大きく下回る期待外れのプレー。よく組織された守備の前でスペースを見つけられず、彼らしくないミスを犯した。何も思い通りにいかない日のフラストレーションがボディランゲージに表れていた。" },
     ],
     NL: [
-      { original: "Moeite gehad. Kwam niet in de wedstrijd.", translated: "苦労した。試合に入れなかった。" },
-      { original: "Teleurstellende prestatie. Onder zijn gebruikelijke niveau.", translated: "期待外れのパフォーマンス。いつもの水準を下回った。" },
+      { original: "Moeizame middag waarin hij zijn draai niet kon vinden. Het hoge pressing van de tegenstander sneed zijn aanvoerlijnen af, waardoor hij nauwelijks invloed op het spel kon uitoefenen. Zijn baltoetsen waren onzuiver en hij slaagde er niet in om de kansen te creëren die zijn team nodig had.", translated: "リズムを掴めない苦しい午後だった。相手の高いプレスがボール供給を断ち、試合にほとんど影響を及ぼせなかった。ボールタッチが不正確で、チームが必要としていたチャンスを作ることができなかった。" },
+      { original: "Teleurstellende prestatie die ver onder zijn gebruikelijke niveau lag. Kreeg weinig ruimte van een goed georganiseerde verdediging en maakte enkele onkarakteristieke fouten. De kwaliteit is er zonder twijfel, maar vandaag kwam die er simpelweg niet uit.", translated: "いつもの水準を大きく下回る期待外れのパフォーマンス。よく組織された守備から余裕を与えてもらえず、彼らしくないミスを犯した。クオリティがあるのは疑いないが、今日はそれが単純に発揮されなかった。" },
     ],
   },
 };
@@ -411,19 +414,40 @@ function getCommentLanguage(sourceCountry: string): string {
 }
 
 /**
- * パフォーマンスレベルに基づいてコメントを取得（オリジナル+翻訳）
+ * 言語ごとに使用済みインデックスを追跡して重複しないコメントを返すジェネレータを作成
  */
-function getRandomComment(performanceLevel: string, langCode: string): { comment: string; commentTranslated: string } | undefined {
-  const levelComments = MEDIA_COMMENT_TEMPLATES[performanceLevel];
-  if (!levelComments) return undefined;
+function createCommentPicker(performanceLevel: string) {
+  // 言語ごとの使用済みインデックスを管理
+  const usedIndices: Record<string, Set<number>> = {};
 
-  const comments = levelComments[langCode] || levelComments["EN"];
-  if (!comments || comments.length === 0) return undefined;
+  return (langCode: string): { comment: string; commentTranslated: string } | undefined => {
+    const levelComments = MEDIA_COMMENT_TEMPLATES[performanceLevel];
+    if (!levelComments) return undefined;
 
-  const selected = comments[Math.floor(Math.random() * comments.length)];
-  return {
-    comment: selected.original,
-    commentTranslated: selected.translated,
+    const comments = levelComments[langCode] || levelComments["EN"];
+    const effectiveLang = levelComments[langCode] ? langCode : "EN";
+    if (!comments || comments.length === 0) return undefined;
+
+    if (!usedIndices[effectiveLang]) {
+      usedIndices[effectiveLang] = new Set();
+    }
+    const used = usedIndices[effectiveLang];
+
+    // 全テンプレートを使い切った場合はリセット
+    if (used.size >= comments.length) {
+      used.clear();
+    }
+
+    // 未使用のインデックスからランダムに選択
+    const available = Array.from({ length: comments.length }, (_, i) => i).filter(i => !used.has(i));
+    const idx = available[Math.floor(Math.random() * available.length)];
+    used.add(idx);
+
+    const selected = comments[idx];
+    return {
+      comment: selected.original,
+      commentTranslated: selected.translated,
+    };
   };
 }
 
@@ -442,6 +466,9 @@ function generateRatings(match: Match, player: Player): MediaRating[] {
     poor: 5.5,
   }[performanceLevel];
 
+  // 試合単位でコメントピッカーを作成し、同一言語内の重複を防止
+  const pickComment = createCommentPicker(performanceLevel);
+
   return sources.map((source) => {
     // 少しランダム性を持たせる
     const variance = (Math.random() - 0.5) * 0.6;
@@ -449,7 +476,7 @@ function generateRatings(match: Match, player: Player): MediaRating[] {
 
     // コメントの言語を決定
     const langCode = getCommentLanguage(source.country);
-    const commentData = getRandomComment(performanceLevel, langCode);
+    const commentData = pickComment(langCode);
 
     // kickerはドイツ式（6段階、低いほど良い）
     if (source.source === "kicker") {
@@ -814,13 +841,13 @@ async function main(newMatchIds?: string[]) {
   const matches: Match[] = JSON.parse(readFileSync(MATCHES_FILE, "utf-8"));
   const existingMediaRatings: MatchMediaData[] = JSON.parse(readFileSync(MEDIA_RATINGS_FILE, "utf-8"));
 
-  // 既存のメディアデータIDをセットで管理
-  const existingIds = new Set(existingMediaRatings.map((m) => m.matchId));
+  // 既存データをMapで管理（matchId → MatchMediaData）
+  const existingMap = new Map(existingMediaRatings.map((m) => [m.matchId, m]));
 
   // 処理対象の試合を決定
   const targetMatches = newMatchIds
     ? matches.filter((m) => newMatchIds.includes(m.matchId))
-    : matches.filter((m) => !existingIds.has(m.matchId));
+    : matches.filter((m) => !existingMap.has(m.matchId));
 
   if (targetMatches.length === 0) {
     console.log("コンテンツを生成する新しい試合がありません。");
@@ -828,8 +855,6 @@ async function main(newMatchIds?: string[]) {
   }
 
   console.log(`${targetMatches.length}件の試合に対してコンテンツを生成します...\n`);
-
-  const newMediaData: MatchMediaData[] = [];
 
   for (const match of targetMatches) {
     const player = players.find((p) => p.id === match.playerId);
@@ -840,33 +865,45 @@ async function main(newMatchIds?: string[]) {
 
     console.log(`処理中: ${player.name.ja} - ${match.date} vs ${match.awayTeam.name}`);
 
-    const ratings = generateRatings(match, player);
-    const averageRating = Math.round(
-      (ratings.filter((r) => r.ratingSystem === "standard").reduce((sum, r) => sum + r.rating, 0) /
-        ratings.filter((r) => r.ratingSystem === "standard").length) *
-        10
-    ) / 10;
+    const existing = existingMap.get(match.matchId);
+
+    // 既存の手動レーティングを保持（自動生成はしない）
+    const manualRatings = existing
+      ? existing.ratings.filter((r) => r.isManual === true)
+      : [];
+
+    // 平均レーティングを算出（手動レーティングのうちスコアがあるもの）
+    const ratedManual = manualRatings.filter(
+      (r) => r.hasArticleRating !== false && r.ratingSystem === "standard"
+    );
+    const averageRating = ratedManual.length > 0
+      ? Math.round(
+          (ratedManual.reduce((sum, r) => sum + r.rating, 0) / ratedManual.length) * 10
+        ) / 10
+      : match.playerStats.rating;
+
+    // 既存の localVoices / xThreads があれば保持（手動追加分を保護）
+    const existingVoices = existing?.localVoices || [];
+    const existingThreads = existing?.xThreads || [];
 
     const mediaData: MatchMediaData = {
       matchId: match.matchId,
       playerId: match.playerId,
-      ratings,
+      ratings: manualRatings,
       averageRating,
-      localVoices: generateLocalVoices(match, player),
-      xThreads: generateXThreads(match, player),
+      localVoices: existingVoices.length > 0 ? existingVoices : generateLocalVoices(match, player),
+      xThreads: existingThreads.length > 0 ? existingThreads : generateXThreads(match, player),
       lastUpdated: new Date().toISOString(),
     };
 
-    newMediaData.push(mediaData);
-    console.log(`  [生成完了] レーティング: ${averageRating}, 現地の声: ${mediaData.localVoices.length}件`);
+    existingMap.set(match.matchId, mediaData);
+    console.log(`  [生成完了] レーティング: ${averageRating} (手動: ${manualRatings.length})`);
   }
 
-  if (newMediaData.length > 0) {
-    // 新しいデータを追加して保存
-    const allMediaData = [...existingMediaRatings, ...newMediaData];
-    writeFileSync(MEDIA_RATINGS_FILE, JSON.stringify(allMediaData, null, 2));
-    console.log(`\n=== 完了: ${newMediaData.length}件の試合にコンテンツを生成しました ===`);
-  }
+  // Mapから配列に戻して保存
+  const allMediaData = Array.from(existingMap.values());
+  writeFileSync(MEDIA_RATINGS_FILE, JSON.stringify(allMediaData, null, 2));
+  console.log(`\n=== 完了: ${targetMatches.length}件の試合にコンテンツを生成しました ===`);
 }
 
 // コマンドライン引数から新規試合IDを取得（オプション）

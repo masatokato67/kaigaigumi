@@ -10,6 +10,8 @@
     "add-match": "tsx scripts/add-match.ts",
     "add-voice": "tsx scripts/add-local-voice.ts",
     "add-thread": "tsx scripts/add-x-thread.ts",
+    "add-rating": "tsx scripts/add-media-rating.ts",
+    "process-match": "tsx scripts/process-match-input.ts",
     "update-stats": "tsx scripts/update-stats.ts",
     "fetch-matches": "tsx scripts/fetch-matches-sofascore.ts",
     "fetch-matches-fotmob": "tsx scripts/fetch-matches.ts",
@@ -18,7 +20,9 @@
     "manual-add": "tsx scripts/manual-add-match.ts"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
     "next": "16.1.6",
     "node-fetch": "^2.7.0",
     "react": "19.2.3",

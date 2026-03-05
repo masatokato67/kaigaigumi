@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import BackLink from "@/components/ui/BackLink";
 import MatchHeader from "@/components/matches/MatchHeader";
 import HighlightVideo from "@/components/matches/HighlightVideo";
+import DetailedStats from "@/components/matches/DetailedStats";
 import MediaRatings from "@/components/matches/MediaRatings";
 import LocalVoices from "@/components/matches/LocalVoices";
 import XThreads from "@/components/matches/XThreads";
@@ -79,6 +80,12 @@ export default async function MatchDetailPage({
       {highlightVideo && (
         <div className="mt-8">
           <HighlightVideo video={highlightVideo} />
+        </div>
+      )}
+
+      {match.detailedStats && (
+        <div className="mt-8">
+          <DetailedStats stats={match.detailedStats} />
         </div>
       )}
 

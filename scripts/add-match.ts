@@ -226,6 +226,7 @@ async function main() {
   console.log(`   matches.json: ${matches.length}件`);
   console.log(`   media-ratings.json: ${mediaRatings.length}件`);
   console.log("\n📝 次のステップ:");
+  console.log(`   npx tsx scripts/add-media-rating.ts --match=${matchId}`);
   console.log(`   npx tsx scripts/add-local-voice.ts --match=${matchId}`);
   console.log(`   npx tsx scripts/add-x-thread.ts --match=${matchId}`);
 }

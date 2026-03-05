@@ -54,6 +54,44 @@ export interface Match {
     rating: number;
   };
   notable: boolean;
+  detailedStats?: DetailedStats;
+}
+
+export interface DetailedStats {
+  // シュート
+  totalShots?: number;
+  shotsOnTarget?: number;
+  expectedGoals?: number;
+  expectedAssists?: number;
+
+  // パス
+  totalPass?: number;
+  accuratePass?: number;
+  keyPass?: number;
+  totalCross?: number;
+  totalLongBalls?: number;
+  accurateLongBalls?: number;
+
+  // 守備
+  totalTackle?: number;
+  wonTackle?: number;
+  interceptionWon?: number;
+  totalClearance?: number;
+  blockedScoringAttempt?: number;
+  ballRecovery?: number;
+
+  // デュエル
+  duelWon?: number;
+  duelLost?: number;
+  aerialWon?: number;
+  aerialLost?: number;
+
+  // その他
+  touches?: number;
+  fouls?: number;
+  wasFouled?: number;
+  possessionLostCtrl?: number;
+  dispossessed?: number;
 }
 
 export interface HighlightVideo {
@@ -80,6 +118,9 @@ export interface MediaRating {
   ratingSystem: "standard" | "german";
   comment?: string;
   commentTranslated?: string;
+  isManual?: boolean;
+  articleUrl?: string;
+  hasArticleRating?: boolean; // 記事内にスコアが明記されていたか
 }
 
 export interface LocalVoice {

@@ -72,6 +72,34 @@ interface Player {
   position: string;
 }
 
+interface DetailedStats {
+  totalShots?: number;
+  shotsOnTarget?: number;
+  expectedGoals?: number;
+  expectedAssists?: number;
+  totalPass?: number;
+  accuratePass?: number;
+  keyPass?: number;
+  totalCross?: number;
+  totalLongBalls?: number;
+  accurateLongBalls?: number;
+  totalTackle?: number;
+  wonTackle?: number;
+  interceptionWon?: number;
+  totalClearance?: number;
+  blockedScoringAttempt?: number;
+  ballRecovery?: number;
+  duelWon?: number;
+  duelLost?: number;
+  aerialWon?: number;
+  aerialLost?: number;
+  touches?: number;
+  fouls?: number;
+  wasFouled?: number;
+  possessionLostCtrl?: number;
+  dispossessed?: number;
+}
+
 interface Match {
   matchId: string;
   playerId: string;
@@ -88,6 +116,7 @@ interface Match {
     rating: number;
   };
   notable: boolean;
+  detailedStats?: DetailedStats;
 }
 
 // SofaScore APIのレスポンス型
@@ -127,6 +156,35 @@ interface SofaScorePlayerStats {
     rating?: number;
     expectedGoals?: number;
     expectedAssists?: number;
+    // シュート
+    totalShots?: number;
+    onTargetScoringAttempt?: number;
+    shotOffTarget?: number;
+    // パス
+    totalPass?: number;
+    accuratePass?: number;
+    keyPass?: number;
+    totalCross?: number;
+    totalLongBalls?: number;
+    accurateLongBalls?: number;
+    // 守備
+    totalTackle?: number;
+    wonTackle?: number;
+    interceptionWon?: number;
+    totalClearance?: number;
+    blockedScoringAttempt?: number;
+    ballRecovery?: number;
+    // デュエル
+    duelWon?: number;
+    duelLost?: number;
+    aerialWon?: number;
+    aerialLost?: number;
+    // その他
+    touches?: number;
+    fouls?: number;
+    wasFouled?: number;
+    possessionLostCtrl?: number;
+    dispossessed?: number;
   };
 }
 
@@ -957,6 +1015,47 @@ async function fetchPlayerMatches(player: Player): Promise<Match[]> {
       const assists = stats.assists || 0;
       const isNotable = goals > 0 || assists >= 2 || rating >= 8.0;
 
+      // 詳細スタッツを構築（値があるフィールドのみ）
+      const detailedStats: DetailedStats = {};
+      const detailMap: [keyof DetailedStats, keyof NonNullable<SofaScorePlayerStats["statistics"]>][] = [
+        ["totalShots", "totalShots"],
+        ["shotsOnTarget", "onTargetScoringAttempt"],
+        ["expectedGoals", "expectedGoals"],
+        ["expectedAssists", "expectedAssists"],
+        ["totalPass", "totalPass"],
+        ["accuratePass", "accuratePass"],
+        ["keyPass", "keyPass"],
+        ["totalCross", "totalCross"],
+        ["totalLongBalls", "totalLongBalls"],
+        ["accurateLongBalls", "accurateLongBalls"],
+        ["totalTackle", "totalTackle"],
+        ["wonTackle", "wonTackle"],
+        ["interceptionWon", "interceptionWon"],
+        ["totalClearance", "totalClearance"],
+        ["blockedScoringAttempt", "blockedScoringAttempt"],
+        ["ballRecovery", "ballRecovery"],
+        ["duelWon", "duelWon"],
+        ["duelLost", "duelLost"],
+        ["aerialWon", "aerialWon"],
+        ["aerialLost", "aerialLost"],
+        ["touches", "touches"],
+        ["fouls", "fouls"],
+        ["wasFouled", "wasFouled"],
+        ["possessionLostCtrl", "possessionLostCtrl"],
+        ["dispossessed", "dispossessed"],
+      ];
+
+      for (const [destKey, srcKey] of detailMap) {
+        const val = stats[srcKey];
+        if (val !== undefined && val !== null) {
+          (detailedStats as Record<string, number>)[destKey] = typeof val === "number"
+            ? Math.round(val * 10000) / 10000  // xG等の小数を保持
+            : val;
+        }
+      }
+
+      const hasDetailedStats = Object.keys(detailedStats).length > 0;
+
       const match: Match = {
         matchId,
         playerId: player.id,
@@ -979,6 +1078,7 @@ async function fetchPlayerMatches(player: Player): Promise<Match[]> {
           rating: Math.round(rating * 10) / 10,
         },
         notable: isNotable,
+        ...(hasDetailedStats ? { detailedStats } : {}),
       };
 
       matches.push(match);
@@ -999,7 +1099,13 @@ async function fetchPlayerMatches(player: Player): Promise<Match[]> {
  * メイン処理
  */
 async function main() {
-  console.log("=== 試合データ自動取得スクリプト (SofaScore API) ===\n");
+  const updateStatsMode = process.argv.includes("--update-stats");
+
+  if (updateStatsMode) {
+    console.log("=== 既存試合の詳細スタッツ更新モード (SofaScore API) ===\n");
+  } else {
+    console.log("=== 試合データ自動取得スクリプト (SofaScore API) ===\n");
+  }
 
   // データファイルを読み込み
   const players: Player[] = JSON.parse(readFileSync(PLAYERS_FILE, "utf-8"));
@@ -1009,6 +1115,7 @@ async function main() {
   const existingMatchIds = new Set(existingMatches.map((m) => m.matchId));
 
   let newMatchCount = 0;
+  let updatedCount = 0;
   const newMatches: Match[] = [];
 
   for (const player of players) {
@@ -1018,7 +1125,16 @@ async function main() {
 
     for (const match of fetchedMatches) {
       if (existingMatchIds.has(match.matchId)) {
-        continue; // 既存の試合はスキップ
+        // --update-statsモード: 既存試合のdetailedStatsを更新
+        if (updateStatsMode && match.detailedStats) {
+          const existingIdx = existingMatches.findIndex((m) => m.matchId === match.matchId);
+          if (existingIdx !== -1 && !existingMatches[existingIdx].detailedStats) {
+            existingMatches[existingIdx].detailedStats = match.detailedStats;
+            updatedCount++;
+            console.log(`  [UPDATE] ${match.date}: detailedStats追加`);
+          }
+        }
+        continue;
       }
 
       newMatches.push(match);
@@ -1029,6 +1145,15 @@ async function main() {
 
     // レート制限を避けるため少し待つ
     await new Promise((resolve) => setTimeout(resolve, 1000));
+  }
+
+  // --update-stats モードで更新があった場合は保存
+  if (updateStatsMode && updatedCount > 0) {
+    existingMatches.sort((a, b) => b.date.localeCompare(a.date));
+    writeFileSync(MATCHES_FILE, JSON.stringify(existingMatches, null, 2));
+    console.log(`\n=== 完了: ${updatedCount}件の試合にdetailedStatsを追加しました ===`);
+  } else if (updateStatsMode) {
+    console.log("\n=== 完了: 更新対象の試合はありませんでした ===");
   }
 
   if (newMatchCount > 0) {
