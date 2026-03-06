@@ -9623,7 +9623,20 @@
   {
     "matchId": "sano_kodai-20260303",
     "playerId": "sano_kodai",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "Voetbalzone",
+        "country": "オランダ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "PSV is geïnteresseerd in Kodai Sano als mogelijke vervanger voor Joey Veerman. De Japanse smaakmaker en uitblinker van NEC is echter duur; NEC vraagt naar verluidt tussen de 15 en 20 miljoen euro voor hem. Dit bedrag is op dit moment te hoog voor PSV, wat hem de duurste NEC-speler ooit zou maken. Sano's zaakwaarnemer had afgelopen zomer al contact met PSV.",
+        "commentTranslated": "PSVはジョーイ・フェールマンの潜在的な後任として佐野航大に興味を持っています。しかし、NECの日本人スター選手である彼は高価であり、NECは彼に1500万から2000万ユーロを要求していると報じられています。この金額は現時点ではPSVにとって高すぎるとされており、彼がNEC史上最高額の選手になるでしょう。佐野の代理人は昨夏すでにPSVの幹部と接触していました。",
+        "isManual": true,
+        "articleUrl": "https://www.voetbalzone.nl/nieuws/nec-wil-gigantisch-bedrag-vangen-en-laat-psv-precies-weten-hoeveel-kodai-sano-moet-kosten/blt7f38e5bef1ef9482",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 7.1,
     "localVoices": [
       {
@@ -9799,7 +9812,8 @@
           }
         ]
       }
-    ]
+    ],
+    "lastUpdated": "2026-03-06T14:41:00.244Z"
   },
   {
     "matchId": "sano_kodai-20260228",
@@ -30579,9 +30593,21 @@
         "ratingSystem": "standard",
         "comment": "Workmanlike display. Fulfilled his duties adequately.",
         "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      },
+      {
+        "source": "Sportsdunia",
+        "country": "イングランド",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada was rated 7.0 for his performance, described as the 'metronome' in the Palace midfield. He demonstrated excellent ball retention with an impressive 94% pass accuracy. Kamada's calm and composed play helped his team control the tempo of the game, particularly after Tottenham was reduced to ten men.",
+        "commentTranslated": "鎌田大地は7.0と評価され、パレスの中盤の「司令塔」と評されました。彼は94%という驚異的なパス成功率でボールポゼッションを維持しました。鎌田の落ち着いて冷静なプレーは、特にトッテナムが10人になった後、チームが試合のテンポをコントロールするのに貢献しました。",
+        "isManual": true,
+        "articleUrl": "https://www.sportsdunia.com/football-ratings/tottenham-vs-crystal-palace-player-ratings-premier-league-5th-march-2026",
+        "hasArticleRating": true
       }
     ],
-    "averageRating": 6.4,
+    "averageRating": 6.6,
     "localVoices": [
       {
         "id": "v_kamada-20260305_1",
@@ -30757,7 +30783,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-05T22:57:37.710Z"
+    "lastUpdated": "2026-03-06T14:20:23.739Z"
   },
   {
     "matchId": "kamada-20260301",
