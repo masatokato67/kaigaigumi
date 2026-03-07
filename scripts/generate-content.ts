@@ -1,13 +1,15 @@
 /**
- * 新しい試合に対してメディア評価・現地の声・Xスレッドを自動生成するスクリプト
- * 試合結果に基づいてテンプレートからコンテンツを生成
+ * 新しい試合に対してメディア評価・Xスレッドを自動生成するスクリプト
+ * Xスレッドは Gemini API で AI 生成（テンプレートはフォールバック）
  */
 
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync, existsSync, mkdirSync } from "fs";
 import { join } from "path";
+import { generateAIThreads } from "./lib/thread-generator";
 
 // データファイルのパス
 const DATA_DIR = join(__dirname, "../src/data");
+const MATCH_INPUTS_DIR = join(__dirname, "../match-inputs");
 const PLAYERS_FILE = join(DATA_DIR, "players.json");
 const MATCHES_FILE = join(DATA_DIR, "matches.json");
 const MEDIA_RATINGS_FILE = join(DATA_DIR, "media-ratings.json");
@@ -72,6 +74,8 @@ interface XThread {
   likes: number;
   retweets: number;
   replies?: XReply[];
+  isManual?: boolean;
+  postUrl?: string;
 }
 
 interface XReply {
@@ -746,6 +750,16 @@ const X_REPLY_TEMPLATES: XReplyTemplate = {
 /**
  * Xスレッドを生成（全試合に対して生成）
  */
+// リプライ用の自然なユーザー名プール
+const REPLY_USERNAMES = [
+  "@FootballDaily_", "@PremFanatic", "@TacticsBoard", "@GoalDigger_",
+  "@TheRealFooty", "@MatchdayVibes", "@FootyAnalytics", "@PitchSidePov",
+  "@ScoutingReport", "@SquadWatch", "@TheSetPiece", "@XtraTime_",
+  "@FinalThird_", "@OffTheBall__", "@BigMatchFeel",
+  "@JPFootyFan", "@JLeagueWatch", "@SamuraiBlue_", "@AsianFooty",
+  "@海外サッカー通信", "@蹴球ファン", "@フットボール速報",
+];
+
 function generateXThreads(match: Match, player: Player): XThread[] {
   const opponent = match.homeTeam.name.includes(player.club.shortName)
     ? match.awayTeam.name
@@ -757,14 +771,15 @@ function generateXThreads(match: Match, player: Player): XThread[] {
 
   const threads: XThread[] = [];
   const usedTemplateIndices = new Set<number>();
+  const usedReplyUsernames = new Set<string>();
 
-  // 5つのスレッドを生成
-  for (let i = 0; i < 5; i++) {
-    // 使用可能なテンプレートを選択
-    let templateIndex: number;
-    do {
-      templateIndex = Math.floor(Math.random() * X_THREAD_TEMPLATES.length);
-    } while (usedTemplateIndices.has(templateIndex) && usedTemplateIndices.size < X_THREAD_TEMPLATES.length);
+  // 3つのスレッドを生成（質重視）
+  // 優先順位: journalist → club → fan/analyst/japanese からランダム
+  const priorityOrder = [1, 0, ...[2, 3, 4].sort(() => Math.random() - 0.5)];
+
+  for (let i = 0; i < 3 && i < priorityOrder.length; i++) {
+    const templateIndex = priorityOrder[i];
+    if (usedTemplateIndices.has(templateIndex)) continue;
     usedTemplateIndices.add(templateIndex);
 
     const threadTemplate = X_THREAD_TEMPLATES[templateIndex];
@@ -789,13 +804,12 @@ function generateXThreads(match: Match, player: Player): XThread[] {
 
     const username = replaceVars(threadTemplate.username);
 
-    // リプライを生成（2-4個）
-    const replyCount = 2 + Math.floor(Math.random() * 3);
+    // リプライを生成（2個固定）
     const replies: XReply[] = [];
     const replyTemplates = X_REPLY_TEMPLATES.templates[performanceLevel];
     const usedReplyIndices = new Set<number>();
 
-    for (let j = 0; j < replyCount && j < replyTemplates.length; j++) {
+    for (let j = 0; j < 2 && j < replyTemplates.length; j++) {
       let replyIndex: number;
       do {
         replyIndex = Math.floor(Math.random() * replyTemplates.length);
@@ -804,10 +818,17 @@ function generateXThreads(match: Match, player: Player): XThread[] {
 
       const replyTemplate = replyTemplates[replyIndex];
 
+      // 自然なユーザー名を選択（重複回避）
+      let replyUsername: string;
+      do {
+        replyUsername = REPLY_USERNAMES[Math.floor(Math.random() * REPLY_USERNAMES.length)];
+      } while (usedReplyUsernames.has(replyUsername) && usedReplyUsernames.size < REPLY_USERNAMES.length);
+      usedReplyUsernames.add(replyUsername);
+
       replies.push({
         id: `r${Date.now()}_${i}_${j}`,
-        username: `@Fan_${Math.floor(Math.random() * 10000)}`,
-        languageCode: Math.random() > 0.5 ? "EN" : "JA",
+        username: replyUsername,
+        languageCode: replyUsername.match(/[^\x00-\x7F]/) ? "JA" : "EN",
         originalText: replaceVars(replyTemplate.original),
         translatedText: replaceVars(replyTemplate.translated),
         likes: Math.floor(50 + Math.random() * 500),
@@ -882,22 +903,63 @@ async function main(newMatchIds?: string[]) {
         ) / 10
       : match.playerStats.rating;
 
-    // 既存の localVoices / xThreads があれば保持（手動追加分を保護）
-    const existingVoices = existing?.localVoices || [];
-    const existingThreads = existing?.xThreads || [];
+    // 既存の手動スレッド（isManual === true）を保持
+    const manualThreads = existing?.xThreads?.filter((t) => t.isManual === true) || [];
+    const existingAutoThreads = existing?.xThreads?.filter((t) => !t.isManual) || [];
+
+    // AI生成スレッドを作成（既存のautoスレッドがなければ）
+    let autoThreads = existingAutoThreads;
+    if (autoThreads.length === 0) {
+      try {
+        const aiThreads = await generateAIThreads(match, player);
+        autoThreads = aiThreads.map((t, i) => ({
+          id: `t${Date.now()}_${i}`,
+          username: t.username,
+          verified: t.verified,
+          languageCode: t.languageCode,
+          originalText: t.originalText,
+          translatedText: t.translatedText,
+          likes: t.likes,
+          retweets: t.retweets,
+          replies: t.replies.map((r, j) => ({
+            id: `r${Date.now()}_${i}_${j}`,
+            ...r,
+          })),
+        }));
+        console.log(`  [AI生成] Xスレッド: ${autoThreads.length}件`);
+      } catch (error) {
+        console.log(`  [AI生成失敗] テンプレートにフォールバック: ${error instanceof Error ? error.message : error}`);
+        autoThreads = generateXThreads(match, player);
+      }
+    }
 
     const mediaData: MatchMediaData = {
       matchId: match.matchId,
       playerId: match.playerId,
       ratings: manualRatings,
       averageRating,
-      localVoices: existingVoices.length > 0 ? existingVoices : generateLocalVoices(match, player),
-      xThreads: existingThreads.length > 0 ? existingThreads : generateXThreads(match, player),
+      localVoices: [],
+      xThreads: [...manualThreads, ...autoThreads],
       lastUpdated: new Date().toISOString(),
     };
 
     existingMap.set(match.matchId, mediaData);
     console.log(`  [生成完了] レーティング: ${averageRating} (手動: ${manualRatings.length})`);
+
+    // match-inputs JSONファイルを作成（未作成の場合）
+    const inputFile = join(MATCH_INPUTS_DIR, `${match.matchId}.json`);
+    if (!existsSync(inputFile)) {
+      if (!existsSync(MATCH_INPUTS_DIR)) {
+        mkdirSync(MATCH_INPUTS_DIR, { recursive: true });
+      }
+      const inputData = {
+        highlight: "",
+        articles: [],
+        thread_urls: [],
+      };
+      writeFileSync(inputFile, JSON.stringify(inputData, null, 2) + "\n");
+      console.log(`  [入力ファイル] ${match.matchId}.json を作成`);
+    }
   }
 
   // Mapから配列に戻して保存
