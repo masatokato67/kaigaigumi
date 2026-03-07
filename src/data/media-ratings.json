@@ -3595,31 +3595,16 @@
     "playerId": "shiogai",
     "ratings": [
       {
-        "source": "Kicker",
+        "source": "kicker",
         "country": "ドイツ",
-        "rating": 6.8,
+        "rating": 0,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Solid performance. Contributed well to the team's play.",
-        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
-      },
-      {
-        "source": "Bild",
-        "country": "ドイツ",
-        "rating": 6.6,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Impressive display. Showed quality throughout the match.",
-        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
-      },
-      {
-        "source": "Sport1",
-        "country": "ドイツ",
-        "rating": 6.6,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Effective performance. Made an impact when it mattered.",
-        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+        "comment": "Kento Shiogai wurde in der 69. Spielminute für Pejcinovic eingewechselt. In der 85. Minute zeigte er eine bemerkenswerte Aktion, als er nach einem Vertikalpass von Eriksen Torunarigha überlief, sogar an Torwart Heuer Fernandes vorbeikam, das Leder aus spitzem Winkel jedoch nicht mehr aufs Tor bringen konnte und es links vorbeiging.",
+        "commentTranslated": "塩貝健人は69分にペイチノビッチと交代で出場しました。85分には、エリクセンからの縦パスを受け、トルナリガよりも速く、さらにはGKホイヤー・フェルナンデスをも抜き去るという注目すべきプレーを見せましたが、厳しい角度からシュートを枠に捉えることはできず、ボールは左に外れました。",
+        "isManual": true,
+        "articleUrl": "https://www.kicker.de/wolfsburg-gegen-hsv-2026-bundesliga-5050970/ticker",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 6.7,
@@ -3653,6 +3638,96 @@
       }
     ],
     "xThreads": [
+      {
+        "id": "id-1772905037386-qkhfcqaz1",
+        "username": "@VfLWolfsburg_UK",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Tough one to take, don’t think we deserved to lose that. Hamburg created nothing without our stupidity and those two chances for Pejcinovic and Shiogai are haunting.",
+        "translatedText": "受け入れがたい結果だ、負けるべきではなかったと思う。我々の愚かなミスがなければハンブルクは何も生み出せなかったし、ペイシノビッチと塩貝のあの2つのチャンスが悔やまれる。",
+        "likes": 7,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1772905037386-exgsi9avg",
+            "username": "@WolfsburgLoyal",
+            "languageCode": "EN",
+            "originalText": "So frustrating, we played well enough to win. Shiogai is still young and learning, he'll bounce back stronger from this! Keep fighting lads.",
+            "translatedText": "本当に悔しい、勝てるだけの良いプレーはした。塩貝はまだ若くて学んでいる途中だから、この経験からもっと強くなってくれるはず！頑張れ、みんな。",
+            "likes": 285
+          },
+          {
+            "id": "id-1772905037386-2gti6otrh",
+            "username": "@J_football_fan",
+            "languageCode": "JA",
+            "originalText": "塩貝選手のチャンスは決めて欲しかったな…でもこういう経験が彼を大きくする。次戦でゴールを期待してます！",
+            "translatedText": "塩貝選手のチャンスは決めて欲しかったな…でもこういう経験が彼を大きくする。次戦でゴールを期待してます！",
+            "likes": 130
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/VfLWolfsburg_UK/status/2030321683966410786"
+      },
+      {
+        "id": "id-1772905044713-sr95lr5vn",
+        "username": "@FranHerreraGa",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "85’ Torunarigha se confía ante Shiogai y el japonés con todo a favor dispara fuera…\n\n#WOBvsHSV 1-2",
+        "translatedText": "85分、トロゥナリガは塩貝に対して油断し、日本人は全てが有利な状況でシュートを外した…",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1772905044713-5mv3xa05z",
+            "username": "@HSV_Fanatico",
+            "languageCode": "ES",
+            "originalText": "¡Qué oportunidad perdida! Era clarísima, Shiogai tiene que ser más contundente ahí. Podría haber sido el empate.",
+            "translatedText": "なんて機会損失だ！あれは明らかだったのに、塩貝はもっと決定的な仕事をしなくては。同点にできたはずだ。",
+            "likes": 187
+          },
+          {
+            "id": "id-1772905044713-87ji6b7oj",
+            "username": "@Kento_SupportJP",
+            "languageCode": "EN",
+            "originalText": "Unlucky for Shiogai! He got into a great position, sometimes those just don't go in. Keep pushing, Kento!",
+            "translatedText": "塩貝は不運だったね！素晴らしい位置に入り込んだけど、時にはああいうシュートは入らないもの。頑張れ、健人！",
+            "likes": 312
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/FranHerreraGa/status/2030317505864966159"
+      },
+      {
+        "id": "id-1772905050038-3suunl2kv",
+        "username": "@schurrleee",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "Y ahora shiogai falla una solo",
+        "translatedText": "そして今、塩貝が決定機を外した",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1772905050038-7lkr425ho",
+            "username": "@FutbolistaFanatic",
+            "languageCode": "ES",
+            "originalText": "¡No puede ser! Otra vez, necesitamos más contundencia frente al arco.",
+            "translatedText": "まさか！まただよ、ゴール前でもっと決定力が欲しい。",
+            "likes": 180
+          },
+          {
+            "id": "id-1772905050038-ah5vzp2uv",
+            "username": "@ShiogaiSupporterJP",
+            "languageCode": "EN",
+            "originalText": "He's trying hard, sometimes these things happen. He'll get the next one!",
+            "translatedText": "一生懸命やってるよ、こういうこともあるさ。次こそ決めてくれるはず！",
+            "likes": 120
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/schurrleee/status/2030317418657042905"
+      },
       {
         "id": "t_shiogai-20260307_1",
         "username": "@ブンデスリーガNews",
@@ -3797,7 +3872,8 @@
           }
         ]
       }
-    ]
+    ],
+    "lastUpdated": "2026-03-07T17:37:30.038Z"
   },
   {
     "matchId": "shiogai-20260301",
