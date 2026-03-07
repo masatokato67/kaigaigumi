@@ -10,8 +10,12 @@ const eslintConfig = defineConfig([
     // Default ignores of eslint-config-next:
     ".next/**",
     "out/**",
+    "out 2/**",
     "build/**",
+    ".netlify/**",
     "next-env.d.ts",
+    // scripts/ はNext.jsアプリ外のユーティリティ
+    "scripts/**",
   ]),
 ]);
 

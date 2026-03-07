@@ -870,6 +870,27 @@ async function main(newMatchIds?: string[]) {
     ? matches.filter((m) => newMatchIds.includes(m.matchId))
     : matches.filter((m) => !existingMap.has(m.matchId));
 
+  // match-inputs JSONファイルを全試合に対して作成（未作成の場合）
+  if (!existsSync(MATCH_INPUTS_DIR)) {
+    mkdirSync(MATCH_INPUTS_DIR, { recursive: true });
+  }
+  let inputFileCount = 0;
+  for (const m of matches) {
+    const inputFile = join(MATCH_INPUTS_DIR, `${m.matchId}.json`);
+    if (!existsSync(inputFile)) {
+      const inputData = {
+        highlight: "",
+        articles: [],
+        thread_urls: [],
+      };
+      writeFileSync(inputFile, JSON.stringify(inputData, null, 2) + "\n");
+      inputFileCount++;
+    }
+  }
+  if (inputFileCount > 0) {
+    console.log(`📁 match-inputs: ${inputFileCount}件の入力ファイルを新規作成\n`);
+  }
+
   if (targetMatches.length === 0) {
     console.log("コンテンツを生成する新しい試合がありません。");
     return;
@@ -946,20 +967,6 @@ async function main(newMatchIds?: string[]) {
     existingMap.set(match.matchId, mediaData);
     console.log(`  [生成完了] レーティング: ${averageRating} (手動: ${manualRatings.length})`);
 
-    // match-inputs JSONファイルを作成（未作成の場合）
-    const inputFile = join(MATCH_INPUTS_DIR, `${match.matchId}.json`);
-    if (!existsSync(inputFile)) {
-      if (!existsSync(MATCH_INPUTS_DIR)) {
-        mkdirSync(MATCH_INPUTS_DIR, { recursive: true });
-      }
-      const inputData = {
-        highlight: "",
-        articles: [],
-        thread_urls: [],
-      };
-      writeFileSync(inputFile, JSON.stringify(inputData, null, 2) + "\n");
-      console.log(`  [入力ファイル] ${match.matchId}.json を作成`);
-    }
   }
 
   // Mapから配列に戻して保存
