@@ -152,6 +152,8 @@ export interface XThread {
   likes: number;
   retweets: number;
   replies: ThreadReply[];
+  isManual?: boolean;
+  postUrl?: string;
 }
 
 export type LeagueFilter = "all" | "プレミアリーグ" | "ラ・リーガ" | "ブンデスリーガ" | "エールディヴィジ";

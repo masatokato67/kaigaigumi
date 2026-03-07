@@ -4,7 +4,6 @@ import MatchHeader from "@/components/matches/MatchHeader";
 import HighlightVideo from "@/components/matches/HighlightVideo";
 import DetailedStats from "@/components/matches/DetailedStats";
 import MediaRatings from "@/components/matches/MediaRatings";
-import LocalVoices from "@/components/matches/LocalVoices";
 import XThreads from "@/components/matches/XThreads";
 import {
   getPlayerById,
@@ -34,7 +33,7 @@ export async function generateMetadata({
   if (!player || !match) return { title: "試合が見つかりません" };
   const opponent = match.homeTeam.name === player.club.shortName ? match.awayTeam.name : match.homeTeam.name;
   const title = `${player.name.ja} vs ${opponent}`;
-  const description = `${match.date} ${match.competition} ${match.homeTeam.name} ${match.homeTeam.score}-${match.awayTeam.score} ${match.awayTeam.name} - ${player.name.ja}の試合詳細・評価・現地の声`;
+  const description = `${match.date} ${match.competition} ${match.homeTeam.name} ${match.homeTeam.score}-${match.awayTeam.score} ${match.awayTeam.name} - ${player.name.ja}の試合詳細・海外メディア評価・Xの反応`;
   return {
     title,
     description,
@@ -99,12 +98,6 @@ export default async function MatchDetailPage({
       <div className="mt-8">
         <AdBanner slot="match-1" format="horizontal" />
       </div>
-
-      {mediaData && mediaData.localVoices.length > 0 && (
-        <div className="mt-8">
-          <LocalVoices voices={mediaData.localVoices} />
-        </div>
-      )}
 
       {mediaData && mediaData.xThreads && mediaData.xThreads.length > 0 && (
         <div className="mt-8">
