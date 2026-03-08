@@ -1,4 +1,9 @@
 {
+  "sano_kodai-20260308": {
+    "enabled": true,
+    "youtubeId": "qHPNqNgHM4c",
+    "title": ""
+  },
   "shiogai-20260307": {
     "enabled": true,
     "youtubeId": "pmYau_3Vd44",
@@ -12,6 +17,11 @@
   "suzuki_yuito-20260307": {
     "enabled": true,
     "youtubeId": "Q7d3CMSOxys",
+    "title": ""
+  },
+  "tomiyasu-20260307": {
+    "enabled": false,
+    "youtubeId": "",
     "title": ""
   },
   "kamada-20260305": {

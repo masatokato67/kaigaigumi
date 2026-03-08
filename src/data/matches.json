@@ -1,5 +1,49 @@
 [
   {
+    "matchId": "sano_kodai-20260308",
+    "playerId": "sano_kodai",
+    "date": "2026-03-08",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "NEC",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "FC Volendam",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 8.4
+    },
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.2139,
+      "totalPass": 59,
+      "accuratePass": 48,
+      "keyPass": 2,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 3,
+      "totalTackle": 3,
+      "wonTackle": 1,
+      "interceptionWon": 4,
+      "totalClearance": 2,
+      "ballRecovery": 5,
+      "duelWon": 5,
+      "duelLost": 5,
+      "aerialWon": 1,
+      "touches": 75,
+      "fouls": 1,
+      "possessionLostCtrl": 13,
+      "dispossessed": 1
+    }
+  },
+  {
     "matchId": "shiogai-20260307",
     "playerId": "shiogai",
     "date": "2026-03-07",
@@ -128,6 +172,43 @@
       "fouls": 1,
       "possessionLostCtrl": 11,
       "dispossessed": 2
+    }
+  },
+  {
+    "matchId": "tomiyasu-20260307",
+    "playerId": "tomiyasu",
+    "date": "2026-03-07",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "FC Groningen",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "アヤックス",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 8,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LB",
+      "rating": 6.9
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.001,
+      "totalPass": 7,
+      "accuratePass": 6,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelWon": 2,
+      "aerialWon": 2,
+      "touches": 9,
+      "possessionLostCtrl": 1
     }
   },
   {

@@ -1,5 +1,214 @@
 [
   {
+    "matchId": "tomiyasu-20260307",
+    "playerId": "tomiyasu",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v_tomiyasu-20260307_1",
+        "username": "@アヤックス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu had a solid game. Good contribution overall.",
+        "translatedText": "冨安健洋がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_tomiyasu-20260307_2",
+        "username": "@アヤックス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu had a solid game. Good contribution overall.",
+        "translatedText": "冨安健洋のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_tomiyasu-20260307_3",
+        "username": "@アヤックス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu had a solid game. Good contribution overall.",
+        "translatedText": "冨安健洋は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_tomiyasu-20260307_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "FC Groningen 3-1 アヤックス. Takehiro Tomiyasu played 8 minutes.",
+        "translatedText": "FC Groningen 3-1 アヤックス。冨安健洋は8分間プレー。",
+        "likes": 1573,
+        "retweets": 174,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260307_1_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 185
+          },
+          {
+            "id": "r_tomiyasu-20260307_1_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 146
+          },
+          {
+            "id": "r_tomiyasu-20260307_1_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 185
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260307_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【冨安健洋】エールディヴィジ第24節、FC Groningen vs アヤックスで8分出場。評価6.8を獲得。",
+        "translatedText": "",
+        "likes": 1784,
+        "retweets": 436,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260307_2_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 34
+          },
+          {
+            "id": "r_tomiyasu-20260307_2_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 370
+          },
+          {
+            "id": "r_tomiyasu-20260307_2_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 274
+          },
+          {
+            "id": "r_tomiyasu-20260307_2_4",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 182
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260307_3",
+        "username": "@アヤックスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Happy with Takehiro Tomiyasu's work rate. Important player for us.",
+        "translatedText": "冨安健洋は今日良いプレーをした。貢献してくれて嬉しい。",
+        "likes": 345,
+        "retweets": 53,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260307_3_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 33
+          },
+          {
+            "id": "r_tomiyasu-20260307_3_2",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 273
+          },
+          {
+            "id": "r_tomiyasu-20260307_3_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 392
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260307_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu maintaining consistency. Professional performance.",
+        "translatedText": "冨安健洋、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 697,
+        "retweets": 101,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260307_4_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 395
+          },
+          {
+            "id": "r_tomiyasu-20260307_4_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 173
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "tomiyasu-20260301",
     "playerId": "tomiyasu",
     "ratings": [],
@@ -5966,6 +6175,252 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.325Z"
+  },
+  {
+    "matchId": "sano_kodai-20260308",
+    "playerId": "sano_kodai",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 8.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Outstanding performance. Dominated the game and was a constant threat.",
+        "commentTranslated": "傑出したパフォーマンス。試合を支配し、常に脅威となった。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 8.5,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Man of the match caliber display. Exceptional in every aspect.",
+        "commentTranslated": "マン・オブ・ザ・マッチ級の活躍。あらゆる面で卓越していた。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 8.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Brilliant showing. One of the best performances of the season.",
+        "commentTranslated": "素晴らしいプレー。今シーズン最高のパフォーマンスの一つ。"
+      }
+    ],
+    "averageRating": 8.3,
+    "localVoices": [
+      {
+        "id": "v_sano_kodai-20260308_1",
+        "username": "@NEC_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "What a performance from Kodai Sano! Class act from start to finish.",
+        "translatedText": "佐野航大は今日本当に素晴らしかった！ピッチで最高の選手だった。"
+      },
+      {
+        "id": "v_sano_kodai-20260308_2",
+        "username": "@NEC_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "What a performance from Kodai Sano! Class act from start to finish.",
+        "translatedText": "佐野航大が試合を支配した。ワールドクラスのプレー！"
+      },
+      {
+        "id": "v_sano_kodai-20260308_3",
+        "username": "@NEC_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "What a performance from Kodai Sano! Class act from start to finish.",
+        "translatedText": "佐野航大は今日本当に素晴らしかった！ピッチで最高の選手だった。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kodai-20260308_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "NEC 3-0 FC Volendam. Kodai Sano played 90 minutes.",
+        "translatedText": "NEC 3-0 FC Volendam。佐野航大は90分間プレー。",
+        "likes": 550,
+        "retweets": 291,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260308_1_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Good performance but the team carried him sometimes",
+            "translatedText": "良いパフォーマンスだけど、チームに助けられた場面も",
+            "likes": 281
+          },
+          {
+            "id": "r_sano_kodai-20260308_1_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Incredible performance. Keep it up! 💪",
+            "translatedText": "信じられないパフォーマンス。この調子で！💪",
+            "likes": 414
+          },
+          {
+            "id": "r_sano_kodai-20260308_1_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Decent but overhyped imo",
+            "translatedText": "まあまあだけど、過大評価されすぎでは",
+            "likes": 151
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260308_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野航大】エールディヴィジ第6節、NEC vs FC Volendamで90分出場。評価8.3を獲得。",
+        "translatedText": "",
+        "likes": 1228,
+        "retweets": 192,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260308_2_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 58
+          },
+          {
+            "id": "r_sano_kodai-20260308_2_2",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Incredible performance. Keep it up! 💪",
+            "translatedText": "信じられないパフォーマンス。この調子で！💪",
+            "likes": 138
+          },
+          {
+            "id": "r_sano_kodai-20260308_2_3",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Absolutely world class today! 🔥",
+            "translatedText": "今日は本当に素晴らしかった！🔥",
+            "likes": 430
+          },
+          {
+            "id": "r_sano_kodai-20260308_2_4",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Still needs to improve decision making",
+            "translatedText": "まだ判断力の改善が必要だと思う",
+            "likes": 88
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260308_3",
+        "username": "@NECFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano proving his worth once again. Absolutely brilliant!",
+        "translatedText": "佐野航大がまたしても価値を証明。本当に素晴らしい！",
+        "likes": 358,
+        "retweets": 116,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260308_3_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Decent but overhyped imo",
+            "translatedText": "まあまあだけど、過大評価されすぎでは",
+            "likes": 149
+          },
+          {
+            "id": "r_sano_kodai-20260308_3_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Still needs to improve decision making",
+            "translatedText": "まだ判断力の改善が必要だと思う",
+            "likes": 379
+          },
+          {
+            "id": "r_sano_kodai-20260308_3_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Best player on the pitch, no doubt!",
+            "translatedText": "ピッチで一番の選手だった！",
+            "likes": 111
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260308_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano dominated his zone. Top-class technical ability on show.",
+        "translatedText": "佐野航大がゾーンを支配。トップクラスの技術力を披露。",
+        "likes": 1102,
+        "retweets": 36,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260308_4_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "What a display! Europe's elite should take notice.",
+            "translatedText": "さすが！欧州のビッグクラブも見てるはず。",
+            "likes": 324
+          },
+          {
+            "id": "r_sano_kodai-20260308_4_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Best player on the pitch, no doubt!",
+            "translatedText": "ピッチで一番の選手だった！",
+            "likes": 424
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260308_6",
+        "username": "@WorldSoccerJP",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "🌟 佐野航大が圧巻のパフォーマンス！評価8.3でチームを牽引。エールディヴィジで存在感を示す。",
+        "translatedText": "",
+        "likes": 5089,
+        "retweets": 922,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260308_6_1",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Decent but overhyped imo",
+            "translatedText": "まあまあだけど、過大評価されすぎでは",
+            "likes": 474
+          },
+          {
+            "id": "r_sano_kodai-20260308_6_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Best player on the pitch, no doubt!",
+            "translatedText": "ピッチで一番の選手だった！",
+            "likes": 34
+          },
+          {
+            "id": "r_sano_kodai-20260308_6_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 251
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-03-08T23:04:18.988Z"
   },
   {
     "matchId": "sano_kodai-20260303",
