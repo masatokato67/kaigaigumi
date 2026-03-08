@@ -1,5 +1,5 @@
 [build]
-  command = "npm run build"
+  command = "echo 'Node:' && node -v && echo 'npm:' && npm -v && echo 'Starting build...' && next build && echo 'Build completed successfully'"
   publish = "out"
 
 [build.environment]
