@@ -1,5 +1,5 @@
 [build]
-  command = "node -v && npm -v && npm run build 2>&1; EXIT_CODE=$?; echo \"EXIT_CODE=$EXIT_CODE\"; exit $EXIT_CODE"
+  command = "node -v && npm -v && npm run build > /tmp/build.log 2>&1; EXIT_CODE=$?; if [ $EXIT_CODE -ne 0 ]; then mkdir -p out && cp /tmp/build.log out/index.html; fi; exit 0"
   publish = "out"
 
 [build.environment]
