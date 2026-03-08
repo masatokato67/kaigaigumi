@@ -296,6 +296,30 @@
         "isManual": true,
         "articleUrl": "https://www.badische-zeitung.de/liveticker-sc-freiburg-gegen-bayer-leverkusen-x4x",
         "hasArticleRating": false
+      },
+      {
+        "source": "kicker",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Yuito Suzuki erzielte in der 43. Spielminute Freiburgs zweites Tor mit einem direkten Schuss und brachte seine Mannschaft zur erneuten Führung. Er krönte damit einen wunderbaren Spielzug. Allerdings verursachte Suzuki kurz darauf ein Handspiel vor dem Strafraum, das zu einem Freistoß führte, den Grimaldo für Leverkusen zum 2:2-Pausenstand verwandelte.",
+        "commentTranslated": "鈴木唯人は43分に直接シュートでフライブルクの2点目を決め、再びチームをリードした。彼は素晴らしいプレーを締めくくった。しかし、直後に鈴木はペナルティエリア前でハンドボールを犯し、それがフリーキックにつながり、レバークーゼンのグリマルドが2-2のハーフタイム同点ゴールを決めた。",
+        "isManual": true,
+        "articleUrl": "https://www.kicker.de/freiburg-gegen-leverkusen-2026-bundesliga-5050967/spielbericht",
+        "hasArticleRating": false
+      },
+      {
+        "source": "BILD",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Yuito Suzuki war ein entscheidender Spieler für den SC Freiburg in diesem Spiel. Er erzielte in der 43. Minute das 2:1 für Freiburg nach einem flachen Pass von Treu, wodurch er die Führung für sein Team zurückeroberte. Zudem war Suzuki in der 72. Minute an einem Angriff beteiligt, der zu einem Schuss von Matanović führte, und zwang Leverkusens Torhüter Blaswich kurz vor der Halbzeit mit einem gefährlichen Schuss zu einer Glanzparade. Kurz zuvor hatte er einen Schuss von Grimaldo mit der Hand geblockt, was zu einem Freistoß führte.",
+        "commentTranslated": "ユイト・スズキはこの試合でSCフライブルクにとって重要な選手でした。彼は43分にトレウからの低いパスを受けて2対1となるゴールを決め、チームにリードを取り戻しました。さらに、スズキは72分にマタノヴィッチのシュートにつながる攻撃に関与し、ハーフタイム直前には危険なシュートでレバークーゼンのGKブラスヴィヒに素晴らしいセーブを強いました。その直前にはグリマルドのシュートを手でブロックし、フリーキックを与えています。",
+        "isManual": true,
+        "articleUrl": "https://sport.bild.de/fussball/bundesliga/ma11200043/sc-freiburg_bayer-leverkusen/liveticker/",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 8.1,
@@ -674,7 +698,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-07T16:53:27.497Z"
+    "lastUpdated": "2026-03-08T01:27:40.473Z"
   },
   {
     "matchId": "suzuki_yuito-20260301",
@@ -3873,7 +3897,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-07T17:37:30.038Z"
+    "lastUpdated": "2026-03-08T01:28:05.960Z"
   },
   {
     "matchId": "shiogai-20260301",
