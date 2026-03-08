@@ -1,5 +1,5 @@
 [build]
-  command = "echo 'Node:' && node -v && echo 'npm:' && npm -v && echo 'Starting build...' && next build && echo 'Build completed successfully'"
+  command = "node -v && npm -v && npm run build 2>&1; EXIT_CODE=$?; echo \"EXIT_CODE=$EXIT_CODE\"; exit $EXIT_CODE"
   publish = "out"
 
 [build.environment]
