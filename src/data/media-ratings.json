@@ -6181,34 +6181,31 @@
     "playerId": "sano_kodai",
     "ratings": [
       {
-        "source": "Voetbal International",
-        "country": "オランダ",
-        "rating": 8.2,
+        "source": "OneFootball",
+        "country": "ドイツ",
+        "rating": 0,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Outstanding performance. Dominated the game and was a constant threat.",
-        "commentTranslated": "傑出したパフォーマンス。試合を支配し、常に脅威となった。"
+        "comment": "Kodai Sano is not mentioned in this article. The report focuses on NEC Nijmegen's dominant 3-0 win over Volendam, highlighting key players like Noé Lebreton, Basar Önal, and Sami Ouaissa, who scored the goals. Other notable mentions include Kayne van Oevelen for saves and Tjaronn Chery for key passes.",
+        "commentTranslated": "佐野航大はこの記事に記載されていません。この記事はNECナイメヘンがフォレンダムに3-0で圧勝したことに焦点を当てており、ゴールを決めたノエ・ルブレトン、バサル・オナル、サミ・オウアイッサといった主要選手が強調されています。その他、セーブでケイネ・ファン・オーフェレン、キーパスでチャロン・シェリーが特筆されています。",
+        "isManual": true,
+        "articleUrl": "https://onefootball.com/en/news/nec-nijmegen-climb-to-third-with-dominant-win-over-volendam-42525994",
+        "hasArticleRating": false
       },
       {
-        "source": "De Telegraaf",
+        "source": "FootballTransfers",
         "country": "オランダ",
-        "rating": 8.5,
-        "maxRating": 10,
+        "rating": 66.5,
+        "maxRating": 100,
         "ratingSystem": "standard",
-        "comment": "Man of the match caliber display. Exceptional in every aspect.",
-        "commentTranslated": "マン・オブ・ザ・マッチ級の活躍。あらゆる面で卓越していた。"
-      },
-      {
-        "source": "ESPN NL",
-        "country": "オランダ",
-        "rating": 8.2,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Brilliant showing. One of the best performances of the season.",
-        "commentTranslated": "素晴らしいプレー。今シーズン最高のパフォーマンスの一つ。"
+        "comment": "Kodai Sano is bij NEC een uitblinker en wordt gezien als de volgende megatransfer. De 22-jarige Japanse controlerende middenvelder, die al het hele seizoen indruk maakt, werd in de winter gelinkt aan een transfer van twintig miljoen euro. Volgens SciSports data zijn Fulham, Juventus en Atlético Madrid ideale bestemmingen, waarbij Fulham met een Club Fit van 88 de beste keuze is. Zijn huidige Skill-rating is 66.5, met een potentieel van 76.9. NEC vraagt minstens twintig miljoen euro voor de speler, die tot medio 2028 onder contract staat.",
+        "commentTranslated": "佐野航大はNECの傑出した選手であり、次なるメガ移籍と見られています。22歳の日本人守備的ミッドフィールダーは、シーズンを通して印象的なプレーを見せており、冬の移籍期間中には2000万ユーロでの移籍が噂されました。SciSportsのデータによると、フラム、ユヴェントス、アトレティコ・マドリードが理想的な移籍先であり、フラムがクラブフィット88で最高の選択肢とされています。彼の現在のスキルレーティングは66.5で、ポテンシャルは76.9です。NECは2028年半ばまで契約しているこの選手に対し、最低でも2000万ユーロの移籍金を要求しています。",
+        "isManual": true,
+        "articleUrl": "https://www.footballtransfers.com/nl/transfernieuws/nl-eredivisie/2026/03/top-3-ideale-nieuwe-clubs-voor-nec-uitblinker-kodai-sano",
+        "hasArticleRating": true
       }
     ],
-    "averageRating": 8.3,
+    "averageRating": 66.5,
     "localVoices": [
       {
         "id": "v_sano_kodai-20260308_1",
@@ -6239,6 +6236,96 @@
       }
     ],
     "xThreads": [
+      {
+        "id": "id-1773021685346-wt6nd7fkx",
+        "username": "@JapaneseFbl",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🇳🇱✨ Kodai Sano (22) made 9 defensive actions as NEC Nijmegen secured back-to-back wins for the first time since February.\n\nKNVB Beker finalists. Pushing for a European spot in the Eredivisie.\n\nBig end to the season coming. 🇯🇵",
+        "translatedText": "🇳🇱✨ 佐野航大 (22) が9回の守備的アクションを行い、NECナイメヘンは2月以来初めて連勝を飾りました。\n\nKNVBベーカー決勝進出。エールディビジでのヨーロッパリーグ出場権獲得を目指しています。\n\nシーズン終盤が楽しみです。🇯🇵",
+        "likes": 46,
+        "retweets": 2,
+        "replies": [
+          {
+            "id": "id-1773021685346-6vswl17zv",
+            "username": "@SanoFanJPN",
+            "languageCode": "JA",
+            "originalText": "佐野選手すごい！NECも調子いいね！このままヨーロッパ行き掴んでほしい🇯🇵",
+            "translatedText": "佐野選手すごい！NECも調子いいね！このままヨーロッパ行き掴んでほしい🇯🇵",
+            "likes": 287
+          },
+          {
+            "id": "id-1773021685346-7dtdxppkx",
+            "username": "@EredivisieWatch",
+            "languageCode": "EN",
+            "originalText": "Sano has been a quiet but vital presence. Good to see him getting recognition for the defensive work. NEC really needs to finish strong to get that European spot.",
+            "translatedText": "佐野は目立たないながらも重要な存在だね。守備の貢献が評価されて嬉しい。NECはヨーロッパの出場権を獲得するために、本当に強いフィニッシュが必要だ。",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/JapaneseFbl/status/2030759071935033460"
+      },
+      {
+        "id": "id-1773021691847-9c2p3s32o",
+        "username": "@aledemirwyf",
+        "verified": false,
+        "languageCode": "TR",
+        "originalText": "@EmreUtkucan Kodai Sano. Kaçırmayalım Emre. Not al Emre. Kral Emre. Birde sert tokatlayıc topçu lazım bize, Emre. Ortasaha herşeydir.",
+        "translatedText": "@EmreUtkucan Kodai Sano. Let's not miss him, Emre. Take note, Emre. King Emre. We also need a hard-hitting player, Emre. Midfield is everything.",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1773021691847-w71nxaou1",
+            "username": "@CimbomScout_",
+            "languageCode": "TR",
+            "originalText": "Kesinlikle katılıyorum! Sano tam aradığımız dinamik orta saha tipi. Hızı ve top tekniği çok işimize yarar. @EmreUtkucan dinlemeli bence.",
+            "translatedText": "I absolutely agree! Sano is exactly the dynamic midfielder type we're looking for. His speed and ball control would be very useful for us. @EmreUtkucan should listen, in my opinion.",
+            "likes": 287
+          },
+          {
+            "id": "id-1773021691847-klow6x3x7",
+            "username": "@FutbolGundemiTR",
+            "languageCode": "TR",
+            "originalText": "Sano iyi bir oyuncu ama o 'sert tokatlayıcı' profil için yeterli mi emin değilim. Belki daha defansif bir 6 numara mı kastediyorsunuz? Orta saha dengesi çok önemli.",
+            "translatedText": "Sano is a good player, but I'm not sure if he's enough for that 'hard-hitting' profile. Perhaps you mean a more defensive number 6? Midfield balance is very important.",
+            "likes": 142
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/aledemirwyf/status/2030655332322574396"
+      },
+      {
+        "id": "id-1773021698409-616k4tawf",
+        "username": "@FutbolWaffle",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "The right profile for a Premier League midfielder. High-floor prospect with the physical frame and technical quality needed. \n\nResink is part of my talents of the week #2. I'll drop a link below. Kodai Sano & Luciano Valente are the other two.\nhttps://footballwaffle.com/talents-of-the-week-2-kodai-sano-luciano-valente-stije-resink/",
+        "translatedText": "プレミアリーグのミッドフィールダーとしてぴったりの選手だ。フィジカルとテクニックの質を備えた、堅実な将来性を持つ選手だ。レジンクは今週のタレント#2の一人。下にリンクを貼るよ。佐野航大とルチアーノ・ヴァレンテが他の二人だ。",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1773021698409-rg3df5ijy",
+            "username": "@JapaneseGunner",
+            "languageCode": "EN",
+            "originalText": "Totally agree! Sano has been fantastic for NEC this season. His work rate and passing range are top-notch. Would love to see him in the PL!",
+            "translatedText": "全く同感です！佐野選手は今シーズンNECで本当に素晴らしいプレーを見せています。彼の運動量とパスレンジは最高です。彼がプレミアリーグでプレーするのを見たいです！",
+            "likes": 215
+          },
+          {
+            "id": "id-1773021698409-mzi6ugvy4",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "He's definitely got potential, but do you think he has the defensive grit needed for the PL's intensity? It's a huge step up.",
+            "translatedText": "確かにポテンシャルはありますが、プレミアリーグの激しさで必要な守備的な粘り強さがあると思いますか？かなり大きなステップアップですよね。",
+            "likes": 98
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/FutbolWaffle/status/2030328738940920255"
+      },
       {
         "id": "t_sano_kodai-20260308_1",
         "username": "@エールディヴィジNews",
@@ -6420,7 +6507,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-08T23:04:18.988Z"
+    "lastUpdated": "2026-03-09T02:01:38.409Z"
   },
   {
     "matchId": "sano_kodai-20260303",
