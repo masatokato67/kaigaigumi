@@ -64,7 +64,7 @@ export default async function MatchDetailPage({
 
   if (!player || !match) notFound();
 
-  const averageRating = mediaData?.averageRating ?? match.playerStats.rating;
+  const averageRating = match.playerStats.rating;
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">

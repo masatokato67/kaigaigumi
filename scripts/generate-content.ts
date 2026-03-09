@@ -914,15 +914,8 @@ async function main(newMatchIds?: string[]) {
       ? existing.ratings.filter((r) => r.isManual === true)
       : [];
 
-    // 平均レーティングを算出（手動レーティングのうちスコアがあるもの）
-    const ratedManual = manualRatings.filter(
-      (r) => r.hasArticleRating !== false && r.ratingSystem === "standard"
-    );
-    const averageRating = ratedManual.length > 0
-      ? Math.round(
-          (ratedManual.reduce((sum, r) => sum + r.rating, 0) / ratedManual.length) * 10
-        ) / 10
-      : match.playerStats.rating;
+    // averageRatingは常にSofaScoreのデータを使用
+    const averageRating = match.playerStats.rating;
 
     // 既存の手動スレッド（isManual === true）を保持
     const manualThreads = existing?.xThreads?.filter((t) => t.isManual === true) || [];

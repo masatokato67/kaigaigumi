@@ -210,23 +210,7 @@ async function main() {
       }
     }
 
-    // 平均レーティングを再計算
-    const ratedEntries = mediaData.ratings.filter(
-      (r) => r.hasArticleRating !== false
-    );
-    if (ratedEntries.length > 0) {
-      const standardRatings = ratedEntries.filter(
-        (r) => r.ratingSystem === "standard"
-      );
-      if (standardRatings.length > 0) {
-        mediaData.averageRating =
-          Math.round(
-            (standardRatings.reduce((sum, r) => sum + r.rating, 0) /
-              standardRatings.length) *
-              10
-          ) / 10;
-      }
-    }
+    // averageRatingはSofaScoreのデータを使用（記事評価では上書きしない）
 
     console.log(
       `📰 記事処理完了: 新規${newCount}件, スキップ${skipCount}件`
