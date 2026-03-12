@@ -491,6 +491,215 @@
     "lastUpdated": "2026-03-06T15:46:24.906Z"
   },
   {
+    "matchId": "suzuki_yuito-20260312",
+    "playerId": "suzuki_yuito",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Decent showing. Did the basics well but nothing spectacular.",
+        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 6.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Standard performance. Met expectations without exceeding them.",
+        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Workmanlike display. Fulfilled his duties adequately.",
+        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      }
+    ],
+    "averageRating": 6,
+    "localVoices": [
+      {
+        "id": "v_suzuki_yuito-20260312_1",
+        "username": "@フライブルク_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Average day for Yuito Suzuki. We've seen better from him.",
+        "translatedText": "鈴木唯人にとって平均的な日。もっと良いプレーを見たことがある。"
+      },
+      {
+        "id": "v_suzuki_yuito-20260312_2",
+        "username": "@フライブルク_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki did what was needed. Hoping for more next time.",
+        "translatedText": "鈴木唯人にとって平均的な日。もっと良いプレーを見たことがある。"
+      },
+      {
+        "id": "v_suzuki_yuito-20260312_3",
+        "username": "@フライブルク_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki did what was needed. Hoping for more next time.",
+        "translatedText": "鈴木唯人は今日はまあまあだった。特別ではないが基本はこなした。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_suzuki_yuito-20260312_1",
+        "username": "@ヨーロッパリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "KRC Genk 1-0 フライブルク. Yuito Suzuki played 71 minutes.",
+        "translatedText": "KRC Genk 1-0 フライブルク。鈴木唯人は71分間プレー。",
+        "likes": 2006,
+        "retweets": 157,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260312_1_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 263
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_1_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 435
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_1_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 210
+          }
+        ]
+      },
+      {
+        "id": "t_suzuki_yuito-20260312_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鈴木唯人】ヨーロッパリーグ第14節、KRC Genk vs フライブルクで71分出場。評価6を獲得。",
+        "translatedText": "",
+        "likes": 2657,
+        "retweets": 174,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260312_2_1",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Where was he when it mattered?",
+            "translatedText": "肝心な時にどこにいた？",
+            "likes": 467
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_2_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 218
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_2_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 158
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_2_4",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 435
+          }
+        ]
+      },
+      {
+        "id": "t_suzuki_yuito-20260312_3",
+        "username": "@フライブルクFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki had an okay game. Nothing spectacular but got the job done.",
+        "translatedText": "鈴木唯人はまあまあの試合だった。派手ではないが仕事はした。",
+        "likes": 1006,
+        "retweets": 98,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260312_3_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 345
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_3_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 12
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_3_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 158
+          }
+        ]
+      },
+      {
+        "id": "t_suzuki_yuito-20260312_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki needs to find more consistency in his game.",
+        "translatedText": "鈴木唯人、良い場面と改善が必要な場面が混在。",
+        "likes": 1664,
+        "retweets": 73,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260312_4_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 428
+          },
+          {
+            "id": "r_suzuki_yuito-20260312_4_2",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 412
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "suzuki_yuito-20260307",
     "playerId": "suzuki_yuito",
     "ratings": [
@@ -9247,6 +9456,215 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.326Z"
+  },
+  {
+    "matchId": "sano_kaishu-20260312",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 6.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 6.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 6.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.5,
+    "localVoices": [
+      {
+        "id": "v_sano_kaishu-20260312_1",
+        "username": "@マインツ_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野海舟のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kaishu-20260312_2",
+        "username": "@マインツ_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野海舟は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_sano_kaishu-20260312_3",
+        "username": "@マインツ_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野海舟がチームにとって貴重な存在である理由を示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kaishu-20260312_1",
+        "username": "@カンファレンスリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "SK Sigma Olomouc 0-0 マインツ. Kaishu Sano played 90 minutes.",
+        "translatedText": "SK Sigma Olomouc 0-0 マインツ。佐野海舟は90分間プレー。",
+        "likes": 1920,
+        "retweets": 334,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260312_1_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 177
+          },
+          {
+            "id": "r_sano_kaishu-20260312_1_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 333
+          },
+          {
+            "id": "r_sano_kaishu-20260312_1_3",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 333
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260312_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野海舟】カンファレンスリーグ第5節、SK Sigma Olomouc vs マインツで90分出場。評価6.5を獲得。",
+        "translatedText": "",
+        "likes": 2837,
+        "retweets": 467,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260312_2_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 317
+          },
+          {
+            "id": "r_sano_kaishu-20260312_2_2",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 274
+          },
+          {
+            "id": "r_sano_kaishu-20260312_2_3",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 341
+          },
+          {
+            "id": "r_sano_kaishu-20260312_2_4",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 248
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260312_3",
+        "username": "@マインツFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano did well today. Good to see him contributing.",
+        "translatedText": "佐野海舟の運動量に満足。チームにとって重要な選手だ。",
+        "likes": 460,
+        "retweets": 54,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260312_3_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 367
+          },
+          {
+            "id": "r_sano_kaishu-20260312_3_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 143
+          },
+          {
+            "id": "r_sano_kaishu-20260312_3_3",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 406
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260312_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Positive stats for Kaishu Sano: 90min, efficient in his role.",
+        "translatedText": "佐野海舟、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 1078,
+        "retweets": 135,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260312_4_1",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 70
+          },
+          {
+            "id": "r_sano_kaishu-20260312_4_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 441
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "sano_kaishu-20260307",
@@ -18629,6 +19047,364 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.327Z"
+  },
+  {
+    "matchId": "kamada-20260312",
+    "playerId": "kamada",
+    "ratings": [
+      {
+        "source": "GiveMeSport",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "The article reports that Tottenham are eyeing Crystal Palace midfielder Daichi Kamada for a free transfer in the summer, as his contract expires. Kamada, 29, joined Palace in 2024 to reunite with Oliver Glasner, and his decision not to sign a new deal is strongly linked to Glasner's future at the club. He has also held talks with AC Milan over a possible move.",
+        "commentTranslated": "記事によると、トッテナムは契約満了に伴い、クリスタル・パレスのミッドフィールダーである鎌田大地を夏のフリー移籍で獲得を検討している。29歳の鎌田は、オリバー・グラスナー監督との再会を求めて2024年にパレスに加入しており、新契約にサインしないという彼の決断は、グラスナー監督のクラブでの将来と強く関連している。彼はACミランとも移籍の可能性について交渉している。",
+        "isManual": true,
+        "articleUrl": "https://www.givemesport.com/tottenham-eyeing-crystal-palace-midfielder-daichi-kamada/",
+        "hasArticleRating": false
+      }
+    ],
+    "averageRating": 7.3,
+    "localVoices": [
+      {
+        "id": "v_kamada-20260312_1",
+        "username": "@クリスタルパレス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Pleased with Daichi Kamada's performance. Did his job well.",
+        "translatedText": "鎌田大地がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_kamada-20260312_2",
+        "username": "@クリスタルパレス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Pleased with Daichi Kamada's performance. Did his job well.",
+        "translatedText": "鎌田大地のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_kamada-20260312_3",
+        "username": "@クリスタルパレス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada had a solid game. Good contribution overall.",
+        "translatedText": "鎌田大地がチームにとって貴重な存在である理由を示した。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "id-1773356058967-6qrdoyh6a",
+        "username": "@HarryMakaveli",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "@CPFC Unpopular but I feel for Johnsson, playing for the first time in RWB in those conditions, done alright getting a few good crosses in. \nKamada was the only one who looked like a premier league player out there tonight. \nGlasner shoulda tried JP up to with JSL.",
+        "translatedText": "@CPFC 嫌われるかもしれないが、ジョンソンには同情する。あのコンディションで初めてRWBでプレーし、いくつかの良いクロスを入れたのは悪くなかった。今夜の試合でプレミアリーグの選手に見えたのは鎌田だけだった。グラスナーはJPとJSLを前線で試すべきだった。",
+        "likes": 1,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1773356058967-83xmijb5k",
+            "username": "@CPFC_Eagle_Eye",
+            "languageCode": "EN",
+            "originalText": "Totally agree about Kamada. He's got that calmness and quality on the ball that most others lacked tonight. Definitely our standout performer!",
+            "translatedText": "鎌田については全く同感だ。今夜、他のほとんどの選手が欠いていた冷静さとボールの質を持っていた。間違いなく我々の最高の選手だった！",
+            "likes": 287
+          },
+          {
+            "id": "id-1773356058967-2x4c9cn6n",
+            "username": "@TacticalBird77",
+            "languageCode": "EN",
+            "originalText": "Kamada was good, no doubt, but I also thought Olise showed flashes when he came on. As for JP, maybe, but we needed more control in midfield first. Tough game.",
+            "translatedText": "鎌田は良かった、間違いない。だが、途中出場したオリセも時折輝きを見せたと思う。JPについては、もしかしたらね、だがまずは中盤でのコントロールがもっと必要だった。厳しい試合だった。",
+            "likes": 135
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/HarryMakaveli/status/2032224427245781138"
+      },
+      {
+        "id": "id-1773356065098-iqtgxl1ni",
+        "username": "@AyewAlrightMate",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "@joshcourt00 You’re talking nonsense😂 I like Kamada but he was terrible today. All 11 of them were completely useless",
+        "translatedText": "@joshcourt00 君はでたらめを言ってるね😂 鎌田は好きだけど、今日はひどかった。全員が全く役に立たなかった。",
+        "likes": 1,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1773356065099-y8sn378tx",
+            "username": "@_FootballFanatik_",
+            "languageCode": "EN",
+            "originalText": "Kamada did have an off day but he wasn't the only one. The midfield offered him no support whatsoever. Whole team looked lost.",
+            "translatedText": "鎌田は調子が悪かったのは事実だけど、彼だけじゃなかった。中盤から何のサポートもなかったし。チーム全体が迷子みたいだったよ。",
+            "likes": 210
+          },
+          {
+            "id": "id-1773356065099-g6ml1pktu",
+            "username": "@サカ友_KamadaFAN",
+            "languageCode": "JA",
+            "originalText": "本当に今日は酷かったですね… 鎌田選手も普段の動きじゃなかったし、チーム全体に覇気がなかった。次こそは頑張ってほしい！",
+            "translatedText": "本当に今日は酷かったですね… 鎌田選手も普段の動きじゃなかったし、チーム全体に覇気がなかった。次こそは頑張ってほしい！",
+            "likes": 125
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/AyewAlrightMate/status/2032222863252402383"
+      },
+      {
+        "id": "id-1773356072946-r76zkfcaq",
+        "username": "@GeorgeHilder5",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Player ratings:\nHenderson 6\nJohnson 2\nRichards 6\nLacroix 5\nCanvot 4\nMitchell 3\nWharton 5\nKamada 6.5\nSarr 5\nGuessand 6\nLarsen 5.5\nSubs:\nMateta 5\nPino n/a\n#cpfc fucking shite",
+        "translatedText": "選手評価：\nヘンダーソン 6\nジョンソン 2\nリチャーズ 6\nラクロワ 5\nカンヴォット 4\nミッチェル 3\nウォートン 5\n鎌田 6.5\nサール 5\nゲッサン 6\nラーセン 5.5\n交代選手：\nマテタ 5\nピノ 評価なし\n#cpfc マジで最悪",
+        "likes": 7,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1773356072946-fh89hnmmd",
+            "username": "@CPFC_EagleFan",
+            "languageCode": "EN",
+            "originalText": "Kamada was one of the few who actually tried today, 6.5 is fair but he deserved a bit more support around him. The rest of the team was truly awful.",
+            "translatedText": "鎌田は今日数少ない奮闘した選手の一人だったね、6.5は妥当だけど、もっと周りのサポートがあればね。チームの残りは本当にひどかった。",
+            "likes": 187
+          },
+          {
+            "id": "id-1773356072946-lt8bfobry",
+            "username": "@PalaceTillIDie",
+            "languageCode": "EN",
+            "originalText": "Johnson with a 2 is spot on, absolutely terrible performance. How Wharton only gets a 5 when he was trying to create something is beyond me though.",
+            "translatedText": "ジョンソンが2点はまさにその通り、本当にひどいパフォーマンスだった。でも、何かを作ろうとしていたウォートンがたった5点なのは理解できないな。",
+            "likes": 93
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/GeorgeHilder5/status/2032217192356254163"
+      },
+      {
+        "id": "id-1773356081110-lroi0k1n1",
+        "username": "@louishcpfc",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kamada and Wharton as our best midfield with 1 goal between them both, in over 100 games played between them. What the fuck is this? It’s completely pathetic. Johnson 35m, what the fuck does he offer???",
+        "translatedText": "鎌田とウォートンが最高のミッドフィールダーなのに、2人合わせて100試合以上でわずか1ゴールってどういうことだ？完全に情けない。ジョンソンが3500万ポンド？一体何を提供してくれるんだ？",
+        "likes": 13,
+        "retweets": 4,
+        "replies": [
+          {
+            "id": "id-1773356081110-injab1ztn",
+            "username": "@CPFC_EagleFan",
+            "languageCode": "EN",
+            "originalText": "Exactly! Our midfield creativity and goal threat is non-existent. We need serious upgrades in that department if we want to move forward.",
+            "translatedText": "全くその通り！うちのミッドフィールダーの創造性と得点力は皆無だ。前に進みたいなら、その部分で本気の補強が必要だよ。",
+            "likes": 287
+          },
+          {
+            "id": "id-1773356081110-ctx825pq2",
+            "username": "@FootballIntelJP",
+            "languageCode": "EN",
+            "originalText": "It's not just about goals for midfielders. Their defensive contribution and ability to control tempo are also crucial, though the attacking output definitely needs improvement.",
+            "translatedText": "ミッドフィールダーの役割はゴールだけじゃないよ。彼らの守備貢献やテンポコントロールも重要だけど、攻撃面での貢献は確かに改善が必要だね。",
+            "likes": 112
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/louishcpfc/status/2032217164380274928"
+      },
+      {
+        "id": "id-1773356088457-pd8tlmdsp",
+        "username": "@CPFC_arg",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "PUNTAJES DEL PARTIDO CONTRA LARNACA\n\n11 titular:\nHenderson 7\nJohnson 4,5\nRichards 7\nLacroix 7\nCanvot 5,5\nMitchell 6\nWharton 6\nKamada 7\nSarr 7\nGuessand 8⭐️\nJSL 6\n\nCambios:\nMateta 5\nPino -\n\nque opinan?\n#cpfc #CrystalPalace",
+        "translatedText": "ラルナカ戦の採点\n\n先発メンバー：\nヘンダーソン 7\nジョンソン 4.5\nリチャーズ 7\nラクロワ 7\nカンボット 5.5\nミッチェル 6\nウォートン 6\n鎌田 7\nサール 7\nゲッサンド 8⭐️\nJSL 6\n\n交代：\nマテタ 5\nピノ -\n\nどう思いますか？\n#cpfc #CrystalPalace",
+        "likes": 3,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1773356088457-wnfokn7fa",
+            "username": "@CPFC_EagleFan",
+            "languageCode": "EN",
+            "originalText": "Mostly agree with these! Guessand was fantastic, definitely MOTM. Kamada did well, always tidy on the ball.",
+            "translatedText": "ほとんど同意します！ゲッサンドは素晴らしかった、間違いなくMOM。鎌田もよくやった、常にボールの扱いが丁寧だった。",
+            "likes": 287
+          },
+          {
+            "id": "id-1773356088457-ah1n5lqpr",
+            "username": "@KamadaSupporterJP",
+            "languageCode": "JA",
+            "originalText": "鎌田に7点ですか、もう少しパスでチャンス作ってた気がしますが、守備の貢献が足りなかったのかな？ Guessandは確かにすごかった！",
+            "translatedText": "鎌田に7点ですか、もう少しパスでチャンス作ってた気がしますが、守備の貢献が足りなかったのかな？ Guessandは確かにすごかった！",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFC_arg/status/2032213808161190189"
+      },
+      {
+        "id": "id-1773356089044-e80adept6",
+        "username": "@fergcpfc",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kamada might be the greatest player in our history",
+        "translatedText": "（翻訳未生成）",
+        "likes": 1,
+        "retweets": 0,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/fergcpfc/status/2032210052187074681"
+      },
+      {
+        "id": "t_kamada-20260312_1",
+        "username": "@カンファレンスリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "クリスタルパレス 0-0 AEK Larnaca. Daichi Kamada played 90 minutes.",
+        "translatedText": "クリスタルパレス 0-0 AEK Larnaca。鎌田大地は90分間プレー。",
+        "likes": 2456,
+        "retweets": 68,
+        "replies": [
+          {
+            "id": "r_kamada-20260312_1_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 495
+          },
+          {
+            "id": "r_kamada-20260312_1_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 228
+          },
+          {
+            "id": "r_kamada-20260312_1_3",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 27
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260312_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鎌田大地】カンファレンスリーグ第10節、クリスタルパレス vs AEK Larnacaで90分出場。評価7.3を獲得。",
+        "translatedText": "",
+        "likes": 2409,
+        "retweets": 406,
+        "replies": [
+          {
+            "id": "r_kamada-20260312_2_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 147
+          },
+          {
+            "id": "r_kamada-20260312_2_2",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 127
+          },
+          {
+            "id": "r_kamada-20260312_2_3",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 487
+          },
+          {
+            "id": "r_kamada-20260312_2_4",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 391
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260312_3",
+        "username": "@クリスタルパレスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Another solid performance from Daichi Kamada. Keep it up! 💪",
+        "translatedText": "鎌田大地は今日良いプレーをした。貢献してくれて嬉しい。",
+        "likes": 587,
+        "retweets": 36,
+        "replies": [
+          {
+            "id": "r_kamada-20260312_3_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 453
+          },
+          {
+            "id": "r_kamada-20260312_3_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 336
+          },
+          {
+            "id": "r_kamada-20260312_3_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 234
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260312_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada maintaining consistency. Professional performance.",
+        "translatedText": "鎌田大地、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 939,
+        "retweets": 72,
+        "replies": [
+          {
+            "id": "r_kamada-20260312_4_1",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 324
+          },
+          {
+            "id": "r_kamada-20260312_4_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 481
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-03-12T22:54:49.044Z"
   },
   {
     "matchId": "kamada-20260305",
