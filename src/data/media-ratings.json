@@ -495,31 +495,28 @@
     "playerId": "suzuki_yuito",
     "ratings": [
       {
-        "source": "WhoScored",
-        "country": "国際",
+        "source": "Get German Football News",
+        "country": "ドイツ",
         "rating": 6,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Decent showing. Did the basics well but nothing spectacular.",
-        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+        "comment": "Yuito Suzuki, an SCF attacker, had a notable moment in the 38th minute when his deflected effort bounced off the right post. He was included in the player ratings for SC Freiburg, where he received a score of 6.",
+        "commentTranslated": "SCFの攻撃的選手である鈴木唯人は、38分にシュートがディフレクトして右ポストを叩くという注目すべき瞬間があった。彼はSCフライブルクの選手評価に含まれ、6点の評価を受けた。",
+        "isManual": true,
+        "articleUrl": "https://www.getfootballnewsgermany.com/2026/bundesliga-uel-freiburg-genk/",
+        "hasArticleRating": true
       },
       {
-        "source": "SofaScore",
-        "country": "国際",
-        "rating": 6.1,
+        "source": "kicker",
+        "country": "ドイツ",
+        "rating": 0,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Standard performance. Met expectations without exceeding them.",
-        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
-      },
-      {
-        "source": "FotMob",
-        "country": "国際",
-        "rating": 6,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Workmanlike display. Fulfilled his duties adequately.",
-        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+        "comment": "Y. Suzuki wurde in der 71. Spielminute ausgewechselt, Höler kam für ihn auf das Feld. Zuvor hatte Suzuki in der 38. Minute eine Chance, als seine Volleyabnahme aus spitzem Winkel am Außenpfosten landete und ins Toraus ging.",
+        "commentTranslated": "鈴木唯人は71分に交代し、ヘーラーが彼に代わって出場しました。それ以前の38分には、鈴木は決定機を迎え、鋭い角度からのボレーシュートがポストの外側を叩き、ゴールラインを割りました。",
+        "isManual": true,
+        "articleUrl": "https://www.kicker.de/genk-gegen-freiburg-2026-europa-league-5195143/spielbericht",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 6,
@@ -697,7 +694,8 @@
           }
         ]
       }
-    ]
+    ],
+    "lastUpdated": "2026-03-13T05:06:58.949Z"
   },
   {
     "matchId": "suzuki_yuito-20260307",
@@ -19063,6 +19061,18 @@
         "isManual": true,
         "articleUrl": "https://www.givemesport.com/tottenham-eyeing-crystal-palace-midfielder-daichi-kamada/",
         "hasArticleRating": false
+      },
+      {
+        "source": "Crystal Palace F.C.",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "This article, which covers manager Oliver Glasner's post-match comments on Crystal Palace's missed chances against AEK Larnaca, does not mention Daichi Kamada. The focus is entirely on the team's performance, missed opportunities, and the upcoming second leg.",
+        "commentTranslated": "このクリスタル・パレスのマネージャーであるオリバー・グラスナーがAEKラルナカ戦でのチャンス逸について語る記事には、鎌田大地についての言及はありません。記事は完全にチームのパフォーマンス、逃したチャンス、そして次の第2戦に焦点を当てています。",
+        "isManual": true,
+        "articleUrl": "https://www.cpfc.co.uk/news/first-team/glasner-we-had-enough-chances-to-win-the-game/",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 7.3,
@@ -19404,7 +19414,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-12T22:54:49.044Z"
+    "lastUpdated": "2026-03-13T05:05:55.604Z"
   },
   {
     "matchId": "kamada-20260305",
