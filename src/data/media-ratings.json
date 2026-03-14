@@ -19073,6 +19073,42 @@
         "isManual": true,
         "articleUrl": "https://www.cpfc.co.uk/news/first-team/glasner-we-had-enough-chances-to-win-the-game/",
         "hasArticleRating": false
+      },
+      {
+        "source": "Sportsdunia",
+        "country": "国際",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada was rated 7.0 for his performance. He was described as a classy operator in midfield, creating three chances and being neat in possession. The article noted that he sometimes drifts out of games but acknowledged his obvious quality.",
+        "commentTranslated": "鎌田大地は7.0の評価を受けました。彼は中盤で質の高いプレーヤーとして評価され、3つのチャンスを作り、ボールポゼッションも正確でした。記事は、彼が時々試合から消えることがあると指摘しましたが、彼の明白な質の高さは認められました。",
+        "isManual": true,
+        "articleUrl": "https://www.sportsdunia.com/football-ratings/crystal-palace-vs-aek-larnaca-player-ratings-uecl-12th-march-2026",
+        "hasArticleRating": true
+      },
+      {
+        "source": "Yahoo Sports",
+        "country": "イギリス",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "The provided article text is a privacy consent message and does not contain any information about Daichi Kamada, his performance, or any related quotes.",
+        "commentTranslated": "提供された記事本文はプライバシー同意メッセージであり、鎌田大地選手に関する情報、パフォーマンス、または関連する引用は一切含まれていません。",
+        "isManual": true,
+        "articleUrl": "https://uk.sports.yahoo.com/news/daichi-kamada-great-result-larnaca-125000307.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "Football Insider",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "The article highlights Daichi Kamada's recent return to form for Crystal Palace, particularly after recovering from a hamstring injury. He was key in their draw against AEK Larnaca, demonstrating strong offensive and defensive contributions and impressive Premier League stats for the 2025-26 season. Despite his importance, he is expected to leave on a free transfer this summer, likely following manager Oliver Glasner due to their strong past working relationship at Eintracht Frankfurt and Lazio.",
+        "commentTranslated": "この記事は、ハムストリングの負傷から回復した後のクリスタル・パレスでの鎌田大地の最近の好調を強調している。彼はAEKラルナカとの引き分けで重要な役割を果たし、攻撃と守備の両方で強い貢献を示し、2025-26シーズンには印象的なプレミアリーグのスタッツを記録した。彼の重要性にもかかわらず、アイントラハト・フランクフルトとラツィオでの過去の強い協力関係から、今夏、おそらく監督オリバー・グラスナーについてフリー移籍すると予想されている。",
+        "isManual": true,
+        "articleUrl": "https://www.footballinsider247.com/daichi-kamadas-next-destination-is-already-obvious-with-crystal-palace-set-to-rue-exit-after-stats-vs-aek-larnaca/",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 7.3,
@@ -19414,7 +19450,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-13T05:05:55.604Z"
+    "lastUpdated": "2026-03-14T05:39:33.018Z"
   },
   {
     "matchId": "kamada-20260305",
