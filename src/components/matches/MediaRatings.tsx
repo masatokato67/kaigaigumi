@@ -28,7 +28,7 @@ export default function MediaRatings({
             d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"
           />
         </svg>
-        <h2 className="font-bold">海外メディア評価</h2>
+        <h2 className="text-lg font-bold text-white">海外メディア評価</h2>
       </div>
       <div className="space-y-3">
         {ratings.map((rating, i) => (
@@ -84,11 +84,11 @@ function RatingCard({ rating }: { rating: MediaRating }) {
       </div>
       {rating.comment && (
         <div className="mt-3 pl-11 border-l-2 border-gray-700 ml-4 space-y-2">
-          <div className="text-sm text-gray-400 italic leading-relaxed">
+          <div className="text-sm text-gray-300 italic leading-relaxed">
             &ldquo;{rating.comment}&rdquo;
           </div>
           {rating.commentTranslated && (
-            <div className="text-sm text-gray-500 leading-relaxed">
+            <div className="text-sm text-white leading-relaxed">
               {rating.commentTranslated}
             </div>
           )}

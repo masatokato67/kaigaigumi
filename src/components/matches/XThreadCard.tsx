@@ -19,20 +19,12 @@ export default function XThreadCard({ thread }: XThreadCardProps) {
   const isManual = thread.isManual === true;
 
   return (
-    <div className={`rounded-xl border overflow-hidden transition-colors ${
-      isManual
-        ? "border-blue-500/40 hover:border-blue-500/60"
-        : "border-gray-800 hover:border-gray-700"
-    }`}>
+    <div className="rounded-xl border overflow-hidden transition-colors border-gray-800 hover:border-gray-700">
       {/* Main Thread */}
       <div className="p-4">
         <div className="flex items-start gap-3">
           {/* Avatar */}
-          <div className={`w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 ${
-            isManual
-              ? "bg-gradient-to-br from-blue-600 to-blue-700"
-              : "bg-gradient-to-br from-gray-600 to-gray-700"
-          }`}>
+          <div className="w-10 h-10 rounded-full flex items-center justify-center flex-shrink-0 bg-gradient-to-br from-gray-600 to-gray-700">
             <span className="text-sm font-bold text-white">
               {thread.username.replace("@", "").charAt(0).toUpperCase()}
             </span>
