@@ -14,7 +14,7 @@ function formatNumber(num: number): string {
 }
 
 export default function XThreadCard({ thread }: XThreadCardProps) {
-  const [showReplies, setShowReplies] = useState(false);
+  const [showReplies, setShowReplies] = useState(thread.replies.length > 0);
 
   const isManual = thread.isManual === true;
 
