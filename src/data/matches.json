@@ -1,5 +1,43 @@
 [
   {
+    "matchId": "mitoma-20260321",
+    "playerId": "mitoma",
+    "date": "2026-03-21",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "ブライトン",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "リヴァプール",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 14,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LW",
+      "rating": 7.1
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.099,
+      "expectedAssists": 0.3091,
+      "totalPass": 8,
+      "accuratePass": 4,
+      "interceptionWon": 1,
+      "duelWon": 3,
+      "duelLost": 3,
+      "touches": 19,
+      "fouls": 2,
+      "wasFouled": 1,
+      "possessionLostCtrl": 6
+    }
+  },
+  {
     "matchId": "kamada-20260319",
     "playerId": "kamada",
     "date": "2026-03-19",
