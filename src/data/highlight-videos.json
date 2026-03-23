@@ -1,7 +1,32 @@
 {
+  "tomiyasu-20260322": {
+    "enabled": true,
+    "youtubeId": "ORazzrAVQyk",
+    "title": ""
+  },
+  "sano_kodai-20260322": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260322": {
+    "enabled": true,
+    "youtubeId": "g3LQty3aAfI",
+    "title": ""
+  },
+  "suzuki_yuito-20260322": {
+    "enabled": true,
+    "youtubeId": "oTKc8EVL2N4",
+    "title": ""
+  },
   "mitoma-20260321": {
     "enabled": true,
     "youtubeId": "Oz5VvvaxCXw",
+    "title": ""
+  },
+  "shiogai-20260321": {
+    "enabled": false,
+    "youtubeId": "",
     "title": ""
   },
   "kamada-20260319": {
