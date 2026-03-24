@@ -12,7 +12,7 @@ import {
   getHighlightVideoByMatchId,
   getAllMatches,
 } from "@/lib/data";
-import AdBanner from "@/components/ads/AdBanner";
+import ImobileAd from "@/components/ads/ImobileAd";
 
 export function generateStaticParams() {
   const matches = getAllMatches();
@@ -94,10 +94,7 @@ export default async function MatchDetailPage({
         </div>
       )}
 
-      {/* Ad Banner 1 */}
-      <div className="mt-8">
-        <AdBanner slot="match-1" format="horizontal" />
-      </div>
+      <ImobileAd className="mt-8" />
 
       {mediaData && mediaData.xThreads && mediaData.xThreads.length > 0 && (
         <div className="mt-8">
@@ -105,10 +102,7 @@ export default async function MatchDetailPage({
         </div>
       )}
 
-      {/* Ad Banner 2 */}
-      <div className="mt-8">
-        <AdBanner slot="match-2" format="horizontal" />
-      </div>
+      <ImobileAd className="mt-8" />
     </div>
   );
 }

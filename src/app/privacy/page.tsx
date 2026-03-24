@@ -79,37 +79,12 @@ export default function PrivacyPolicyPage() {
         </section>
 
         <section>
-          <h2 className="text-xl font-bold text-white mb-4">広告について</h2>
-          <p className="mb-3">
-            当サイトでは、第三者配信の広告サービス「Google AdSense」を利用しています。
-            広告配信事業者は、ユーザーの興味に応じた広告を表示するためにCookieを使用することがあります。
-          </p>
-          <p className="mb-3">
-            Google AdSenseでは、ユーザーが過去にアクセスしたウェブサイトの情報に基づいて
-            広告を配信する「パーソナライズド広告」が含まれる場合があります。
-          </p>
-          <p>
-            パーソナライズド広告を無効にする場合は、
-            <a
-              href="https://www.google.com/settings/ads"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-accent-red hover:underline"
-            >
-              Googleの広告設定
-            </a>
-            から設定を変更することができます。
-          </p>
-        </section>
-
-        <section>
           <h2 className="text-xl font-bold text-white mb-4">情報の利用目的</h2>
           <p className="mb-3">収集した情報は、以下の目的で利用します：</p>
           <ul className="list-disc list-inside space-y-2 ml-4">
             <li>当サイトのサービス提供・運営のため</li>
             <li>ユーザーからのお問い合わせに対応するため</li>
             <li>サイトの利用状況の分析・改善のため</li>
-            <li>広告の配信・効果測定のため</li>
           </ul>
         </section>
 
@@ -117,7 +92,7 @@ export default function PrivacyPolicyPage() {
           <h2 className="text-xl font-bold text-white mb-4">第三者への情報提供</h2>
           <p>
             当サイトは、法令に基づく場合を除き、ユーザーの同意なく個人情報を第三者に提供することはありません。
-            ただし、前述のGoogle Analytics、Google AdSenseなどの外部サービスにおいては、
+            ただし、前述のGoogle Analyticsなどの外部サービスにおいては、
             各サービスのプライバシーポリシーに従って情報が取り扱われます。
           </p>
         </section>

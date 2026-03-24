@@ -261,12 +261,12 @@
     "playerStats": {
       "minutesPlayed": 120,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "starting": true,
       "position": "CM",
       "rating": 7.7
     },
-    "notable": false,
+    "notable": true,
     "detailedStats": {
       "totalShots": 1,
       "expectedGoals": 0.0215,
@@ -346,7 +346,7 @@
     "playerStats": {
       "minutesPlayed": 90,
       "goals": 1,
-      "assists": 0,
+      "assists": 1,
       "starting": true,
       "position": "AM",
       "rating": 8.4
@@ -550,7 +550,7 @@
     "playerStats": {
       "minutesPlayed": 90,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "starting": true,
       "position": "CM",
       "rating": 6.9

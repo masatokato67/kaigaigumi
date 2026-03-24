@@ -5,7 +5,7 @@ import PlayerProfile from "@/components/players/PlayerProfile";
 import RatingChart from "@/components/players/RatingChart";
 import PlayerMatchList from "@/components/players/PlayerMatchList";
 import { getPlayerById, getMatchesByPlayerId, getAllPlayers } from "@/lib/data";
-import AdBanner from "@/components/ads/AdBanner";
+import ImobileAd from "@/components/ads/ImobileAd";
 
 export function generateStaticParams() {
   const players = getAllPlayers();
@@ -76,17 +76,11 @@ export default async function PlayerDetailPage({
         <RatingChart data={ratingData} />
       </div>
 
-      {/* Ad Banner 1 */}
-      <div className="mb-8">
-        <AdBanner slot="player-1" format="horizontal" />
-      </div>
+      <ImobileAd className="mb-8" />
 
       <PlayerMatchList matches={matches} playerId={id} />
 
-      {/* Ad Banner 2 */}
-      <div className="mt-8">
-        <AdBanner slot="player-2" format="horizontal" />
-      </div>
+      <ImobileAd className="mt-8" />
     </div>
   );
 }
