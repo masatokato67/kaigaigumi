@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <section className="relative py-20 px-4 overflow-hidden min-h-[500px]">
+    <section className="relative py-10 md:py-14 px-4 overflow-hidden min-h-[300px] md:min-h-[360px]">
       {/* 背景画像 */}
       <div className="absolute inset-0">
         <Image
