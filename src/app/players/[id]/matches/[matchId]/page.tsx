@@ -82,11 +82,15 @@ export default async function MatchDetailPage({
         </div>
       )}
 
+      <ImobileAd className="mt-8" />
+
       {match.detailedStats && (
         <div className="mt-8">
           <DetailedStats stats={match.detailedStats} />
         </div>
       )}
+
+      <ImobileAd className="mt-8" />
 
       {mediaData && mediaData.ratings.length > 0 && (
         <div className="mt-8">
@@ -94,15 +98,11 @@ export default async function MatchDetailPage({
         </div>
       )}
 
-      <ImobileAd className="mt-8" />
-
       {mediaData && mediaData.xThreads && mediaData.xThreads.length > 0 && (
         <div className="mt-8">
           <XThreads threads={mediaData.xThreads} />
         </div>
       )}
-
-      <ImobileAd className="mt-8" />
     </div>
   );
 }
