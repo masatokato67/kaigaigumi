@@ -31,42 +31,46 @@ function loadImobileScript() {
   }
 }
 
+function pushAdSlot(elementId: string) {
+  (window.adsbyimobile = window.adsbyimobile || []).push({
+    pid: 84700,
+    mid: 591613,
+    asid: 1926505,
+    type: "banner",
+    display: "inline",
+    elementid: elementId,
+  });
+
+  // Inject inline script to trigger i-mobile processing for SPA navigation
+  const inlineScript = document.createElement("script");
+  inlineScript.textContent = `
+    (window.adsbyimobile = window.adsbyimobile || []).push({
+      pid: 84700, mid: 591613, asid: 1926505,
+      type: "banner", display: "inline",
+      elementid: "${elementId}"
+    });
+  `;
+  const target = document.getElementById(elementId);
+  if (target) {
+    target.appendChild(inlineScript);
+  }
+}
+
 export default function ImobileAd({ className = "" }: ImobileAdProps) {
-  const initialized = useRef(false);
+  const containerRef = useRef<HTMLDivElement>(null);
   const reactId = useId();
   const safeId = reactId.replace(/:/g, "-");
   const mobileId = `im-mobile${safeId}`;
   const pcId = `im-pc${safeId}`;
 
   useEffect(() => {
-    if (initialized.current) return;
-    initialized.current = true;
-
     loadImobileScript();
-
-    // Mobile ad
-    (window.adsbyimobile = window.adsbyimobile || []).push({
-      pid: 84700,
-      mid: 591613,
-      asid: 1926505,
-      type: "banner",
-      display: "inline",
-      elementid: mobileId,
-    });
-
-    // PC ad
-    (window.adsbyimobile = window.adsbyimobile || []).push({
-      pid: 84700,
-      mid: 591613,
-      asid: 1926505,
-      type: "banner",
-      display: "inline",
-      elementid: pcId,
-    });
+    pushAdSlot(mobileId);
+    pushAdSlot(pcId);
   }, [mobileId, pcId]);
 
   return (
-    <div className={className}>
+    <div ref={containerRef} className={className}>
       {/* Mobile */}
       <div className="block md:hidden">
         <div id={mobileId} />
