@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useId, useRef } from "react";
 
 interface ImobileAdProps {
   className?: string;
@@ -19,8 +19,6 @@ declare global {
   }
 }
 
-let instanceCounter = 0;
-
 function loadImobileScript() {
   const scriptId = "imobile-spot-js";
   if (!document.getElementById(scriptId)) {
@@ -35,13 +33,10 @@ function loadImobileScript() {
 
 export default function ImobileAd({ className = "" }: ImobileAdProps) {
   const initialized = useRef(false);
-  const [ids] = useState(() => {
-    const n = instanceCounter++;
-    return {
-      mobile: `im-mobile-${n}`,
-      pc: `im-pc-${n}`,
-    };
-  });
+  const reactId = useId();
+  const safeId = reactId.replace(/:/g, "-");
+  const mobileId = `im-mobile${safeId}`;
+  const pcId = `im-pc${safeId}`;
 
   useEffect(() => {
     if (initialized.current) return;
@@ -56,7 +51,7 @@ export default function ImobileAd({ className = "" }: ImobileAdProps) {
       asid: 1926505,
       type: "banner",
       display: "inline",
-      elementid: ids.mobile,
+      elementid: mobileId,
     });
 
     // PC ad
@@ -66,19 +61,19 @@ export default function ImobileAd({ className = "" }: ImobileAdProps) {
       asid: 1926505,
       type: "banner",
       display: "inline",
-      elementid: ids.pc,
+      elementid: pcId,
     });
-  }, [ids]);
+  }, [mobileId, pcId]);
 
   return (
     <div className={className}>
       {/* Mobile */}
       <div className="block md:hidden">
-        <div id={ids.mobile} />
+        <div id={mobileId} />
       </div>
       {/* PC */}
       <div className="hidden md:block">
-        <div id={ids.pc} />
+        <div id={pcId} />
       </div>
     </div>
   );
