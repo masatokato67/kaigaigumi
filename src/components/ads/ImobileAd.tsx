@@ -44,8 +44,8 @@ export default function ImobileAd({ className = "" }: ImobileAdProps) {
 
     (window.adsbyimobile = window.adsbyimobile || []).push({
       pid: 84700,
-      mid: 591613,
-      asid: 1926505,
+      mid: 591685,
+      asid: 1926795,
       type: "banner",
       display: "inline",
       elementid: pcId,
