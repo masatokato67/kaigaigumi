@@ -33,7 +33,7 @@ function PlayerList() {
 
 export default function PlayersPage() {
   return (
-    <div className="max-w-6xl mx-auto px-4 py-12">
+    <div className="max-w-6xl mx-auto px-4 py-6">
       <div className="mb-8">
         <div className="flex items-center gap-2 mb-2">
           <div className="w-1 h-8 bg-red-600 rounded" />
