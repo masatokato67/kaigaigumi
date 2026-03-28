@@ -23,7 +23,7 @@ export default function Home() {
       <HeroSection />
 
       {/* Recent Match Results */}
-      <section className="max-w-6xl mx-auto px-4 py-12">
+      <section className="max-w-6xl mx-auto px-4 py-6">
         <div className="flex items-center gap-2 mb-6">
           <div className="w-1 h-8 bg-red-600 rounded" />
           <div>
@@ -54,7 +54,7 @@ export default function Home() {
       </section>
 
       {/* Top Rated Matches */}
-      <section className="max-w-6xl mx-auto px-4 py-12">
+      <section className="max-w-6xl mx-auto px-4 py-6">
         <div className="flex items-center gap-2 mb-6">
           <div className="w-1 h-8 bg-yellow-500 rounded" />
           <div>
@@ -80,7 +80,7 @@ export default function Home() {
       </section>
 
       {/* Featured Players */}
-      <section className="max-w-6xl mx-auto px-4 py-12">
+      <section className="max-w-6xl mx-auto px-4 py-6">
         <div className="flex items-center justify-between mb-6">
           <div className="flex items-center gap-2">
             <div className="w-1 h-8 bg-red-600 rounded" />
@@ -124,7 +124,7 @@ export default function Home() {
       </section>
 
       {/* Season Stats */}
-      <section className="max-w-6xl mx-auto px-4 py-12">
+      <section className="max-w-6xl mx-auto px-4 py-6">
         <div className="flex items-center gap-2 mb-6">
           <div className="w-1 h-8 bg-red-600 rounded" />
           <div>

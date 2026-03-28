@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <section className="relative py-10 md:py-14 px-4 overflow-hidden min-h-[300px] md:min-h-[360px]">
+    <section className="relative py-8 md:py-10 px-4 overflow-hidden min-h-[240px] md:min-h-[280px]">
       {/* 背景画像 */}
       <div className="absolute inset-0">
         <Image
@@ -22,12 +22,12 @@ export default function HeroSection() {
         <p className="text-red-500 text-sm font-medium tracking-wider mb-4">
           WELCOME
         </p>
-        <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-6">
+        <h1 className="text-3xl md:text-4xl font-bold leading-tight mb-4">
           海外組
           <br />
           <span className="ml-2">サカレポ</span>
         </h1>
-        <p className="text-gray-400 max-w-md mb-8 leading-relaxed">
+        <p className="text-gray-400 max-w-md mb-6 leading-relaxed text-sm">
           日本人選手の海外での活躍を詳細に追跡。試合結果、スタッツ、現地の評価まで全てをカバー。
         </p>
         <Link
