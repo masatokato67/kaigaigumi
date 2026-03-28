@@ -6,15 +6,19 @@ import type { Match, Player } from "@/lib/types";
 export default function MatchResultCard({
   match,
   player,
+  fullWidth = false,
 }: {
   match: Match;
   player: Player;
+  fullWidth?: boolean;
 }) {
   const rating = getMediaAverageRating(match.matchId) ?? match.playerStats.rating;
   return (
     <Link
       href={`/players/${match.playerId}/matches/${match.matchId}`}
-      className="block min-w-[240px] bg-[#131829] rounded-xl p-4 border border-gray-800 hover:border-gray-600 transition-colors"
+      className={`block bg-[#131829] rounded-xl p-4 border border-gray-800 hover:border-gray-600 transition-colors ${
+        fullWidth ? "w-full" : "min-w-[240px]"
+      }`}
     >
       <div className="text-center mb-3">
         <div className="text-xs text-gray-400">{match.date}</div>

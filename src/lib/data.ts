@@ -120,6 +120,27 @@ export function getMediaAverageRating(matchId: string): number | undefined {
   return media?.averageRating;
 }
 
+export function getAvailableSeasons(): string[] {
+  const seasonSet = new Set<string>();
+  for (const match of matches) {
+    const year = parseInt(match.date.substring(0, 4));
+    const month = parseInt(match.date.substring(5, 7));
+    // Season runs July-June: Jul 2025 = "2025-26", Jan 2026 = "2025-26"
+    const startYear = month >= 7 ? year : year - 1;
+    seasonSet.add(`${startYear}-${String(startYear + 1).slice(2)}`);
+  }
+  return Array.from(seasonSet).sort().reverse();
+}
+
+export function getMatchesBySeason(season: string): Match[] {
+  const startYear = parseInt(season.substring(0, 4));
+  const from = `${startYear}-07-01`;
+  const to = `${startYear + 1}-06-30`;
+  return matches
+    .filter((m) => m.date >= from && m.date <= to)
+    .sort((a, b) => b.date.localeCompare(a.date));
+}
+
 export function getTopRatedMatches(limit: number = 10): Match[] {
   const oneMonthAgo = new Date();
   oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
