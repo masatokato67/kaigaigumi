@@ -1,5 +1,433 @@
 [
   {
+    "matchId": "sano_kaishu-20260404",
+    "playerId": "sano_kaishu",
+    "date": "2026-04-04",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ホッフェンハイム",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "マインツ",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 7.3
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0315,
+      "totalPass": 32,
+      "accuratePass": 30,
+      "totalCross": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 4,
+      "totalTackle": 3,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "totalClearance": 2,
+      "ballRecovery": 8,
+      "duelWon": 6,
+      "duelLost": 2,
+      "aerialLost": 2,
+      "touches": 48,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 5
+    }
+  },
+  {
+    "matchId": "suzuki_yuito-20260404",
+    "playerId": "suzuki_yuito",
+    "date": "2026-04-04",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "バイエルン",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 89,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.3
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0069,
+      "totalPass": 9,
+      "accuratePass": 6,
+      "totalCross": 1,
+      "totalTackle": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 5,
+      "aerialLost": 2,
+      "touches": 17,
+      "wasFouled": 1,
+      "possessionLostCtrl": 8,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "mitoma-20260331",
+    "playerId": "mitoma",
+    "date": "2026-03-31",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "England",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 71,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "LW",
+      "rating": 7.9
+    },
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "totalPass": 17,
+      "accuratePass": 16,
+      "totalTackle": 4,
+      "wonTackle": 2,
+      "interceptionWon": 2,
+      "ballRecovery": 2,
+      "duelWon": 6,
+      "duelLost": 3,
+      "aerialLost": 1,
+      "touches": 33,
+      "wasFouled": 2,
+      "possessionLostCtrl": 6
+    }
+  },
+  {
+    "matchId": "kamada-20260331",
+    "playerId": "kamada",
+    "date": "2026-03-31",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "England",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 80,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6.9
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 36,
+      "accuratePass": 33,
+      "keyPass": 2,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 4,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "interceptionWon": 2,
+      "totalClearance": 3,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "touches": 49,
+      "fouls": 1,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260331",
+    "playerId": "sano_kaishu",
+    "date": "2026-03-31",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "England",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 7.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 31,
+      "accuratePass": 29,
+      "keyPass": 1,
+      "totalTackle": 6,
+      "wonTackle": 5,
+      "interceptionWon": 4,
+      "totalClearance": 1,
+      "ballRecovery": 8,
+      "duelWon": 7,
+      "duelLost": 3,
+      "aerialLost": 1,
+      "touches": 52,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 4,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "suzuki_yuito-20260331",
+    "playerId": "suzuki_yuito",
+    "date": "2026-03-31",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "England",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 10,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "AM",
+      "rating": 6.7
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 4,
+      "accuratePass": 3,
+      "totalClearance": 1,
+      "duelWon": 1,
+      "aerialWon": 1,
+      "touches": 5,
+      "possessionLostCtrl": 1
+    }
+  },
+  {
+    "matchId": "mitoma-20260328",
+    "playerId": "mitoma",
+    "date": "2026-03-28",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "Scotland",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LW",
+      "rating": 7.1
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "totalPass": 17,
+      "accuratePass": 16,
+      "keyPass": 2,
+      "totalCross": 1,
+      "interceptionWon": 2,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialLost": 2,
+      "touches": 28,
+      "wasFouled": 2,
+      "possessionLostCtrl": 2
+    }
+  },
+  {
+    "matchId": "kamada-20260328",
+    "playerId": "kamada",
+    "date": "2026-03-28",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "Scotland",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 12,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CM",
+      "rating": 6.8
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "totalPass": 13,
+      "accuratePass": 12,
+      "keyPass": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "interceptionWon": 1,
+      "ballRecovery": 1,
+      "duelWon": 1,
+      "touches": 16,
+      "possessionLostCtrl": 1
+    }
+  },
+  {
+    "matchId": "shiogai-20260328",
+    "playerId": "shiogai",
+    "date": "2026-03-28",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "Scotland",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 12,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "ST",
+      "rating": 6.7
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "totalPass": 2,
+      "accuratePass": 2,
+      "keyPass": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 1,
+      "duelWon": 1,
+      "duelLost": 2,
+      "touches": 5
+    }
+  },
+  {
+    "matchId": "sano_kodai-20260328",
+    "playerId": "sano_kodai",
+    "date": "2026-03-28",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "Scotland",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 3,
+      "shotsOnTarget": 1,
+      "totalPass": 13,
+      "accuratePass": 11,
+      "keyPass": 3,
+      "totalCross": 6,
+      "totalTackle": 1,
+      "duelWon": 2,
+      "duelLost": 3,
+      "touches": 33,
+      "fouls": 1,
+      "possessionLostCtrl": 11,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "suzuki_yuito-20260328",
+    "playerId": "suzuki_yuito",
+    "date": "2026-03-28",
+    "competition": "International Friendly Games",
+    "homeTeam": {
+      "name": "Scotland",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 63,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 1,
+      "totalPass": 30,
+      "accuratePass": 26,
+      "keyPass": 1,
+      "totalCross": 1,
+      "interceptionWon": 1,
+      "blockedScoringAttempt": 1,
+      "ballRecovery": 3,
+      "duelWon": 1,
+      "duelLost": 3,
+      "touches": 43,
+      "possessionLostCtrl": 10,
+      "dispossessed": 3
+    }
+  },
+  {
     "matchId": "tomiyasu-20260322",
     "playerId": "tomiyasu",
     "date": "2026-03-22",
