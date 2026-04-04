@@ -12953,31 +12953,16 @@
     "playerId": "sano_kaishu",
     "ratings": [
       {
-        "source": "Kicker",
-        "country": "ドイツ",
-        "rating": 7.2,
+        "source": "ESPN",
+        "country": "アメリカ",
+        "rating": 0,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Solid performance. Contributed well to the team's play.",
-        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
-      },
-      {
-        "source": "Bild",
-        "country": "ドイツ",
-        "rating": 7.2,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Impressive display. Showed quality throughout the match.",
-        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
-      },
-      {
-        "source": "Sport1",
-        "country": "ドイツ",
-        "rating": 7.5,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Effective performance. Made an impact when it mattered.",
-        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+        "comment": "Bournemouth and Brentford are among the teams interested in Mainz midfielder Kaishu Sano. This information is attributed to Ekrem Konur.",
+        "commentTranslated": "ボーンマスとブレントフォードがマインツのミッドフィールダー、佐野海舟に関心を示しているチームの中に含まれる。この情報はエクレム・コヌルによるものだ。",
+        "isManual": true,
+        "articleUrl": "https://www.espn.com/soccer/story/_/id/48374761/transfer-rumors-news-arsenal-real-madrid-eye-young-bayer-leverkusen-striker",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 7.3,
@@ -13011,6 +12996,126 @@
       }
     ],
     "xThreads": [
+      {
+        "id": "id-1775344554457-2j5dfkmbh",
+        "username": "@KhushiDiva2",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "@DAZN_JPN Kaishu Sano dominating with insane core strength and a wholesome hug from Janis Blaswich Tietz",
+        "translatedText": "佐野海舟が驚異的な体幹の強さで圧倒し、ヤニス・ブラスヴィッヒ・ティーツから心温まるハグ！",
+        "likes": 3,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1775344554457-ifw20jnyl",
+            "username": "@RBL_Fanatic7",
+            "languageCode": "EN",
+            "originalText": "Sano has been an absolute beast this season, his physical presence is incredible! Love seeing the team spirit with Blaswich too.",
+            "translatedText": "佐野は今シーズン本当に怪物だね、彼のフィジカルは信じられない！ブラスヴィッヒとのチームスピリットも見るのが好き。",
+            "likes": 210
+          },
+          {
+            "id": "id-1775344554457-w73hz6nsr",
+            "username": "@J_League_Watch_JP",
+            "languageCode": "JA",
+            "originalText": "体幹の強さは本当にJリーグ時代から際立ってたけど、海外でさらに磨かれてるね！ブラスヴィッヒとの信頼関係も良い。",
+            "translatedText": "体幹の強さは本当にJリーグ時代から際立ってたけど、海外でさらに磨かれてるね！ブラスヴィッヒとの信頼関係も良い。",
+            "likes": 120
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/KhushiDiva2/status/2040448523699986793"
+      },
+      {
+        "id": "id-1775344559615-055pf56d1",
+        "username": "@lnside05er",
+        "verified": false,
+        "languageCode": "DE",
+        "originalText": "Kaishu Sano ist übrigens der beste Spieler der Welt.",
+        "translatedText": "佐野海舟はちなみに世界最高の選手だ。",
+        "likes": 10,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1775344559615-vcxr1nqxv",
+            "username": "@SanoKaijuFan_",
+            "languageCode": "JA",
+            "originalText": "それな！最近のプレーは本当に素晴らしい！彼がどこまで行くか楽しみ！",
+            "translatedText": "それな！最近のプレーは本当に素晴らしい！彼がどこまで行くか楽しみ！",
+            "likes": 280
+          },
+          {
+            "id": "id-1775344559615-zdvg344cf",
+            "username": "@FootyOpinionated",
+            "languageCode": "EN",
+            "originalText": "He's definitely been in great form, but 'best in the world' is a huge claim! Top quality for sure, though.",
+            "translatedText": "彼は確かに素晴らしい調子だけど、「世界最高」は言い過ぎだね！でも、間違いなくトップクオリティだ。",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/lnside05er/status/2040541343903076847"
+      },
+      {
+        "id": "id-1775344568004-eejwu3gp8",
+        "username": "@SuperDoik",
+        "verified": false,
+        "languageCode": "DE",
+        "originalText": "@Strhman89 Und nebenbei findet unser Autoverkäufer noch einen seit drölfzig Jahren unberührte ETF Fond und man kann Kaishu Sano halten, der einen zum Triple schießt.",
+        "translatedText": "その上、うちの自動車ディーラーは数十年間手付かずだったETFファンドを発見し、佐野海舟をキープできるんだ。彼が俺たちを三冠に導いてくれる！",
+        "likes": 2,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1775344568004-cradidixx",
+            "username": "@SanoFanatics",
+            "languageCode": "DE",
+            "originalText": "Genau das! Sano ist unser Mann für die wichtigen Momente. Mit ihm ist alles möglich!",
+            "translatedText": "まさにそれ！佐野は大事な局面で頼りになる男だ。彼がいれば何だってできる！",
+            "likes": 234
+          },
+          {
+            "id": "id-1775344568004-4onmybd09",
+            "username": "@Kicker_KAI",
+            "languageCode": "EN",
+            "originalText": "Sano is absolutely brilliant, but let's not forget the 'car salesman' also needs to keep delivering! 😉 Still, love the optimism!",
+            "translatedText": "佐野は本当に素晴らしいけど、「自動車販売員」も結果を出し続ける必要があるってことを忘れないでおこうね！😉 とはいえ、この楽観的な見方は好きだよ！",
+            "likes": 112
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/SuperDoik/status/2040545029811290292"
+      },
+      {
+        "id": "id-1775344576660-sgy0bv2io",
+        "username": "@_yperion_",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Sano Kaishu, insane working class hero",
+        "translatedText": "佐野海舟、驚異的な労働者階級のヒーロー",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1775344576660-hnru8udrq",
+            "username": "@KopiteKing7",
+            "languageCode": "EN",
+            "originalText": "Spot on! He leaves everything on the pitch every single match. A true warrior.",
+            "translatedText": "その通り！彼は毎試合、ピッチに全てを置いていく。真の戦士だ。",
+            "likes": 320
+          },
+          {
+            "id": "id-1775344576660-nixb6rd5l",
+            "username": "@Football_Geek_JP",
+            "languageCode": "JA",
+            "originalText": "彼のプレースタイルは本当に魅力的ですよね。攻守にわたる貢献度が素晴らしい。",
+            "translatedText": "彼のプレースタイルは本当に魅力的ですよね。攻守にわたる貢献度が素晴らしい。",
+            "likes": 190
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/_yperion_/status/2040550443315536065"
+      },
       {
         "id": "t_sano_kaishu-20260404_1",
         "username": "@ブンデスリーガNews",
@@ -13155,7 +13260,8 @@
           }
         ]
       }
-    ]
+    ],
+    "lastUpdated": "2026-04-04T23:16:16.660Z"
   },
   {
     "matchId": "sano_kaishu-20260331",
