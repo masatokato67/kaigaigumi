@@ -13,58 +13,6 @@
       "isManual": true,
       "articleUrl": "https://www.espn.com/soccer/story/_/id/48374761/transfer-rumors-news-arsenal-real-madrid-eye-young-bayer-leverkusen-striker",
       "hasArticleRating": false
-    },
-    {
-      "date": "2026-03-22",
-      "source": "Bild",
-      "country": "ドイツ",
-      "rating": 2,
-      "maxRating": 6,
-      "ratingSystem": "german",
-      "comment": "Kaishu Sano was rock-solid in midfield, winning nearly every duel and distributing the ball efficiently.",
-      "commentTranslated": "佐野海舟は中盤で盤石のプレーを見せ、ほぼ全てのデュエルに勝利し、効率的にボールを配球した。",
-      "isManual": true,
-      "articleUrl": "https://www.bild.de/sport/fussball/bundesliga/mainz-05",
-      "hasArticleRating": true
-    },
-    {
-      "date": "2026-03-15",
-      "source": "kicker",
-      "country": "ドイツ",
-      "rating": 2.5,
-      "maxRating": 6,
-      "ratingSystem": "german",
-      "comment": "Sano continues to impress with his defensive work rate and tactical intelligence in the Mainz midfield.",
-      "commentTranslated": "佐野はマインツの中盤での守備の運動量と戦術的インテリジェンスで印象を与え続けている。",
-      "isManual": true,
-      "articleUrl": "https://www.kicker.de/mainz-05",
-      "hasArticleRating": true
-    },
-    {
-      "date": "2026-03-08",
-      "source": "Allgemeine Zeitung",
-      "country": "ドイツ",
-      "rating": 7,
-      "maxRating": 10,
-      "ratingSystem": "standard",
-      "comment": "A quietly effective performance from the Japanese international. His positioning was excellent throughout.",
-      "commentTranslated": "日本代表選手による静かだが効果的なパフォーマンス。ポジショニングは終始素晴らしかった。",
-      "isManual": true,
-      "articleUrl": "https://www.allgemeine-zeitung.de/sport/mainz-05",
-      "hasArticleRating": true
-    },
-    {
-      "date": "2026-02-28",
-      "source": "Sportbuzzer",
-      "country": "ドイツ",
-      "rating": 7.5,
-      "maxRating": 10,
-      "ratingSystem": "standard",
-      "comment": "Sano was the engine of Mainz's midfield, contributing both defensively and in build-up play.",
-      "commentTranslated": "佐野はマインツの中盤のエンジンとなり、守備とビルドアップの両方で貢献した。",
-      "isManual": true,
-      "articleUrl": "https://www.sportbuzzer.de/bundesliga",
-      "hasArticleRating": true
     }
   ],
   "xThreads": [
@@ -129,66 +77,6 @@
       ],
       "isManual": true,
       "postUrl": "https://x.com/lnside05er/status/2040541343903076847"
-    },
-    {
-      "date": "2026-03-22",
-      "id": "player-x-1",
-      "username": "@BundesligaFan_DE",
-      "verified": false,
-      "languageCode": "de",
-      "originalText": "Kaishu Sano ist einer der besten defensiven Mittelfeldspieler der Liga. Mainz hat einen echten Diamanten gefunden.",
-      "translatedText": "佐野海舟はリーグ最高の守備的ミッドフィールダーの一人だ。マインツは本物のダイヤモンドを見つけた。",
-      "likes": 342,
-      "retweets": 89,
-      "replies": [
-        {
-          "id": "reply-1",
-          "username": "@Mainz05Fan",
-          "languageCode": "de",
-          "originalText": "Absolut! Er ist unverzichtbar geworden.",
-          "translatedText": "まさに！彼は欠かせない存在になった。",
-          "likes": 45
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/BundesligaFan_DE/status/example1"
-    },
-    {
-      "date": "2026-03-15",
-      "id": "player-x-2",
-      "username": "@FussballAnalyst",
-      "verified": true,
-      "languageCode": "de",
-      "originalText": "Die Entwicklung von Sano in dieser Saison ist bemerkenswert. Seine Passgenauigkeit und Zweikampfquote sind Spitzenklasse.",
-      "translatedText": "今シーズンの佐野の成長は注目に値する。パス精度とデュエル勝率はトップクラスだ。",
-      "likes": 567,
-      "retweets": 123,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/FussballAnalyst/status/example2"
-    },
-    {
-      "date": "2026-03-08",
-      "id": "player-x-3",
-      "username": "@JPFootball_EN",
-      "verified": false,
-      "languageCode": "en",
-      "originalText": "Sano has quietly become one of the most reliable midfielders in the Bundesliga. His consistency is incredible.",
-      "translatedText": "佐野は静かにブンデスリーガで最も信頼できるミッドフィールダーの一人になった。その安定感は信じられないほどだ。",
-      "likes": 891,
-      "retweets": 201,
-      "replies": [
-        {
-          "id": "reply-2",
-          "username": "@BuLi_Watcher",
-          "languageCode": "en",
-          "originalText": "Agreed. He barely puts a foot wrong. Some bigger clubs should be watching.",
-          "translatedText": "同意。ほとんどミスをしない。もっと大きなクラブが注目すべきだ。",
-          "likes": 78
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/JPFootball_EN/status/example3"
     }
   ]
 }
