@@ -1,0 +1,74 @@
+{
+  "playerId": "kamada",
+  "mediaRatings": [
+    {
+      "date": "2026-03-22",
+      "source": "The Telegraph",
+      "country": "イギリス",
+      "rating": 7.0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Kamada was the creative spark Crystal Palace needed, linking play between midfield and attack with intelligence.",
+      "commentTranslated": "鎌田はクリスタルパレスに必要な創造的な火花であり、中盤と攻撃を知的につないだ。",
+      "isManual": true,
+      "articleUrl": "https://www.telegraph.co.uk/football/crystal-palace",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-03-08",
+      "source": "Evening Standard",
+      "country": "イギリス",
+      "rating": 6.5,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "A quiet game from Kamada, though his passing accuracy remained high. Needs more involvement in the final third.",
+      "commentTranslated": "鎌田の静かな試合だったが、パス精度は高いまま。最終局面でのさらなる関与が必要。",
+      "isManual": true,
+      "articleUrl": "https://www.standard.co.uk/sport/football/crystal-palace",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-02-22",
+      "source": "South London Press",
+      "country": "イギリス",
+      "rating": 7.5,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Kamada ran the show in midfield. His vision and passing range were outstanding throughout.",
+      "commentTranslated": "鎌田が中盤を支配した。彼のビジョンとパスレンジは終始傑出していた。",
+      "isManual": true,
+      "articleUrl": "https://www.southlondonpress.co.uk/sport/crystal-palace",
+      "hasArticleRating": true
+    }
+  ],
+  "xThreads": [
+    {
+      "date": "2026-03-22",
+      "id": "kamada-x-1",
+      "username": "@CPFCFanPage",
+      "verified": false,
+      "languageCode": "en",
+      "originalText": "Kamada is finally showing his best form at Palace. His through balls today were exceptional. Class player.",
+      "translatedText": "鎌田がついにパレスで最高のフォームを見せている。今日のスルーパスは素晴らしかった。一流の選手だ。",
+      "likes": 456,
+      "retweets": 89,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/CPFCFanPage/status/example1"
+    },
+    {
+      "date": "2026-03-08",
+      "id": "kamada-x-2",
+      "username": "@PremierLeagueHub",
+      "verified": true,
+      "languageCode": "en",
+      "originalText": "Kamada's footballing intelligence is underrated. The way he finds pockets of space and dictates tempo is elite.",
+      "translatedText": "鎌田のサッカーIQは過小評価されている。スペースを見つけてテンポを支配する方法はエリートレベルだ。",
+      "likes": 1023,
+      "retweets": 234,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/PremierLeagueHub/status/example2"
+    }
+  ]
+}

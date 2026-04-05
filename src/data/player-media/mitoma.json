@@ -1,0 +1,110 @@
+{
+  "playerId": "mitoma",
+  "mediaRatings": [
+    {
+      "date": "2026-03-31",
+      "source": "The Guardian",
+      "country": "イギリス",
+      "rating": 7.9,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Mitoma was the standout performer, his dribbling caused constant problems for the England defence.",
+      "commentTranslated": "三笘は際立ったパフォーマンスを見せ、そのドリブルはイングランド守備陣に絶え間ない問題を引き起こした。",
+      "isManual": true,
+      "articleUrl": "https://www.theguardian.com/football/england-japan",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-03-21",
+      "source": "The Argus",
+      "country": "イギリス",
+      "rating": 7.2,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "A brief but effective cameo from the Japanese winger, who looked sharp after his return from injury.",
+      "commentTranslated": "短い出場時間ながら効果的なプレーを見せた日本人ウインガー。怪我からの復帰後もシャープな動きを見せた。",
+      "isManual": true,
+      "articleUrl": "https://www.theargus.co.uk/sport/brighton",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-03-04",
+      "source": "BBC Sport",
+      "country": "イギリス",
+      "rating": 7.0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Mitoma was Brighton's most dangerous attacking threat, consistently finding space on the left flank.",
+      "commentTranslated": "三笘はブライトンで最も危険な攻撃の脅威となり、左サイドで常にスペースを見つけていた。",
+      "isManual": true,
+      "articleUrl": "https://www.bbc.co.uk/sport/football/brighton",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-02-21",
+      "source": "Sky Sports",
+      "country": "イギリス",
+      "rating": 6.8,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "A solid performance from Mitoma who continues to show why he is one of the Premier League's most exciting wingers.",
+      "commentTranslated": "プレミアリーグで最もエキサイティングなウインガーの一人である理由を示し続ける三笘の堅実なパフォーマンス。",
+      "isManual": true,
+      "articleUrl": "https://www.skysports.com/football/brighton",
+      "hasArticleRating": true
+    }
+  ],
+  "xThreads": [
+    {
+      "date": "2026-03-31",
+      "id": "mitoma-x-1",
+      "username": "@PremierLeagueFan",
+      "verified": false,
+      "languageCode": "en",
+      "originalText": "Mitoma scoring against England at Wembley. What a moment for Japanese football. His dribbling is absolutely world class.",
+      "translatedText": "三笘がウェンブリーでイングランド相手にゴール。日本サッカーにとって素晴らしい瞬間だ。彼のドリブルは間違いなくワールドクラス。",
+      "likes": 2340,
+      "retweets": 567,
+      "replies": [
+        {
+          "id": "mitoma-r-1",
+          "username": "@BrightonSupporter",
+          "languageCode": "en",
+          "originalText": "So proud of our Kaoru! He's been incredible this season.",
+          "translatedText": "薫を誇りに思う！今シーズンは信じられないほど素晴らしい。",
+          "likes": 189
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/PremierLeagueFan/status/example1"
+    },
+    {
+      "date": "2026-03-21",
+      "id": "mitoma-x-2",
+      "username": "@FootballTactics_UK",
+      "verified": true,
+      "languageCode": "en",
+      "originalText": "Mitoma's ability to beat defenders 1v1 is unmatched in the Premier League. His low centre of gravity and change of pace make him almost impossible to stop.",
+      "translatedText": "三笘の1対1で守備者を抜く能力はプレミアリーグで比類がない。低い重心と緩急の変化により、彼を止めることはほぼ不可能だ。",
+      "likes": 1567,
+      "retweets": 342,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/FootballTactics_UK/status/example2"
+    },
+    {
+      "date": "2026-03-04",
+      "id": "mitoma-x-3",
+      "username": "@EPLAnalysis",
+      "verified": false,
+      "languageCode": "en",
+      "originalText": "Even against Arsenal's tight defence, Mitoma found ways to create chances. Brighton need him fit for the rest of the season.",
+      "translatedText": "アーセナルの堅い守備に対しても、三笘はチャンスを作る方法を見つけた。ブライトンはシーズン残りに彼の健康が必要だ。",
+      "likes": 891,
+      "retweets": 156,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/EPLAnalysis/status/example3"
+    }
+  ]
+}

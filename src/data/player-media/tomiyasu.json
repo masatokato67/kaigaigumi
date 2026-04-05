@@ -1,0 +1,83 @@
+{
+  "playerId": "tomiyasu",
+  "mediaRatings": [
+    {
+      "date": "2026-03-22",
+      "source": "Voetbal International",
+      "country": "オランダ",
+      "rating": 7.0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Tomiyasu showed his versatility once again, providing solid defensive work and contributing to build-up play.",
+      "commentTranslated": "冨安は再びその万能性を発揮し、堅実な守備とビルドアップへの貢献を見せた。",
+      "isManual": true,
+      "articleUrl": "https://www.vi.nl/ajax",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-03-15",
+      "source": "De Telegraaf",
+      "country": "オランダ",
+      "rating": 7.3,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "A commanding performance from the Japanese international. His reading of the game was exceptional.",
+      "commentTranslated": "日本代表選手による堂々としたパフォーマンス。ゲームの読みが抜群だった。",
+      "isManual": true,
+      "articleUrl": "https://www.telegraaf.nl/sport/ajax",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-03-01",
+      "source": "Ajax Life",
+      "country": "オランダ",
+      "rating": 6.8,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Tomiyasu continues to adapt well to the Eredivisie. His composure on the ball is a valuable asset.",
+      "commentTranslated": "冨安はエールディヴィジへの適応を続けている。ボールを持った時の落ち着きは貴重な武器だ。",
+      "isManual": true,
+      "articleUrl": "https://www.ajaxlife.nl",
+      "hasArticleRating": true
+    }
+  ],
+  "xThreads": [
+    {
+      "date": "2026-03-22",
+      "id": "tomiyasu-x-1",
+      "username": "@AjaxFanZone",
+      "verified": false,
+      "languageCode": "nl",
+      "originalText": "Tomiyasu is precies wat Ajax nodig had. Stabiel, betrouwbaar en technisch sterk. Geweldige aankoop.",
+      "translatedText": "冨安はまさにアヤックスに必要な選手だ。安定していて、信頼でき、技術的にも優れている。素晴らしい補強だ。",
+      "likes": 567,
+      "retweets": 123,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/AjaxFanZone/status/example1"
+    },
+    {
+      "date": "2026-03-15",
+      "id": "tomiyasu-x-2",
+      "username": "@EredivisieWatch",
+      "verified": true,
+      "languageCode": "en",
+      "originalText": "Tomiyasu bringing Premier League quality to the Eredivisie. His defensive positioning is elite level.",
+      "translatedText": "冨安がプレミアリーグのクオリティをエールディヴィジにもたらしている。守備のポジショニングはエリートレベルだ。",
+      "likes": 892,
+      "retweets": 201,
+      "replies": [
+        {
+          "id": "tomiyasu-r-1",
+          "username": "@DutchFootball",
+          "languageCode": "en",
+          "originalText": "He's been one of the best defenders in the league this season. Ajax got a bargain.",
+          "translatedText": "彼は今シーズンのリーグ最高の守備者の一人だ。アヤックスはお買い得だった。",
+          "likes": 56
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/EredivisieWatch/status/example2"
+    }
+  ]
+}

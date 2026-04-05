@@ -1,0 +1,83 @@
+{
+  "playerId": "suzuki_yuito",
+  "mediaRatings": [
+    {
+      "date": "2026-03-22",
+      "source": "kicker",
+      "country": "ドイツ",
+      "rating": 2.0,
+      "maxRating": 6,
+      "ratingSystem": "german",
+      "comment": "Suzuki was outstanding, contributing both goals and creative play from the attacking midfield position.",
+      "commentTranslated": "鈴木は素晴らしく、攻撃的ミッドフィールドのポジションからゴールと創造的なプレーの両方で貢献した。",
+      "isManual": true,
+      "articleUrl": "https://www.kicker.de/freiburg",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-03-08",
+      "source": "Badische Zeitung",
+      "country": "ドイツ",
+      "rating": 7.5,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Another impressive display from the Japanese talent. Suzuki is becoming a fan favourite in Freiburg.",
+      "commentTranslated": "日本人タレントのまた一つの印象的なプレー。鈴木はフライブルクでファンのお気に入りになりつつある。",
+      "isManual": true,
+      "articleUrl": "https://www.badische-zeitung.de/sport/sc-freiburg",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-02-22",
+      "source": "Bild",
+      "country": "ドイツ",
+      "rating": 2.5,
+      "maxRating": 6,
+      "ratingSystem": "german",
+      "comment": "Suzuki's energy and technical quality make him one of Freiburg's most important players this season.",
+      "commentTranslated": "鈴木のエネルギーとテクニカルなクオリティにより、今シーズンのフライブルクで最も重要な選手の一人となっている。",
+      "isManual": true,
+      "articleUrl": "https://www.bild.de/sport/fussball/freiburg",
+      "hasArticleRating": true
+    }
+  ],
+  "xThreads": [
+    {
+      "date": "2026-03-22",
+      "id": "suzuki-x-1",
+      "username": "@SCFreiburgFans",
+      "verified": false,
+      "languageCode": "de",
+      "originalText": "Suzuki ist eine Bereicherung für den SC Freiburg. Seine Technik und sein Einsatz sind beeindruckend.",
+      "translatedText": "鈴木はSCフライブルクにとって貴重な戦力だ。彼のテクニックと献身性は印象的だ。",
+      "likes": 678,
+      "retweets": 145,
+      "replies": [
+        {
+          "id": "suzuki-r-1",
+          "username": "@FreiburgUltras",
+          "languageCode": "de",
+          "originalText": "Er gibt immer 100%. Genau das, was wir brauchen.",
+          "translatedText": "彼は常に100%を出す。まさに我々に必要なものだ。",
+          "likes": 45
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/SCFreiburgFans/status/example1"
+    },
+    {
+      "date": "2026-03-08",
+      "id": "suzuki-x-2",
+      "username": "@BundesligaScout",
+      "verified": true,
+      "languageCode": "en",
+      "originalText": "Yuito Suzuki has been a revelation at Freiburg this season. His combination of pace, technique, and work ethic is rare.",
+      "translatedText": "鈴木唯人は今シーズン、フライブルクで衝撃的な活躍を見せている。スピード、テクニック、勤勉さの組み合わせは稀有だ。",
+      "likes": 1456,
+      "retweets": 312,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/BundesligaScout/status/example2"
+    }
+  ]
+}
