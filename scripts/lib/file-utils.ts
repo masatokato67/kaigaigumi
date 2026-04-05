@@ -1,6 +1,6 @@
 import { readFileSync, writeFileSync } from "fs";
 import { join } from "path";
-import type { Player, Match, MatchMediaData, HighlightVideo } from "../../src/lib/types";
+import type { Player, Match, MatchMediaData, HighlightVideo, PlayerMediaData } from "../../src/lib/types";
 
 const DATA_DIR = join(process.cwd(), "src", "data");
 
@@ -46,6 +46,30 @@ export function readHighlightVideos(): Record<string, HighlightVideo> {
 export function writeHighlightVideos(videos: Record<string, HighlightVideo>): void {
   const filePath = join(DATA_DIR, "highlight-videos.json");
   writeFileSync(filePath, JSON.stringify(videos, null, 2) + "\n", "utf-8");
+}
+
+const PLAYER_MEDIA_DIR = join(DATA_DIR, "player-media");
+
+export function readPlayerMedia(playerId: string): PlayerMediaData {
+  const filePath = join(PLAYER_MEDIA_DIR, `${playerId}.json`);
+  try {
+    const content = readFileSync(filePath, "utf-8");
+    return JSON.parse(content) as PlayerMediaData;
+  } catch {
+    // ファイルが存在しない場合は空データを返す
+    return {
+      playerId,
+      mediaRatings: [],
+      xThreads: [],
+    };
+  }
+}
+
+export function writePlayerMedia(data: PlayerMediaData): void {
+  const { mkdirSync } = require("fs");
+  mkdirSync(PLAYER_MEDIA_DIR, { recursive: true });
+  const filePath = join(PLAYER_MEDIA_DIR, `${data.playerId}.json`);
+  writeFileSync(filePath, JSON.stringify(data, null, 2) + "\n", "utf-8");
 }
 
 export function generateMatchId(playerId: string, date: string): string {

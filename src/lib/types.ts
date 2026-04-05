@@ -156,6 +156,20 @@ export interface XThread {
   postUrl?: string;
 }
 
+export interface PlayerMediaRating extends MediaRating {
+  date: string;
+}
+
+export interface PlayerXThread extends XThread {
+  date: string;
+}
+
+export interface PlayerMediaData {
+  playerId: string;
+  mediaRatings: PlayerMediaRating[];
+  xThreads: PlayerXThread[];
+}
+
 export type LeagueFilter = "all" | "プレミアリーグ" | "ラ・リーガ" | "ブンデスリーガ" | "エールディヴィジ";
 export type PositionFilter = "all" | "FW" | "MF" | "DF" | "GK";
 export type SortField = "name" | "rating" | "goals" | "marketValue";

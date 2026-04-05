@@ -4,7 +4,9 @@ import StatBox from "@/components/ui/StatBox";
 import PlayerProfile from "@/components/players/PlayerProfile";
 import RatingChart from "@/components/players/RatingChart";
 import PlayerMatchList from "@/components/players/PlayerMatchList";
-import { getPlayerById, getMatchesByPlayerId, getAllPlayers } from "@/lib/data";
+import { getPlayerById, getMatchesByPlayerId, getAllPlayers, getPlayerMediaData } from "@/lib/data";
+import PlayerMediaRatings from "@/components/players/PlayerMediaRatings";
+import PlayerXThreads from "@/components/players/PlayerXThreads";
 import ImobileAd from "@/components/ads/ImobileAd";
 
 export function generateStaticParams() {
@@ -51,6 +53,7 @@ export default async function PlayerDetailPage({
   if (!player) notFound();
 
   const matches = getMatchesByPlayerId(id);
+  const playerMedia = getPlayerMediaData(id);
   const ratingData = matches
     .slice(0, 10) // 最新10試合のみ
     .sort((a, b) => a.date.localeCompare(b.date))
@@ -75,6 +78,20 @@ export default async function PlayerDetailPage({
       <div className="mb-8">
         <RatingChart data={ratingData} />
       </div>
+
+      <ImobileAd className="mb-8" />
+
+      {playerMedia && playerMedia.mediaRatings.length > 0 && (
+        <div className="mb-8">
+          <PlayerMediaRatings ratings={playerMedia.mediaRatings} playerId={id} />
+        </div>
+      )}
+
+      {playerMedia && playerMedia.xThreads.length > 0 && (
+        <div className="mb-8">
+          <PlayerXThreads threads={playerMedia.xThreads} playerId={id} />
+        </div>
+      )}
 
       <ImobileAd className="mb-8" />
 

@@ -12,6 +12,7 @@
     "add-thread": "tsx scripts/add-x-thread.ts",
     "add-rating": "tsx scripts/add-media-rating.ts",
     "process-match": "tsx scripts/process-match-input.ts",
+    "process-player-media": "tsx scripts/process-player-media.ts",
     "update-stats": "tsx scripts/update-stats.ts",
     "fetch-matches": "tsx scripts/fetch-matches-sofascore.ts",
     "fetch-matches-fotmob": "tsx scripts/fetch-matches.ts",

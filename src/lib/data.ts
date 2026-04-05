@@ -2,7 +2,7 @@ import playersData from "@/data/players.json";
 import matchesData from "@/data/matches.json";
 import mediaRatingsData from "@/data/media-ratings.json";
 import highlightVideosData from "@/data/highlight-videos.json";
-import type { Player, Match, MatchMediaData, PlayerFilters, HighlightVideo } from "./types";
+import type { Player, Match, MatchMediaData, PlayerFilters, HighlightVideo, PlayerMediaData } from "./types";
 
 const players = playersData as Player[];
 const matches = matchesData as Match[];
@@ -139,6 +139,30 @@ export function getMatchesBySeason(season: string): Match[] {
   return matches
     .filter((m) => m.date >= from && m.date <= to)
     .sort((a, b) => b.date.localeCompare(a.date));
+}
+
+// Player media data (選手別メディア評価・Xの反応)
+/* eslint-disable @typescript-eslint/no-require-imports */
+const playerMediaFiles: Record<string, PlayerMediaData> = {};
+try { playerMediaFiles["mitoma"] = require("@/data/player-media/mitoma.json"); } catch { /* */ }
+try { playerMediaFiles["kubo"] = require("@/data/player-media/kubo.json"); } catch { /* */ }
+try { playerMediaFiles["tomiyasu"] = require("@/data/player-media/tomiyasu.json"); } catch { /* */ }
+try { playerMediaFiles["kamada"] = require("@/data/player-media/kamada.json"); } catch { /* */ }
+try { playerMediaFiles["endo"] = require("@/data/player-media/endo.json"); } catch { /* */ }
+try { playerMediaFiles["shiogai"] = require("@/data/player-media/shiogai.json"); } catch { /* */ }
+try { playerMediaFiles["sano_kodai"] = require("@/data/player-media/sano_kodai.json"); } catch { /* */ }
+try { playerMediaFiles["sano_kaishu"] = require("@/data/player-media/sano_kaishu.json"); } catch { /* */ }
+try { playerMediaFiles["suzuki_yuito"] = require("@/data/player-media/suzuki_yuito.json"); } catch { /* */ }
+/* eslint-enable @typescript-eslint/no-require-imports */
+
+export function getPlayerMediaData(playerId: string): PlayerMediaData | null {
+  const data = playerMediaFiles[playerId];
+  if (!data) return null;
+  return {
+    ...data,
+    mediaRatings: [...data.mediaRatings].sort((a, b) => b.date.localeCompare(a.date)),
+    xThreads: [...data.xThreads].sort((a, b) => b.date.localeCompare(a.date)),
+  };
 }
 
 export function getTopRatedMatches(limit: number = 10): Match[] {
