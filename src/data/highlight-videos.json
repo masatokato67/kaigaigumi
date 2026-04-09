@@ -1,10 +1,30 @@
 {
+  "kamada-20260409": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260409": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260409": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "sano_kaishu-20260404": {
     "enabled": true,
     "youtubeId": "zvGlkMqjVHM",
     "title": ""
   },
   "suzuki_yuito-20260404": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260404": {
     "enabled": false,
     "youtubeId": "",
     "title": ""

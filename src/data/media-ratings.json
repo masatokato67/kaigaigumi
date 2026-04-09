@@ -1199,6 +1199,215 @@
     "lastUpdated": "2026-03-06T15:46:24.906Z"
   },
   {
+    "matchId": "suzuki_yuito-20260409",
+    "playerId": "suzuki_yuito",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.8,
+    "localVoices": [
+      {
+        "id": "v_suzuki_yuito-20260409_1",
+        "username": "@フライブルク_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki showing why he's so valuable to the team.",
+        "translatedText": "鈴木唯人がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_suzuki_yuito-20260409_2",
+        "username": "@フライブルク_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki showing why he's so valuable to the team.",
+        "translatedText": "鈴木唯人は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_suzuki_yuito-20260409_3",
+        "username": "@フライブルク_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki showing why he's so valuable to the team.",
+        "translatedText": "鈴木唯人のパフォーマンスに満足。しっかり仕事をした。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_suzuki_yuito-20260409_1",
+        "username": "@ヨーロッパリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "フライブルク 3-0 Celta Vigo. Yuito Suzuki played 74 minutes.",
+        "translatedText": "フライブルク 3-0 Celta Vigo。鈴木唯人は74分間プレー。",
+        "likes": 1293,
+        "retweets": 272,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260409_1_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 230
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_1_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 290
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_1_3",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 467
+          }
+        ]
+      },
+      {
+        "id": "t_suzuki_yuito-20260409_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鈴木唯人】ヨーロッパリーグ第20節、フライブルク vs Celta Vigoで74分出場。評価6.8を獲得。",
+        "translatedText": "",
+        "likes": 3982,
+        "retweets": 388,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260409_2_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 30
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_2_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 179
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_2_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 379
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_2_4",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 373
+          }
+        ]
+      },
+      {
+        "id": "t_suzuki_yuito-20260409_3",
+        "username": "@フライブルクFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki did well today. Good to see him contributing.",
+        "translatedText": "鈴木唯人の運動量に満足。チームにとって重要な選手だ。",
+        "likes": 659,
+        "retweets": 84,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260409_3_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 497
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_3_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 211
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_3_3",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 425
+          }
+        ]
+      },
+      {
+        "id": "t_suzuki_yuito-20260409_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Yuito Suzuki maintaining consistency. Professional performance.",
+        "translatedText": "鈴木唯人、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 713,
+        "retweets": 174,
+        "replies": [
+          {
+            "id": "r_suzuki_yuito-20260409_4_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 133
+          },
+          {
+            "id": "r_suzuki_yuito-20260409_4_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "suzuki_yuito-20260404",
     "playerId": "suzuki_yuito",
     "ratings": [
@@ -8978,6 +9187,215 @@
     "lastUpdated": "2026-03-06T15:21:31.325Z"
   },
   {
+    "matchId": "sano_kodai-20260404",
+    "playerId": "sano_kodai",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.9,
+    "localVoices": [
+      {
+        "id": "v_sano_kodai-20260404_1",
+        "username": "@NEC_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野航大のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kodai-20260404_2",
+        "username": "@NEC_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野航大は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_sano_kodai-20260404_3",
+        "username": "@NEC_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano had a solid game. Good contribution overall.",
+        "translatedText": "佐野航大は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kodai-20260404_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Excelsior 0-2 NEC. Kodai Sano played 90 minutes.",
+        "translatedText": "Excelsior 0-2 NEC。佐野航大は90分間プレー。",
+        "likes": 1634,
+        "retweets": 194,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260404_1_1",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 123
+          },
+          {
+            "id": "r_sano_kodai-20260404_1_2",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 366
+          },
+          {
+            "id": "r_sano_kodai-20260404_1_3",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 27
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260404_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野航大】エールディヴィジ第6節、Excelsior vs NECで90分出場。評価6.9を獲得。",
+        "translatedText": "",
+        "likes": 2747,
+        "retweets": 246,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260404_2_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 82
+          },
+          {
+            "id": "r_sano_kodai-20260404_2_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 85
+          },
+          {
+            "id": "r_sano_kodai-20260404_2_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 278
+          },
+          {
+            "id": "r_sano_kodai-20260404_2_4",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 318
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260404_3",
+        "username": "@NECFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Happy with Kodai Sano's work rate. Important player for us.",
+        "translatedText": "佐野航大の運動量に満足。チームにとって重要な選手だ。",
+        "likes": 607,
+        "retweets": 68,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260404_3_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 501
+          },
+          {
+            "id": "r_sano_kodai-20260404_3_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 318
+          },
+          {
+            "id": "r_sano_kodai-20260404_3_3",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 392
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260404_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano showed good decision-making today. Solid overall contribution.",
+        "translatedText": "佐野航大のポジティブなスタッツ：90分、役割を効率的にこなした。",
+        "likes": 580,
+        "retweets": 166,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260404_4_1",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 153
+          },
+          {
+            "id": "r_sano_kodai-20260404_4_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 422
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "sano_kodai-20260328",
     "playerId": "sano_kodai",
     "ratings": [
@@ -12947,6 +13365,407 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.326Z"
+  },
+  {
+    "matchId": "sano_kaishu-20260409",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      {
+        "source": "Süddeutsche Zeitung",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano war ein entscheidender Spieler für Mainz 05, da er das Führungstor zum 1:0 in ihrem 2:0-Sieg gegen Racing Straßburg im Viertelfinal-Hinspiel der Conference League erzielte. Der „auffällige Japaner“ traf in der elften Minute mit einem schönen Distanzschuss und brachte die Mainzer in Führung.",
+        "commentTranslated": "佐野海舟はマインツ05にとって決定的な選手であり、カンファレンスリーグ準々決勝第1戦のラシン・ストラスブール戦での2-0の勝利で先制点を挙げた。「目立った日本人選手」は11分に美しいミドルシュートで得点し、マインツをリードに導いた。",
+        "isManual": true,
+        "articleUrl": "https://www.sueddeutsche.de/sport/europapokal-viertelfinale-hinspiele-freiburg-mainz-li.3465691",
+        "hasArticleRating": false
+      },
+      {
+        "source": "SWR Sport",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano erzielte in der elften Minute den Führungstreffer für Mainz 05, ein \"absolutes Traumtor\". Er eroberte den Ball an der Mittellinie, spielte einen Doppelpass und traf aus knapp 20 Metern. Bereits in der 4. Minute wurde ein Abschluss von ihm geblockt. Im zweiten Durchgang bereitete Sano eine Chance für Tietz vor und war in der 88. Minute erneut aktiv, als er Sieb bediente.",
+        "commentTranslated": "カイス・サノは11分にマインツ05の先制点を挙げ、「まさに夢のようなゴール」だった。彼はミッドラインでボールを奪い、ワンツーパスの後、約20メートルからシュートを決めた。4分には彼のシュートがブロックされていた。後半にはサノはティーツのためにチャンスを作り、88分には再び活躍し、ジーブにパスを送った。",
+        "isManual": true,
+        "articleUrl": "https://www.swr.de/sport/fussball/mainz-05-racing-strassburg-conference-league-viertelfinale-hinspiel-100.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "t-online",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano erzielte in der 11. Minute ein entscheidendes Traumtor zum 1:0 für Mainz 05 im Viertelfinal-Hinspiel gegen Racing Straßburg. Er initiierte seinen Treffer durch eine Balleroberung selbst. Nach einem Doppelpass mit seinem Landsmann Sota Kawasaki traf Sano aus rund 20 Metern über den rechten Innenpfosten traumhaft ins Tor. Er wurde auch beim Jubel des Treffers erwähnt.",
+        "commentTranslated": "佐野海舟は、カンファレンスリーグ準々決勝ファーストレグのラシン・ストラスブール戦で、マインツ05の先制点となる1-0の重要なゴラッソを11分に決めた。彼はボール奪取から自ら得点機会を作り出した。同郷の川崎颯太とのワンツーパスの後、佐野は約20メートルから右ポストの内側をかすめて、夢のようなゴールを決めた。彼はゴールセレブレーションでも言及された。",
+        "isManual": true,
+        "articleUrl": "https://www.t-online.de/sport/fussball/conference-league/id_101206134/conference-league-mainz-05-gegen-strassburg-nach-2-0-in-guter-situation.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "OneFootball",
+        "country": "ドイツ",
+        "rating": 9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano, als \"Mittelfeld-Eisenmann\" bezeichnet, erzielte nach einem Doppelpass und einem Sololauf ein Traumtor zum 1:0. Er wurde mit einer Bewertung von 9 zum GGFN Bundesliga Spieler des Spiels gekürt. Normalerweise ein defensiver Mittelfeldspieler, agierte er offensiver und übertraf die Erwartungen mit zwei Torschüssen und drei Vorlagen. Trotz nur zweier Tore für Mainz wird erwartet, dass der 25-jährige japanische Nationalspieler im Sommer einen großen Wechsel ins Ausland vollziehen wird.",
+        "commentTranslated": "「ミッドフィールドの鉄人」と称される佐野海舟は、ワンツーパスとソロランから夢のような先制ゴールを決めた。彼は採点9でGGFNブンデスリーガ・プレイヤー・オブ・ザ・マッチに選ばれた。通常は守備的ミッドフィールダーだが、この試合ではより攻撃的にプレーし、2本のシュートと3本のシュートアシストで期待を上回る活躍を見せた。マインツでの得点はわずか2点にもかかわらず、25歳の日本人代表選手は今夏、海外へ高額移籍すると予想されている。",
+        "isManual": true,
+        "articleUrl": "https://onefootball.com/de/news/conference-league-player-ratings-mainz-2-0-racing-strasbourg-a-third-bundesliga-club-takes-a-massive-stride-towards-a-european-semi-final-42686844",
+        "hasArticleRating": true
+      }
+    ],
+    "averageRating": 8.7,
+    "localVoices": [
+      {
+        "id": "v_sano_kaishu-20260409_1",
+        "username": "@マインツ_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "What a performance from Kaishu Sano! Class act from start to finish.",
+        "translatedText": "佐野海舟は今日本当に素晴らしかった！ピッチで最高の選手だった。"
+      },
+      {
+        "id": "v_sano_kaishu-20260409_2",
+        "username": "@マインツ_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "What a performance from Kaishu Sano! Class act from start to finish.",
+        "translatedText": "佐野海舟が試合を支配した。ワールドクラスのプレー！"
+      },
+      {
+        "id": "v_sano_kaishu-20260409_3",
+        "username": "@マインツ_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano dominated the game. World class display!",
+        "translatedText": "佐野海舟のパフォーマンスは最高だった！最初から最後までクラスの違いを見せた。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "id-1775774669109-li2a6vjby",
+        "username": "@SuperDoik",
+        "verified": false,
+        "languageCode": "DE",
+        "originalText": "Kaishu Sano ist halt unironisch der beste Fußballer, der jemals im Baumarkt gespielt hat. Es ist unfassbar, wie gut man sein kann.\n\nIch kann niemanden ernst nehmen, der Ablöseforderungen von mindestens 50 Millionen Euro ins lächerliche zieht.\n#Mainz05 #M05RCSA",
+        "translatedText": "佐野海舟は、ホームセンターでプレーした選手の中で、皮肉抜きで史上最高のサッカー選手だ。信じられないほど上手い。最低5000万ユーロの移籍金要求を嘲笑する人を、私は真剣に受け止めることはできない。#Mainz05 #M05RCSA",
+        "likes": 489,
+        "retweets": 11,
+        "replies": [
+          {
+            "id": "id-1775774669109-dvq3k0v5c",
+            "username": "@Mainz05Fan_jp",
+            "languageCode": "JA",
+            "originalText": "本当にそれ！彼のプレイを見ると、いつも驚かされる。50Mユーロは決して高くないと思う！",
+            "translatedText": "本当にそれ！彼のプレイを見ると、いつも驚かされる。50Mユーロは決して高くないと思う！",
+            "likes": 280
+          },
+          {
+            "id": "id-1775774669109-7wjuosphe",
+            "username": "@FootballAnalystX",
+            "languageCode": "EN",
+            "originalText": "He's definitely been immense for Mainz, but 50M is a huge jump for a midfielder from the Bundesliga mid-table. Potential is there, but consistency at the very top level would solidify that valuation.",
+            "translatedText": "彼は間違いなくマインツで絶大な活躍をしているが、ブンデスリーガ中位のMFにとっては5000万ユーロはかなりの高額だ。ポテンシャルはあるが、トップレベルでの安定したパフォーマンスがその評価を確固たるものにするだろう。",
+            "likes": 190
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/SuperDoik/status/2042331033194922175"
+      },
+      {
+        "id": "id-1775774678622-zrepyyc9m",
+        "username": "@beyond90ftbl",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🇯🇵Kaishu Sano (25) just gave Europe’s most exciting young midfield a footballing lesson\n\nOver a week after starring against England in a 1-0 win, Sano has bossed the midfield for Mainz against Strasbourg\n\nQuick feet, ability to anticipate danger, an unbelievable engine and strong tackler - rest assured he will cover every blade of grass on that football pitch\n\n10 recoveries\n3 tackles\n1 goal\n5/7 ground duels won\n2/3 dribbles\n5 passes into the final third\n\nAn unbelievable performance, but for him it’s just another game. Watch out for what he does at the World Cup, just another reason why Japan can go far\n\nthe big clubs will no doubt be hovering.",
+        "translatedText": "🇯🇵佐野海舟 (25) が、まさにヨーロッパで最もエキサイティングな若手ミッドフィールダーたちにサッカーの教訓を与えた。イングランド相手に1-0で勝利した試合で活躍してから1週間以上が経った今、佐野はマインツのミッドフィールダーとしてストラスブール戦でも中盤を支配した。素早い足元、危険を予測する能力、信じられないほどの運動量と強力なタックル - ピッチ上のあらゆる芝生をカバーするのは間違いない。\n\nボール奪取 10回\nタックル 3回\nゴール 1点\n地上戦デュエル勝利 5/7\nドリブル 2/3\nファイナルサードへのパス 5本\n\n信じられないパフォーマンスだが、彼にとってはただのいつもの試合。ワールドカップで彼が何をするか注目してほしい、日本がどこまで行けるかを示すもう一つの理由だ。ビッグクラブが間違いなく注目しているだろう。",
+        "likes": 91,
+        "retweets": 8,
+        "replies": [
+          {
+            "id": "id-1775774678622-vqkicvk9i",
+            "username": "@J_LeagueFan_EN",
+            "languageCode": "EN",
+            "originalText": "Sano is absolutely incredible! Saw him at Machida Zelvia and knew he was destined for big things. World Cup will be his stage!",
+            "translatedText": "佐野は本当に信じられないほど素晴らしい！町田ゼルビア時代から見ていて、彼が大物になると分かっていました。ワールドカップが彼の舞台になるでしょう！",
+            "likes": 215
+          },
+          {
+            "id": "id-1775774678622-mv2kusb5m",
+            "username": "@SakuraSoccerJP",
+            "languageCode": "JA",
+            "originalText": "マインツでの活躍は本当に誇らしい！怪我なくW杯に向けてこの調子を維持してほしい。日本代表の心臓になれる選手だ。",
+            "translatedText": "マインツでの活躍は本当に誇らしい！怪我なくW杯に向けてこの調子を維持してほしい。日本代表の心臓になれる選手だ。",
+            "likes": 380
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/beyond90ftbl/status/2042349807226757363"
+      },
+      {
+        "id": "id-1775774688313-yiv32kpct",
+        "username": "@BluesBallersHQ",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "My Enzo Replacement -Kaishu Sano\n\nMainz fans said he’s world class, Japanese fans said he’s a core player in the midfield.",
+        "translatedText": "私のエンソ・フェルナンデス後任候補 -佐野海舟 マインツのファンは彼をワールドクラスだと言い、日本のファンは彼を中盤の核選手だと言っている。",
+        "likes": 1030,
+        "retweets": 61,
+        "replies": [
+          {
+            "id": "id-1775774688313-dhh88ta3k",
+            "username": "@MainzFanaticEN",
+            "languageCode": "EN",
+            "originalText": "Sano is definitely a talent, incredible work rate and breaks up play so well. He'd fit a high-intensity team perfectly!",
+            "translatedText": "佐野は間違いなく才能ある選手だよ、信じられないほどの運動量で、よく攻撃を阻止する。ハイインテンシティのチームに完璧にフィットするだろうね！",
+            "likes": 312
+          },
+          {
+            "id": "id-1775774688313-peughar9u",
+            "username": "@Football_AnalystJP",
+            "languageCode": "JA",
+            "originalText": "エンソの後任は少し大袈裟かも。彼は良い選手だけど、プレミアで即フィットするかはまだ未知数だよ。",
+            "translatedText": "エンソの後任は少し大袈裟かも。彼は良い選手だけど、プレミアで即フィットするかはまだ未知数だよ。",
+            "likes": 185
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/BluesBallersHQ/status/2042010143475499344"
+      },
+      {
+        "id": "t_sano_kaishu-20260409_1",
+        "username": "@カンファレンスリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "マインツ 2-0 RC Strasbourg. Kaishu Sano played 90 minutes.",
+        "translatedText": "マインツ 2-0 RC Strasbourg。佐野海舟は90分間プレー。",
+        "likes": 510,
+        "retweets": 159,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260409_1_1",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Incredible performance. Keep it up! 💪",
+            "translatedText": "信じられないパフォーマンス。この調子で！💪",
+            "likes": 101
+          },
+          {
+            "id": "r_sano_kaishu-20260409_1_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "One good game doesn't make him elite",
+            "translatedText": "1試合良くても、それでエリートとは言えない",
+            "likes": 66
+          },
+          {
+            "id": "r_sano_kaishu-20260409_1_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Decent but overhyped imo",
+            "translatedText": "まあまあだけど、過大評価されすぎでは",
+            "likes": 477
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260409_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野海舟】カンファレンスリーグ第7節、マインツ vs RC Strasbourgで90分出場。評価8.7を獲得。",
+        "translatedText": "",
+        "likes": 1721,
+        "retweets": 343,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260409_2_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "One good game doesn't make him elite",
+            "translatedText": "1試合良くても、それでエリートとは言えない",
+            "likes": 317
+          },
+          {
+            "id": "r_sano_kaishu-20260409_2_2",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Best player on the pitch, no doubt!",
+            "translatedText": "ピッチで一番の選手だった！",
+            "likes": 273
+          },
+          {
+            "id": "r_sano_kaishu-20260409_2_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Incredible performance. Keep it up! 💪",
+            "translatedText": "信じられないパフォーマンス。この調子で！💪",
+            "likes": 363
+          },
+          {
+            "id": "r_sano_kaishu-20260409_2_4",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Still needs to improve decision making",
+            "translatedText": "まだ判断力の改善が必要だと思う",
+            "likes": 371
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260409_3",
+        "username": "@マインツFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Incredible display from Kaishu Sano! This is why we love him!",
+        "translatedText": "佐野海舟がまたしても価値を証明。本当に素晴らしい！",
+        "likes": 752,
+        "retweets": 69,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260409_3_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Good game but let's see consistency first",
+            "translatedText": "良い試合だけど、継続性を見せてほしい",
+            "likes": 228
+          },
+          {
+            "id": "r_sano_kaishu-20260409_3_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Incredible performance. Keep it up! 💪",
+            "translatedText": "信じられないパフォーマンス。この調子で！💪",
+            "likes": 170
+          },
+          {
+            "id": "r_sano_kaishu-20260409_3_3",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 334
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260409_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Key stats for Kaishu Sano: 90min played, excellent positioning throughout.",
+        "translatedText": "佐野海舟の主要スタッツ：90分出場、試合を通じて優れたポジショニング。",
+        "likes": 1793,
+        "retweets": 32,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260409_4_1",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 372
+          },
+          {
+            "id": "r_sano_kaishu-20260409_4_2",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "What a display! Europe's elite should take notice.",
+            "translatedText": "さすが！欧州のビッグクラブも見てるはず。",
+            "likes": 258
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260409_5",
+        "username": "@SoccerKingJP",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "佐野海舟が⚽ 1ゴールの活躍！マインツ 2-0 RC Strasbourg 🇯🇵",
+        "translatedText": "",
+        "likes": 6938,
+        "retweets": 1437,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260409_5_1",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Incredible performance. Keep it up! 💪",
+            "translatedText": "信じられないパフォーマンス。この調子で！💪",
+            "likes": 26
+          },
+          {
+            "id": "r_sano_kaishu-20260409_5_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Good performance but the team carried him sometimes",
+            "translatedText": "良いパフォーマンスだけど、チームに助けられた場面も",
+            "likes": 351
+          },
+          {
+            "id": "r_sano_kaishu-20260409_5_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Decent but overhyped imo",
+            "translatedText": "まあまあだけど、過大評価されすぎでは",
+            "likes": 412
+          },
+          {
+            "id": "r_sano_kaishu-20260409_5_4",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 76
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260409_6",
+        "username": "@WorldSoccerJP",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "🌟 佐野海舟が圧巻のパフォーマンス！評価8.7でチームを牽引。カンファレンスリーグで存在感を示す。",
+        "translatedText": "",
+        "likes": 5991,
+        "retweets": 862,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260409_6_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Good performance but the team carried him sometimes",
+            "translatedText": "良いパフォーマンスだけど、チームに助けられた場面も",
+            "likes": 188
+          },
+          {
+            "id": "r_sano_kaishu-20260409_6_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "What a display! Europe's elite should take notice.",
+            "translatedText": "さすが！欧州のビッグクラブも見てるはず。",
+            "likes": 427
+          },
+          {
+            "id": "r_sano_kaishu-20260409_6_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Still needs to improve decision making",
+            "translatedText": "まだ判断力の改善が必要だと思う",
+            "likes": 44
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-04-09T22:44:48.314Z"
   },
   {
     "matchId": "sano_kaishu-20260404",
@@ -24992,6 +25811,251 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.327Z"
+  },
+  {
+    "matchId": "kamada-20260409",
+    "playerId": "kamada",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 7.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Outstanding performance. Dominated the game and was a constant threat.",
+        "commentTranslated": "傑出したパフォーマンス。試合を支配し、常に脅威となった。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 7.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Man of the match caliber display. Exceptional in every aspect.",
+        "commentTranslated": "マン・オブ・ザ・マッチ級の活躍。あらゆる面で卓越していた。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 7.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Brilliant showing. One of the best performances of the season.",
+        "commentTranslated": "素晴らしいプレー。今シーズン最高のパフォーマンスの一つ。"
+      }
+    ],
+    "averageRating": 7.7,
+    "localVoices": [
+      {
+        "id": "v_kamada-20260409_1",
+        "username": "@クリスタルパレス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "What a performance from Daichi Kamada! Class act from start to finish.",
+        "translatedText": "鎌田大地は今日本当に素晴らしかった！ピッチで最高の選手だった。"
+      },
+      {
+        "id": "v_kamada-20260409_2",
+        "username": "@クリスタルパレス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada was absolutely brilliant today! Best player on the pitch.",
+        "translatedText": "鎌田大地が試合を支配した。ワールドクラスのプレー！"
+      },
+      {
+        "id": "v_kamada-20260409_3",
+        "username": "@クリスタルパレス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "What a performance from Daichi Kamada! Class act from start to finish.",
+        "translatedText": "鎌田大地のパフォーマンスは最高だった！最初から最後までクラスの違いを見せた。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_kamada-20260409_1",
+        "username": "@カンファレンスリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "クリスタルパレス 3-0 Fiorentina. Daichi Kamada played 89 minutes.",
+        "translatedText": "クリスタルパレス 3-0 Fiorentina。鎌田大地は89分間プレー。",
+        "likes": 2155,
+        "retweets": 246,
+        "replies": [
+          {
+            "id": "r_kamada-20260409_1_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Good performance but the team carried him sometimes",
+            "translatedText": "良いパフォーマンスだけど、チームに助けられた場面も",
+            "likes": 214
+          },
+          {
+            "id": "r_kamada-20260409_1_2",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "One good game doesn't make him elite",
+            "translatedText": "1試合良くても、それでエリートとは言えない",
+            "likes": 362
+          },
+          {
+            "id": "r_kamada-20260409_1_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "What a display! Europe's elite should take notice.",
+            "translatedText": "さすが！欧州のビッグクラブも見てるはず。",
+            "likes": 462
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260409_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鎌田大地】カンファレンスリーグ第29節、クリスタルパレス vs Fiorentinaで89分出場。評価7.7を獲得。",
+        "translatedText": "",
+        "likes": 2320,
+        "retweets": 178,
+        "replies": [
+          {
+            "id": "r_kamada-20260409_2_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "One good game doesn't make him elite",
+            "translatedText": "1試合良くても、それでエリートとは言えない",
+            "likes": 96
+          },
+          {
+            "id": "r_kamada-20260409_2_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Good game but let's see consistency first",
+            "translatedText": "良い試合だけど、継続性を見せてほしい",
+            "likes": 482
+          },
+          {
+            "id": "r_kamada-20260409_2_3",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Decent but overhyped imo",
+            "translatedText": "まあまあだけど、過大評価されすぎでは",
+            "likes": 155
+          },
+          {
+            "id": "r_kamada-20260409_2_4",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Still needs to improve decision making",
+            "translatedText": "まだ判断力の改善が必要だと思う",
+            "likes": 39
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260409_3",
+        "username": "@クリスタルパレスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada is on fire! 🔥 What a player we have!",
+        "translatedText": "鎌田大地が絶好調！🔥 素晴らしい選手だ！",
+        "likes": 839,
+        "retweets": 111,
+        "replies": [
+          {
+            "id": "r_kamada-20260409_3_1",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Good performance but the team carried him sometimes",
+            "translatedText": "良いパフォーマンスだけど、チームに助けられた場面も",
+            "likes": 129
+          },
+          {
+            "id": "r_kamada-20260409_3_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Absolutely world class today! 🔥",
+            "translatedText": "今日は本当に素晴らしかった！🔥",
+            "likes": 296
+          },
+          {
+            "id": "r_kamada-20260409_3_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 469
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260409_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada dominated his zone. Top-class technical ability on show.",
+        "translatedText": "鎌田大地がゾーンを支配。トップクラスの技術力を披露。",
+        "likes": 1529,
+        "retweets": 188,
+        "replies": [
+          {
+            "id": "r_kamada-20260409_4_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "This is why top clubs are watching him 👀",
+            "translatedText": "トップクラブが注目するのも納得 👀",
+            "likes": 116
+          },
+          {
+            "id": "r_kamada-20260409_4_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Good game but let's see consistency first",
+            "translatedText": "良い試合だけど、継続性を見せてほしい",
+            "likes": 434
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260409_6",
+        "username": "@WorldSoccerJP",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "🌟 鎌田大地が圧巻のパフォーマンス！評価7.7でチームを牽引。カンファレンスリーグで存在感を示す。",
+        "translatedText": "",
+        "likes": 4544,
+        "retweets": 1117,
+        "replies": [
+          {
+            "id": "r_kamada-20260409_6_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "One good game doesn't make him elite",
+            "translatedText": "1試合良くても、それでエリートとは言えない",
+            "likes": 249
+          },
+          {
+            "id": "r_kamada-20260409_6_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Absolutely world class today! 🔥",
+            "translatedText": "今日は本当に素晴らしかった！🔥",
+            "likes": 402
+          },
+          {
+            "id": "r_kamada-20260409_6_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Best player on the pitch, no doubt!",
+            "translatedText": "ピッチで一番の選手だった！",
+            "likes": 152
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "kamada-20260331",
