@@ -25827,6 +25827,30 @@
         "isManual": true,
         "articleUrl": "https://football-italia.net/conference-crystal-palace-fiorentina-ratings/",
         "hasArticleRating": false
+      },
+      {
+        "source": "Goal.com",
+        "country": "イングランド",
+        "rating": 8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada received an 8/10 rating for his intelligent play in the half-spaces. He effectively balanced defensive duties with attacking flair, notably providing a pinpoint assist for Sarr's late goal in the 91st minute. His tactical flexibility was highlighted, enabling Crystal Palace to seamlessly switch between a 5-4-1 out of possession and a 3-4-3 formation.",
+        "commentTranslated": "鎌田大地はハーフスペースでのインテリジェントなプレーで8/10の評価を受けた。彼は守備の責任と攻撃的なセンスを効果的に両立させ、特に91分にサールへの正確なアシストで遅いゴールを演出した。彼の戦術的な柔軟性も強調され、クリスタル・パレスがボール非保持時には5-4-1から、保持時には3-4-3へと瞬時に切り替えることを可能にした。",
+        "isManual": true,
+        "articleUrl": "https://www.goal.com/en/news/crystal-palace-player-ratings-vs-fiorentina-jean-philippe-mateta-stars-as-ruthless-eagles-dismantle-the-viola/blt0ada4d518a2f3498",
+        "hasArticleRating": true
+      },
+      {
+        "source": "Goal.com",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada played a key tactical role in Crystal Palace's victory, operating from half-space roles to collapse passing lanes and disrupt Fiorentina's build-up. His positioning alongside Sarr between Fiorentina's midfield and defense created constant confusion. Kamada also provided the assist for Crystal Palace's third goal, finding ample space due to Fiorentina's tactical adjustments.",
+        "commentTranslated": "鎌田大地は、クリスタル・パレスの勝利において重要な戦術的役割を果たし、ハーフスペースからパッシングレーンを閉鎖し、フィオレンティーナのビルドアップを妨害しました。フィオレンティーナのミッドフィールドとディフェンスの間にサールと並んでポジショニングすることで、絶えず混乱を引き起こしました。鎌田はまた、フィオレンティーナの戦術的調整により十分なスペースを見つけ、クリスタル・パレスの3点目のアシストを提供しました。",
+        "isManual": true,
+        "articleUrl": "https://www.goal.com/en/news/crystal-palace-player-ratings-vs-fiorentina-jean-philippe-mateta-stars-as-ruthless-eagles-dismantle-the-viola/bltce077b56b823c01b",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 7.7,
@@ -25911,6 +25935,19 @@
         "replies": [],
         "isManual": true,
         "postUrl": "https://x.com/liamb0117/status/2042352149074432493"
+      },
+      {
+        "id": "id-1775832100810-7iwfm2t8v",
+        "username": "@CPFC",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Pure magic from Daichi 🪄\n\nYour Player of the Match from last night 👏🇯🇵",
+        "translatedText": "（翻訳未生成）",
+        "likes": 2828,
+        "retweets": 200,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFC/status/2042573307938259268"
       },
       {
         "id": "t_kamada-20260409_1",
@@ -26093,7 +26130,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-10T11:05:53.896Z"
+    "lastUpdated": "2026-04-10T14:41:40.811Z"
   },
   {
     "matchId": "kamada-20260331",
