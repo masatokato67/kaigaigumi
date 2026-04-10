@@ -15,7 +15,7 @@
     "playerStats": {
       "minutesPlayed": 89,
       "goals": 0,
-      "assists": 0,
+      "assists": 1,
       "starting": true,
       "position": "CM",
       "rating": 7.6

@@ -25815,7 +25815,20 @@
   {
     "matchId": "kamada-20260409",
     "playerId": "kamada",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "Football Italia",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Football Italia's Man of the Match, Daichi Kamada, shone for Crystal Palace with an assist and a dominant display in midfield. He created numerous chances for his side and worked hard defensively, contributing to their 3-0 victory over Fiorentina.",
+        "commentTranslated": "Football Italiaのマン・オブ・ザ・マッチである鎌田大地は、アシストと中盤での支配的なパフォーマンスでクリスタル・パレスのために輝いた。彼はチームのために多くのチャンスを作り出し、守備でも懸命に働き、フィオレンティーナに対する3-0の勝利に貢献した。",
+        "isManual": true,
+        "articleUrl": "https://football-italia.net/conference-crystal-palace-fiorentina-ratings/",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 7.7,
     "localVoices": [
       {
@@ -26080,7 +26093,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-04-10T09:12:27.535Z"
+    "lastUpdated": "2026-04-10T11:05:53.896Z"
   },
   {
     "matchId": "kamada-20260331",
