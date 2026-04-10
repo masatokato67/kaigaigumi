@@ -17,6 +17,37 @@
   ],
   "xThreads": [
     {
+      "date": "2026-04-10",
+      "id": "id-1775819077011-8alemb1m2",
+      "username": "@BluesBallersHQ",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "My Enzo Replacement -Kaishu Sano\n\nMainz fans said he’s world class, Japanese fans said he’s a core player in the midfield.",
+      "translatedText": "私のエンソ後任候補 - 佐野海舟\nマインツファンは彼をワールドクラスだと言い、日本のファンは彼を中盤の核となる選手だと言っている。",
+      "likes": 2406,
+      "retweets": 125,
+      "replies": [
+        {
+          "id": "id-1775819077011-iazzqhd7p",
+          "username": "@ChelseaBlueArmy",
+          "languageCode": "EN",
+          "originalText": "Sano is definitely a talent! Would be interesting to see how he adapts to the Premier League. Great shout!",
+          "translatedText": "佐野は間違いなく才能ある選手だ！プレミアリーグにどう適応するかを見るのは面白いだろうね。良い選択だ！",
+          "likes": 280
+        },
+        {
+          "id": "id-1775819077011-c1tgicy0v",
+          "username": "@Analyst_CFCLive",
+          "languageCode": "EN",
+          "originalText": "He's good, but is he an Enzo replacement? Enzo has a unique playmaking and passing range. Sano is more of a destroyer/box-to-box.",
+          "translatedText": "彼は良い選手だけど、エンソの後任になるのか？エンソには独自のプレーメイキングとパスレンジがある。佐野はどちらかというと潰し屋/ボックス・トゥ・ボックス型だよ。",
+          "likes": 175
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/BluesBallersHQ/status/2042010143475499344"
+    },
+    {
       "date": "2026-04-05",
       "id": "id-1775400507542-6m42cr8k8",
       "username": "@SuperDoik",
