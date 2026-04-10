@@ -76,12 +76,14 @@ export default function XThreadCard({ thread }: XThreadCardProps) {
               {thread.originalText}
             </p>
 
-            {/* Translation */}
-            <div className="bg-gray-800/40 rounded-lg p-3 border-l-2 border-red-500/60 mb-3">
-              <p className="text-white text-sm leading-relaxed">
-                {thread.translatedText}
-              </p>
-            </div>
+            {/* Translation (hide for JA or empty/placeholder) */}
+            {thread.translatedText && thread.translatedText !== "（翻訳未生成）" && thread.languageCode !== "JA" && (
+              <div className="bg-gray-800/40 rounded-lg p-3 border-l-2 border-red-500/60 mb-3">
+                <p className="text-white text-sm leading-relaxed">
+                  {thread.translatedText}
+                </p>
+              </div>
+            )}
 
             {/* Metrics */}
             <div className="flex items-center gap-5 text-gray-500">
@@ -140,9 +142,11 @@ export default function XThreadCard({ thread }: XThreadCardProps) {
                   <p className="text-gray-400 text-xs leading-relaxed mb-1">
                     {reply.originalText}
                   </p>
-                  <p className="text-gray-300 text-xs leading-relaxed mb-1">
-                    {reply.translatedText}
-                  </p>
+                  {reply.translatedText && reply.translatedText !== "（翻訳未生成）" && reply.languageCode !== "JA" && (
+                    <p className="text-gray-300 text-xs leading-relaxed mb-1">
+                      {reply.translatedText}
+                    </p>
+                  )}
                   <div className="flex items-center gap-1 text-gray-600 text-[10px]">
                     <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
