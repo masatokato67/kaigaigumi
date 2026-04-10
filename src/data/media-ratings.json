@@ -25815,35 +25815,7 @@
   {
     "matchId": "kamada-20260409",
     "playerId": "kamada",
-    "ratings": [
-      {
-        "source": "WhoScored",
-        "country": "国際",
-        "rating": 7.8,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Outstanding performance. Dominated the game and was a constant threat.",
-        "commentTranslated": "傑出したパフォーマンス。試合を支配し、常に脅威となった。"
-      },
-      {
-        "source": "SofaScore",
-        "country": "国際",
-        "rating": 7.6,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Man of the match caliber display. Exceptional in every aspect.",
-        "commentTranslated": "マン・オブ・ザ・マッチ級の活躍。あらゆる面で卓越していた。"
-      },
-      {
-        "source": "FotMob",
-        "country": "国際",
-        "rating": 7.7,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Brilliant showing. One of the best performances of the season.",
-        "commentTranslated": "素晴らしいプレー。今シーズン最高のパフォーマンスの一つ。"
-      }
-    ],
+    "ratings": [],
     "averageRating": 7.7,
     "localVoices": [
       {
@@ -25875,6 +25847,58 @@
       }
     ],
     "xThreads": [
+      {
+        "id": "id-1775812344504-9jo7ywpx6",
+        "username": "@PalaceReport",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🇯🇵 Kamada vs Fiorentina today: \n\n89 Mins played \n1 Assist\n38/43 Accurate passes \n4 Chances created \n7 Passes into the final third \n4/5 Ground duels won \n4 Recoveries \n\nRolls Royce in the middle. ⭐️",
+        "translatedText": "（翻訳未生成）",
+        "likes": 653,
+        "retweets": 45,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/PalaceReport/status/2042353509132066830"
+      },
+      {
+        "id": "id-1775812346140-5jd3c4q46",
+        "username": "@CPFC",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Daichi is all of us 😄🫶",
+        "translatedText": "（翻訳未生成）",
+        "likes": 2757,
+        "retweets": 127,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFC/status/2042326609898704934"
+      },
+      {
+        "id": "id-1775812346855-4i8csjgs5",
+        "username": "@TCPalacePod",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Good morning to everyone, but especially to Ismaïla Sarr, Daichi Kamada, Tyrick Mitchell, Jaydee Canvot Yeremy Pino etc etc. 😍\n\nHave a GREAT day, Palace fans! 🙌\n\n(Credit - @footballontnt) #UECL #CPFC \n\n",
+        "translatedText": "（翻訳未生成）",
+        "likes": 78,
+        "retweets": 3,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/TCPalacePod/status/2042494590884643020"
+      },
+      {
+        "id": "id-1775812347534-rt5y6m61w",
+        "username": "@liamb0117",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "What a performance to a man.\n\nCan’t fault a single player.\n\nLacroix, Canvot, Munoz, Kamada in particular absolutely outstanding.\n\nMateta’s best performance of the season.\n\nSarr is a club legend, plain and simple. \n\nExtremely proud of that display. #CPFC",
+        "translatedText": "（翻訳未生成）",
+        "likes": 141,
+        "retweets": 5,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/liamb0117/status/2042352149074432493"
+      },
       {
         "id": "t_kamada-20260409_1",
         "username": "@カンファレンスリーグNews",
@@ -26055,7 +26079,8 @@
           }
         ]
       }
-    ]
+    ],
+    "lastUpdated": "2026-04-10T09:12:27.535Z"
   },
   {
     "matchId": "kamada-20260331",
