@@ -2,6 +2,19 @@
   "playerId": "sano_kaishu",
   "mediaRatings": [
     {
+      "date": "2026-04-09",
+      "source": "Get German Football News",
+      "country": "ドイツ",
+      "rating": 9,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Mainz 'midfield iron man' Kaishu Sano turned an impressive midfield ball win into a splendid one-two with his compatriot Kota Kawasaki. Sano then capped off a scintillating solo run forward with a beautifully curled effort from the left-hand-side of the box. His performance succeeded beyond anyone's wildest expectations, venturing forward to record two shots and three assisted shots despite typically operating as a defensive midfielder. Named GGFN Bundesliga Player of the Match.",
+      "commentTranslated": "マインツの「中盤の鉄人」佐野海舟は、見事な中盤でのボール奪取から同胞の川崎颯太とのワンツーを決めた。そしてスリリングなソロドリブルの末、ボックス左側から美しいカーブシュートを放った。守備的MFとして通常プレーしているにもかかわらず、2本のシュートと3本のアシストショットを記録するなど、誰の予想も超えるパフォーマンスを見せた。GGFNブンデスリーガ・マン・オブ・ザ・マッチに選出。",
+      "isManual": true,
+      "articleUrl": "https://onefootball.com/de/news/conference-league-player-ratings-mainz-2-0-racing-strasbourg-a-third-bundesliga-club-takes-a-massive-stride-towards-a-european-semi-final-42686844",
+      "hasArticleRating": true
+    },
+    {
       "date": "2026-04-05",
       "source": "ESPN",
       "country": "アメリカ",
