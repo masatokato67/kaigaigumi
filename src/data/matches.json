@@ -1,5 +1,118 @@
 [
   {
+    "matchId": "mitoma-20260411",
+    "playerId": "mitoma",
+    "date": "2026-04-11",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "バーンリー",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "ブライトン",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 10,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LW",
+      "rating": 6.7
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0422,
+      "totalPass": 12,
+      "accuratePass": 9,
+      "totalLongBalls": 1,
+      "totalTackle": 2,
+      "wonTackle": 2,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 1,
+      "touches": 15,
+      "possessionLostCtrl": 3
+    }
+  },
+  {
+    "matchId": "kubo-20260411",
+    "playerId": "kubo",
+    "date": "2026-04-11",
+    "competition": "ラ・リーガ",
+    "homeTeam": {
+      "name": "レアル・ソシエダ",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "Deportivo Alavés",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 36,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "RW",
+      "rating": 7.9
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.5886,
+      "totalPass": 14,
+      "accuratePass": 11,
+      "keyPass": 2,
+      "totalCross": 1,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "touches": 22,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 6,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "shiogai-20260411",
+    "playerId": "shiogai",
+    "date": "2026-04-11",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ヴォルフスブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フランクフルト",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 11,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "ST",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0664,
+      "expectedAssists": 0.0022,
+      "totalPass": 5,
+      "accuratePass": 4,
+      "totalCross": 1,
+      "totalLongBalls": 1,
+      "duelLost": 1,
+      "touches": 13,
+      "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
+  },
+  {
     "matchId": "kamada-20260409",
     "playerId": "kamada",
     "date": "2026-04-09",
