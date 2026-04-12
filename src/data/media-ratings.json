@@ -1,5 +1,214 @@
 [
   {
+    "matchId": "tomiyasu-20260411",
+    "playerId": "tomiyasu",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 4.7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Struggled to make an impact. Not his best day.",
+        "commentTranslated": "インパクトを残せなかった。ベストの日ではなかった。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 4.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Quiet performance. Needs to improve in the coming matches.",
+        "commentTranslated": "静かなパフォーマンス。今後の試合での改善が必要。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 4.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Below par showing. Failed to influence the game.",
+        "commentTranslated": "期待以下のプレー。試合に影響を与えられなかった。"
+      }
+    ],
+    "averageRating": 4.8,
+    "localVoices": [
+      {
+        "id": "v_tomiyasu-20260411_1",
+        "username": "@アヤックス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Not Takehiro Tomiyasu's best day. He'll bounce back.",
+        "translatedText": "冨安健洋にとってベストの日ではなかった。次は挽回してくれるだろう。"
+      },
+      {
+        "id": "v_tomiyasu-20260411_2",
+        "username": "@アヤックス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Not Takehiro Tomiyasu's best day. He'll bounce back.",
+        "translatedText": "冨安健洋にとってベストの日ではなかった。次は挽回してくれるだろう。"
+      },
+      {
+        "id": "v_tomiyasu-20260411_3",
+        "username": "@アヤックス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu struggled today. Tough match for him.",
+        "translatedText": "冨安健洋にとってベストの日ではなかった。次は挽回してくれるだろう。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_tomiyasu-20260411_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Heracles Almelo 0-3 アヤックス. Takehiro Tomiyasu played 13 minutes.",
+        "translatedText": "Heracles Almelo 0-3 アヤックス。冨安健洋は13分間プレー。",
+        "likes": 2309,
+        "retweets": 281,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260411_1_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Not his best but he'll come back stronger",
+            "translatedText": "ベストじゃなかったけど、挽回するよ",
+            "likes": 310
+          },
+          {
+            "id": "r_tomiyasu-20260411_1_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Bad game happens, still support him!",
+            "translatedText": "悪い試合もある、それでも応援！",
+            "likes": 294
+          },
+          {
+            "id": "r_tomiyasu-20260411_1_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Terrible game. No excuses.",
+            "translatedText": "ひどい試合。言い訳できない。",
+            "likes": 142
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260411_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【冨安健洋】エールディヴィジ第5節、Heracles Almelo vs アヤックスで13分出場。評価4.8を獲得。",
+        "translatedText": "",
+        "likes": 3786,
+        "retweets": 538,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260411_2_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Terrible game. No excuses.",
+            "translatedText": "ひどい試合。言い訳できない。",
+            "likes": 437
+          },
+          {
+            "id": "r_tomiyasu-20260411_2_2",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Time to bench him for a while",
+            "translatedText": "しばらくベンチでいいと思う",
+            "likes": 37
+          },
+          {
+            "id": "r_tomiyasu-20260411_2_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Maybe not ready for this level yet?",
+            "translatedText": "このレベルにはまだ早いのかも？",
+            "likes": 474
+          },
+          {
+            "id": "r_tomiyasu-20260411_2_4",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Rough day but everyone has off days",
+            "translatedText": "厳しい日だったけど、誰にでもある",
+            "likes": 404
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260411_3",
+        "username": "@アヤックスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Not Takehiro Tomiyasu's day today. We still support him! 🙌",
+        "translatedText": "冨安健洋は苦しんだが、こういうこともある。次がある！",
+        "likes": 893,
+        "retweets": 85,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260411_3_1",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Keep your head up! Next game will be better",
+            "translatedText": "頭を上げて！次の試合は良くなる",
+            "likes": 224
+          },
+          {
+            "id": "r_tomiyasu-20260411_3_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Rough day but everyone has off days",
+            "translatedText": "厳しい日だったけど、誰にでもある",
+            "likes": 135
+          },
+          {
+            "id": "r_tomiyasu-20260411_3_3",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not his best but he'll come back stronger",
+            "translatedText": "ベストじゃなかったけど、挽回するよ",
+            "likes": 477
+          }
+        ]
+      },
+      {
+        "id": "t_tomiyasu-20260411_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Takehiro Tomiyasu struggled with the tactical setup today. Needs adjustment.",
+        "translatedText": "冨安健洋、この試合は忘れたいだろう。改善の余地あり。",
+        "likes": 731,
+        "retweets": 147,
+        "replies": [
+          {
+            "id": "r_tomiyasu-20260411_4_1",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Time to bench him for a while",
+            "translatedText": "しばらくベンチでいいと思う",
+            "likes": 378
+          },
+          {
+            "id": "r_tomiyasu-20260411_4_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Terrible game. No excuses.",
+            "translatedText": "ひどい試合。言い訳できない。",
+            "likes": 364
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "tomiyasu-20260322",
     "playerId": "tomiyasu",
     "ratings": [
@@ -9394,6 +9603,215 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.325Z"
+  },
+  {
+    "matchId": "sano_kodai-20260412",
+    "playerId": "sano_kodai",
+    "ratings": [
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 7.1,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "De Telegraaf",
+        "country": "オランダ",
+        "rating": 6.8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "ESPN NL",
+        "country": "オランダ",
+        "rating": 6.9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.9,
+    "localVoices": [
+      {
+        "id": "v_sano_kodai-20260412_1",
+        "username": "@NEC_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野航大のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kodai-20260412_2",
+        "username": "@NEC_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kodai Sano showing why he's so valuable to the team.",
+        "translatedText": "佐野航大のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_sano_kodai-20260412_3",
+        "username": "@NEC_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Kodai Sano's performance. Did his job well.",
+        "translatedText": "佐野航大は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kodai-20260412_1",
+        "username": "@エールディヴィジNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "NEC 1-1 フェイエノールト. Kodai Sano played 90 minutes.",
+        "translatedText": "NEC 1-1 フェイエノールト。佐野航大は90分間プレー。",
+        "likes": 1821,
+        "retweets": 257,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260412_1_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 58
+          },
+          {
+            "id": "r_sano_kodai-20260412_1_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 362
+          },
+          {
+            "id": "r_sano_kodai-20260412_1_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 44
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260412_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野航大】エールディヴィジ第30節、NEC vs フェイエノールトで90分出場。評価6.9を獲得。",
+        "translatedText": "",
+        "likes": 2178,
+        "retweets": 219,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260412_2_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 424
+          },
+          {
+            "id": "r_sano_kodai-20260412_2_2",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 330
+          },
+          {
+            "id": "r_sano_kodai-20260412_2_3",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 383
+          },
+          {
+            "id": "r_sano_kodai-20260412_2_4",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 89
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260412_3",
+        "username": "@NECFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano did well today. Good to see him contributing.",
+        "translatedText": "佐野航大、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 821,
+        "retweets": 77,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260412_3_1",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 462
+          },
+          {
+            "id": "r_sano_kodai-20260412_3_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 132
+          },
+          {
+            "id": "r_sano_kodai-20260412_3_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 311
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kodai-20260412_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kodai Sano maintaining consistency. Professional performance.",
+        "translatedText": "佐野航大、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 635,
+        "retweets": 178,
+        "replies": [
+          {
+            "id": "r_sano_kodai-20260412_4_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 152
+          },
+          {
+            "id": "r_sano_kodai-20260412_4_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 459
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "sano_kodai-20260404",
@@ -26671,6 +27089,450 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.327Z"
+  },
+  {
+    "matchId": "kamada-20260412",
+    "playerId": "kamada",
+    "ratings": [
+      {
+        "source": "Football Insider",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada, currently at Crystal Palace, is tipped to join Newcastle United on a free transfer this summer, potentially following former manager Oliver Glasner. He delivered a fantastic \"Player of the Match\" performance against Fiorentina, securing an assist and playing a key role in another goal, showcasing his technical ability and game understanding. Tactically, he operates as a deep-lying midfielder or in a more advanced role, making him a versatile asset for Glasner's system, having previously thrived under him at Frankfurt.",
+        "commentTranslated": "クリスタル・パレスに所属する鎌田大地は、この夏、フリー移籍でニューカッスル・ユナイテッドに加入する可能性があると報じられており、かつての監督であるオリバー・グラスナーに続く形となるかもしれない。フィオレンティーナ戦では、「マン・オブ・ザ・マッチ」に輝く素晴らしいパフォーマンスを披露し、アシストを記録し、もう1つのゴールでも重要な役割を果たし、彼の技術力と試合理解度を示した。戦術的には、守備的ミッドフィールダーとしても、より攻撃的な役割でもプレーでき、フランクフルト時代にグラスナーの下で活躍した経験から、グラスナーのシステムにとって多才な選手となる。",
+        "isManual": true,
+        "articleUrl": "https://www.footballinsider247.com/daichi-kamada-newcastle-given-extra-incentive-to-hire-oliver-glasner-after-crystal-palace-stars-showing-vs-fiorentina/",
+        "hasArticleRating": false
+      }
+    ],
+    "averageRating": 6.4,
+    "localVoices": [
+      {
+        "id": "v_kamada-20260412_1",
+        "username": "@クリスタルパレス_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada did what was needed. Hoping for more next time.",
+        "translatedText": "鎌田大地は必要なことをした。次はもっと期待したい。"
+      },
+      {
+        "id": "v_kamada-20260412_2",
+        "username": "@クリスタルパレス_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Average day for Daichi Kamada. We've seen better from him.",
+        "translatedText": "鎌田大地は必要なことをした。次はもっと期待したい。"
+      },
+      {
+        "id": "v_kamada-20260412_3",
+        "username": "@クリスタルパレス_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada did what was needed. Hoping for more next time.",
+        "translatedText": "鎌田大地にとって平均的な日。もっと良いプレーを見たことがある。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "id-1776011864912-towuc35ow",
+        "username": "@Willie_Fpl",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada replaces Yeremy Pino.\n\nCrystal Palace 0 Newcastle United 1.\n#CRYNEW\n#FPL",
+        "translatedText": "鎌田大地がジェレミー・ピノに代わって出場。クリスタル・パレス 0 ニューカッスル・ユナイテッド 1。#CRYNEW #FPL",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776011864912-mdyp5ab18",
+            "username": "@FPL_Scout_EN",
+            "languageCode": "EN",
+            "originalText": "Kamada getting minutes! Hoping for an assist or a goal to boost my FPL points. Good luck, Daichi!",
+            "translatedText": "鎌田がプレー時間を得ている！FPLポイントを上げるためにアシストかゴールを期待。頑張れ、大地！",
+            "likes": 210
+          },
+          {
+            "id": "id-1776011864912-v9kllfas6",
+            "username": "@JLeagueFanatics",
+            "languageCode": "JA",
+            "originalText": "鎌田選手、交代で出場！このままチームを勝利に導いてほしいですね。頑張れ！",
+            "translatedText": "鎌田選手、交代で出場！このままチームを勝利に導いてほしいですね。頑張れ！",
+            "likes": 145
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/Willie_Fpl/status/2043337897399513309"
+      },
+      {
+        "id": "id-1776011872570-l1ydag400",
+        "username": "@Furkan1903LC",
+        "verified": false,
+        "languageCode": "TR",
+        "originalText": "Daichi girdi, organizeyi yaptı; Mateta bitirdi! Easy money sniper 🇯🇵\n\n#Kamada",
+        "translatedText": "大地が入ってきて、ゲームを組み立てて、マテタが決めた！イージーマネースナイパー🇯🇵",
+        "likes": 71,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776011872570-16yguezp7",
+            "username": "@KartalYuvasi1903",
+            "languageCode": "TR",
+            "originalText": "Kamada'nın oyuna girişi fark yarattı. Zaten kalitesi belliydi! 👏👏",
+            "translatedText": "鎌田の出場が違いを生んだね。彼のクオリティは明らかだった！👏👏",
+            "likes": 287
+          },
+          {
+            "id": "id-1776011872570-776v7balc",
+            "username": "@FootballTacticsX",
+            "languageCode": "EN",
+            "originalText": "Good impact from Kamada off the bench. His vision to set up Mateta was crucial. Shows why he's valuable.",
+            "translatedText": "鎌田はベンチから良いインパクトを与えたね。マテタへのアシストの視野は非常に重要だった。彼がなぜ価値ある選手なのかを示している。",
+            "likes": 112
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/Furkan1903LC/status/2043338652747522302"
+      },
+      {
+        "id": "id-1776011882624-8lm0ru3l5",
+        "username": "@duanepongo",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kamada, Sarr and Wharton cooking",
+        "translatedText": "鎌田、サール、ウォートンが絶好調だね！",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776011882624-k9fk5l89a",
+            "username": "@Eagles_Roar_CPFC",
+            "languageCode": "EN",
+            "originalText": "What a trio! Their work rate and creativity are just exceptional. Future looks bright with these talents.",
+            "translatedText": "なんてトリオだ！彼らの運動量と創造性は本当に素晴らしい。この才能たちがいれば未来は明るいね。",
+            "likes": 312
+          },
+          {
+            "id": "id-1776011882624-33k2m2lzg",
+            "username": "@サッカー好き⚽️🇯🇵",
+            "languageCode": "JA",
+            "originalText": "鎌田は最近本当にキレてるね！サールとウォートンも素晴らしいけど、やっぱり鎌田のパスセンスは格別だ。",
+            "translatedText": "鎌田は最近本当にキレてるね！サールとウォートンも素晴らしいけど、やっぱり鎌田のパスセンスは格別だ。",
+            "likes": 195
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/duanepongo/status/2043338884042338715"
+      },
+      {
+        "id": "id-1776011889100-f9fu459lc",
+        "username": "@ZaieuZ15021",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kamada Effect #CRYvsNEW #PL",
+        "translatedText": "鎌田効果 #CRYvsNEW #PL",
+        "likes": 1,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776011889100-y9f6187aj",
+            "username": "@CPFC_Supporter",
+            "languageCode": "EN",
+            "originalText": "Absolutely! He totally changed the game for us. His passing range is incredible.",
+            "translatedText": "その通り！彼は完全に試合を変えたよ。彼のパスの範囲は信じられないほどだ。",
+            "likes": 210
+          },
+          {
+            "id": "id-1776011889100-nypfvuast",
+            "username": "@Football_Insight",
+            "languageCode": "EN",
+            "originalText": "He definitely added some spark, but Newcastle looked tired defensively. Good signs for Kamada though.",
+            "translatedText": "彼は確かに火花を散らしたが、ニューカッスルは守備的に疲れているように見えた。それでも鎌田にとっては良い兆候だ。",
+            "likes": 125
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/ZaieuZ15021/status/2043342058019254734"
+      },
+      {
+        "id": "id-1776011893991-u5erabnxo",
+        "username": "@ShunaCocoa",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "As soon as Kamata came on, the momentum shifted\n #kamada #CPFC",
+        "translatedText": "鎌田が入った途端、流れが変わった",
+        "likes": 3,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776011893991-jam7j6lf2",
+            "username": "@PalaceFan_JPN",
+            "languageCode": "EN",
+            "originalText": "Absolutely! His vision and passing instantly gave us more control in midfield. Game changer!",
+            "translatedText": "全くその通り！彼の視野とパスで、中盤がすぐにコントロールできるようになりました。試合を変える選手です！",
+            "likes": 185
+          },
+          {
+            "id": "id-1776011893991-5w80pdeta",
+            "username": "@FootballIntel_X",
+            "languageCode": "EN",
+            "originalText": "He did bring some calm, but I think the tactical change at the same time also played a big part. Good sub overall though.",
+            "translatedText": "彼は確かに落ち着きをもたらしましたが、同時に行われた戦術変更も大きな役割を果たしたと思います。全体的には良い交代でしたね。",
+            "likes": 92
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/ShunaCocoa/status/2043343250296283257"
+      },
+      {
+        "id": "id-1776011902799-9rpwp4oa4",
+        "username": "@tanaka05430543",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "@CPFC When Kamada plays, Palace win",
+        "translatedText": "鎌田がプレーすると、パレスは勝つ",
+        "likes": 41,
+        "retweets": 3,
+        "replies": [
+          {
+            "id": "id-1776011902799-3yqdbo3mq",
+            "username": "@CPFC_Fanatic",
+            "languageCode": "EN",
+            "originalText": "Facts! His presence elevates the whole team, especially in tight games. Love watching him play.",
+            "translatedText": "その通り！彼の存在が、特に接戦でチーム全体を高めているね。彼のプレーを見るのが大好きだ。",
+            "likes": 312
+          },
+          {
+            "id": "id-1776011902799-soc7434ug",
+            "username": "@JLeague_Insider",
+            "languageCode": "JA",
+            "originalText": "鎌田選手がフィットしてきたのは大きいですね。中盤の安定感が増して、前線への供給もスムーズになった印象です。",
+            "translatedText": "鎌田選手がフィットしてきたのは大きいですね。中盤の安定感が増して、前線への供給もスムーズになった印象です。",
+            "likes": 198
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/tanaka05430543/status/2043343506501255399"
+      },
+      {
+        "id": "id-1776011908898-dpnxjnz3x",
+        "username": "@CPFCSKY",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "mateta was a game changer! also kamada was sooo good!",
+        "translatedText": "マテタは試合の流れを変えたね！鎌田もめちゃくちゃ良かった！",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776011908898-8q9cof9r4",
+            "username": "@J_Football_Fan",
+            "languageCode": "EN",
+            "originalText": "Absolutely! Kamada's vision and work rate were outstanding. He's really settling in.",
+            "translatedText": "まさにその通り！鎌田の視野の広さと運動量は素晴らしかった。本当にチームに馴染んできてるね。",
+            "likes": 287
+          },
+          {
+            "id": "id-1776011908898-57zqoumfx",
+            "username": "@CPFC_Eagle_Eye",
+            "languageCode": "EN",
+            "originalText": "Kamada had some good moments for sure, but I still think he needs to improve his finishing. Mateta was indeed on fire though!",
+            "translatedText": "鎌田もいくつか良い場面はあったのは確かだけど、まだフィニッシュの精度は改善の余地があると思うな。マテタは本当に絶好調だったね！",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFCSKY/status/2043343536968331451"
+      },
+      {
+        "id": "id-1776011909452-9pw0be4g4",
+        "username": "@OverTheToon",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Wild how much more creativity even a team like Palace has than us. Kamada & Pino to name a couple of players. We have nobody at all. Team full of ‘athletes’ who look lost with the ball.\n\n#nufc #howe #palace",
+        "translatedText": "（翻訳未生成）",
+        "likes": 2,
+        "retweets": 0,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/OverTheToon/status/2043348340784472074"
+      },
+      {
+        "id": "id-1776011910068-yaet3875r",
+        "username": "@TCPalacePod",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "I must admit, it’s quite nice being able to bring on the likes of Jean-Philippe Mateta, Ismaïla Sarr, Adam Wharton and Daichi Kamada. 😮‍💨\n\n#CPFC",
+        "translatedText": "（翻訳未生成）",
+        "likes": 66,
+        "retweets": 3,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/TCPalacePod/status/2043350370265542766"
+      },
+      {
+        "id": "id-1776011910682-1qtwscjam",
+        "username": "@neiog",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "THE REAL JP MATETA IS BACK 🔥🔥🔥🔥🔥🔥🔥🔥🔥❤️💙\n\nBrilliant when he came on today and along with Sarr , Kamada and Wharton turned a bland low quality, uninspiring CPFC performance around into a Storming , Dynamic Win . Fabulous ❤️💙🔥🔥🔥🔥🔥🔥👏👏👏👏👏",
+        "translatedText": "（翻訳未生成）",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/neiog/status/2043367379162341659"
+      },
+      {
+        "id": "t_kamada-20260412_1",
+        "username": "@プレミアリーグNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "クリスタルパレス 2-1 ニューカッスル. Daichi Kamada played 14 minutes.",
+        "translatedText": "クリスタルパレス 2-1 ニューカッスル。鎌田大地は14分間プレー。",
+        "likes": 2090,
+        "retweets": 67,
+        "replies": [
+          {
+            "id": "r_kamada-20260412_1_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 343
+          },
+          {
+            "id": "r_kamada-20260412_1_2",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 134
+          },
+          {
+            "id": "r_kamada-20260412_1_3",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Where was he when it mattered?",
+            "translatedText": "肝心な時にどこにいた？",
+            "likes": 373
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260412_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【鎌田大地】プレミアリーグ第4節、クリスタルパレス vs ニューカッスルで14分出場。評価6.4を獲得。",
+        "translatedText": "",
+        "likes": 2411,
+        "retweets": 223,
+        "replies": [
+          {
+            "id": "r_kamada-20260412_2_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 307
+          },
+          {
+            "id": "r_kamada-20260412_2_2",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 49
+          },
+          {
+            "id": "r_kamada-20260412_2_3",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Average day but still contributed",
+            "translatedText": "平均的な日だったけど、貢献はした",
+            "likes": 335
+          },
+          {
+            "id": "r_kamada-20260412_2_4",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 287
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260412_3",
+        "username": "@クリスタルパレスFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Decent effort from Daichi Kamada. Room for improvement though.",
+        "translatedText": "鎌田大地、まずまずの出来。改善の余地はある。",
+        "likes": 1161,
+        "retweets": 84,
+        "replies": [
+          {
+            "id": "r_kamada-20260412_3_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 347
+          },
+          {
+            "id": "r_kamada-20260412_3_2",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 112
+          },
+          {
+            "id": "r_kamada-20260412_3_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Where was he when it mattered?",
+            "translatedText": "肝心な時にどこにいた？",
+            "likes": 287
+          }
+        ]
+      },
+      {
+        "id": "t_kamada-20260412_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Daichi Kamada had mixed moments. Some good, some areas to work on.",
+        "translatedText": "スタッツは鎌田大地が今日は平均的だったことを示す。14分出場。",
+        "likes": 861,
+        "retweets": 97,
+        "replies": [
+          {
+            "id": "r_kamada-20260412_4_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 111
+          },
+          {
+            "id": "r_kamada-20260412_4_2",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 420
+          }
+        ]
+      }
+    ],
+    "lastUpdated": "2026-04-12T16:38:30.682Z"
   },
   {
     "matchId": "kamada-20260409",

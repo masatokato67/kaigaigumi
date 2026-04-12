@@ -1,5 +1,82 @@
 [
   {
+    "matchId": "kamada-20260412",
+    "playerId": "kamada",
+    "date": "2026-04-12",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "クリスタルパレス",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "ニューカッスル",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 14,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0066,
+      "totalPass": 6,
+      "accuratePass": 3,
+      "totalLongBalls": 1,
+      "ballRecovery": 2,
+      "touches": 9,
+      "possessionLostCtrl": 5
+    }
+  },
+  {
+    "matchId": "sano_kodai-20260412",
+    "playerId": "sano_kodai",
+    "date": "2026-04-12",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "NEC",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フェイエノールト",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 7
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1088,
+      "totalPass": 50,
+      "accuratePass": 39,
+      "keyPass": 2,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 2,
+      "totalTackle": 2,
+      "interceptionWon": 3,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialLost": 2,
+      "touches": 68,
+      "fouls": 1,
+      "wasFouled": 1,
+      "possessionLostCtrl": 16,
+      "dispossessed": 2
+    }
+  },
+  {
     "matchId": "mitoma-20260411",
     "playerId": "mitoma",
     "date": "2026-04-11",
@@ -109,6 +186,48 @@
       "duelLost": 1,
       "touches": 13,
       "possessionLostCtrl": 5,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "tomiyasu-20260411",
+    "playerId": "tomiyasu",
+    "date": "2026-04-11",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "Heracles Almelo",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "アヤックス",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 13,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LB",
+      "rating": 4.7
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0031,
+      "totalPass": 9,
+      "accuratePass": 8,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 1,
+      "ballRecovery": 1,
+      "duelWon": 2,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "touches": 13,
+      "fouls": 1,
+      "possessionLostCtrl": 2,
       "dispossessed": 1
     }
   },

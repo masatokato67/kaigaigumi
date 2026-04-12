@@ -1,4 +1,14 @@
 {
+  "kamada-20260412": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260412": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "mitoma-20260411": {
     "enabled": false,
     "youtubeId": "",
@@ -10,6 +20,11 @@
     "title": ""
   },
   "shiogai-20260411": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260411": {
     "enabled": false,
     "youtubeId": "",
     "title": ""
