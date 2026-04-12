@@ -351,7 +351,15 @@ async function main() {
     console.log(
       `🐦 Xスレッド処理完了: 新規${newCount}件, スキップ${skipCount}件`
     );
-    if (newCount > 0) updated = true;
+    if (newCount > 0) {
+      // リアル投稿が追加された場合、自動生成のXスレッドを削除
+      const autoThreads = mediaData.xThreads.filter((t) => !t.isManual);
+      if (autoThreads.length > 0) {
+        mediaData.xThreads = mediaData.xThreads.filter((t) => t.isManual);
+        console.log(`  [削除] 自動生成Xスレッド ${autoThreads.length}件を削除`);
+      }
+      updated = true;
+    }
   }
 
   // ── 保存 ──

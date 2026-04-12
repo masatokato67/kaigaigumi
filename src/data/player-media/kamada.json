@@ -1,5 +1,262 @@
 {
   "playerId": "kamada",
-  "mediaRatings": [],
-  "xThreads": []
+  "mediaRatings": [
+    {
+      "date": "2026-04-12",
+      "source": "Football Insider",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada is expected to leave Crystal Palace on a free transfer this summer and is strongly linked with a move to Newcastle United, particularly if Oliver Glasner becomes their new manager, given their successful past collaboration. He delivered a \"fantastic\" performance against Fiorentina, playing a key role in both goals by providing a crucial pass and an assist. The article praises his technical ability, understanding of the game, and versatility in midfield, noting he can operate in a double pivot or a more advanced position.",
+      "commentTranslated": "鎌田大地は今夏クリスタル・パレスを自由契約で退団すると見られており、オリバー・グラスナー監督がニューカッスルの新監督に就任した場合、両者の過去の成功した協力関係から、ニューカッスルへの移籍が強く噂されている。フィオレンティーナ戦では「素晴らしい」パフォーマンスを披露し、重要なパスとアシストで両ゴールに大きく貢献した。記事は彼のテクニック、試合理解度、そして守備的ミッドフィルダーの二枚のうちの一人としても、より攻撃的なポジションでもプレーできる中盤での多才さを称賛している。",
+      "isManual": true,
+      "articleUrl": "https://www.footballinsider247.com/daichi-kamada-newcastle-given-extra-incentive-to-hire-oliver-glasner-after-crystal-palace-stars-showing-vs-fiorentina/",
+      "hasArticleRating": false
+    }
+  ],
+  "xThreads": [
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012349224-bnqufeabv",
+      "username": "@Willie_Fpl",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Daichi Kamada replaces Yeremy Pino.\n\nCrystal Palace 0 Newcastle United 1.\n#CRYNEW\n#FPL",
+      "translatedText": "鎌田大地がジェレミー・ピノに代わって出場。クリスタル・パレス 0-1 ニューカッスル・ユナイテッド。 #CRYNEW #FPL",
+      "likes": 0,
+      "retweets": 0,
+      "replies": [
+        {
+          "id": "id-1776012349225-926hporin",
+          "username": "@Kamada_Samurai",
+          "languageCode": "JA",
+          "originalText": "鎌田大地ついに！ FPLでも期待できるし、ニューカッスルを勝利に導いてくれ！",
+          "translatedText": "鎌田大地ついに！ FPLでも期待できるし、ニューカッスルを勝利に導いてくれ！",
+          "likes": 287
+        },
+        {
+          "id": "id-1776012349225-gfpsepk6h",
+          "username": "@TacticsTalker",
+          "languageCode": "EN",
+          "originalText": "Interesting sub at 1-0. Pino was looking lively, maybe Kamada brings more control in midfield for Newcastle.",
+          "translatedText": "1-0の状況での面白い交代だ。ピノは活発に見えたが、鎌田はニューカッスルの中盤にもっとコントロールをもたらすかもしれない。",
+          "likes": 135
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/Willie_Fpl/status/2043337897399513309"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012355531-2npe4iafc",
+      "username": "@Furkan1903LC",
+      "verified": false,
+      "languageCode": "TR",
+      "originalText": "Daichi girdi, organizeyi yaptı; Mateta bitirdi! Easy money sniper 🇯🇵\n\n#Kamada",
+      "translatedText": "大地が入って、組み立てて、マテタが決めた！イージーマネーのスナイパー🇯🇵",
+      "likes": 75,
+      "retweets": 0,
+      "replies": [
+        {
+          "id": "id-1776012355531-azmqc4tau",
+          "username": "@EaglesFan1903",
+          "languageCode": "EN",
+          "originalText": "Kamada's impact is always immediate! Changes the entire dynamic. Great assist!",
+          "translatedText": "鎌田の影響力はいつも即座に表れる！試合の流れ全体を変えるね。素晴らしいアシスト！",
+          "likes": 275
+        },
+        {
+          "id": "id-1776012355531-pirwzdo97",
+          "username": "@サッカー好き侍",
+          "languageCode": "JA",
+          "originalText": "大地が起点になるのは流石だね。でも個人的にはもっと前から彼を使ってほしい…",
+          "translatedText": "大地が起点になるのは流石だね。でも個人的にはもっと前から彼を使ってほしい…",
+          "likes": 160
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/Furkan1903LC/status/2043338652747522302"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012363064-30zu3wfr2",
+      "username": "@duanepongo",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Kamada, Sarr and Wharton cooking",
+      "translatedText": "鎌田、サール、ウォートンが躍動してるね！",
+      "likes": 0,
+      "retweets": 0,
+      "replies": [
+        {
+          "id": "id-1776012363064-tt96aqume",
+          "username": "@KamadaSupporter",
+          "languageCode": "EN",
+          "originalText": "Absolutely! Kamada's playmaking has been exceptional, such a joy to watch him create opportunities.",
+          "translatedText": "その通り！鎌田選手のプレーメイクは並外れてるね、彼がチャンスを作り出すのを見るのは本当に楽しい。",
+          "likes": 310
+        },
+        {
+          "id": "id-1776012363064-7wqwf20ak",
+          "username": "@PremierLeagueJP",
+          "languageCode": "JA",
+          "originalText": "確かにウォートンはすごい！でもサールはもっと安定感欲しいな、ポテンシャルは高いけど。",
+          "translatedText": "確かにウォートンはすごい！でもサールはもっと安定感欲しいな、ポテンシャルは高いけど。",
+          "likes": 185
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/duanepongo/status/2043338884042338715"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012369095-9pkdpazo0",
+      "username": "@ZaieuZ15021",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Kamada Effect #CRYvsNEW #PL",
+      "translatedText": "鎌田効果 #CRYvsNEW #PL",
+      "likes": 1,
+      "retweets": 0,
+      "replies": [
+        {
+          "id": "id-1776012369095-d7tq5j39g",
+          "username": "@PLFanaticsUK",
+          "languageCode": "EN",
+          "originalText": "Absolutely, he's been instrumental today! What a signing for Palace.",
+          "translatedText": "その通りだ、彼は今日不可欠な存在だ！パレスにとってなんて素晴らしい獲得だ。",
+          "likes": 215
+        },
+        {
+          "id": "id-1776012369095-4cynn5coo",
+          "username": "@JLeague_Insider",
+          "languageCode": "JA",
+          "originalText": "最近良い調子ですね。このまま代表でも活躍してほしい！",
+          "translatedText": "最近良い調子ですね。このまま代表でも活躍してほしい！",
+          "likes": 120
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/ZaieuZ15021/status/2043342058019254734"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012373938-sy5fuqffk",
+      "username": "@ShunaCocoa",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "As soon as Kamata came on, the momentum shifted\n #kamada #CPFC",
+      "translatedText": "鎌田が入ってきてから、試合の流れが変わった",
+      "likes": 3,
+      "retweets": 0,
+      "replies": [
+        {
+          "id": "id-1776012373938-ynu30wzv1",
+          "username": "@CPFC_Supporter_jp",
+          "languageCode": "EN",
+          "originalText": "Totally agree! He brings a calming presence and better distribution to the midfield. Crucial sub!",
+          "translatedText": "全く同感！彼は中盤に落ち着きとより良い配給をもたらす。決定的な交代だったね！",
+          "likes": 187
+        },
+        {
+          "id": "id-1776012373939-pp74hy3ja",
+          "username": "@SoccerTacticsGuy",
+          "languageCode": "JA",
+          "originalText": "確かに流れは良くなったけど、相手が疲れてたのも大きいかもね。ただ、鎌田のパス回しはさすがだった。",
+          "translatedText": "確かに流れは良くなったけど、相手が疲れてたのも大きいかもね。ただ、鎌田のパス回しはさすがだった。",
+          "likes": 92
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/ShunaCocoa/status/2043343250296283257"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012378382-0ksnuo71w",
+      "username": "@tanaka05430543",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "@CPFC When Kamada plays, Palace win",
+      "translatedText": "鎌田がプレーすると、パレスは勝つ",
+      "likes": 42,
+      "retweets": 3,
+      "replies": [
+        {
+          "id": "id-1776012378382-ujsgvo4xt",
+          "username": "@Palace_JPN_Fan",
+          "languageCode": "EN",
+          "originalText": "He's been a revelation! So calm and composed on the ball, exactly what we needed in midfield.",
+          "translatedText": "彼は素晴らしい発見だ！ボールを持っても冷静で落ち着いているし、まさに中盤に必要だった選手だ。",
+          "likes": 210
+        },
+        {
+          "id": "id-1776012378382-wwnn37w5p",
+          "username": "@EaglesAnalyst",
+          "languageCode": "EN",
+          "originalText": "He definitely brings a different dimension to our attack, but the whole team's confidence is soaring. It's a great combination!",
+          "translatedText": "彼は間違いなく攻撃に異なる側面をもたらしているが、チーム全体の自信も急上昇している。素晴らしい組み合わせだね！",
+          "likes": 125
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/tanaka05430543/status/2043343506501255399"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012378959-uz4wevjb5",
+      "username": "@CPFCSKY",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "mateta was a game changer! also kamada was sooo good!",
+      "translatedText": "マテタはゲームチェンジャーだった！鎌田もめちゃくちゃ良かった！",
+      "likes": 0,
+      "retweets": 0,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/CPFCSKY/status/2043343536968331451"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012379570-qswlxqk3y",
+      "username": "@OverTheToon",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Wild how much more creativity even a team like Palace has than us. Kamada & Pino to name a couple of players. We have nobody at all. Team full of ‘athletes’ who look lost with the ball.\n\n#nufc #howe #palace",
+      "translatedText": "パレスのようなチームでさえ、うちより遥かにクリエイティビティがあるのが信じられない。鎌田やピノなど数人を挙げるだけでも。うちには誰もいない。ボールを持つと途方に暮れる「アスリート」だらけのチーム。",
+      "likes": 2,
+      "retweets": 0,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/OverTheToon/status/2043348340784472074"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012380081-romapsn50",
+      "username": "@TCPalacePod",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "I must admit, it’s quite nice being able to bring on the likes of Jean-Philippe Mateta, Ismaïla Sarr, Adam Wharton and Daichi Kamada. 😮‍💨\n\n#CPFC",
+      "translatedText": "正直言って、マテタ、サール、ウォートン、鎌田大地のような選手を途中投入できるのはなかなか素晴らしいことだ 😮‍💨",
+      "likes": 73,
+      "retweets": 3,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/TCPalacePod/status/2043350370265542766"
+    },
+    {
+      "date": "2026-04-12",
+      "id": "id-1776012380601-lva0rhjas",
+      "username": "@neiog",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "THE REAL JP MATETA IS BACK 🔥🔥🔥🔥🔥🔥🔥🔥🔥❤️💙\n\nBrilliant when he came on today and along with Sarr , Kamada and Wharton turned a bland low quality, uninspiring CPFC performance around into a Storming , Dynamic Win . Fabulous ❤️💙🔥🔥🔥🔥🔥🔥👏👏👏👏👏",
+      "translatedText": "本物のJPマテタが帰ってきた 🔥❤️💙\n\n今日途中出場して素晴らしかった。サール、鎌田、ウォートンと共に、退屈で質の低い、つまらないCPFCのパフォーマンスを一変させ、力強くダイナミックな勝利に変えた。最高だ ❤️💙🔥👏",
+      "likes": 0,
+      "retweets": 0,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/neiog/status/2043367379162341659"
+    }
+  ]
 }
