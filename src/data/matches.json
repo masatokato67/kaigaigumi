@@ -77,6 +77,48 @@
     }
   },
   {
+    "matchId": "sano_kaishu-20260412",
+    "playerId": "sano_kaishu",
+    "date": "2026-04-12",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "マインツ",
+      "score": 0
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.0129,
+      "totalPass": 39,
+      "accuratePass": 29,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "interceptionWon": 1,
+      "totalClearance": 2,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 6,
+      "aerialWon": 2,
+      "aerialLost": 4,
+      "touches": 48,
+      "wasFouled": 1,
+      "possessionLostCtrl": 12,
+      "dispossessed": 2
+    }
+  },
+  {
     "matchId": "mitoma-20260411",
     "playerId": "mitoma",
     "date": "2026-04-11",

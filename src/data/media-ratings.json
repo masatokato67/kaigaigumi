@@ -12646,6 +12646,215 @@
     "lastUpdated": "2026-03-06T15:21:31.326Z"
   },
   {
+    "matchId": "sano_kaishu-20260412",
+    "playerId": "sano_kaishu",
+    "ratings": [
+      {
+        "source": "Kicker",
+        "country": "ドイツ",
+        "rating": 6.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Decent showing. Did the basics well but nothing spectacular.",
+        "commentTranslated": "まずまずのプレー。基本はこなしたが、目立った活躍はなかった。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 6.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Standard performance. Met expectations without exceeding them.",
+        "commentTranslated": "標準的なパフォーマンス。期待通りだが、それ以上ではなかった。"
+      },
+      {
+        "source": "Sport1",
+        "country": "ドイツ",
+        "rating": 6.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Workmanlike display. Fulfilled his duties adequately.",
+        "commentTranslated": "堅実な仕事ぶり。役割を十分に果たした。"
+      }
+    ],
+    "averageRating": 6.3,
+    "localVoices": [
+      {
+        "id": "v_sano_kaishu-20260412_1",
+        "username": "@マインツ_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano did what was needed. Hoping for more next time.",
+        "translatedText": "佐野海舟にとって平均的な日。もっと良いプレーを見たことがある。"
+      },
+      {
+        "id": "v_sano_kaishu-20260412_2",
+        "username": "@マインツ_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano did what was needed. Hoping for more next time.",
+        "translatedText": "佐野海舟は必要なことをした。次はもっと期待したい。"
+      },
+      {
+        "id": "v_sano_kaishu-20260412_3",
+        "username": "@マインツ_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano did what was needed. Hoping for more next time.",
+        "translatedText": "佐野海舟にとって平均的な日。もっと良いプレーを見たことがある。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_sano_kaishu-20260412_1",
+        "username": "@ブンデスリーガNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "マインツ 0-1 フライブルク. Kaishu Sano played 90 minutes.",
+        "translatedText": "マインツ 0-1 フライブルク。佐野海舟は90分間プレー。",
+        "likes": 1413,
+        "retweets": 121,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260412_1_1",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 350
+          },
+          {
+            "id": "r_sano_kaishu-20260412_1_2",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 482
+          },
+          {
+            "id": "r_sano_kaishu-20260412_1_3",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 175
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260412_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【佐野海舟】ブンデスリーガ第17節、マインツ vs フライブルクで90分出場。評価6.3を獲得。",
+        "translatedText": "",
+        "likes": 1759,
+        "retweets": 365,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260412_2_1",
+            "username": "@FootballTruth_",
+            "languageCode": "EN",
+            "originalText": "He'll bounce back stronger 💪",
+            "translatedText": "次はもっと強く戻ってくるよ 💪",
+            "likes": 306
+          },
+          {
+            "id": "r_sano_kaishu-20260412_2_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Okay performance, I believe in him",
+            "translatedText": "普通のパフォーマンスだったけど、信じてる",
+            "likes": 130
+          },
+          {
+            "id": "r_sano_kaishu-20260412_2_3",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 71
+          },
+          {
+            "id": "r_sano_kaishu-20260412_2_4",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not good enough for this level",
+            "translatedText": "このレベルには足りてないかも",
+            "likes": 243
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260412_3",
+        "username": "@マインツFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano was alright. We know he can do better.",
+        "translatedText": "佐野海舟は悪くなかった。もっとできることはわかってる。",
+        "likes": 711,
+        "retweets": 36,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260412_3_1",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Invisible for most of the game...",
+            "translatedText": "試合のほとんどで存在感なかった...",
+            "likes": 107
+          },
+          {
+            "id": "r_sano_kaishu-20260412_3_2",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Disappointing, expected more",
+            "translatedText": "がっかり、もっとできると思ってた",
+            "likes": 286
+          },
+          {
+            "id": "r_sano_kaishu-20260412_3_3",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Decent effort, will be better next time",
+            "translatedText": "まあまあの出来、次はもっとやれる",
+            "likes": 99
+          }
+        ]
+      },
+      {
+        "id": "t_sano_kaishu-20260412_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kaishu Sano needs to find more consistency in his game.",
+        "translatedText": "スタッツは佐野海舟が今日は平均的だったことを示す。90分出場。",
+        "likes": 316,
+        "retweets": 208,
+        "replies": [
+          {
+            "id": "r_sano_kaishu-20260412_4_1",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Not bad, room for improvement though",
+            "translatedText": "悪くはない、でも改善の余地はあるかな",
+            "likes": 115
+          },
+          {
+            "id": "r_sano_kaishu-20260412_4_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Needs to do more to justify his place",
+            "translatedText": "ポジション確保するにはもっとやらないと",
+            "likes": 353
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "sano_kaishu-20260409",
     "playerId": "sano_kaishu",
     "ratings": [
