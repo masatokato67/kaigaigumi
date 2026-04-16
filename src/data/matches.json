@@ -1,5 +1,134 @@
 [
   {
+    "matchId": "kamada-20260416",
+    "playerId": "kamada",
+    "date": "2026-04-16",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": {
+      "name": "Fiorentina",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "クリスタルパレス",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 7.1
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 1,
+      "shotsOnTarget": 1,
+      "expectedGoals": 0.0669,
+      "expectedAssists": 0.0181,
+      "totalPass": 29,
+      "accuratePass": 25,
+      "totalCross": 2,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 4,
+      "totalTackle": 4,
+      "wonTackle": 3,
+      "totalClearance": 1,
+      "ballRecovery": 1,
+      "duelWon": 6,
+      "duelLost": 4,
+      "touches": 43,
+      "fouls": 2,
+      "wasFouled": 2,
+      "possessionLostCtrl": 6
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260416",
+    "playerId": "sano_kaishu",
+    "date": "2026-04-16",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": {
+      "name": "RC Strasbourg",
+      "score": 4
+    },
+    "awayTeam": {
+      "name": "マインツ",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 6.6
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalShots": 0,
+      "expectedAssists": 0.1054,
+      "totalPass": 28,
+      "accuratePass": 25,
+      "totalLongBalls": 1,
+      "totalTackle": 1,
+      "wonTackle": 1,
+      "interceptionWon": 4,
+      "totalClearance": 1,
+      "ballRecovery": 3,
+      "duelWon": 5,
+      "duelLost": 2,
+      "aerialWon": 2,
+      "touches": 43,
+      "wasFouled": 2,
+      "possessionLostCtrl": 6,
+      "dispossessed": 1
+    }
+  },
+  {
+    "matchId": "suzuki_yuito-20260416",
+    "playerId": "suzuki_yuito",
+    "date": "2026-04-16",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "Celta Vigo",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 2,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 8.4
+    },
+    "notable": true,
+    "detailedStats": {
+      "totalShots": 2,
+      "shotsOnTarget": 2,
+      "expectedGoals": 0.4712,
+      "expectedAssists": 0.0317,
+      "totalPass": 18,
+      "accuratePass": 11,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 2,
+      "totalTackle": 2,
+      "wonTackle": 1,
+      "ballRecovery": 2,
+      "duelWon": 5,
+      "duelLost": 8,
+      "touches": 33,
+      "fouls": 1,
+      "wasFouled": 2,
+      "possessionLostCtrl": 13,
+      "dispossessed": 4
+    }
+  },
+  {
     "matchId": "kamada-20260412",
     "playerId": "kamada",
     "date": "2026-04-12",
