@@ -1194,6 +1194,30 @@
         "isManual": true,
         "articleUrl": "https://www.spox.com/fussball/listen/spaziergang-in-spanien-sc-freiburg-erreicht-bei-celta-locker-das-halbfinale-der-europa-league/blta80eff1da573b850#csed8fd3fcef921a5e",
         "hasArticleRating": false
+      },
+      {
+        "source": "STERN.de",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Yuito Suzuki wird im Artikel als Torschütze für den SC Freiburg genannt, der in der 39. und 50. Minute traf und somit doppelt scorte. Er wird als Offensivspieler beschrieben, der nach seinem Treffer jubelte. Seine Tore trugen maßgeblich zum 3:1-Sieg Freiburgs gegen Celta Vigo und dem Einzug ins Europa-League-Halbfinale bei.",
+        "commentTranslated": "記事では、ユイト・スズキがSCフライブルクの得点者として言及されており、39分と50分にゴールを決め、2得点を挙げました。彼は得点後に喜んだ攻撃的選手として記述されています。彼のゴールは、セルタ・ビーゴに対するフライブルクの3対1の勝利と、ヨーロッパリーグ準決勝進出に大きく貢献しました。",
+        "isManual": true,
+        "articleUrl": "https://www.stern.de/sport/fussball/europa-league--sc-freiburg-nach-erneutem-sieg-im-halbfinale-37316706.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "Süddeutsche Zeitung",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Yuito Suzuki war ein entscheidender Spieler für Freiburg und erzielte zwei Tore (39. und 50. Minute) in der Partie. Sein erstes Tor zum 2:0 resultierte aus einem Ballgewinn, einem Doppelpass mit Niklas Beste auf der linken Seite und einem leicht abgefälschten Schuss im Fallen. Sein zweites Tor zum 3:0 erzielte er, indem er einen Nachschuss nach einer Manzambi-Aktion mit Übersicht ins rechte untere Eck platzierte. Er wird als \"Doppeltorschütze für den SC\" hervorgehoben.",
+        "commentTranslated": "鈴木唯人はフライブルクにとって決定的な選手であり、試合で2ゴール（39分と50分）を挙げました。彼の2-0となる最初のゴールは、ボール奪取から左サイドでニクラス・ベステとのワンツーパスを経て、倒れ込みながら放ったわずかにコースの変わったシュートによるものでした。3-0となる彼の2点目のゴールは、マンザンビのアクションからこぼれたボールを、広い視野を持って右下隅に落ち着いて決めたものです。彼は「SCの2得点者」として際立っています。",
+        "isManual": true,
+        "articleUrl": "https://www.sueddeutsche.de/sport/fussball-europa-league-freiburg-furios-nach-erneutem-sieg-im-halbfinale-dpa.urn-newsml-dpa-com-20090101-260416-930-955286",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 8.4,
@@ -1332,7 +1356,7 @@
         "postUrl": "https://x.com/JapaneseFbl/status/2044862521668993129"
       }
     ],
-    "lastUpdated": "2026-04-16T23:23:02.360Z"
+    "lastUpdated": "2026-04-17T02:34:33.899Z"
   },
   {
     "matchId": "suzuki_yuito-20260409",
