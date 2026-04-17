@@ -212,6 +212,41 @@ async function main() {
 
     // averageRatingはSofaScoreのデータを使用（記事評価では上書きしない）
 
+    // 入力ファイルから削除された記事を除外
+    const inputUrlSet = new Set(articles);
+    const removedRatings = mediaData.ratings.filter(
+      (r) => r.isManual && r.articleUrl && !inputUrlSet.has(r.articleUrl)
+    );
+    if (removedRatings.length > 0) {
+      mediaData.ratings = mediaData.ratings.filter(
+        (r) => !r.isManual || !r.articleUrl || inputUrlSet.has(r.articleUrl)
+      );
+      removedRatings.forEach((r) =>
+        console.log(`  [削除] ${r.source}: 入力ファイルから除外済み`)
+      );
+      updated = true;
+    }
+
+    // 入力ファイルの順番に並び替え
+    const orderedRatings: MediaRating[] = [];
+    for (const url of articles) {
+      const found = mediaData.ratings.find((r) => r.articleUrl === url);
+      if (found) orderedRatings.push(found);
+    }
+    // 入力ファイルにないもの（URLなし等）は末尾に追加
+    for (const r of mediaData.ratings) {
+      if (!orderedRatings.includes(r)) orderedRatings.push(r);
+    }
+    // 順番が変わったか判定
+    const orderChanged = mediaData.ratings.some(
+      (r, i) => orderedRatings[i] !== r
+    );
+    if (orderChanged) {
+      mediaData.ratings = orderedRatings;
+      console.log(`  [並替] 記事を入力ファイルの順番に並び替え`);
+      updated = true;
+    }
+
     console.log(
       `📰 記事処理完了: 新規${newCount}件, スキップ${skipCount}件`
     );
@@ -348,6 +383,39 @@ async function main() {
       }
     }
 
+    // 入力ファイルから削除されたスレッドを除外
+    const inputThreadUrlSet = new Set(threadUrls);
+    const removedThreads = mediaData.xThreads.filter(
+      (t) => t.isManual && t.postUrl && !inputThreadUrlSet.has(t.postUrl)
+    );
+    if (removedThreads.length > 0) {
+      mediaData.xThreads = mediaData.xThreads.filter(
+        (t) => !t.isManual || !t.postUrl || inputThreadUrlSet.has(t.postUrl)
+      );
+      removedThreads.forEach((t) =>
+        console.log(`  [削除] ${t.username}: 入力ファイルから除外済み`)
+      );
+      updated = true;
+    }
+
+    // 入力ファイルの順番に並び替え
+    const orderedThreads: XThread[] = [];
+    for (const url of threadUrls) {
+      const found = mediaData.xThreads.find((t) => t.postUrl === url);
+      if (found && !orderedThreads.includes(found)) orderedThreads.push(found);
+    }
+    for (const t of mediaData.xThreads) {
+      if (!orderedThreads.includes(t)) orderedThreads.push(t);
+    }
+    const threadOrderChanged = mediaData.xThreads.some(
+      (t, i) => orderedThreads[i] !== t
+    );
+    if (threadOrderChanged) {
+      mediaData.xThreads = orderedThreads;
+      console.log(`  [並替] Xスレッドを入力ファイルの順番に並び替え`);
+      updated = true;
+    }
+
     console.log(
       `🐦 Xスレッド処理完了: 新規${newCount}件, スキップ${skipCount}件`
     );
@@ -359,6 +427,51 @@ async function main() {
         console.log(`  [削除] 自動生成Xスレッド ${autoThreads.length}件を削除`);
       }
       updated = true;
+    }
+
+    // 翻訳未生成のスレッドを再処理
+    const untranslated = mediaData.xThreads.filter(
+      (t) => !t.translatedText || t.translatedText === "（翻訳未生成）"
+    );
+    if (untranslated.length > 0) {
+      console.log(`\n🔄 翻訳未生成 ${untranslated.length}件を再処理\n`);
+      let retryOk = 0;
+      let retryFail = 0;
+
+      for (const thread of untranslated) {
+        if (!thread.postUrl) continue;
+        try {
+          const extracted = await extractThread(
+            thread.postUrl,
+            player.name.ja,
+            player.name.en
+          );
+          thread.translatedText = extracted.translatedText;
+          thread.languageCode = extracted.languageCode;
+          // リプライが空の場合のみ補完
+          if (thread.replies.length === 0 && extracted.replies.length > 0) {
+            thread.replies = extracted.replies.map((r): ThreadReply => ({
+              id: generateId(),
+              username: r.username,
+              languageCode: r.languageCode,
+              originalText: r.originalText,
+              translatedText: r.translatedText,
+              likes: r.likes,
+            }));
+          }
+          retryOk++;
+          console.log(`  [翻訳] ${thread.username} (${extracted.languageCode})`);
+          console.log(`         ${extracted.translatedText.slice(0, 60)}...`);
+          console.log();
+        } catch (error) {
+          retryFail++;
+          console.log(
+            `  [エラー] ${thread.username}\n         ${error instanceof Error ? error.message : error}\n`
+          );
+        }
+      }
+      console.log(`🔄 再処理完了: 成功${retryOk}件, 失敗${retryFail}件`);
+      if (retryOk > 0) updated = true;
     }
   }
 
