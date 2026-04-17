@@ -25016,31 +25016,28 @@
     "playerId": "kamada",
     "ratings": [
       {
-        "source": "WhoScored",
-        "country": "国際",
+        "source": "Sportsdunia",
+        "country": "不明",
         "rating": 7,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Solid performance. Contributed well to the team's play.",
-        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+        "comment": "Daichi Kamada was described as a workhorse in midfield for Crystal Palace. He made four tackles and maintained an 86% pass accuracy, showcasing tidiness in possession. Despite his efforts to move his team forward, he was often fighting a losing battle against a dominant Fiorentina midfield, yet his effort and determination were admired.",
+        "commentTranslated": "鎌田大地はクリスタル・パレスの中盤の「働き者」と評された。彼は4回のタックルを決め、86%のパス成功率を維持し、ポゼッションにおける堅実さを示した。チームを前進させようと努力したものの、フィオレンティーナの優勢な中盤相手に苦戦を強いられたが、彼の努力と決意は評価された。",
+        "isManual": true,
+        "articleUrl": "https://www.sportsdunia.com/football-ratings/fiorentina-vs-crystal-palace-player-ratings-uefa-conference-league-16th-april-2026",
+        "hasArticleRating": true
       },
       {
-        "source": "SofaScore",
-        "country": "国際",
-        "rating": 6.9,
+        "source": "Read Crystal Palace",
+        "country": "イングランド",
+        "rating": 0,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Impressive display. Showed quality throughout the match.",
-        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
-      },
-      {
-        "source": "FotMob",
-        "country": "国際",
-        "rating": 7.3,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "Effective performance. Made an impact when it mattered.",
-        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+        "comment": "Daichi Kamada is enjoying a fine season at Crystal Palace, recently providing an assist and an excellent performance in the Europa Conference League. He is considered the funniest player due to his comments about a language barrier with teammate Yeremy Pino, stating, 'Unfortunately I can’t speak with Yeremy a lot because he can’t speak good English and I also can’t speak English well.' However, he clarified they communicate effectively on the pitch through football's universal language.",
+        "commentTranslated": "鎌田大地は、クリスタル・パレスで好調なシーズンを過ごしており、最近のヨーロッパ・カンファレンスリーグではアシストを記録し、素晴らしいパフォーマンスを見せた。彼はチームメイトのジェレミー・ピノとの間の言葉の壁について、『残念ながら、ピノは英語があまり得意ではなく、私も英語があまり得意ではないため、彼とたくさん話すことはできない』と述べたことで、チーム内で最も面白い選手と評されている。しかし、彼はピッチ上ではサッカーという普遍的な言語を通じて効果的にコミュニケーションが取れていると説明した。",
+        "isManual": true,
+        "articleUrl": "https://readcrystalpalace.com/2026/04/16/crystal-palace-fans-crying-kamada-not-speaking-to-pino-football-soccer",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 7.1,
@@ -25075,150 +25072,217 @@
     ],
     "xThreads": [
       {
-        "id": "t_kamada-20260416_1",
-        "username": "@カンファレンスリーグNews",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Fiorentina 2-1 クリスタルパレス. Daichi Kamada played 90 minutes.",
-        "translatedText": "Fiorentina 2-1 クリスタルパレス。鎌田大地は90分間プレー。",
-        "likes": 2404,
-        "retweets": 50,
-        "replies": [
-          {
-            "id": "r_kamada-20260416_1_1",
-            "username": "@FootballTruth_",
-            "languageCode": "EN",
-            "originalText": "Good performance, building momentum.",
-            "translatedText": "良いパフォーマンス、勢いが出てきた。",
-            "likes": 233
-          },
-          {
-            "id": "r_kamada-20260416_1_2",
-            "username": "@LaLigaLover",
-            "languageCode": "EN",
-            "originalText": "Not as impactful as the stats suggest",
-            "translatedText": "スタッツほどインパクトなかった",
-            "likes": 11
-          },
-          {
-            "id": "r_kamada-20260416_1_3",
-            "username": "@EredivisieFan",
-            "languageCode": "EN",
-            "originalText": "Impressed with his work rate today!",
-            "translatedText": "今日の運動量には感心した！",
-            "likes": 126
-          }
-        ]
-      },
-      {
-        "id": "t_kamada-20260416_2",
-        "username": "@JFootballNews",
-        "verified": true,
-        "languageCode": "JA",
-        "originalText": "【鎌田大地】カンファレンスリーグ第6節、Fiorentina vs クリスタルパレスで90分出場。評価7.1を獲得。",
-        "translatedText": "",
-        "likes": 1372,
-        "retweets": 395,
-        "replies": [
-          {
-            "id": "r_kamada-20260416_2_1",
-            "username": "@FootballTruth_",
-            "languageCode": "EN",
-            "originalText": "Could have done better in key moments",
-            "translatedText": "重要な場面でもっとできたはず",
-            "likes": 30
-          },
-          {
-            "id": "r_kamada-20260416_2_2",
-            "username": "@SamuraiBlue_Fan",
-            "languageCode": "EN",
-            "originalText": "Impressed with his work rate today!",
-            "translatedText": "今日の運動量には感心した！",
-            "likes": 486
-          },
-          {
-            "id": "r_kamada-20260416_2_3",
-            "username": "@FootballFan_JP",
-            "languageCode": "EN",
-            "originalText": "Expected more from him tbh",
-            "translatedText": "正直もっと期待してた",
-            "likes": 310
-          },
-          {
-            "id": "r_kamada-20260416_2_4",
-            "username": "@LaLigaLover",
-            "languageCode": "EN",
-            "originalText": "Always reliable. Great asset for the team.",
-            "translatedText": "いつも信頼できる。チームの財産だね。",
-            "likes": 485
-          }
-        ]
-      },
-      {
-        "id": "t_kamada-20260416_3",
-        "username": "@クリスタルパレスFans",
+        "id": "id-1776395634899-aotd9c2ug",
+        "username": "@GeorgeHilder5",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "Daichi Kamada did well today. Good to see him contributing.",
-        "translatedText": "鎌田大地、またしても堅実なパフォーマンス。この調子で！💪",
-        "likes": 331,
-        "retweets": 29,
+        "originalText": "Good to get through but not a good performance.\nMatch ratings:\nHenderson 7\nMunoz 7\nRichards 8.5\nCanvot 9\nLacroix 7.5\nMitchell 8\nWharton 7\nKamada 8\nSarr 8.5\nPino 6\nMateta 6\nSubs:\nLerma 6\nHughes 5\nLarsen 7\nRiad 6\n#cpfc",
+        "translatedText": "突破できてよかったけど、良いパフォーマンスではなかった。試合採点：ヘンダーソン 7 ムニョス 7 リチャーズ 8.5 カンヴォ 9 ラクロワ 7.5 ミッチェル 8 ウォートン 7 鎌田 8 サール 8.5 ピノ 6 マテタ 6 交代：レルマ 6 ヒューズ 5 ラーセン 7 リアド 6 #cpfc",
+        "likes": 14,
+        "retweets": 0,
         "replies": [
           {
-            "id": "r_kamada-20260416_3_1",
-            "username": "@FootballFan_JP",
+            "id": "id-1776395691933-ufj2ah4df",
+            "username": "@CPFC_Eagle_JPN",
             "languageCode": "EN",
-            "originalText": "Expected more from him tbh",
-            "translatedText": "正直もっと期待してた",
-            "likes": 68
+            "originalText": "Kamada was class tonight, an 8 feels fair especially with the rest of the team struggling. Great to see him contributing.",
+            "translatedText": "今夜の鎌田は素晴らしかった、チームが苦戦する中で8点は妥当だと感じる。貢献してくれて嬉しいね。",
+            "likes": 187
           },
           {
-            "id": "r_kamada-20260416_3_2",
-            "username": "@PitchSideView",
+            "id": "id-1776395691933-0grd7ttpz",
+            "username": "@PalaceFanatik",
             "languageCode": "EN",
-            "originalText": "Impressed with his work rate today!",
-            "translatedText": "今日の運動量には感心した！",
-            "likes": 285
-          },
-          {
-            "id": "r_kamada-20260416_3_3",
-            "username": "@SamuraiBlue_Fan",
-            "languageCode": "EN",
-            "originalText": "Average at best, don't get the hype",
-            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
-            "likes": 79
+            "originalText": "Agree on the overall performance, quite flat. Mateta and Pino really struggled to make an impact upfront, those ratings are tough but fair.",
+            "translatedText": "全体のパフォーマンスには同意だ、かなり精彩を欠いていた。マテタとピノは前線でインパクトを残すのに本当に苦戦していたね、あの採点は厳しいけど公平だ。",
+            "likes": 93
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/GeorgeHilder5/status/2044884632357818661"
       },
       {
-        "id": "t_kamada-20260416_4",
-        "username": "@FootballAnalyst",
-        "verified": true,
+        "id": "id-1776395640395-hg7e4rpzg",
+        "username": "@joealtobelli9",
+        "verified": false,
         "languageCode": "EN",
-        "originalText": "Positive stats for Daichi Kamada: 90min, efficient in his role.",
-        "translatedText": "鎌田大地、今日は良い判断力を見せた。全体的に堅実な貢献。",
-        "likes": 1188,
-        "retweets": 197,
+        "originalText": "@PalaceReport Kamada, he was everywhere today",
+        "translatedText": "鎌田、彼は今日どこにでもいた",
+        "likes": 11,
+        "retweets": 0,
         "replies": [
           {
-            "id": "r_kamada-20260416_4_1",
-            "username": "@FootyAnalysis",
+            "id": "id-1776395640395-p99bzqqex",
+            "username": "@CPFC_EagleFan",
             "languageCode": "EN",
-            "originalText": "Average at best, don't get the hype",
-            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
-            "likes": 226
+            "originalText": "Totally agree! His work rate was incredible, bossed the midfield.",
+            "translatedText": "全く同感です！彼の運動量は信じられないほどで、中盤を支配していた。",
+            "likes": 185
           },
           {
-            "id": "r_kamada-20260416_4_2",
-            "username": "@PitchSideView",
+            "id": "id-1776395640395-we3icm9pa",
+            "username": "@SakuraFootball",
             "languageCode": "EN",
-            "originalText": "Solid game from him today 👍",
-            "translatedText": "今日も安定した試合だった 👍",
-            "likes": 99
+            "originalText": "High energy for sure, but maybe a bit too much running sometimes when we needed more structure upfront. Still a solid performance.",
+            "translatedText": "確かにエネルギーは高かったが、前線でもっと組織が必要な時に、時には走りすぎた感もある。それでも堅実なパフォーマンスだった。",
+            "likes": 95
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/joealtobelli9/status/2044884935530439117"
+      },
+      {
+        "id": "id-1776395647799-blm91t405",
+        "username": "@OisinDubai",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "@ThePalaceWay Was way better when Kamada moved to 10",
+        "translatedText": "鎌田が10番の位置に動いてからはるかに良くなった",
+        "likes": 6,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776395647799-xjs246s65",
+            "username": "@PalaceEagleFan",
+            "languageCode": "EN",
+            "originalText": "Absolutely! He dictates play so much more from there and his link-up with Olise and Eze is crucial. Proper number 10.",
+            "translatedText": "まさにその通り！あそこからだと彼はもっと試合を支配できるし、オリセやエゼとの連携は決定的に重要だね。真の10番だよ。",
+            "likes": 287
+          },
+          {
+            "id": "id-1776395647799-e9u8nx86f",
+            "username": "@サッカー日本代表ファン",
+            "languageCode": "JA",
+            "originalText": "確かに10番の鎌田は輝いてたけど、チーム全体のバランスも良くなったからってのもあるよね。深い位置でも貢献できる選手だと思うけどな。",
+            "translatedText": "確かに10番の鎌田は輝いてたけど、チーム全体のバランスも良くなったからってのもあるよね。深い位置でも貢献できる選手だと思うけどな。",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "http://x.com/OisinDubai/status/2044885793513374023"
+      },
+      {
+        "id": "id-1776395654279-wd90rk8tt",
+        "username": "@Phillyconcarne",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Think Sarr’s opener was vital. Just put the game beyond them. Back 5 kept us in it, when Lacroix ent off they all had to shift and Riad had to come in having hardly played and didn’t put a foot wrong. Kamada was excellent again",
+        "translatedText": "サールの先制点が重要だったと思う。あれで試合は彼らの手の届かないところに行った。バック5が我々を支え、ラクロワが退場した後、全員が位置をずらし、ほとんどプレーしていなかったリアドが入ってきたが、彼は全くミスをしなかった。鎌田はまたしても素晴らしかった。",
+        "likes": 34,
+        "retweets": 2,
+        "replies": [
+          {
+            "id": "id-1776395654279-6ttxvo2u5",
+            "username": "@FootballPundit_JP",
+            "languageCode": "EN",
+            "originalText": "Kamada really bossed the midfield, constantly winning balls and his passing was spot on. A true engine for the team!",
+            "translatedText": "鎌田は本当に中盤を支配していたね。常にボールを奪い、パスも正確だった。チームの真のエンジンだよ！",
+            "likes": 280
+          },
+          {
+            "id": "id-1776395654279-bvk8a511q",
+            "username": "@SoccerStatsGuy",
+            "languageCode": "EN",
+            "originalText": "While Kamada was great, don't forget the work rate of the entire team after Lacroix went off. The defensive resilience was truly impressive.",
+            "translatedText": "鎌田は素晴らしかったが、ラクロワ退場後のチーム全体の運動量も忘れてはいけない。守備の粘り強さは本当に感動的だった。",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/Phillyconcarne/status/2044885902388756729"
+      },
+      {
+        "id": "id-1776395661111-kryvx5dhs",
+        "username": "@CPFC_arg",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "PUNTAJES DE LA CLASIFICACIÓN A SEMIFINALES VS FIORENTINA:\n\nXI titular:\n\nHenderson 7\nMuñoz 7,5\nRichards 8\nCanvot 9⭐️\nLacroix 7\nMitchell 8\nWharton 6\nKamada 8,5\nSarr 8,5\nPino 6\nMateta 6\n\nCambios:\nLerma 6\nHughes 6\nLarsen 6\nRiad 5\n\nq opinan? los leo\n\n#cpfc #crystalpalacefiorentina",
+        "translatedText": "フィオレンティーナ戦、準決勝進出の採点：\n\nスタメン：\n\nヘンダーソン 7\nムニョス 7.5\nリチャーズ 8\nカンボット 9⭐️\nラクロワ 7\nミッチェル 8\nウォートン 6\n鎌田 8.5\nサール 8.5\nピノ 6\nマテタ 6\n\n交代出場：\nレルマ 6\nヒューズ 6\nラーセン 6\nリアド 5\n\nどう思いますか？皆さんの意見を聞かせてください\n\n#cpfc #crystalpalacefiorentina",
+        "likes": 6,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776395661111-jz65ouqs6",
+            "username": "@CPFC_Fanatic",
+            "languageCode": "EN",
+            "originalText": "Kamada was immense tonight! 8.5 is well deserved, he really dictated the midfield. Great win lads!",
+            "translatedText": "鎌田は今夜すごかった！8.5は当然の評価だよ、彼が本当に中盤を支配していた。素晴らしい勝利だ！",
+            "likes": 187
+          },
+          {
+            "id": "id-1776395661111-pjld4ku1u",
+            "username": "@サッカー日本代表_ファン",
+            "languageCode": "JA",
+            "originalText": "鎌田選手は確かに良かったけど、終盤は少し疲れてたかな？でもあのパスは痺れた！準決勝も期待！",
+            "translatedText": "鎌田選手は確かに良かったけど、終盤は少し疲れてたかな？でもあのパスは痺れた！準決勝も期待！",
+            "likes": 92
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFC_arg/status/2044887340401697202"
+      },
+      {
+        "id": "id-1776395676423-fdfofupvk",
+        "username": "@PalaceReport",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Who was your MOTM today?",
+        "translatedText": "今日のMOTMは誰でしたか？",
+        "likes": 88,
+        "retweets": 3,
+        "replies": [
+          {
+            "id": "id-1776395676423-pcxjjjw5m",
+            "username": "@CPFC_Fanatic",
+            "languageCode": "EN",
+            "originalText": "Has to be Eze for me, he was everywhere and that goal was incredible! What a performance.",
+            "translatedText": "私にとってはエゼですね、彼はどこにでもいて、あのゴールは信じられないほどでした！素晴らしいパフォーマンスでした。",
+            "likes": 287
+          },
+          {
+            "id": "id-1776395676423-pa3meipim",
+            "username": "@TokyoEagles",
+            "languageCode": "JA",
+            "originalText": "今日の試合はとても良かったけど、早く鎌田大地選手が加わってほしいですね！彼ならいつでもMOTM候補になれるはず！",
+            "translatedText": "今日の試合はとても良かったけど、早く鎌田大地選手が加わってほしいですね！彼ならいつでもMOTM候補になれるはず！",
+            "likes": 123
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/PalaceReport/status/2044884813610402225"
+      },
+      {
+        "id": "id-1776395683180-br6cu1z3z",
+        "username": "@ShunaCocoa",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "It was a tough match, but \nWe are happy that We can still keep chasing our dream. #kamada #CPFC",
+        "translatedText": "厳しい試合だったけど、まだ夢を追い続けられることが嬉しいです。 #kamada #CPFC",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776395683180-1n0f8rlzp",
+            "username": "@PalaceFanKen",
+            "languageCode": "EN",
+            "originalText": "Exactly! Never give up, the fight continues. Kamada was brilliant today, always gives 100%. COYP!",
+            "translatedText": "その通り！決して諦めない、戦いは続く。鎌田は今日も素晴らしかった、いつも100%だ。COYP！",
+            "likes": 178
+          },
+          {
+            "id": "id-1776395683180-atbx41ybg",
+            "username": "@FootballObserver_JP",
+            "languageCode": "JA",
+            "originalText": "気持ちはわかるけど、次節はもっと決定力が欲しい。鎌田選手も終盤は少し疲れて見えた。#CPFC",
+            "translatedText": "気持ちはわかるけど、次節はもっと決定力が欲しい。鎌田選手も終盤は少し疲れて見えた。#CPFC",
+            "likes": 92
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/ShunaCocoa/status/2044930943493067040"
       }
-    ]
+    ],
+    "lastUpdated": "2026-04-17T03:14:51.933Z"
   },
   {
     "matchId": "kamada-20260412",
