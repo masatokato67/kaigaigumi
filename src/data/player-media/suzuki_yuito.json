@@ -1,5 +1,19 @@
 {
   "playerId": "suzuki_yuito",
-  "mediaRatings": [],
+  "mediaRatings": [
+    {
+      "date": "2026-04-17",
+      "source": "X",
+      "country": "アメリカ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "The provided article text is an error message indicating that JavaScript is disabled and does not contain any information about Yuito Suzuki or football-related content.",
+      "commentTranslated": "提供された記事のテキストは、JavaScriptが無効であることを示すエラーメッセージであり、鈴木唯人選手やサッカー関連のコンテンツに関する情報は一切含まれていません。",
+      "isManual": true,
+      "articleUrl": "https://x.com/vclosbfut/status/2044838044784583135",
+      "hasArticleRating": false
+    }
+  ],
   "xThreads": []
 }

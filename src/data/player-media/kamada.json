@@ -17,6 +17,37 @@
   ],
   "xThreads": [
     {
+      "date": "2026-04-17",
+      "id": "id-1776396201792-9z1ae9sxz",
+      "username": "@ajascpfc",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🥇Player of the Season  - Sarr\n🥈Young POTS - Canvot\n⚽️ Goal of the Season - Uche vs KuPs\n✍️ Best Signing - Canvot\n📈 Most Improved - Kamada\n😢 Biggest Letdown - Nketiah\n🦸‍♂️ Unsung Hero - Lerma",
+      "translatedText": "🥇シーズン最優秀選手 - サール\n🥈若手最優秀選手 - カンヴォット\n⚽️ シーズン最優秀ゴール - ウチェ vs KuPs\n✍️ 最優秀契約 - カンヴォット\n📈 最も改善された選手 - 鎌田\n😢 最も期待外れ - エンケティア\n🦸‍♂️ 陰のヒーロー - レルマ",
+      "likes": 249,
+      "retweets": 3,
+      "replies": [
+        {
+          "id": "id-1776396201792-50qmvpw3j",
+          "username": "@KamadaFanatic_EN",
+          "languageCode": "EN",
+          "originalText": "Kamada definitely deserves Most Improved! He's been immense for us, really stepped up his game this season.",
+          "translatedText": "鎌田は間違いなく最も改善された選手に値する！彼は我々にとって計り知れない存在で、今シーズンは本当に彼のプレーがレベルアップした。",
+          "likes": 210
+        },
+        {
+          "id": "id-1776396201792-y6d5dkxyn",
+          "username": "@JLeague_Insider",
+          "languageCode": "JA",
+          "originalText": "鎌田がMost Improvedは納得できるけど、個人的にはUnsung Heroもアリだと思う。彼の守備貢献はもっと評価されてもいいはず。",
+          "translatedText": "鎌田がMost Improvedは納得できるけど、個人的にはUnsung Heroもアリだと思う。彼の守備貢献はもっと評価されてもいいはず。",
+          "likes": 125
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/ajascpfc/status/2044476428683497516"
+    },
+    {
       "date": "2026-04-12",
       "id": "id-1776012349224-bnqufeabv",
       "username": "@Willie_Fpl",
