@@ -1,4 +1,19 @@
 {
+  "mitoma-20260418": {
+    "enabled": true,
+    "youtubeId": "FlDQktFaxgU",
+    "title": ""
+  },
+  "kubo-20260418": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260418": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "kamada-20260416": {
     "enabled": true,
     "youtubeId": "d_S5FgXQ-jA",

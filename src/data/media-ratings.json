@@ -5984,6 +5984,215 @@
     "lastUpdated": "2026-03-06T15:21:31.324Z"
   },
   {
+    "matchId": "shiogai-20260418",
+    "playerId": "shiogai",
+    "ratings": [
+      {
+        "source": "Kicker",
+        "country": "ドイツ",
+        "rating": 6.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "Bild",
+        "country": "ドイツ",
+        "rating": 6.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "Sport1",
+        "country": "ドイツ",
+        "rating": 6.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.3,
+    "localVoices": [
+      {
+        "id": "v_shiogai-20260418_1",
+        "username": "@ヴォルフスブルク_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai had a solid game. Good contribution overall.",
+        "translatedText": "塩貝健人がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_shiogai-20260418_2",
+        "username": "@ヴォルフスブルク_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai showing why he's so valuable to the team.",
+        "translatedText": "塩貝健人のパフォーマンスに満足。しっかり仕事をした。"
+      },
+      {
+        "id": "v_shiogai-20260418_3",
+        "username": "@ヴォルフスブルク_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Kento Shiogai's performance. Did his job well.",
+        "translatedText": "塩貝健人は堅実な試合だった。全体的に良い貢献。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_shiogai-20260418_1",
+        "username": "@ブンデスリーガNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "ウニオン・ベルリン 1-2 ヴォルフスブルク. Kento Shiogai played 1 minutes.",
+        "translatedText": "ウニオン・ベルリン 1-2 ヴォルフスブルク。塩貝健人は1分間プレー。",
+        "likes": 887,
+        "retweets": 268,
+        "replies": [
+          {
+            "id": "r_shiogai-20260418_1_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 191
+          },
+          {
+            "id": "r_shiogai-20260418_1_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 275
+          },
+          {
+            "id": "r_shiogai-20260418_1_3",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 313
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260418_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【塩貝健人】ブンデスリーガ第15節、ウニオン・ベルリン vs ヴォルフスブルクで1分出場。評価6.3を獲得。",
+        "translatedText": "",
+        "likes": 1605,
+        "retweets": 295,
+        "replies": [
+          {
+            "id": "r_shiogai-20260418_2_1",
+            "username": "@JLeagueWatcher",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 467
+          },
+          {
+            "id": "r_shiogai-20260418_2_2",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 117
+          },
+          {
+            "id": "r_shiogai-20260418_2_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 459
+          },
+          {
+            "id": "r_shiogai-20260418_2_4",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 443
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260418_3",
+        "username": "@ヴォルフスブルクFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai did well today. Good to see him contributing.",
+        "translatedText": "塩貝健人の運動量に満足。チームにとって重要な選手だ。",
+        "likes": 369,
+        "retweets": 58,
+        "replies": [
+          {
+            "id": "r_shiogai-20260418_3_1",
+            "username": "@SerieAWatch",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 502
+          },
+          {
+            "id": "r_shiogai-20260418_3_2",
+            "username": "@FootballFan_JP",
+            "languageCode": "EN",
+            "originalText": "Impressed with his work rate today!",
+            "translatedText": "今日の運動量には感心した！",
+            "likes": 372
+          },
+          {
+            "id": "r_shiogai-20260418_3_3",
+            "username": "@FootyAnalysis",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 318
+          }
+        ]
+      },
+      {
+        "id": "t_shiogai-20260418_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Kento Shiogai maintaining consistency. Professional performance.",
+        "translatedText": "塩貝健人、今日は良い判断力を見せた。全体的に堅実な貢献。",
+        "likes": 510,
+        "retweets": 61,
+        "replies": [
+          {
+            "id": "r_shiogai-20260418_4_1",
+            "username": "@SamuraiBlue_Fan",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 87
+          },
+          {
+            "id": "r_shiogai-20260418_4_2",
+            "username": "@EuroFootball_",
+            "languageCode": "EN",
+            "originalText": "Always reliable. Great asset for the team.",
+            "translatedText": "いつも信頼できる。チームの財産だね。",
+            "likes": 240
+          }
+        ]
+      }
+    ]
+  },
+  {
     "matchId": "shiogai-20260411",
     "playerId": "shiogai",
     "ratings": [
@@ -18578,6 +18787,209 @@
     "lastUpdated": "2026-03-06T15:21:31.326Z"
   },
   {
+    "matchId": "mitoma-20260418",
+    "playerId": "mitoma",
+    "ratings": [
+      {
+        "source": "Yahoo Sports",
+        "country": "カナダ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaoru Mitoma came on as a substitute for the injured Diego Gómez earlier in the game. He scored Brighton & Hove Albion's first goal, leveling the score at 1-1 in first-half stoppage time. The winger perfectly met Pascal Gross's cross and volleyed it into the roof of the net, marking his third goal in 22 competition matches.",
+        "commentTranslated": "三笘薫は、負傷したディエゴ・ゴメスの代わりに途中出場した。彼は前半アディショナルタイムにブライトン＆ホーヴ・アルビオンの同点ゴールを決め、スコアを1-1とした。このウインガーはパスカル・グロスのクロスに完璧に合わせ、ネット上部にボレーシュートを決め、今季公式戦22試合で3ゴール目となった。",
+        "isManual": true,
+        "articleUrl": "https://ca.sports.yahoo.com/news/rutters-stoppage-time-goal-prevents-183500878.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "The Athletic",
+        "country": "アメリカ合衆国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaoru Mitoma equalised for Brighton with a rocket of a first-time left-footed volley from an acute angle just before half-time. He entered the game as a replacement for the injured Diego Gomez, allowing him to operate in his preferred left-wing position. However, Mitoma himself went off injured in the second half.",
+        "commentTranslated": "三笘薫はハーフタイム直前に、鋭角からのロケットのようなファーストタッチの左足ボレーでブライトンの同点ゴールを決めた。負傷したディエゴ・ゴメスの交代要員として出場し、得意の左ウィングでプレーした。しかし、三笘自身も後半に負傷退場した。",
+        "isManual": true,
+        "articleUrl": "https://www.nytimes.com/athletic/7207767/2026/04/18/tottenham-brighton-simons-premier-league-result/",
+        "hasArticleRating": false
+      },
+      {
+        "source": "FOX Sports",
+        "country": "アメリカ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaoru Mitoma scored a significant equalizer for Brighton against Tottenham. He volleyed the ball home in first-half stoppage time, leveling the score after Pedro Porro had initially given Tottenham the lead in the match that ended in a 2-2 draw.",
+        "commentTranslated": "三笘薫はトッテナム戦でブライトンの重要な同点ゴールを決めました。ペドロ・ポロがトッテナムに先制点をもたらした後、彼は前半のアディショナルタイムにボレーでゴールを決め、試合は2-2の引き分けに終わりました。",
+        "isManual": true,
+        "articleUrl": "https://www.foxsports.com/articles/soccer/late-goal-hurts-tottenhams-premier-league-survival-hopes-and-chelsea-loses-to-man-united",
+        "hasArticleRating": false
+      },
+      {
+        "source": "Fox Sports",
+        "country": "オーストラリア",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaoru Mitoma, coming on as a substitute for Brighton, scored a 'wonder goal' and 'dazzling equaliser' just before half-time, leveling the score at 1-1. He received a long cross from Pascal Gross while 'lingering unnoticed at the back post' and 'sweetly side-footed home a volley,' a goal which 'sucked the energy out of the stadium.' His performance included a significant, impactful goal for Brighton.",
+        "commentTranslated": "ブライトンの交代出場選手である三笘薫は、ハーフタイム直前に「ワンダーゴール」であり「眩いばかりの同点弾」を決め、スコアを1-1に同点にした。彼はパスカル・グロスのロングクロスを「バックポストで気づかれずに滞在」しながら受け、「見事にハーフボレーを蹴り込み」、そのゴールは「スタジアムから活気を奪い去った」と描写されている。彼のパフォーマンスには、ブライトンにとって重要で影響力のあるゴールが含まれていた。",
+        "isManual": true,
+        "articleUrl": "https://www.foxsports.com.au/football/premier-league/premier-league-2026-spurs-rocked-by-late-equaliser-against-brighton-epl-scores-results-tottenham-in-relegation-fight-newcastle-slump-to-defeat-eddie-howe-future/news-story/f9853a9cad5c2bbeed8247a9b3fa22a4",
+        "hasArticleRating": false
+      }
+    ],
+    "averageRating": 7.5,
+    "localVoices": [
+      {
+        "id": "v_mitoma-20260418_1",
+        "username": "@ブライトン_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma dominated the game. World class display!",
+        "translatedText": "三笘薫のパフォーマンスは最高だった！最初から最後までクラスの違いを見せた。"
+      },
+      {
+        "id": "v_mitoma-20260418_2",
+        "username": "@ブライトン_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma dominated the game. World class display!",
+        "translatedText": "三笘薫が試合を支配した。ワールドクラスのプレー！"
+      },
+      {
+        "id": "v_mitoma-20260418_3",
+        "username": "@ブライトン_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "What a performance from Kaoru Mitoma! Class act from start to finish.",
+        "translatedText": "三笘薫が試合を支配した。ワールドクラスのプレー！"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "id-1776556268218-g72jjla2y",
+        "username": "@premierleague",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Kaoru Mitoma 🤝 Juan Mata\n\nThe technique on these volleys 🫨\n\n@OfficialBHAFC",
+        "translatedText": "三笘薫 🤝 フアン・マタ\n\nこのボレーのテクニックはすごい 🫨\n\n@OfficialBHAFC",
+        "likes": 2471,
+        "retweets": 224,
+        "replies": [
+          {
+            "id": "id-1776556268218-emi331nis",
+            "username": "@MitomaMagic",
+            "languageCode": "EN",
+            "originalText": "Mitoma's technique is just sublime, what a player! Great comparison to Mata, both have such class when striking the ball.",
+            "translatedText": "三笘のテクニックは本当に素晴らしい、なんて選手だ！マタとの比較も的確だね、二人ともボールを打つ時に本当に上品さがある。",
+            "likes": 287
+          },
+          {
+            "id": "id-1776556268218-v4yvpg8jl",
+            "username": "@サッカー大好き日本人",
+            "languageCode": "JA",
+            "originalText": "三笘選手のボレーは本当に芸術的！マタもレジェンドだけど、ミトマの決定力も素晴らしい時がある。もっとゴールが見たい！",
+            "translatedText": "三笘選手のボレーは本当に芸術的！マタもレジェンドだけど、ミトマの決定力も素晴らしい時がある。もっとゴールが見たい！",
+            "likes": 175
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/premierleague/status/2045625307131007375"
+      },
+      {
+        "id": "id-1776556277072-i8idvqigb",
+        "username": "@DNewsong",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Mitoma are mad??? 😭😭",
+        "translatedText": "三笘、やばすぎだろ？？？ 😭😭",
+        "likes": 56,
+        "retweets": 20,
+        "replies": [
+          {
+            "id": "id-1776556277072-0mlvik5a8",
+            "username": "@BrightonMitoma",
+            "languageCode": "EN",
+            "originalText": "Nah, he's just pure class. Defenders can't handle his close control! 🔥",
+            "translatedText": "いや、彼は純粋な才能だよ。ディフェンダーは彼の細かいボールコントロールに対応できないんだ！ 🔥",
+            "likes": 210
+          },
+          {
+            "id": "id-1776556277072-wi8nun80t",
+            "username": "@J_League_Watcher",
+            "languageCode": "EN",
+            "originalText": "Been saying this since his Kawasaki days! The guy is a genius, just needs the right system.",
+            "translatedText": "川崎時代からずっと言ってるよ！ 彼は天才だ、ただ適切なシステムが必要なだけさ。",
+            "likes": 135
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/DNewsong/status/2045553574063530349"
+      },
+      {
+        "id": "id-1776556283971-h3z2iabx3",
+        "username": "@henrywinter",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Mitoma looking to defend his BBC Match of the Day Goal of the Season title (won last year for his three exquisite touches and strike against Chelsea). His latest gem, a magnificent volley against Spurs, certainly one of the goals of the month. #TOTBHA",
+        "translatedText": "三笘は、昨年のチェルシー戦での3つの絶妙なタッチとシュートで獲得したBBCマッチ・オブ・ザ・デイ年間最優秀ゴール賞のタイトルを防衛しようとしている。彼の最新の傑作、スパーズ戦での見事なボレーは、間違いなく今月のゴールの一つだ。#TOTBHA",
+        "likes": 174,
+        "retweets": 5,
+        "replies": [
+          {
+            "id": "id-1776556283971-03eaaebam",
+            "username": "@BrightonFanJPN",
+            "languageCode": "EN",
+            "originalText": "That volley was pure class! He makes it look so easy. Definitely deserves to be in contention for Goal of the Month, if not more!",
+            "translatedText": "あのボレーは本当に一流だった！彼はあれをとても簡単にやってのけるね。年間最優秀ゴールとまではいかなくても、今月のゴールにノミネートされる価値は絶対にある！",
+            "likes": 287
+          },
+          {
+            "id": "id-1776556283971-jdvdhivsr",
+            "username": "@Football_Analyst",
+            "languageCode": "EN",
+            "originalText": "It was a great goal, but the Chelsea one had that extra level of skill and context. This one's fantastic, but maybe not quite the same level of genius for GOTS. Still, what a player!",
+            "translatedText": "素晴らしいゴールだったけど、チェルシー戦のゴールにはさらに上の技術と文脈があったね。これも素晴らしいけど、年間最優秀ゴール賞レベルの天才的なゴールではないかも。それでも、なんて選手だ！",
+            "likes": 172
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/henrywinter/status/2045556175463194859"
+      },
+      {
+        "id": "id-1776556284866-d3vpbs141",
+        "username": "@mitch_fretton",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "So frustrating. In these situations, Xavi has to score the second. Mitoma coming on was the worst thing that could’ve happened to us. He always scores against us.",
+        "translatedText": "（翻訳未生成）",
+        "likes": 224,
+        "retweets": 3,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/mitch_fretton/status/2045553443872334175"
+      },
+      {
+        "id": "id-1776556285387-k7b3zypch",
+        "username": "@fplblackbox_az",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "I’m gutted for Gomez. He’s been arguably our player of the season and has the full faith of Herzeler despite both Mitoma and Minteh being fit.\n\nHe looks genuinely fucked. Just hope he’s okay for the World Cup.",
+        "translatedText": "（翻訳未生成）",
+        "likes": 72,
+        "retweets": 0,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/fplblackbox_az/status/2045548069777748221"
+      }
+    ],
+    "lastUpdated": "2026-04-18T23:51:26.428Z"
+  },
+  {
     "matchId": "mitoma-20260411",
     "playerId": "mitoma",
     "ratings": [
@@ -22143,6 +22555,215 @@
       }
     ],
     "lastUpdated": "2026-03-06T15:21:31.326Z"
+  },
+  {
+    "matchId": "kubo-20260418",
+    "playerId": "kubo",
+    "ratings": [
+      {
+        "source": "WhoScored",
+        "country": "国際",
+        "rating": 6.3,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Solid performance. Contributed well to the team's play.",
+        "commentTranslated": "堅実なパフォーマンス。チームのプレーに貢献した。"
+      },
+      {
+        "source": "SofaScore",
+        "country": "国際",
+        "rating": 6.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Impressive display. Showed quality throughout the match.",
+        "commentTranslated": "印象的な活躍。試合を通じてクオリティを見せた。"
+      },
+      {
+        "source": "FotMob",
+        "country": "国際",
+        "rating": 6.6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Effective performance. Made an impact when it mattered.",
+        "commentTranslated": "効果的なプレー。重要な場面で存在感を示した。"
+      }
+    ],
+    "averageRating": 6.4,
+    "localVoices": [
+      {
+        "id": "v_kubo-20260418_1",
+        "username": "@レアルソシエダ_Fan1",
+        "role": "サポーター",
+        "roleKey": "supporter",
+        "languageCode": "EN",
+        "originalText": "Pleased with Takefusa Kubo's performance. Did his job well.",
+        "translatedText": "久保建英は堅実な試合だった。全体的に良い貢献。"
+      },
+      {
+        "id": "v_kubo-20260418_2",
+        "username": "@レアルソシエダ_Fan2",
+        "role": "アナリスト",
+        "roleKey": "analyst",
+        "languageCode": "EN",
+        "originalText": "Takefusa Kubo had a solid game. Good contribution overall.",
+        "translatedText": "久保建英がチームにとって貴重な存在である理由を示した。"
+      },
+      {
+        "id": "v_kubo-20260418_3",
+        "username": "@レアルソシエダ_Fan3",
+        "role": "ジャーナリスト",
+        "roleKey": "journalist",
+        "languageCode": "EN",
+        "originalText": "Pleased with Takefusa Kubo's performance. Did his job well.",
+        "translatedText": "久保建英のパフォーマンスに満足。しっかり仕事をした。"
+      }
+    ],
+    "xThreads": [
+      {
+        "id": "t_kubo-20260418_1",
+        "username": "@コパデルレイNews",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Atlético Madrid 5-6 レアル・ソシエダ. Takefusa Kubo played 32 minutes.",
+        "translatedText": "Atlético Madrid 5-6 レアル・ソシエダ。久保建英は32分間プレー。",
+        "likes": 1698,
+        "retweets": 313,
+        "replies": [
+          {
+            "id": "r_kubo-20260418_1_1",
+            "username": "@GoalDigger_",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 255
+          },
+          {
+            "id": "r_kubo-20260418_1_2",
+            "username": "@LaLigaLover",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 360
+          },
+          {
+            "id": "r_kubo-20260418_1_3",
+            "username": "@PitchSideView",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 320
+          }
+        ]
+      },
+      {
+        "id": "t_kubo-20260418_2",
+        "username": "@JFootballNews",
+        "verified": true,
+        "languageCode": "JA",
+        "originalText": "【久保建英】コパ・デル・レイ第19節、Atlético Madrid vs レアル・ソシエダで32分出場。評価6.4を獲得。",
+        "translatedText": "",
+        "likes": 1870,
+        "retweets": 278,
+        "replies": [
+          {
+            "id": "r_kubo-20260418_2_1",
+            "username": "@BundesligaFan",
+            "languageCode": "EN",
+            "originalText": "Needs to step up in bigger games",
+            "translatedText": "大きな試合でもっと活躍しないと",
+            "likes": 398
+          },
+          {
+            "id": "r_kubo-20260418_2_2",
+            "username": "@EredivisieFan",
+            "languageCode": "EN",
+            "originalText": "Consistent as always. Well done! 💪",
+            "translatedText": "相変わらず安定してる。よくやった！💪",
+            "likes": 57
+          },
+          {
+            "id": "r_kubo-20260418_2_3",
+            "username": "@SoccerLover99",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 53
+          },
+          {
+            "id": "r_kubo-20260418_2_4",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Could have done better in key moments",
+            "translatedText": "重要な場面でもっとできたはず",
+            "likes": 94
+          }
+        ]
+      },
+      {
+        "id": "t_kubo-20260418_3",
+        "username": "@レアルソシエダFans",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Another solid performance from Takefusa Kubo. Keep it up! 💪",
+        "translatedText": "久保建英、またしても堅実なパフォーマンス。この調子で！💪",
+        "likes": 766,
+        "retweets": 90,
+        "replies": [
+          {
+            "id": "r_kubo-20260418_3_1",
+            "username": "@TacticsNerd",
+            "languageCode": "EN",
+            "originalText": "Good performance, building momentum.",
+            "translatedText": "良いパフォーマンス、勢いが出てきた。",
+            "likes": 418
+          },
+          {
+            "id": "r_kubo-20260418_3_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Expected more from him tbh",
+            "translatedText": "正直もっと期待してた",
+            "likes": 411
+          },
+          {
+            "id": "r_kubo-20260418_3_3",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Not as impactful as the stats suggest",
+            "translatedText": "スタッツほどインパクトなかった",
+            "likes": 370
+          }
+        ]
+      },
+      {
+        "id": "t_kubo-20260418_4",
+        "username": "@FootballAnalyst",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Takefusa Kubo maintaining consistency. Professional performance.",
+        "translatedText": "久保建英、安定感を維持。プロフェッショナルなパフォーマンス。",
+        "likes": 1080,
+        "retweets": 205,
+        "replies": [
+          {
+            "id": "r_kubo-20260418_4_1",
+            "username": "@MatchdayVibes",
+            "languageCode": "EN",
+            "originalText": "Solid game from him today 👍",
+            "translatedText": "今日も安定した試合だった 👍",
+            "likes": 172
+          },
+          {
+            "id": "r_kubo-20260418_4_2",
+            "username": "@PremFan2024",
+            "languageCode": "EN",
+            "originalText": "Average at best, don't get the hype",
+            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
+            "likes": 26
+          }
+        ]
+      }
+    ]
   },
   {
     "matchId": "kubo-20260411",
