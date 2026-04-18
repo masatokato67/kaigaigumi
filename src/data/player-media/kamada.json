@@ -2,6 +2,32 @@
   "playerId": "kamada",
   "mediaRatings": [
     {
+      "date": "2026-04-18",
+      "source": "Read Crystal Palace",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada, described as the funniest player in the Crystal Palace squad, is having a fine season and provided an assist in their Europa Conference League quarter-final first leg. He humorously explained a language barrier with teammate Yeremy Pino, noting neither speaks good English, but they communicate effectively through football on the pitch. Since joining as a free agent in July 2024, Kamada has become a fan favorite at Selhurst Park.",
+      "commentTranslated": "クリスタル・パレスのチーム内で最も面白い選手と称される鎌田大地は、好調なシーズンを送っており、ヨーロッパ・カンファレンスリーグ準々決勝の第1戦でアシストを記録した。彼はチームメイトのジェレミー・ピノとの間の言葉の壁についてユーモラスに説明し、お互いに英語が上手ではないが、ピッチ上ではサッカーを通じて効果的にコミュニケーションが取れると述べた。2024年7月にフリーエージェントとして加入して以来、鎌田はセルハースト・パークでファンのお気に入りとなっている。",
+      "isManual": true,
+      "articleUrl": "https://readcrystalpalace.com/2026/04/16/crystal-palace-fans-crying-kamada-not-speaking-to-pino-football-soccer",
+      "hasArticleRating": false
+    },
+    {
+      "date": "2026-04-18",
+      "source": "Football Italia",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Crystal Palace midfielder Daichi Kamada sent a warm message to Lazio supporters, stating he had a wonderful year there but remains puzzled by his departure circumstances. He was a standout performer in Palace's first-leg victory and is now an influential figure under Oliver Glasner, emphasizing defensive solidity and counter-attacking efficiency. Kamada, whose contract expires soon, remained vague about his future, preferring to focus on the present.",
+      "commentTranslated": "クリスタルパレスのミッドフィールダー鎌田大地は、ラツィオのサポーターに温かいメッセージを送り、そこで素晴らしい一年を過ごしたものの、退団の経緯については依然として困惑していると述べた。彼はパレスの第1戦での勝利で傑出した選手であり、オリバー・グラスナー監督の下で影響力のある選手の一人として、守備の堅実さとカウンターアタックの効率性を強調している。契約が間もなく切れる鎌田は、自身の将来については現状に集中したいとして曖昧な態度をとった。",
+      "isManual": true,
+      "articleUrl": "https://sports.yahoo.com/articles/crystal-palace-star-kamada-send-205000771.html",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-04-12",
       "source": "Football Insider",
       "country": "イングランド",

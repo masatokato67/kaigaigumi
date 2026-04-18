@@ -1,5 +1,32 @@
 {
   "playerId": "mitoma",
-  "mediaRatings": [],
+  "mediaRatings": [
+    {
+      "date": "2026-04-18",
+      "source": "X (formerly Twitter)",
+      "country": "アメリカ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "The provided article text is an error message from x.com stating that JavaScript is not available and something went wrong. It does not contain any information about Kaoru Mitoma, tactical observations, performance notes, or quotes regarding the player.",
+      "commentTranslated": "提供された記事のテキストは、JavaScriptが利用できないこと、そして何らかの問題が発生したことを示すx.comからのエラーメッセージです。三笘薫選手に関する情報、戦術的観察、パフォーマンスの記録、引用は一切含まれていません。",
+      "isManual": true,
+      "articleUrl": "https://x.com/AndrewJames1901/status/2044767429964783820",
+      "hasArticleRating": false
+    },
+    {
+      "date": "2026-04-18",
+      "source": "BrightonBuzzz (X)",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "The provided article text is an error message indicating that JavaScript is disabled, preventing access to the actual content. Consequently, it contains no information, tactical observations, performance notes, or quotes about Kaoru Mitoma. There is no mention of the player whatsoever within the accessible text.",
+      "commentTranslated": "提供された記事テキストは、JavaScriptが無効になっていることを示すエラーメッセージであり、実際のコンテンツへのアクセスを妨げています。その結果、三笘薫に関する情報、戦術的な観察、パフォーマンスのメモ、引用は一切含まれていません。アクセス可能なテキスト内には、選手に関する言及が一切ありません。",
+      "isManual": true,
+      "articleUrl": "https://x.com/BrightonBuzzz/status/2044755633342185566",
+      "hasArticleRating": false
+    }
+  ],
   "xThreads": []
 }

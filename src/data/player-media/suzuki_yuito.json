@@ -15,5 +15,37 @@
       "hasArticleRating": false
     }
   ],
-  "xThreads": []
+  "xThreads": [
+    {
+      "date": "2026-04-18",
+      "id": "id-1776488475543-61p90ccoy",
+      "username": "@vclosbfut",
+      "verified": false,
+      "languageCode": "CA",
+      "originalText": "Yuito Suzuki suma 8 gols i 5 assistències en els 37 partits que ha disputat aquesta temporada. El migcampista japonès de 24 anys està completant un primer any al Freiburg excel·lent. Va costar 10 milions d'euros. L'estiu del 2023 estava jugant a la 2na divisió del futbol japonès.",
+      "translatedText": "鈴木唯人は今シーズン出場した37試合で8ゴール5アシストを記録しています。24歳の日本人ミッドフィールダーはフライブルクでの初年度を素晴らしいものにしています。彼は1000万ユーロの移籍金でした。2023年夏には日本のJ2リーグでプレーしていました。",
+      "likes": 8,
+      "retweets": 1,
+      "replies": [
+        {
+          "id": "id-1776488475543-nn36x5ru1",
+          "username": "@FriburgFanCat",
+          "languageCode": "CA",
+          "originalText": "Quin salt de qualitat! Des de la J2 a la Bundesliga i rendint així és impressionant. Gran aposta del Freiburg.",
+          "translatedText": "なんと素晴らしい飛躍だ！J2からブンデスリーガへ、そしてこれだけ結果を出すなんて感動的だ。フライブルクの素晴らしい賭けだったね。",
+          "likes": 210
+        },
+        {
+          "id": "id-1776488475543-0n2cf5gyf",
+          "username": "@JLeagueScout",
+          "languageCode": "EN",
+          "originalText": "Incredible progress from J2 to Bundesliga impact. Goes to show the talent often hidden in lower divisions. Great scouting by Freiburg!",
+          "translatedText": "J2からブンデスリーガで活躍するとは信じられない成長だ。下部リーグに隠れた才能がいかに多いかを示している。フライブルクの素晴らしいスカウティングだね！",
+          "likes": 145
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/vclosbfut/status/2044838044784583135"
+    }
+  ]
 }
