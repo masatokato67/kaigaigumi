@@ -22620,150 +22620,187 @@
     ],
     "xThreads": [
       {
-        "id": "t_kubo-20260418_1",
-        "username": "@コパデルレイNews",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Atlético Madrid 5-6 レアル・ソシエダ. Takefusa Kubo played 32 minutes.",
-        "translatedText": "Atlético Madrid 5-6 レアル・ソシエダ。久保建英は32分間プレー。",
-        "likes": 1698,
-        "retweets": 313,
-        "replies": [
-          {
-            "id": "r_kubo-20260418_1_1",
-            "username": "@GoalDigger_",
-            "languageCode": "EN",
-            "originalText": "Good performance, building momentum.",
-            "translatedText": "良いパフォーマンス、勢いが出てきた。",
-            "likes": 255
-          },
-          {
-            "id": "r_kubo-20260418_1_2",
-            "username": "@LaLigaLover",
-            "languageCode": "EN",
-            "originalText": "Needs to step up in bigger games",
-            "translatedText": "大きな試合でもっと活躍しないと",
-            "likes": 360
-          },
-          {
-            "id": "r_kubo-20260418_1_3",
-            "username": "@PitchSideView",
-            "languageCode": "EN",
-            "originalText": "Expected more from him tbh",
-            "translatedText": "正直もっと期待してた",
-            "likes": 320
-          }
-        ]
-      },
-      {
-        "id": "t_kubo-20260418_2",
-        "username": "@JFootballNews",
-        "verified": true,
-        "languageCode": "JA",
-        "originalText": "【久保建英】コパ・デル・レイ第19節、Atlético Madrid vs レアル・ソシエダで32分出場。評価6.4を獲得。",
-        "translatedText": "",
-        "likes": 1870,
-        "retweets": 278,
-        "replies": [
-          {
-            "id": "r_kubo-20260418_2_1",
-            "username": "@BundesligaFan",
-            "languageCode": "EN",
-            "originalText": "Needs to step up in bigger games",
-            "translatedText": "大きな試合でもっと活躍しないと",
-            "likes": 398
-          },
-          {
-            "id": "r_kubo-20260418_2_2",
-            "username": "@EredivisieFan",
-            "languageCode": "EN",
-            "originalText": "Consistent as always. Well done! 💪",
-            "translatedText": "相変わらず安定してる。よくやった！💪",
-            "likes": 57
-          },
-          {
-            "id": "r_kubo-20260418_2_3",
-            "username": "@SoccerLover99",
-            "languageCode": "EN",
-            "originalText": "Solid game from him today 👍",
-            "translatedText": "今日も安定した試合だった 👍",
-            "likes": 53
-          },
-          {
-            "id": "r_kubo-20260418_2_4",
-            "username": "@TacticsNerd",
-            "languageCode": "EN",
-            "originalText": "Could have done better in key moments",
-            "translatedText": "重要な場面でもっとできたはず",
-            "likes": 94
-          }
-        ]
-      },
-      {
-        "id": "t_kubo-20260418_3",
-        "username": "@レアルソシエダFans",
+        "id": "id-1776557658641-if539f9a7",
+        "username": "@JapaneseFbl",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "Another solid performance from Takefusa Kubo. Keep it up! 💪",
-        "translatedText": "久保建英、またしても堅実なパフォーマンス。この調子で！💪",
-        "likes": 766,
-        "retweets": 90,
+        "originalText": "🇪🇸🏆 TAKEFUSA KUBO IS A COPA DEL REY CHAMPION!\n\nReal Sociedad beat Atletico Madrid on penalties, Kubo coming on in the 88th minute.\n\nCongratulations Take and Real Sociedad.",
+        "translatedText": "🇪🇸🏆 久保建英がコパ・デル・レイのチャンピオンに！\n\nレアル・ソシエダがアトレティコ・マドリードにPK戦で勝利し、久保は88分に途中出場しました。\n\nタケとレアル・ソシエダ、おめでとうございます。",
+        "likes": 533,
+        "retweets": 35,
         "replies": [
           {
-            "id": "r_kubo-20260418_3_1",
-            "username": "@TacticsNerd",
+            "id": "id-1776557658641-x455a19fi",
+            "username": "@KuboMagic_JP",
             "languageCode": "EN",
-            "originalText": "Good performance, building momentum.",
-            "translatedText": "良いパフォーマンス、勢いが出てきた。",
-            "likes": 418
+            "originalText": "Yes! So happy for Kubo and La Real! What a performance from the whole team, winning on penalties is always thrilling.",
+            "translatedText": "やった！久保とラ・レアルを本当に嬉しく思う！チーム全体の素晴らしいパフォーマンスだったし、PK戦での勝利はいつもスリリングだね。",
+            "likes": 215
           },
           {
-            "id": "r_kubo-20260418_3_2",
-            "username": "@PremFan2024",
+            "id": "id-1776557658641-2lfn2m61d",
+            "username": "@LaLigaInsider",
             "languageCode": "EN",
-            "originalText": "Expected more from him tbh",
-            "translatedText": "正直もっと期待してた",
-            "likes": 411
-          },
-          {
-            "id": "r_kubo-20260418_3_3",
-            "username": "@MatchdayVibes",
-            "languageCode": "EN",
-            "originalText": "Not as impactful as the stats suggest",
-            "translatedText": "スタッツほどインパクトなかった",
-            "likes": 370
+            "originalText": "A trophy is a trophy! Though Kubo only played a few minutes, he's now a champion. Hopefully, this momentum helps him secure more regular playing time next season.",
+            "translatedText": "トロフィーはトロフィーだ！久保の出場時間はわずかだったが、彼は今やチャンピオンだ。この勢いが来シーズンのより定期的な出場時間確保に役立つことを願う。",
+            "likes": 138
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/JapaneseFbl/status/2045621786616672283"
       },
       {
-        "id": "t_kubo-20260418_4",
-        "username": "@FootballAnalyst",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Takefusa Kubo maintaining consistency. Professional performance.",
-        "translatedText": "久保建英、安定感を維持。プロフェッショナルなパフォーマンス。",
-        "likes": 1080,
-        "retweets": 205,
+        "id": "id-1776557664863-n29hw55dj",
+        "username": "@RuidoFalotano",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "No me gustan nada los penaltis. Tienen a Kubo y a un par mas frescos que la pegan bien. Un golito antes porfavor",
+        "translatedText": "PKは全く好きじゃない。久保と、良いシュートを打てるフレッシュな選手が他にも数人いるんだから。お願いだから、その前にゴールを決めてくれ。",
+        "likes": 1,
+        "retweets": 1,
         "replies": [
           {
-            "id": "r_kubo-20260418_4_1",
-            "username": "@MatchdayVibes",
-            "languageCode": "EN",
-            "originalText": "Solid game from him today 👍",
-            "translatedText": "今日も安定した試合だった 👍",
-            "likes": 172
+            "id": "id-1776557664863-60w8d4c2w",
+            "username": "@KuboMagicFan",
+            "languageCode": "ES",
+            "originalText": "Totalmente de acuerdo! Con la calidad de Kubo y los otros, se puede ganar sin llegar a eso. Un golazo y a casa!",
+            "translatedText": "全く同感です！久保と他の選手の質があれば、PKなしで勝てますよ。スーパーゴールを決めて家に帰りましょう！",
+            "likes": 285
           },
           {
-            "id": "r_kubo-20260418_4_2",
-            "username": "@PremFan2024",
+            "id": "id-1776557664863-j2pke2xdl",
+            "username": "@ReplayRico",
             "languageCode": "EN",
-            "originalText": "Average at best, don't get the hype",
-            "translatedText": "正直平均的。なぜ騒がれてるのかわからない",
-            "likes": 26
+            "originalText": "I get it, but sometimes penalties are just part of the game. Let's trust our boys to get it done one way or another!",
+            "translatedText": "気持ちは分かるけど、PKも試合の一部だからね。選手たちが何とかしてくれると信じよう！",
+            "likes": 160
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/RuidoFalotano/status/2045617055680860240"
+      },
+      {
+        "id": "id-1776557679122-q86gyb5zi",
+        "username": "@JhonRojas",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "El embajador de #eFootball, 🇯🇵 Takefusa Kubo, se proclamó campeón de la 🏆🇪🇸  Copa del Rey tras vencer en penales al Atlético de Madrid.\nSeguro Konami no dejará pasar la oportunidad https://x.com/RealSociedad/status/2045622167501476067",
+        "translatedText": "#eFootball のアンバサダーである🇯🇵 久保建英が、PK戦でアトレティコ・マドリードを破り、🏆🇪🇸 コパ・デル・レイで優勝しました。コナミはこの機会を逃さないでしょうね。https://x.com/RealSociedad/status/2045622167501476067",
+        "likes": 4,
+        "retweets": 1,
+        "replies": [
+          {
+            "id": "id-1776557679122-yx8nwcnyb",
+            "username": "@KuboMagic_JP",
+            "languageCode": "JA",
+            "originalText": "久保選手、コパデルレイ優勝おめでとうございます！eFootballでもっと活躍する姿が見られるのが楽しみですね！",
+            "translatedText": "久保選手、コパデルレイ優勝おめでとうございます！eFootballでもっと活躍する姿が見られるのが楽しみですね！",
+            "likes": 350
+          },
+          {
+            "id": "id-1776557679122-unwixcq60",
+            "username": "@LaLigaInsiderES",
+            "languageCode": "ES",
+            "originalText": "Vaya notición lo de Kubo y la Copa! Konami siempre atento a sus embajadores, seguro que ya tienen algo preparado. ¿Pero contra el Atleti?",
+            "translatedText": "久保選手と国王杯の素晴らしいニュースですね！コナミは常にアンバサダーに注目していますから、きっと何か準備しているでしょう。でもアトレティコ相手に？",
+            "likes": 190
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/JhonRojas/status/2045641007782334486"
+      },
+      {
+        "id": "id-1776557686559-48yh12dpm",
+        "username": "@entregolseanime",
+        "verified": false,
+        "languageCode": "PT",
+        "originalText": "Takefusa Kubo campeão da Copa do Rei da Espanha. 🏆",
+        "translatedText": "久保建英、スペイン国王杯優勝。🏆",
+        "likes": 4,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776557686559-u43g9n6n7",
+            "username": "@KuboSupporterJPN",
+            "languageCode": "JA",
+            "originalText": "久保選手、国王杯優勝おめでとうございます！歴史的な瞬間ですね！今後の活躍も期待しています！",
+            "translatedText": "久保選手、国王杯優勝おめでとうございます！歴史的な瞬間ですね！今後の活躍も期待しています！",
+            "likes": 380
+          },
+          {
+            "id": "id-1776557686559-x0sp4ixnl",
+            "username": "@RealSociedadFanPT",
+            "languageCode": "PT",
+            "originalText": "Grande Kubo! Merecido demais. Ele foi crucial nessa campanha. Agora é continuar crescendo!",
+            "translatedText": "素晴らしい久保！当然の勝利。彼はこのキャンペーンで非常に重要だった。さあ、成長を続けよう！",
+            "likes": 210
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/entregolseanime/status/2045624122432975115"
+      },
+      {
+        "id": "id-1776557697673-5v1535oe1",
+        "username": "@ibonleibar",
+        "verified": false,
+        "languageCode": "EU",
+        "originalText": "Partiduko notak:\nMarrero 11, onena!\nAramburu 9\nJon Martin 9\nCaleta 8\nSergio Gomez 7\nTurri 8\nSoler 8\nSucic 8\nGuedes 9\nBarrene 9\nOyar 10\n\nGorrotxa 7\nOskarsson 7\nKubo 9\nMarin 10\nAhien 8",
+        "translatedText": "試合の採点：\nマレーロ 11、最高！\nアランブル 9\nジョン・マルティン 9\nカレタ 8\nセルヒオ・ゴメス 7\nトゥーリ 8\nソレール 8\nスシッチ 8\nゲデス 9\nバレネチェ 9\nオヤルサバル 10\n\nゴロチャ 7\nオスカルソン 7\n久保 9\nマリン 10\nアイエン 8",
+        "likes": 2,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1776557697673-oqfq27sz6",
+            "username": "@RealSociedad_Fan",
+            "languageCode": "EU",
+            "originalText": "Kubo beti bikaina! Merezi du 9 hori, gure motorra da.",
+            "translatedText": "久保はいつも素晴らしい！あの9点は当然、彼は私たちの原動力だ。",
+            "likes": 312
+          },
+          {
+            "id": "id-1776557697673-geba9mxbb",
+            "username": "@FutbolZalea",
+            "languageCode": "EU",
+            "originalText": "Marrero eta Oyar 10/11! Eta Marin ere bikain, justu horiek. Partida oso ona taldearena.",
+            "translatedText": "マレーロとオヤルサバルは10/11点！そしてマリンも素晴らしかった、採点通りだ。チーム全体でとても良い試合だったね。",
+            "likes": 187
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/ibonleibar/status/2045623203326791711"
+      },
+      {
+        "id": "id-1776557704578-4rjpjuwv6",
+        "username": "@JInsiderBR",
+        "verified": false,
+        "languageCode": "PT",
+        "originalText": "🏆| TAKE KUBO CAMPEÃO DA COPA DO REI!\n\nNos pênaltis, a Real Sociedad vence o Atletico de Madrid e conquista a Copa do Rei!",
+        "translatedText": "🏆| 久保建英がコパ・デル・レイ優勝！PK戦の末、レアル・ソシエダがアトレティコ・マドリードを破り、コパ・デル・レイを獲得！",
+        "likes": 45,
+        "retweets": 1,
+        "replies": [
+          {
+            "id": "id-1776557704578-m4qg5z7hi",
+            "username": "@KuboFanaticEN",
+            "languageCode": "EN",
+            "originalText": "YESSS KUBOOOO! What a performance! So proud of Real Sociedad, deserved champions! #Kubo #RealSociedad",
+            "translatedText": "やったー、久保ー！素晴らしいパフォーマンス！レアル・ソシエダを誇りに思う、当然の王者だ！#久保 #レアル・ソシエダ",
+            "likes": 320
+          },
+          {
+            "id": "id-1776557704578-uxlfus7vl",
+            "username": "@サッカー好き🇯🇵",
+            "languageCode": "JA",
+            "originalText": "PK戦は心臓に悪い展開だったけど、久保選手もチームもよく頑張った！本当に感動しました。おめでとう！",
+            "translatedText": "PK戦は心臓に悪い展開だったけど、久保選手もチームもよく頑張った！本当に感動しました。おめでとう！",
+            "likes": 185
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/JInsiderBR/status/2045622136903966789"
       }
-    ]
+    ],
+    "lastUpdated": "2026-04-19T00:15:04.579Z"
   },
   {
     "matchId": "kubo-20260411",
