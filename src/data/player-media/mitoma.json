@@ -2,33 +2,82 @@
   "playerId": "mitoma",
   "mediaRatings": [
     {
-      "date": "2026-04-18",
-      "source": "X (formerly Twitter)",
-      "country": "アメリカ",
-      "rating": 0,
-      "maxRating": 10,
-      "ratingSystem": "standard",
-      "comment": "The provided article text is an error message from x.com stating that JavaScript is not available and something went wrong. It does not contain any information about Kaoru Mitoma, tactical observations, performance notes, or quotes regarding the player.",
-      "commentTranslated": "提供された記事のテキストは、JavaScriptが利用できないこと、そして何らかの問題が発生したことを示すx.comからのエラーメッセージです。三笘薫選手に関する情報、戦術的観察、パフォーマンスの記録、引用は一切含まれていません。",
-      "isManual": true,
-      "articleUrl": "https://x.com/AndrewJames1901/status/2044767429964783820",
-      "hasArticleRating": false
-    },
-    {
-      "date": "2026-04-18",
-      "source": "BrightonBuzzz (X)",
+      "date": "2026-04-22",
+      "source": "LiveScore",
       "country": "イングランド",
       "rating": 0,
       "maxRating": 10,
       "ratingSystem": "standard",
-      "comment": "The provided article text is an error message indicating that JavaScript is disabled, preventing access to the actual content. Consequently, it contains no information, tactical observations, performance notes, or quotes about Kaoru Mitoma. There is no mention of the player whatsoever within the accessible text.",
-      "commentTranslated": "提供された記事テキストは、JavaScriptが無効になっていることを示すエラーメッセージであり、実際のコンテンツへのアクセスを妨げています。その結果、三笘薫に関する情報、戦術的な観察、パフォーマンスのメモ、引用は一切含まれていません。アクセス可能なテキスト内には、選手に関する言及が一切ありません。",
+      "comment": "Kaoru Mitoma, coming on as a substitute for the injured Diego Gomez, scored the 'goal of the game' for Brighton in their dramatic 2-2 draw at Tottenham. The Japan star guided a stunning volley to level the score just before halftime. He also finished the game with 100% passing accuracy.",
+      "commentTranslated": "怪我をしたディエゴ・ゴメスの交代で出場した三笘薫は、ブライトンがトッテナムと劇的な2-2の引き分けに終わった試合で「この試合のベストゴール」を決めた。日本のスター選手は、ハーフタイム直前に見事なボレーシュートを決め、同点に追いついた。彼はまた、試合を100%のパス成功率で終えた。",
       "isManual": true,
-      "articleUrl": "https://x.com/BrightonBuzzz/status/2044755633342185566",
+      "articleUrl": "https://www.livescore.com/en/news/football/premier-league/premier-league-team-of-the-week-rodri-watkins-and-gibbs-white-among-star-performers/",
       "hasArticleRating": false
     }
   ],
   "xThreads": [
+    {
+      "date": "2026-04-22",
+      "id": "id-1776825843437-7kub8ryyj",
+      "username": "@WinsLFC",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨 Liverpool are SCRAMBLING to bring Kaoru Mitoma to Anfield… 😳\n\nSources say Arne Slot is convinced he can turn the youngster into a Ballon d’Or winner 👀\n\nBut Brighton want Florian Wirtz in return… or they’ll offer him to Chelsea for even more 😩",
+      "translatedText": "🚨 リヴァプールは三笘薫をアンフィールドに連れてくるために奔走している… 😳\n情報筋によると、アルネ・スロットは彼をバロンドール受賞者に育て上げることができると確信しているらしい 👀\nしかし、ブライトンは代わりにフロリアン・ヴィルツを求めている…さもなければ、さらに高値でチェルシーに彼を提示するだろう 😩",
+      "likes": 31,
+      "retweets": 8,
+      "replies": [
+        {
+          "id": "id-1776825843437-ps0twhlyg",
+          "username": "@FootyTruthTeller",
+          "languageCode": "EN",
+          "originalText": "Wirtz in return for Mitoma? Come on, Brighton isn't *that* delusional. That part alone makes this entire rumor seem completely fake. Great player but let's be realistic.",
+          "translatedText": "三笘の見返りにヴィルツ？まさか、ブライトンがそこまで妄想的じゃないでしょう。その部分だけで、この噂全体が完全にでっち上げに見える。素晴らしい選手だけど、現実的になろうよ。",
+          "likes": 287
+        },
+        {
+          "id": "id-1776825843437-7z7zsamkg",
+          "username": "@LFC_Mitoma_Fan",
+          "languageCode": "EN",
+          "originalText": "Mitoma to Liverpool would be insane! Slot believing in him for Ballon d'Or shows huge ambition. But Wirtz? That's a huge ask, maybe we can offer cash + another player.",
+          "translatedText": "三笘がリヴァプールに来たら最高だね！スロットがバロンドールを信じてるってのは大きな野心を示す。でもヴィルツ？それは要求が高すぎるな、現金と別の選手を提示できるかも？",
+          "likes": 195
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/WinsLFC/status/2046695513026658305"
+    },
+    {
+      "date": "2026-04-22",
+      "id": "id-1776825850900-vatvs6zt3",
+      "username": "@Tripple____M",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Would you take Mitoma at Arsenal?",
+      "translatedText": "アーセナルに三笘は必要か？",
+      "likes": 168,
+      "retweets": 11,
+      "replies": [
+        {
+          "id": "id-1776825850900-s1r4m0in9",
+          "username": "@Gooner_JP",
+          "languageCode": "EN",
+          "originalText": "Absolutely! His dribbling and work rate would be fantastic on the left wing for us. He'd add so much depth.",
+          "translatedText": "もちろん！彼のドリブルと運動量は左ウィングで我々に素晴らしい働きをもたらすだろうね。チームに深みを与えてくれるよ。",
+          "likes": 287
+        },
+        {
+          "id": "id-1776825850900-gxxyuj3mt",
+          "username": "@AFC_Analyst",
+          "languageCode": "EN",
+          "originalText": "He's quality, no doubt, but we already have Martinelli and Trossard there. For his price, we need a striker or a midfielder more.",
+          "translatedText": "彼が素晴らしい選手であることは間違いないけど、左ウィングにはすでにマルティネッリとトロサールがいる。あの移籍金なら、ストライカーかミッドフィルダーの方がもっと必要だよ。",
+          "likes": 193
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/Tripple____M/status/2045563231742124322"
+    },
     {
       "date": "2026-04-18",
       "id": "id-1776489236549-rk9bizbvq",
