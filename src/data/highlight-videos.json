@@ -1,4 +1,29 @@
 {
+  "mitoma-20260421": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260420": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260419": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260419": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260419": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "mitoma-20260418": {
     "enabled": true,
     "youtubeId": "FlDQktFaxgU",
