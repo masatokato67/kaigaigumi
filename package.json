@@ -13,11 +13,14 @@
     "add-rating": "tsx scripts/add-media-rating.ts",
     "process-match": "tsx scripts/process-match-input.ts",
     "process-player-media": "tsx scripts/process-player-media.ts",
+    "process-player-media-all": "for f in player-media-inputs/*.json; do p=$(basename \"$f\" .json); echo \"\\n========== $p ==========\"; tsx scripts/process-player-media.ts \"$p\"; done",
+    "deploy-player-media": "npm run process-player-media-all && git add src/data/player-media/ player-media-inputs/ && git commit -m \"Update player media\" && git push origin main",
     "update-stats": "tsx scripts/update-stats.ts",
-    "fetch-matches": "tsx scripts/fetch-matches-sofascore.ts",
-    "fetch-matches-fotmob": "tsx scripts/fetch-matches.ts",
+    "fetch-matches": "tsx scripts/fetch-matches-fotmob-html.ts",
+    "fetch-matches-sofascore": "tsx scripts/fetch-matches-sofascore.ts",
+    "fetch-matches-fotmob-legacy": "tsx scripts/fetch-matches.ts",
     "generate-content": "tsx scripts/generate-content.ts",
-    "auto-update": "tsx scripts/fetch-matches-sofascore.ts && tsx scripts/generate-content.ts && tsx scripts/update-stats.ts",
+    "auto-update": "tsx scripts/fetch-matches-fotmob-html.ts && tsx scripts/generate-content.ts && tsx scripts/update-stats.ts",
     "manual-add": "tsx scripts/manual-add-match.ts"
   },
   "dependencies": {
