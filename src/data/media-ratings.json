@@ -19464,6 +19464,18 @@
         "isManual": true,
         "articleUrl": "https://www.theguardian.com/football/2026/apr/21/brighton-chelsea-premier-league-match-report",
         "hasArticleRating": false
+      },
+      {
+        "source": "Yahoo Sports",
+        "country": "アメリカ合衆国",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaoru Mitoma contributed to Brighton's attacking efforts, having a notable shot on goal that Chelsea's goalkeeper Robert Sanchez was forced to save. For his performance in Brighton's commanding 3-0 victory against Chelsea, Mitoma received a player rating of 7.",
+        "commentTranslated": "カオル・ミトマはブライトンの攻撃に貢献し、チェルシーのゴールキーパーであるロベルト・サンチェスがセーブせざるを得なかったシュートを放った。チェルシーに3-0で快勝した試合でのパフォーマンスに対し、三笘は選手評価で7を獲得した。",
+        "isManual": true,
+        "articleUrl": "https://sports.yahoo.com/articles/brighton-vs-chelsea-player-ratings-224500817.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADi9PTsVeGjTwcuWonZxGZiqBAzKBNQgPblNBk6nqnNgNDaNzKxAwEk4JEV-VGMkAH7emN-6sA63_zCMeIFD95qE3lj1tFqnb1R4tJUihtUWmr2Vfa0uPPcg8JLdQISTp6y6ZgVV1PN0bmltKSfsTqpNFWCTHveLsQ3HmKREt7vI",
+        "hasArticleRating": true
       }
     ],
     "averageRating": 7.6,
@@ -19558,7 +19570,7 @@
         "postUrl": "https://x.com/Always_chels1/status/2046514964093948039"
       }
     ],
-    "lastUpdated": "2026-04-22T02:42:38.982Z"
+    "lastUpdated": "2026-04-24T14:27:18.475Z"
   },
   {
     "matchId": "mitoma-20260418",
