@@ -34354,95 +34354,276 @@
   {
     "matchId": "sano_kaishu-20260425",
     "playerId": "sano_kaishu",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "Main-Spitze",
+        "country": "ドイツ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano spielte eine entscheidende Rolle in der starken ersten Halbzeit von Mainz 05. Er bereitete das 1:0 von Dominik Kohr mit einem gefährlichen Ball vor und leitete später einen weiteren Angriff ein. Das Spiel des \"bärenstarken\" Sano wurde als \"Weltklasse-Niveau\" beschrieben, was er lange vor den Augen der Bayern-Bosse zeigte.",
+        "commentTranslated": "佐野海舟はマインツ05の強力な前半において決定的な役割を果たしました。彼はドミニク・コールの1-0となるゴールを危険なボールでアシストし、その後も別の攻撃を仕掛けました。「非常に力強い」佐野のプレーは、バイエルンの首脳陣の前で長く「ワールドクラスのレベル」と評されました。",
+        "isManual": true,
+        "articleUrl": "https://www.main-spitze.de/sport/fussball/fussball-bundesliga/mainz-05-verliert-nach-30-fuehrung-gegen-den-fc-bayern-5626897",
+        "hasArticleRating": false
+      },
+      {
+        "source": "TribalFootball.com",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano played a crucial role in Mainz's offense. He revived their attack with a brilliant touch on the right side of the box, assisting Dominik Kohr's opening goal. Later, Sano did great work in the centre of the park to release Nadiem Amiri, leading to Paul Nebel's goal.",
+        "commentTranslated": "佐野海舟はマインツの攻撃において重要な役割を果たした。彼はペナルティエリア右サイドでの鮮やかなタッチで攻撃を活性化させ、ドミニク・コールの先制点をお膳立てした。その後、中盤で素晴らしい働きを見せ、ナディーム・アミリにパスを供給し、それがポール・ネーベルのゴールにつながった。",
+        "isManual": true,
+        "articleUrl": "https://www.tribalfootball.com/article/soccer-bundesliga-champions-bayern-storm-back-to-win-seven-goal-mainz-thriller-ahead-of-psg-clash-551a7763-9cbd-4967-a7d6-9b58b18f1290",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 8.2,
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1777184594195_0",
-        "username": "@BundesligaAktuell",
-        "verified": true,
-        "languageCode": "DE",
-        "originalText": "Trotz der knappen 3:4-Niederlage gegen Bayern zeigte Kaishu Sano von Mainz 05 eine starke Leistung. Der defensive Mittelfeldspieler stand 90 Minuten auf dem Platz, lieferte einen Assist und wurde mit einer Bewertung von 8.2/10 zum Spieler des Spiels für die Nullfünfer gewählt. #Mainz05 #Bundesliga",
-        "translatedText": "バイエルン戦での惜敗3-4にもかかわらず、マインツ05の佐野海舟は力強いパフォーマンスを見せた。守備的MFとして90分間プレーし、1アシストを記録、評価は8.2/10でマインツのマン・オブ・ザ・マッチに選ばれた。#マインツ05 #ブンデスリーガ",
-        "likes": 7234,
-        "retweets": 987,
+        "id": "id-1777186128392-90r76crvy",
+        "username": "@Gazpachen",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "Kaishu Sano, siempre, Kaishu Sano.\n\nRecuperación en el área del Bayern con muchísimo valentía y mejor centro para el gol de Dominik Kohr. Se adelanta el Mainz que se plantó de igual a igual al equipo de Kompany.\n\nYa hace rato que les vengo hablando del nipón. Un mediocampista total. Juega en todo el campo de juego y, además, es uno de los jugadores más rápidos de la Bundesliga.",
+        "translatedText": "佐野海舟、いつも佐野海舟だ。\nバイエルンのペナルティエリア内での非常に勇敢なボール奪取と、ドミニク・コールへの素晴らしいクロスでゴールが生まれた。コンパニのチームと互角に渡り合ったマインツが先制する。\nこの日本人選手については以前から話しているが、彼はまさに「トータルミッドフィールダー」だ。ピッチ全体を動き回り、さらにブンデスリーガで最も速い選手の一人でもある。",
+        "likes": 45,
+        "retweets": 3,
         "replies": [
           {
-            "id": "r1777184594195_0_0",
-            "username": "@Mainz05FanZone",
-            "languageCode": "DE",
-            "originalText": "Sano war heute der Lichtblick, unglaublich wichtig für unser Mittelfeld und hat sich voll reingehauen!",
-            "translatedText": "佐野は今日、一筋の光だった。彼の中盤でのプレーは信じられないほど重要だし、全力で頑張ってくれた！",
-            "likes": 256
+            "id": "id-1777186128392-1qtrmn0uo",
+            "username": "Jリーガーの夢",
+            "languageCode": "JA",
+            "originalText": "「トータルミッドフィルダー」って表現がまさに彼にぴったりですね！攻守にわたってあの運動量と質は本当に驚異的です。",
+            "translatedText": "「トータルミッドフィルダー」って表現がまさに彼にぴったりですね！攻守にわたってあの運動量と質は本当に驚異的です。",
+            "likes": 235
           },
           {
-            "id": "r1777184594195_0_1",
-            "username": "@FootballFan_EN",
+            "id": "id-1777186128392-2qs09et0w",
+            "username": "@Mainz05Fan_Global",
             "languageCode": "EN",
-            "originalText": "Sano is truly standing out for Mainz, even in tough games like this against Bayern. What a player!",
-            "translatedText": "佐野はバイエルン相手のこんな厳しい試合でも本当にマインツで際立っているね。なんて選手だ！",
-            "likes": 123
+            "originalText": "Absolutely crucial player for Mainz this season. His engine and ability to cover ground are unmatched. Definitely a standout talent in the Bundesliga!",
+            "translatedText": "今シーズンのマインツにとって絶対的に重要な選手だ。彼のスタミナとピッチをカバーする能力は比類ない。間違いなくブンデスリーガの傑出した才能だ！",
+            "likes": 187
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/Gazpachen/status/2048036212674367674"
       },
       {
-        "id": "t1777184594195_1",
-        "username": "@Mainz05Fanatic",
+        "id": "id-1777186135508-epuysz39t",
+        "username": "@pasaportebundes",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "Cada día que juega Kaishu Sano me sale una sonrisa en la cara, qué jugador, qué detalles te deja en cada partido.\n\nHoy, ahora, ha dado una asistencia ante el Bayern magnífica con un control y giro excepcionales.\n\nEl nipón vale muchos quilates.🇯🇵\n\n#M05FCB",
+        "translatedText": "佐野海舟がプレーするたびに、私は笑顔になる。なんて選手だ、毎試合素晴らしいプレーを見せてくれる。今日、まさに今、彼はバイエルン相手に素晴らしいアシストを決めた。並外れたコントロールとターンだった。この日本人選手は本当に価値がある。🇯🇵 #M05FCB",
+        "likes": 4,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1777186135508-6o56ovtak",
+            "username": "@MainzFan_EN",
+            "languageCode": "EN",
+            "originalText": "Absolutely! He's been immense for Mainz this season. That assist against Bayern was pure class, he just glides past defenders. We need to keep him!",
+            "translatedText": "全くその通り！彼は今シーズン、マインツにとって計り知れない存在だ。バイエルン戦のアシストはまさに一流だったね、ディフェンダーをあっという間に抜き去る。彼を残留させないと！",
+            "likes": 287
+          },
+          {
+            "id": "id-1777186135508-ljij5zd5s",
+            "username": "@JLeagueWatcherJP",
+            "languageCode": "JA",
+            "originalText": "佐野選手、本当に素晴らしいですね！この調子で成長し続けて、いつかもっと大きなクラブで活躍する姿が見たいです。日本代表でも欠かせない存在になるでしょう。",
+            "translatedText": "佐野選手、本当に素晴らしいですね！この調子で成長し続けて、いつかもっと大きなクラブで活躍する姿が見たいです。日本代表でも欠かせない存在になるでしょう。",
+            "likes": 192
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/pasaportebundes/status/2048036474805706848"
+      },
+      {
+        "id": "id-1777186142781-x0fo1i97o",
+        "username": "@fc_mossman",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "Heartbreaking loss today against Bayern, 3-4. But Kaishu Sano was absolutely immense! 90 minutes, an assist, and an 8.2 rating from CDM against the champions is just phenomenal. He fought for every ball and deserves huge credit. We'll come back stronger! 💪 #Mainz05 #Bundesliga",
-        "translatedText": "今日のバイエルン戦は3-4で胸が張り裂けそうな敗戦だった。でも佐野海舟は本当にすごかった！王者相手にCDMで90分プレーし、1アシスト、8.2の評価なんて驚異的だよ。彼はボール一つ一つに食らいついていたし、大いに称賛されるべきだ。必ず強くなって戻ってくるぞ！💪 #マインツ05 #ブンデスリーガ",
-        "likes": 2876,
-        "retweets": 451,
+        "originalText": "📊 Bundesliga Midfielders: Out of Possession Risk vs. Reward\n\n- positive actions: def + aerial duels won, interceptions, shot blocks, sliding tackles\n- negative actions: def + aerial duels lost, fouls\n- adjusted for team possession",
+        "translatedText": "📊 ブンデスリーガのミッドフィルダー：ボール非保持時のリスク vs リターン - ポジティブなアクション：守備的および空中戦でのデュエル勝利、インターセプト、シュートブロック、スライディングタックル - ネガティブなアクション：守備的および空中戦でのデュエル敗北、ファウル - チームのポゼッションで調整済み",
+        "likes": 51,
+        "retweets": 6,
         "replies": [
           {
-            "id": "r1777184594195_1_0",
-            "username": "@BundesligaWatch",
+            "id": "id-1777186142781-a1ep4dv3z",
+            "username": "@BundesligaStatsGuru",
             "languageCode": "EN",
-            "originalText": "Sano's work rate is truly something else, always putting in a shift even when the team struggles.",
-            "translatedText": "佐野の運動量は本当に別次元だ、チームが苦しい時でも常に頑張っている。",
-            "likes": 189
+            "originalText": "This is a great framework! Would love to see this applied to specific players like Sano. His work rate and defensive contributions are key.",
+            "translatedText": "これは素晴らしいフレームワークですね！佐野のような特定の選手に適用されるのを見たいです。彼の運動量と守備への貢献は重要です。",
+            "likes": 280
           },
           {
-            "id": "r1777184594195_1_1",
-            "username": "@SoccerStatsGuy",
-            "languageCode": "EN",
-            "originalText": "He's becoming indispensable for Mainz, that assist was crucial for keeping them in the game and his overall presence felt huge.",
-            "translatedText": "彼はマインツにとって不可欠な存在になりつつある。あのアシストは試合に踏みとどまるために重要だったし、彼の存在感は非常に大きかった。",
-            "likes": 98
+            "id": "id-1777186142781-63argle8m",
+            "username": "@サッカー分析_JP",
+            "languageCode": "JA",
+            "originalText": "佐野選手がこの指標でどう評価されるか非常に興味があります。特にポジティブなアクションでの貢献は期待できますね。",
+            "translatedText": "佐野選手がこの指標でどう評価されるか非常に興味があります。特にポジティブなアクションでの貢献は期待できますね。",
+            "likes": 165
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/fc_mossman/status/2047986979489677673"
       },
       {
-        "id": "t1777184594195_2",
-        "username": "@Sano_K_Supporter",
+        "id": "id-1777186302234-75op52wb1",
+        "username": "@1FSVMainz05",
         "verified": false,
-        "languageCode": "JA",
-        "originalText": "マインツ対バイエルン、3-4で惜敗は残念だったけど、佐野海舟選手はまたしても素晴らしかった！90分フル出場でアシストも記録、レーティング8.2はすごすぎる😭バイエルン相手にこのパフォーマンスは本当に誇らしい！#佐野海舟 #マインツ",
-        "translatedText": "マインツ対バイエルン、3-4で惜敗は残念だったけど、佐野海舟選手はまたしても素晴らしかった！90分フル出場でアシストも記録、レーティング8.2はすごすぎる😭バイエルン相手にこのパフォーマンスは本当に誇らしい！#佐野海舟 #マインツ",
-        "likes": 1823,
-        "retweets": 289,
+        "languageCode": "DE",
+        "originalText": "LEUTE! ES STEHT ZWEI ZU NULLLLLLLL FÜR MAINZ 05!!!!!!!!!!!!!!!!!!",
+        "translatedText": "みんな！ マインツ05が2対0で勝ってるぞぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉぉ",
+        "likes": 62,
+        "retweets": 2,
         "replies": [
           {
-            "id": "r1777184594195_2_0",
-            "username": "@FootballJPNews",
-            "languageCode": "JA",
-            "originalText": "強豪相手にこの評価は素晴らしいですね。代表での活躍も期待できます！",
-            "translatedText": "強豪相手にこの評価は素晴らしいですね。代表での活躍も期待できます！",
-            "likes": 135
+            "id": "id-1777186358840-u2yahp3h2",
+            "username": "@MainzFanForever",
+            "languageCode": "DE",
+            "originalText": "Jaaaaaaa, geil! Was für ein Start in die Partie! Auf geht's, Jungs, weiter so!",
+            "translatedText": "そうそうそう、最高！ なんて試合の始まりだ！ 行くぞ、みんな、このまま続けてくれ！",
+            "likes": 287
           },
           {
-            "id": "r1777184594195_2_1",
-            "username": "@SamuraiBlueFan",
-            "languageCode": "JA",
-            "originalText": "惜しい試合だったけど、佐野選手がこれだけ活躍してくれると嬉しい！日本の誇りだ！",
-            "translatedText": "惜しい試合だったけど、佐野選手がこれだけ活躍してくれると嬉しい！日本の誇りだ！",
-            "likes": 78
+            "id": "id-1777186358840-ljjxdu6au",
+            "username": "@SanoSupporterJP",
+            "languageCode": "EN",
+            "originalText": "Great start! Don't let up now, keep the pressure on until the final whistle. Sano has been solid!",
+            "translatedText": "素晴らしいスタート！ 今気を緩めずに、試合終了のホイッスルまでプレッシャーをかけ続けてくれ。佐野選手も安定している！",
+            "likes": 193
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/1FSVMainz05/status/2048039058199167159"
+      },
+      {
+        "id": "id-1777186311232-ev9c3abqq",
+        "username": "@m_borzecki",
+        "verified": false,
+        "languageCode": "PL",
+        "originalText": "Nie od dziś wiadomo, że Kaishu Sano to piłkarz na którym Mainz zarobi mnóstwo siana. Ale po tym co dziś robi z piłkarzami Bayernu, będzie można tylko wyciąć akcje, zbić w kompilkę i swobodnie podbijać cenę. Kompletna szóstka (no, może poza wzrostem, ale to najmniejszy kłopot).",
+        "translatedText": "カイシュウ・サノがマインツに巨額の利益をもたらす選手であることは今に始まったことではない。しかし、今日彼がバイエルンの選手たちに見せたプレーを見れば、そのプレーを切り取ってコンピレーションにまとめ、自由に価格をつり上げることができるだろう。完璧な6番だ（まあ、身長は別として、それは一番小さな問題だ）。",
+        "likes": 79,
+        "retweets": 1,
+        "replies": [
+          {
+            "id": "id-1777186311233-qcggrfodg",
+            "username": "@SanoFanboy_GER",
+            "languageCode": "EN",
+            "originalText": "He was absolutely immense today! Bayern just couldn't handle his energy and tackling. Future looks bright for him, definitely a player to watch for top clubs.",
+            "translatedText": "彼は今日、本当にすごかった！バイエルンは彼のエネルギーとタックルに対応できなかったね。彼の未来は明るいし、間違いなくトップクラブが注目すべき選手だ。",
+            "likes": 321
+          },
+          {
+            "id": "id-1777186311233-4ldj4gk2y",
+            "username": "@FootyObserverJP",
+            "languageCode": "JA",
+            "originalText": "バイエルン戦の活躍は素晴らしいけど、まだシーズン序盤。このパフォーマンスを継続できるかどうかが真価を問われるところ。期待してる！",
+            "translatedText": "バイエルン戦の活躍は素晴らしいけど、まだシーズン序盤。このパフォーマンスを継続できるかどうかが真価を問われるところ。期待してる！",
+            "likes": 178
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/m_borzecki/status/2048041516183044109"
+      },
+      {
+        "id": "id-1777186319444-ce0436qr3",
+        "username": "@xAIstats",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🔴 LIVE 45' | FSV Mainz 05 3-0 Bayern München\n⭐ Best: Kaishu Sano (7.7)\n📉 Worst: Raphael Guerreiro (5.9)\n\n#FSVMainz05 #BayernMünchen #Bundesliga",
+        "translatedText": "🔴 ライブ 45分 | マインツ05 3-0 バイエルン・ミュンヘン ⭐ ベスト: 佐野海舟 (7.7) 📉 ワースト: ラファエル・ゲレイロ (5.9) #FSVMainz05 #BayernMünchen #Bundesliga",
+        "likes": 4,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1777186319444-0sty8pv8g",
+            "username": "@JpnFootballFan",
+            "languageCode": "JA",
+            "originalText": "佐野、バイエルン相手にこのパフォーマンスはすごい！日本の誇りだ！マインツこのまま勝ってくれ！",
+            "translatedText": "佐野、バイエルン相手にこのパフォーマンスはすごい！日本の誇りだ！マインツこのまま勝ってくれ！",
+            "likes": 287
+          },
+          {
+            "id": "id-1777186319444-cm8bkd796",
+            "username": "@BundesligaBuzz_",
+            "languageCode": "EN",
+            "originalText": "Sano is absolutely bossing it against Bayern! What a performance from him. But seriously, 3-0 down to Mainz at half-time? Bayern needs a serious wake-up call.",
+            "translatedText": "佐野はバイエルン相手に完全に支配してるね！彼からすればなんてパフォーマンスだ。でも真剣に、ハーフタイムでマインツに3-0はありえない。バイエルンは目を覚ます必要がある。",
+            "likes": 165
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/xAIstats/status/2048043936229257651"
+      },
+      {
+        "id": "id-1777186326035-uw2afvfrs",
+        "username": "@footballfa46099",
+        "verified": false,
+        "languageCode": "DE",
+        "originalText": "Kaishu Sano hat nach der 1. Halbzeit gegen den FC Bayern:\n\n8/9 gewonnene Zweikämpfe\n3 Schlüsselpässe\n1 Assist\n1 Großchance kreiert \n2/2 Dribblings\n\nDass der defensiv überragend ist, ist ja schon lange klar. Aber seit wann spielt der solche Pässe??",
+        "translatedText": "佐野海舟がFCバイエルン戦のハーフタイム後：\n\nデュエル勝利 8/9\nキーパス 3本\nアシスト 1本\nビッグチャンス創出 1回\nドリブル成功 2/2\n\n守備で彼が傑出しているのはずっと明らかだった。でも、いつからこんなパスを出すようになったんだ？",
+        "likes": 9,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1777186326035-6o4jj93q8",
+            "username": "@BundesligaFanDE",
+            "languageCode": "DE",
+            "originalText": "Genau das! Die Defensive ist bekannt, aber diese offensive Explosion ist neu und absolut beeindruckend. Was für ein Spieler!",
+            "translatedText": "まさにそれ！守備は知られていたけど、この攻撃的な爆発は新しくて本当に素晴らしい。なんて選手だ！",
+            "likes": 185
+          },
+          {
+            "id": "id-1777186326035-yav5n5zjk",
+            "username": "@JPFootball_Eng",
+            "languageCode": "EN",
+            "originalText": "Incredible stats against Bayern! He's clearly stepped up his game offensively. Japan's national team is going to benefit so much from this development.",
+            "translatedText": "バイエルン相手に信じられないスタッツだね！攻撃面で明らかにレベルアップしてる。日本代表もこの成長から多くの恩恵を受けるだろう。",
+            "likes": 95
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/footballfa46099/status/2048046663797743806"
+      },
+      {
+        "id": "id-1777186333509-6i7ucoww6",
+        "username": "@hart_henri",
+        "verified": false,
+        "languageCode": "FR",
+        "originalText": "#M05FCB L’ #AsdenFace est Kaishu #Sano pour ses mouvements, avec et sans ⚽️, dans les phases offensives concrétisés par sa passe décisive 👟 + sa qualité de transmission + son comportement dans les duels. Il fait partie de mon top3 des milieux en BuLi qui ont le niveau pour ⬇️",
+        "translatedText": "#M05FCB 今日の #AsdenFace (アスデンフェイス) は佐野海舟。ボールの有無に関わらず、攻撃局面での動き、アシスト👟、パスの質の高さ、デュエルでの振る舞いが素晴らしい。ブンデスリーガのミッドフィルダーで、彼は私のトップ3に入り、さらに高いレベルで活躍できる選手だ⬇️",
+        "likes": 0,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1777186333509-qwktvjjm4",
+            "username": "@BuliFan_JP",
+            "languageCode": "JA",
+            "originalText": "佐野選手の評価、よくわかります！本当にブンデスで通用するどころか、もっと上に行ける可能性を秘めてますよね。特にあのパスは痺れました！",
+            "translatedText": "佐野選手の評価、よくわかります！本当にブンデスで通用するどころか、もっと上に行ける可能性を秘めてますよね。特にあのパスは痺れました！",
+            "likes": 180
+          },
+          {
+            "id": "id-1777186333509-vne5yyui0",
+            "username": "@FootballAnalyst_EN",
+            "languageCode": "EN",
+            "originalText": "Sano definitely showed flashes of brilliance! His vision and work rate are undeniable. Top 3 might be a bit strong right now, but his potential is through the roof. Exciting prospect!",
+            "translatedText": "佐野選手は間違いなく輝きを見せましたね！彼の視野の広さと運動量は否定できません。現時点でのトップ3は少し言い過ぎかもしれませんが、彼のポテンシャルは計り知れません。将来が楽しみな選手です！",
+            "likes": 250
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/hart_henri/status/2048183500486906098"
       }
     ],
-    "lastUpdated": "2026-04-26T06:23:14.197Z"
+    "lastUpdated": "2026-04-26T06:52:38.840Z"
   }
 ]
