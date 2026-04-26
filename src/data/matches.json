@@ -1,5 +1,121 @@
 [
   {
+    "matchId": "kamada-20260425",
+    "playerId": "kamada",
+    "date": "2026-04-25",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "リヴァプール",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "クリスタルパレス",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 7.3
+    },
+    "notable": false
+  },
+  {
+    "matchId": "sano_kodai-20260425",
+    "playerId": "sano_kodai",
+    "date": "2026-04-25",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "FC Twente",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "NEC",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6.8
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.17,
+      "expectedAssists": 0.09,
+      "totalPass": 38,
+      "accuratePass": 31,
+      "keyPass": 1,
+      "touches": 70,
+      "dispossessed": 2,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "totalCross": 2,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 4,
+      "interceptionWon": 3,
+      "ballRecovery": 6,
+      "duelWon": 3,
+      "duelLost": 13,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "fouls": 2,
+      "shotsOnTarget": 1
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260425",
+    "playerId": "sano_kaishu",
+    "date": "2026-04-25",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "マインツ",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "バイエルン",
+      "score": 4
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "CDM",
+      "rating": 8.2
+    },
+    "notable": true,
+    "detailedStats": {
+      "expectedGoals": 0.05,
+      "expectedAssists": 0.34,
+      "totalPass": 23,
+      "accuratePass": 20,
+      "keyPass": 3,
+      "touches": 45,
+      "dispossessed": 1,
+      "totalLongBalls": 5,
+      "accurateLongBalls": 4,
+      "totalCross": 2,
+      "totalTackle": 4,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 2,
+      "ballRecovery": 6,
+      "duelWon": 8,
+      "duelLost": 7,
+      "aerialWon": 1,
+      "aerialLost": 0,
+      "wasFouled": 1,
+      "fouls": 2,
+      "shotsOnTarget": 0
+    }
+  },
+  {
     "matchId": "suzuki_yuito-20260423",
     "playerId": "suzuki_yuito",
     "date": "2026-04-23",
