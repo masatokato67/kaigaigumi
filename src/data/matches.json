@@ -1,5 +1,138 @@
 [
   {
+    "matchId": "kamada-20260430",
+    "playerId": "kamada",
+    "date": "2026-04-30",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": {
+      "name": "Shakhtar Donetsk",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "クリスタルパレス",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 89,
+      "goals": 1,
+      "assists": 1,
+      "starting": true,
+      "position": "CM",
+      "rating": 8.7
+    },
+    "notable": true,
+    "detailedStats": {
+      "expectedGoals": 0.21,
+      "expectedAssists": 0.02,
+      "totalPass": 24,
+      "accuratePass": 19,
+      "keyPass": 1,
+      "touches": 34,
+      "dispossessed": 0,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 0,
+      "totalCross": 1,
+      "totalTackle": 3,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 5,
+      "duelWon": 4,
+      "duelLost": 1,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 0,
+      "shotsOnTarget": 1
+    }
+  },
+  {
+    "matchId": "suzuki_yuito-20260430",
+    "playerId": "suzuki_yuito",
+    "date": "2026-04-30",
+    "competition": "ヨーロッパリーグ",
+    "homeTeam": {
+      "name": "Braga",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 81,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 5.9
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.01,
+      "totalPass": 17,
+      "accuratePass": 14,
+      "keyPass": 0,
+      "touches": 19,
+      "dispossessed": 0,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 1,
+      "interceptionWon": 0,
+      "ballRecovery": 3,
+      "duelLost": 2,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 2
+    }
+  },
+  {
+    "matchId": "kubo-20260426",
+    "playerId": "kubo",
+    "date": "2026-04-26",
+    "competition": "ラ・リーガ",
+    "homeTeam": {
+      "name": "Rayo Vallecano",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "レアル・ソシエダ",
+      "score": 3
+    },
+    "playerStats": {
+      "minutesPlayed": 56,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CAM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.06,
+      "expectedAssists": 0.01,
+      "totalPass": 16,
+      "accuratePass": 13,
+      "keyPass": 0,
+      "touches": 30,
+      "dispossessed": 2,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 0,
+      "totalCross": 1,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 1,
+      "duelWon": 4,
+      "duelLost": 4,
+      "aerialWon": 0,
+      "aerialLost": 2,
+      "wasFouled": 2,
+      "fouls": 0,
+      "shotsOnTarget": 0
+    }
+  },
+  {
     "matchId": "kamada-20260425",
     "playerId": "kamada",
     "date": "2026-04-25",

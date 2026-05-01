@@ -75,8 +75,8 @@
       "season": "2025-26",
       "goals": 4,
       "assists": 8,
-      "appearances": 32,
-      "minutesPlayed": 2254,
+      "appearances": 33,
+      "minutesPlayed": 2310,
       "averageRating": 6.7
     },
     "featured": true
@@ -155,11 +155,11 @@
     },
     "seasonStats": {
       "season": "2025-26",
-      "goals": 1,
-      "assists": 4,
-      "appearances": 50,
-      "minutesPlayed": 3420,
-      "averageRating": 6.6
+      "goals": 2,
+      "assists": 5,
+      "appearances": 51,
+      "minutesPlayed": 3509,
+      "averageRating": 6.7
     },
     "featured": false
   },
@@ -358,8 +358,8 @@
       "season": "2025-26",
       "goals": 9,
       "assists": 5,
-      "appearances": 43,
-      "minutesPlayed": 2932,
+      "appearances": 44,
+      "minutesPlayed": 3013,
       "averageRating": 6.6
     },
     "featured": false
