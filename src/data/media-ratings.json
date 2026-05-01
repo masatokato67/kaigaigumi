@@ -34631,6 +34631,18 @@
     "playerId": "kamada",
     "ratings": [
       {
+        "source": "Sportsdunia",
+        "country": "不明",
+        "rating": 9,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada was named Man of the Match, receiving a rating of 9.0. He was described as simply magical, scoring a goal and providing an assist which restored Crystal Palace's lead. His influential all-round display, brilliant finish, and creative play made him the heartbeat of the team, ultimately deciding the game.",
+        "commentTranslated": "鎌田大地はマン・オブ・ザ・マッチに選ばれ、9.0の評価を獲得しました。彼はまさに魔法のようだと評され、ゴールとアシストでクリスタル・パレスのリードを再構築しました。彼の多大な影響力を持つ全体的なパフォーマンス、華麗なフィニッシュ、そして創造的なプレーがチームの心臓部となり、最終的に試合を決定づけました。",
+        "isManual": true,
+        "articleUrl": "https://www.sportsdunia.com/football-ratings/crystal-palace-vs-shakhtar-donetsk-player-ratings-uecl-30th-april-2026",
+        "hasArticleRating": true
+      },
+      {
         "source": "Yahoo Sports",
         "country": "アメリカ",
         "rating": 0,
@@ -34778,10 +34790,27 @@
         "verified": false,
         "languageCode": "EN",
         "originalText": "Daichi Kamada 😁🇯🇵\n\n#UECL | @CPFC",
-        "translatedText": "（翻訳未生成）",
+        "translatedText": "鎌田大地 😁🇯🇵",
         "likes": 2107,
         "retweets": 159,
-        "replies": [],
+        "replies": [
+          {
+            "id": "id-1777609005236-znzjpkrb6",
+            "username": "@PalaceFanJPN",
+            "languageCode": "EN",
+            "originalText": "So excited to see him in the UECL! He's going to be key for CPFC.",
+            "translatedText": "UECLで彼を見るのが本当に楽しみ！CPFCの鍵になるだろうね。",
+            "likes": 220
+          },
+          {
+            "id": "id-1777609005236-shx8fcr9w",
+            "username": "@SakkaFreak_JP",
+            "languageCode": "EN",
+            "originalText": "Hope he finds his form consistently. Still a bit hit or miss last season.",
+            "translatedText": "コンスタントに調子を上げてくれるといいな。去年のシーズンはまだ波があったからね。",
+            "likes": 95
+          }
+        ],
         "isManual": true,
         "postUrl": "https://x.com/Conf_League/status/2049947265171607663"
       },
@@ -34821,15 +34850,32 @@
         "verified": false,
         "languageCode": "EN",
         "originalText": "I see after 2 games of Kamada being a decent footballer he’s reverted to over hitting every pass and not paying attention to who’s around him 👍",
-        "translatedText": "（翻訳未生成）",
+        "translatedText": "鎌田が2試合まともな選手だった後、またパスを強く打ちすぎたり、周りを見ていないいつもの彼に戻ったようだね👍",
         "likes": 13,
         "retweets": 1,
-        "replies": [],
+        "replies": [
+          {
+            "id": "id-1777609013326-hm9nl3bed",
+            "username": "@CPFC_EagleFan",
+            "languageCode": "EN",
+            "originalText": "Yeah, it's frustrating to watch sometimes. He shows flashes of brilliance but then goes missing or makes simple errors. Consistency is key!",
+            "translatedText": "そうなんだよな、見ててイライラすることもあるよ。たまに素晴らしいプレーを見せるんだけど、その後どこかへ消えたり簡単なミスをしたりする。安定感が重要だ！",
+            "likes": 187
+          },
+          {
+            "id": "id-1777609013326-9yzfixb47",
+            "username": "@K_DaichiFanJP",
+            "languageCode": "JA",
+            "originalText": "彼はまだ新しい環境に慣れている最中だし、チームもまだベストな形を見つけていない。もう少し時間が必要だよ。",
+            "translatedText": "彼はまだ新しい環境に慣れている最中だし、チームもまだベストな形を見つけていない。もう少し時間が必要だよ。",
+            "likes": 93
+          }
+        ],
         "isManual": true,
         "postUrl": "https://x.com/JxmesCPFC/status/2049944088116371535"
       }
     ],
-    "lastUpdated": "2026-05-01T02:03:59.711Z"
+    "lastUpdated": "2026-05-01T04:16:53.327Z"
   },
   {
     "matchId": "suzuki_yuito-20260430",
