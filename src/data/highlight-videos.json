@@ -1,4 +1,34 @@
 {
+  "kubo-20260504": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260503": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260503": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260503": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260502": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260502": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
   "kamada-20260430": {
     "enabled": true,
     "youtubeId": "RBkAflom2Hg",

@@ -1,5 +1,277 @@
 [
   {
+    "matchId": "kubo-20260504",
+    "playerId": "kubo",
+    "date": "2026-05-04",
+    "competition": "ラ・リーガ",
+    "homeTeam": {
+      "name": "Sevilla",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "レアル・ソシエダ",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 32,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "RW",
+      "rating": 6.5
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.02,
+      "expectedAssists": 0.01,
+      "totalPass": 13,
+      "accuratePass": 11,
+      "keyPass": 0,
+      "touches": 21,
+      "dispossessed": 0,
+      "totalCross": 1,
+      "totalTackle": 2,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 1,
+      "duelWon": 3,
+      "duelLost": 2,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 0,
+      "shotsOnTarget": 0
+    }
+  },
+  {
+    "matchId": "kamada-20260503",
+    "playerId": "kamada",
+    "date": "2026-05-03",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "ボーンマス",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "クリスタルパレス",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CM",
+      "rating": 6
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.01,
+      "totalPass": 18,
+      "accuratePass": 17,
+      "keyPass": 0,
+      "touches": 24,
+      "dispossessed": 0,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 1,
+      "interceptionWon": 0,
+      "ballRecovery": 2,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "wasFouled": 2,
+      "fouls": 0
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260503",
+    "playerId": "sano_kaishu",
+    "date": "2026-05-03",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "ザンクト・パウリ",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "マインツ",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 7
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.03,
+      "expectedAssists": 0.03,
+      "totalPass": 57,
+      "accuratePass": 49,
+      "keyPass": 0,
+      "touches": 67,
+      "dispossessed": 0,
+      "totalLongBalls": 7,
+      "accurateLongBalls": 2,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 2,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 5,
+      "duelWon": 2,
+      "duelLost": 1,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "wasFouled": 1,
+      "fouls": 0,
+      "shotsOnTarget": 0
+    }
+  },
+  {
+    "matchId": "suzuki_yuito-20260503",
+    "playerId": "suzuki_yuito",
+    "date": "2026-05-03",
+    "competition": "ブンデスリーガ",
+    "homeTeam": {
+      "name": "フライブルク",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "ヴォルフスブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 81,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "AM",
+      "rating": 6.8
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.06,
+      "expectedAssists": 0.07,
+      "totalPass": 16,
+      "accuratePass": 14,
+      "keyPass": 2,
+      "touches": 29,
+      "dispossessed": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalCross": 3,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 1,
+      "duelWon": 3,
+      "duelLost": 3,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "wasFouled": 1,
+      "fouls": 1,
+      "shotsOnTarget": 0
+    }
+  },
+  {
+    "matchId": "mitoma-20260502",
+    "playerId": "mitoma",
+    "date": "2026-05-02",
+    "competition": "プレミアリーグ",
+    "homeTeam": {
+      "name": "ニューカッスル",
+      "score": 3
+    },
+    "awayTeam": {
+      "name": "ブライトン",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "LW",
+      "rating": 6.6
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.12,
+      "expectedAssists": 0.06,
+      "totalPass": 37,
+      "accuratePass": 34,
+      "keyPass": 1,
+      "touches": 50,
+      "dispossessed": 0,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 2,
+      "totalCross": 4,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 5,
+      "duelWon": 3,
+      "duelLost": 5,
+      "aerialWon": 1,
+      "aerialLost": 2,
+      "fouls": 2,
+      "shotsOnTarget": 0
+    }
+  },
+  {
+    "matchId": "sano_kodai-20260502",
+    "playerId": "sano_kodai",
+    "date": "2026-05-02",
+    "competition": "エールディヴィジ",
+    "homeTeam": {
+      "name": "NEC",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Telstar",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6.8
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.05,
+      "expectedAssists": 0.22,
+      "totalPass": 34,
+      "accuratePass": 30,
+      "keyPass": 1,
+      "touches": 57,
+      "dispossessed": 0,
+      "totalCross": 5,
+      "totalTackle": 2,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 3,
+      "interceptionWon": 0,
+      "ballRecovery": 3,
+      "duelWon": 5,
+      "duelLost": 7,
+      "aerialWon": 2,
+      "aerialLost": 3,
+      "wasFouled": 1,
+      "fouls": 1,
+      "shotsOnTarget": 0
+    }
+  },
+  {
     "matchId": "kamada-20260430",
     "playerId": "kamada",
     "date": "2026-04-30",
