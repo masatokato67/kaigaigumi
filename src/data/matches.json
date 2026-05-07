@@ -1,5 +1,50 @@
 [
   {
+    "matchId": "kamada-20260507",
+    "playerId": "kamada",
+    "date": "2026-05-07",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": {
+      "name": "クリスタルパレス",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Shakhtar Donetsk",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 88,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 7.5
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.02,
+      "totalPass": 27,
+      "accuratePass": 22,
+      "keyPass": 0,
+      "touches": 49,
+      "dispossessed": 3,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 0,
+      "totalCross": 1,
+      "totalTackle": 3,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 1,
+      "ballRecovery": 9,
+      "duelWon": 9,
+      "duelLost": 8,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "wasFouled": 3,
+      "fouls": 2
+    }
+  },
+  {
     "matchId": "kubo-20260504",
     "playerId": "kubo",
     "date": "2026-05-04",
