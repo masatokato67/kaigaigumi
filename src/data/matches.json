@@ -1,5 +1,302 @@
 [
   {
+    "matchId": "kubo-20260531",
+    "playerId": "kubo",
+    "date": "2026-05-31",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Iceland",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 83,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "RW",
+      "rating": 7.5
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalPass": 34,
+      "accuratePass": 30,
+      "keyPass": 4,
+      "touches": 53,
+      "dispossessed": 0,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 0,
+      "totalCross": 2,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 5,
+      "aerialWon": 0,
+      "aerialLost": 1,
+      "wasFouled": 2,
+      "fouls": 0,
+      "shotsOnTarget": 1,
+      "totalShots": 2
+    }
+  },
+  {
+    "matchId": "tomiyasu-20260531",
+    "playerId": "tomiyasu",
+    "date": "2026-05-31",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Iceland",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 83,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CB",
+      "rating": 7.7
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalPass": 76,
+      "accuratePass": 69,
+      "keyPass": 1,
+      "touches": 84,
+      "dispossessed": 0,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 0,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 2,
+      "interceptionWon": 0,
+      "ballRecovery": 6,
+      "duelWon": 3,
+      "duelLost": 2,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "wasFouled": 1,
+      "fouls": 2,
+      "shotsOnTarget": 1,
+      "totalShots": 2
+    }
+  },
+  {
+    "matchId": "endo-20260531",
+    "playerId": "endo",
+    "date": "2026-05-31",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Iceland",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 45,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CDM",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalPass": 44,
+      "accuratePass": 37,
+      "keyPass": 0,
+      "touches": 48,
+      "dispossessed": 0,
+      "totalTackle": 1,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 3,
+      "aerialWon": 1,
+      "aerialLost": 1,
+      "wasFouled": 1,
+      "fouls": 2
+    }
+  },
+  {
+    "matchId": "shiogai-20260531",
+    "playerId": "shiogai",
+    "date": "2026-05-31",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Iceland",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 18,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "ST",
+      "rating": 5.9
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalPass": 2,
+      "accuratePass": 2,
+      "keyPass": 0,
+      "touches": 4,
+      "dispossessed": 0,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 1,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 1,
+      "duelLost": 2,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 2
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260531",
+    "playerId": "sano_kaishu",
+    "date": "2026-05-31",
+    "competition": "Friendlies",
+    "homeTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Iceland",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 7,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "CDM",
+      "rating": 6.5
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalPass": 3,
+      "accuratePass": 3,
+      "keyPass": 0,
+      "touches": 4,
+      "dispossessed": 1,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 0,
+      "duelLost": 1,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 0
+    }
+  },
+  {
+    "matchId": "kamada-20260527",
+    "playerId": "kamada",
+    "date": "2026-05-27",
+    "competition": "カンファレンスリーグ",
+    "homeTeam": {
+      "name": "クリスタルパレス",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Rayo Vallecano",
+      "score": 0
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 7.2
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.04,
+      "totalPass": 38,
+      "accuratePass": 33,
+      "keyPass": 1,
+      "touches": 46,
+      "dispossessed": 0,
+      "totalLongBalls": 6,
+      "accurateLongBalls": 4,
+      "totalTackle": 1,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 1,
+      "ballRecovery": 5,
+      "duelWon": 5,
+      "duelLost": 5,
+      "aerialWon": 0,
+      "aerialLost": 1,
+      "wasFouled": 3,
+      "fouls": 3
+    }
+  },
+  {
+    "matchId": "shiogai-20260525",
+    "playerId": "shiogai",
+    "date": "2026-05-25",
+    "competition": "Bundesliga Qualification",
+    "homeTeam": {
+      "name": "Paderborn",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "ヴォルフスブルク",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 15,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "ST",
+      "rating": 6.2
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.23,
+      "totalPass": 1,
+      "accuratePass": 0,
+      "keyPass": 0,
+      "touches": 6,
+      "dispossessed": 0,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 0,
+      "duelWon": 3,
+      "duelLost": 3,
+      "aerialWon": 3,
+      "aerialLost": 2,
+      "fouls": 1,
+      "shotsOnTarget": 2,
+      "totalShots": 3
+    }
+  },
+  {
     "matchId": "tomiyasu-20260524",
     "playerId": "tomiyasu",
     "date": "2026-05-24",
