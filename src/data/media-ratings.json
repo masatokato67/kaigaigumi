@@ -37758,96 +37758,110 @@
   {
     "matchId": "kamada-20260527",
     "playerId": "kamada",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "UEFA.com",
+        "country": "スイス",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada, Crystal Palace's Japanese midfielder, was praised for his performance in the UEFA Conference League final, lifting the trophy. Playing as a central midfielder alongside Adam Wharton, he was noted for pulling wide on the left to exploit space and was instrumental in build-up play, including receiving the ball for a key forward surge. Coach Oliver Glasner highlighted their \"very, very well\" performance in adapting to the opponent's press, with their partnership demonstrating awareness, transition, 13 forward passes, and 12 interchanges with Wharton.",
+        "commentTranslated": "クリスタル・パレスの日本人ミッドフィールダーである鎌田大地は、UEFAカンファレンスリーグ決勝でのパフォーマンスを称賛され、トロフィーを掲げました。アダム・ウォートンと共にセンターミッドフィールダーとしてプレーし、左サイドに広く開いてスペースを利用し、重要な前方への攻撃を含むビルドアップで重要な役割を果たしました。オリバー・グラスナー監督は、相手のプレスへの適応における彼らの「非常に、非常に良い」パフォーマンスを強調し、彼らの連携は意識、トランジション、13本のフォワードパス、そしてウォートンとの12回のパス交換を示すものと評価されました。",
+        "isManual": true,
+        "articleUrl": "http://uefa.com/uefaconferenceleague/news/02a5-20be026b6a9a-fed8bee987b5-1000--conference-league-performance-insights-crystal-palace-s-tr/",
+        "hasArticleRating": false
+      },
+      {
+        "source": "VAVEL International",
+        "country": "スペイン",
+        "rating": 8,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Fans have been singing that Daichi Kamada is running the show, and the article affirms he has done just that. He assisted four goals on the path to cup glory. Kamada also secured his second European Cup of his career under manager Oliver Glasner, becoming the first Japanese player to achieve this feat.",
+        "commentTranslated": "ファンは鎌田大地が試合を支配していると歌っており、記事はまさにその通りだと肯定している。彼はカップ戦優勝までの道のりで4つのアシストを記録した。また、オリバー・グラスナー監督の下でキャリア2度目のヨーロッパカップ優勝を果たし、これを達成した初の日本人選手となった。",
+        "isManual": true,
+        "articleUrl": "https://www.vavel.com/en/football/2026/05/29/crystal-palace/1262249-crystal-palace-1-0-rayo-vallecano-post-match-player-ratings.html",
+        "hasArticleRating": true
+      }
+    ],
     "averageRating": 7.2,
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1780380007696_0",
-        "username": "@プレミアリーグReporter",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Daichi Kamada showing why he's becoming a fan favorite. Solid display against Rayo Vallecano. 90 minutes played",
-        "translatedText": "鎌田大地がファンのお気に入りになっている理由を示した。Rayo Vallecano戦で堅実なプレー。90 minutes played",
-        "likes": 19528,
-        "retweets": 3088,
-        "replies": [
-          {
-            "id": "r1780380007696_0_0",
-            "username": "@AsianFooty",
-            "languageCode": "EN",
-            "originalText": "He just does his job every week. Respect.",
-            "translatedText": "毎週仕事をこなす。リスペクト。",
-            "likes": 149
-          },
-          {
-            "id": "r1780380007696_0_1",
-            "username": "@MatchdayVibes",
-            "languageCode": "EN",
-            "originalText": "Reliable performance. Exactly what we needed.",
-            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
-            "likes": 472
-          }
-        ]
-      },
-      {
-        "id": "t1780380007696_1",
-        "username": "@CrystalPalace",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Another good display from Daichi Kamada today! 90 minutes played vs Rayo Vallecano.",
-        "translatedText": "鎌田大地の今日も良いプレー！Rayo Vallecano戦で90 minutes played。",
-        "likes": 20670,
-        "retweets": 3210,
-        "replies": [
-          {
-            "id": "r1780380007696_1_0",
-            "username": "@TheSetPiece",
-            "languageCode": "EN",
-            "originalText": "Good game! Keep it up Daichi Kamada! 👏",
-            "translatedText": "良い試合！この調子で鎌田大地！👏",
-            "likes": 170
-          },
-          {
-            "id": "r1780380007696_1_1",
-            "username": "@JLeagueWatch",
-            "languageCode": "EN",
-            "originalText": "Solid as always. Love his consistency.",
-            "translatedText": "いつも通り堅実。彼の安定感が好きだ。",
-            "likes": 255
-          }
-        ]
-      },
-      {
-        "id": "t1780380007696_2",
-        "username": "@クリスタルパレスSupporter",
+        "id": "id-1780389070774-l23rkd6gq",
+        "username": "@CPFCWiII",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "Solid game from Daichi Kamada! Love his work rate and attitude. 💙",
-        "translatedText": "鎌田大地の堅実な試合！彼の運動量と姿勢が好きだ。💙",
-        "likes": 22532,
-        "retweets": 4458,
+        "originalText": "It sounds dumb but Kamada would never of done this back in the day, bro really became comfortable here. ",
+        "translatedText": "馬鹿げてると思われるかもしれないけど、昔の鎌田なら絶対こんなことしなかったよ。本当にここで落ち着いたんだな。",
+        "likes": 11168,
+        "retweets": 339,
         "replies": [
           {
-            "id": "r1780380007696_2_0",
-            "username": "@OffTheBall__",
+            "id": "id-1780389070774-r6xg3zta7",
+            "username": "@PalaceTillIDie_",
             "languageCode": "EN",
-            "originalText": "Reliable performance. Exactly what we needed.",
-            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
-            "likes": 58
+            "originalText": "Yeah, you can really see the confidence radiating off him now. Always knew he had it in him, just needed time to settle.",
+            "translatedText": "うん、今では彼から自信が漲ってるのがわかるよ。彼には元々その能力があったといつも思ってた、ただ馴染む時間が必要だっただけさ。",
+            "likes": 150
           },
           {
-            "id": "r1780380007696_2_1",
-            "username": "@GoalDigger_",
+            "id": "id-1780389070774-kjmavm8xd",
+            "username": "@DaichiFan_JP",
             "languageCode": "EN",
-            "originalText": "Good game! Keep it up Daichi Kamada! 👏",
-            "translatedText": "良い試合！この調子で鎌田大地！👏",
-            "likes": 381
+            "originalText": "Comfort is definitely part of it, but I think Glasner also lets him express himself more creatively. Great to see either way!",
+            "translatedText": "快適さも確かにあるけど、グラスナー監督が彼にもっと創造的に自分を表現させてる部分も大きいと思う。どちらにしても、彼の活躍を見れるのは素晴らしいね！",
+            "likes": 80
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFCWiII/status/2059931203084407057"
+      },
+      {
+        "id": "id-1780389078238-0vf5sniwy",
+        "username": "@alifuatduatepe",
+        "verified": false,
+        "languageCode": "TR",
+        "originalText": "🔥 Daichi Kamada maç sonu Glasner’e bu sevinci öneriyor. Gerçekleştiğinde yorumu:  52 yaşındaki biri için hâlâ çok hızlı 😁",
+        "translatedText": "🔥 鎌田大地が試合後、グラスナーにこのセレブレーションを提案。それが実現した時のコメント：「52歳にしては、まだかなり速い😁」",
+        "likes": 40,
+        "retweets": 4,
+        "replies": [
+          {
+            "id": "id-1780389078238-ro05r16e8",
+            "username": "@EintrachtFanGER",
+            "languageCode": "EN",
+            "originalText": "Haha, Glasner still got it! Love to see this kind of fun interaction between player and coach. Kamada bringing the good vibes!",
+            "translatedText": "ハハ、グラスナーはまだ健在！選手とコーチのこんな楽しい交流が見れて嬉しいね。鎌田は良い雰囲気をもたらす！",
+            "likes": 185
+          },
+          {
+            "id": "id-1780389078238-fiai07idk",
+            "username": "@Soccer_King_JP",
+            "languageCode": "JA",
+            "originalText": "鎌田選手のこういうユーモアセンスも好きだなぁ。チームの雰囲気を明るくするのに貢献してるよね。",
+            "translatedText": "鎌田選手のこういうユーモアセンスも好きだなぁ。チームの雰囲気を明るくするのに貢献してるよね。",
+            "likes": 92
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/alifuatduatepe/status/2059910773288100298"
+      },
+      {
+        "id": "id-1780389078852-sr177u6vb",
+        "username": "@Eintracht",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Glückwunsch an den @CPFC, insbesondere an unsere Europa-League-Sieger 2022 Daichi Kamada, Oliver Glasner, Michael Angerschmid und Ronald Brunmayr zum Gewinn der @Conf_League! 🏆\n\n#SGE",
+        "translatedText": "（翻訳未生成）",
+        "likes": 4970,
+        "retweets": 295,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/Eintracht/status/2059759691433976100"
       }
     ],
-    "lastUpdated": "2026-06-02T06:00:07.696Z"
+    "lastUpdated": "2026-06-02T08:31:19.390Z"
   },
   {
     "matchId": "shiogai-20260525",
