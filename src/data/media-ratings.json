@@ -37760,6 +37760,30 @@
     "playerId": "kamada",
     "ratings": [
       {
+        "source": "Football Espana",
+        "country": "スペイン",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Crystal Palace manager Oliver Glasner praised Daichi Kamada and Adam Wharton as the central midfield pairing that was instrumental in their Conference League final win over Rayo Vallecano. Glasner stated they both played \"very, very well\" and highlighted their tactical ability to find and utilize space against the opponent's midfield press.",
+        "commentTranslated": "クリスタル・パレスのオリバー・グラスナー監督は、カンファレンスリーグ決勝でラージョ・バジェカーノに勝利した際、鎌田大地とアダム・ワー​​トンが中盤のコンビとして極めて重要な役割を果たしたと称賛した。グラスナー監督は、両選手が「非常に、非常に良いプレー」をしたと述べ、相手の中盤プレスに対してスペースを見つけ、利用する戦術的な能力を強調した。",
+        "isManual": true,
+        "articleUrl": "https://sports.yahoo.com/articles/oliver-glasner-conference-league-final-104000173.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "London Now",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada was described as a \"European champion\" and \"silently effective in his role as the engine room and pivot of the side.\" His key contributions included providing passes, tackles, and vision, which allowed teammate Adam Wharton to operate with freedom. He had a shot in the 43rd minute that went over, which he was \"slightly disappointed\" about. The article also notes his status as an \"out-of-contract Japan international\" and quotes him saying \"nothing has been decided about his future yet\" to the News Shopper.",
+        "commentTranslated": "鎌田大地は「ヨーロッパ王者」と称され、「チームのエンジンルームであり、ピボットとしての役割で静かに効果的だった」と評されました。彼の重要な貢献は、チームメイトのアダム・ウォートンが自由にプレーできるようにパス、タックル、ビジョンを提供したことでした。43分にはシュートを放ちましたが、枠を外れ、彼自身も「少しがっかりしている」とのことです。記事ではまた、彼が「契約切れの日本代表選手」であることにも触れ、試合後「自身の将来についてはまだ何も決まっていない」とニュースショッパーに語ったと報じています。",
+        "isManual": true,
+        "articleUrl": "https://www.london-now.co.uk/indepth/features/26146156.crystal-palace-ratings-debut-european-silverware-delivered/",
+        "hasArticleRating": false
+      },
+      {
         "source": "UEFA.com",
         "country": "スイス",
         "rating": 0,
@@ -37851,17 +37875,34 @@
         "id": "id-1780389078852-sr177u6vb",
         "username": "@Eintracht",
         "verified": false,
-        "languageCode": "EN",
+        "languageCode": "DE",
         "originalText": "Glückwunsch an den @CPFC, insbesondere an unsere Europa-League-Sieger 2022 Daichi Kamada, Oliver Glasner, Michael Angerschmid und Ronald Brunmayr zum Gewinn der @Conf_League! 🏆\n\n#SGE",
-        "translatedText": "（翻訳未生成）",
+        "translatedText": "@CPFC、特に2022年のヨーロッパリーグ優勝者である鎌田大地、オリバー・グラスナー、ミヒャエル・アンガースシュミット、ローナルド・ブルンマイヤーが@Conf_Leagueで優勝したことにおめでとうございます！🏆 #SGE",
         "likes": 4970,
         "retweets": 295,
-        "replies": [],
+        "replies": [
+          {
+            "id": "id-1780393431949-7sgl0hvkt",
+            "username": "@SGE_AdlerFan",
+            "languageCode": "DE",
+            "originalText": "Echte SGE-Legenden! Schön zu sehen, wie sie auch anderswo Erfolge feiern. Glückwunsch an alle!",
+            "translatedText": "真のSGEのレジェンドたち！彼らが他の場所でも成功を収めているのを見るのは素晴らしいですね。皆さん、おめでとうございます！",
+            "likes": 210
+          },
+          {
+            "id": "id-1780393431949-2hwpnq3qo",
+            "username": "@鎌田大地応援団",
+            "languageCode": "JA",
+            "originalText": "鎌田大地選手、コンファレンスリーグ優勝おめでとうございます！SGEでEL優勝、そして今度はConf. League優勝なんて本当にすごい！誇りです！",
+            "translatedText": "鎌田大地選手、コンファレンスリーグ優勝おめでとうございます！SGEでEL優勝、そして今度はConf. League優勝なんて本当にすごい！誇りです！",
+            "likes": 350
+          }
+        ],
         "isManual": true,
         "postUrl": "https://x.com/Eintracht/status/2059759691433976100"
       }
     ],
-    "lastUpdated": "2026-06-02T08:31:19.390Z"
+    "lastUpdated": "2026-06-02T09:43:51.950Z"
   },
   {
     "matchId": "shiogai-20260525",
