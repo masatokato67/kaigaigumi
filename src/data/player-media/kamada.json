@@ -2,6 +2,45 @@
   "playerId": "kamada",
   "mediaRatings": [
     {
+      "date": "2026-06-04",
+      "source": "VAVEL International",
+      "country": "国際",
+      "rating": 8,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada was rated 8 and highly praised by fans for \"running the show,\" having assisted four goals on the path to cup glory. He also notably secured his second European Cup of his career under manager Oliver Glasner, becoming the first Japanese player to achieve this feat.",
+      "commentTranslated": "鎌田大地は8点と評価され、ファンからは「試合を仕切っている」と高く評価された。彼はカップ戦優勝に向けて4アシストで大きく貢献した。特筆すべきは、オリバー・グラスナー監督のもとでキャリア2度目の欧州カップ戦優勝を果たし、日本人選手として初の快挙を達成したことである。",
+      "isManual": true,
+      "articleUrl": "https://www.vavel.com/en/football/2026/05/29/crystal-palace/1262249-crystal-palace-1-0-rayo-vallecano-post-match-player-ratings.html",
+      "hasArticleRating": true
+    },
+    {
+      "date": "2026-06-04",
+      "source": "UEFA.com",
+      "country": "スイス",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada, Crystal Palace's Japanese midfielder, played a key role in their UEFA Conference League final victory. He formed an essential midfield partnership with Adam Wharton, with coach Oliver Glasner stating they both played \"very, very well.\" Kamada was tactically noted for pulling wide to receive the ball on the left side and contributed significantly to the team's forward play, making 13 forward passes and 12 passing interchanges with Wharton.",
+      "commentTranslated": "クリスタル・パレスの日本人ミッドフィールダー、鎌田大地は、UEFAカンファレンスリーグ決勝での優勝において重要な役割を果たしました。彼はアダム・ウォートンと不可欠な中盤のパートナーシップを組み、オリバー・グラスナー監督は二人とも「非常に、非常に良く」プレーしたと述べています。鎌田は戦術的に左サイドに広く開いてボールを受けると注目され、13本のフォワードパスとウォートンとの12回のパス交換で、チームの攻撃的なプレーに大きく貢献しました。",
+      "isManual": true,
+      "articleUrl": "https://www.uefa.com/uefaconferenceleague/news/02a5-20be026b6a9a-fed8bee987b5-1000--conference-league-performance-insights-crystal-palace-s-tr/",
+      "hasArticleRating": false
+    },
+    {
+      "date": "2026-06-04",
+      "source": "UEFA.com",
+      "country": "スイス",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "The article lists Daichi Kamada as one of the players who has won more than one current UEFA club competition. He is specifically noted for winning both the UEFA Europa League and the UEFA Conference League. Kamada achieved this by winning the Europa League with Frankfurt in 2021/22, followed by the Conference League with Crystal Palace in 2025/26, joining a select group of multiple trophy winners.",
+      "commentTranslated": "この記事では、鎌田大地が現在のUEFAクラブ大会を複数優勝した選手の一人として挙げられています。彼は特に、UEFAヨーロッパリーグとUEFAカンファレンスリーグの両方を制覇した選手として言及されています。鎌田は2021/22シーズンにフランクフルトでヨーロッパリーグを、その後2025/26シーズンにクリスタル・パレスでカンファレンスリーグを制覇し、この功績を達成し、複数のトロフィーを獲得した選手たちの一員となりました。",
+      "isManual": true,
+      "articleUrl": "https://www.uefa.com/uefachampionsleague/news/0299-1dc4bce10371-74b5d5e2e70b-1000--who-has-won-more-than-one-of-the-current-uefa-club-competiti/",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-04-18",
       "source": "Read Crystal Palace",
       "country": "イングランド",
