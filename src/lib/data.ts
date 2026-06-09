@@ -139,7 +139,10 @@ export function getNotableMatches(): Match[] {
 // ── Seasons ──
 
 export function getAvailableSeasons(): { id: string; label: string }[] {
-  return SEASONS.map((s) => ({ id: s.id, label: s.label }));
+  // 試合データがあるシーズンのみ表示
+  return SEASONS
+    .filter((s) => (matchesBySeason[s.id]?.length ?? 0) > 0)
+    .map((s) => ({ id: s.id, label: s.label }));
 }
 
 export function getMatchesBySeason(seasonId: string): Match[] {
