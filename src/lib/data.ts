@@ -139,9 +139,9 @@ export function getNotableMatches(): Match[] {
 // ── Seasons ──
 
 export function getAvailableSeasons(): { id: string; label: string }[] {
-  // 試合データがあるシーズンのみ表示
+  // visible: true のシーズンは常に表示、それ以外は試合データがある場合のみ
   return SEASONS
-    .filter((s) => (matchesBySeason[s.id]?.length ?? 0) > 0)
+    .filter((s) => s.visible || (matchesBySeason[s.id]?.length ?? 0) > 0)
     .map((s) => ({ id: s.id, label: s.label }));
 }
 

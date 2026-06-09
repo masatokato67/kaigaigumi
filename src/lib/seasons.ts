@@ -4,16 +4,17 @@
  */
 
 export interface SeasonConfig {
-  id: string;     // ファイル名・URLで使うキー: "2025-26", "wc2026", "2026-27"
-  label: string;  // UIに表示するラベル
-  from: string;   // 開始日 (YYYY-MM-DD)
-  to: string;     // 終了日 (YYYY-MM-DD)
+  id: string;      // ファイル名・URLで使うキー: "2025-26", "wc2026", "2026-27"
+  label: string;   // UIに表示するラベル
+  from: string;    // 開始日 (YYYY-MM-DD)
+  to: string;      // 終了日 (YYYY-MM-DD)
+  visible?: boolean; // true: 試合0件でもタブ表示。省略時はデータがある場合のみ表示
 }
 
 // 新しい順に定義（UI表示順）
 export const SEASONS: SeasonConfig[] = [
   { id: "2026-27",  label: "2026-2027",         from: "2026-08-01", to: "2027-06-30" },
-  { id: "wc2026",   label: "2026 ワールドカップ", from: "2026-06-01", to: "2026-07-31" },
+  { id: "wc2026",   label: "2026 ワールドカップ", from: "2026-06-01", to: "2026-07-31", visible: true },
   { id: "2025-26",  label: "2025-2026",         from: "2025-07-01", to: "2026-05-31" },
 ];
 
