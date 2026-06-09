@@ -3,12 +3,13 @@
 import { select, input, confirm } from "@inquirer/prompts";
 import {
   readPlayers,
-  readMatches,
-  writeMatches,
-  readMediaRatings,
-  writeMediaRatings,
+  readSeasonMatches,
+  writeSeasonMatches,
+  readSeasonMediaRatings,
+  writeSeasonMediaRatings,
   generateMatchId,
 } from "./lib/file-utils";
+import { getSeasonId } from "./lib/season-utils";
 import { isValidDate, isValidNumber } from "./lib/validators";
 import type { Match, MatchMediaData } from "../src/lib/types";
 
@@ -37,8 +38,6 @@ async function main() {
   console.log("\n🏟️  試合データ追加スクリプト\n");
 
   const players = readPlayers();
-  const matches = readMatches();
-  const mediaRatings = readMediaRatings();
 
   // 1. 選手を選択
   const playerId = await select({
@@ -61,6 +60,10 @@ async function main() {
     if (isValidDate(date)) break;
     console.log("❌ 無効な日付形式です。YYYY-MM-DD形式で入力してください。");
   }
+
+  const seasonId = getSeasonId(date);
+  const matches = readSeasonMatches(seasonId);
+  const mediaRatings = readSeasonMediaRatings(seasonId);
 
   // 重複チェック
   const matchId = generateMatchId(playerId, date);
@@ -219,8 +222,8 @@ async function main() {
   matches.push(newMatch);
   mediaRatings.push(newMediaData);
 
-  writeMatches(matches);
-  writeMediaRatings(mediaRatings);
+  writeSeasonMatches(seasonId, matches);
+  writeSeasonMediaRatings(seasonId, mediaRatings);
 
   console.log("\n✅ 試合データを保存しました!");
   console.log(`   matches.json: ${matches.length}件`);

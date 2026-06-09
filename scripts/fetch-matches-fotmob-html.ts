@@ -6,13 +6,13 @@
  * 使用方法: npx tsx scripts/fetch-matches-fotmob-html.ts
  */
 
-import { readFileSync, writeFileSync } from "fs";
+import { readFileSync, writeFileSync, mkdirSync } from "fs";
 import { join } from "path";
+import { getSeasonId, SEASONS } from "./lib/season-utils";
 
 const DATA_DIR = join(__dirname, "../src/data");
+const SEASONS_DIR = join(DATA_DIR, "seasons");
 const PLAYERS_FILE = join(DATA_DIR, "players.json");
-const MATCHES_FILE = join(DATA_DIR, "matches.json");
-const HIGHLIGHT_VIDEOS_FILE = join(DATA_DIR, "highlight-videos.json");
 
 const SEASON_START_DATE = new Date("2025-07-01");
 
@@ -475,7 +475,20 @@ async function main() {
   );
 
   const players: Player[] = JSON.parse(readFileSync(PLAYERS_FILE, "utf-8"));
-  const existingMatches: Match[] = JSON.parse(readFileSync(MATCHES_FILE, "utf-8"));
+
+  // 全シーズンから既存試合を読み込み
+  const existingMatchesBySeason: Record<string, Match[]> = {};
+  const existingMatches: Match[] = [];
+  for (const s of SEASONS) {
+    const seasonFile = join(SEASONS_DIR, s.id, "matches.json");
+    try {
+      const data: Match[] = JSON.parse(readFileSync(seasonFile, "utf-8"));
+      existingMatchesBySeason[s.id] = data;
+      existingMatches.push(...data);
+    } catch {
+      existingMatchesBySeason[s.id] = [];
+    }
+  }
   const existingMatchIds = new Set(existingMatches.map((m) => m.matchId));
 
   let newMatchCount = 0;
@@ -592,10 +605,50 @@ async function main() {
     await new Promise((r) => setTimeout(r, 1500));
   }
 
-  // ── 保存 ──
+  // ── 保存（シーズン別） ──
+  function saveMatchesBySeason(allMatches: Match[]) {
+    // 試合をシーズン別に振り分けて各ファイルに保存
+    const grouped: Record<string, Match[]> = {};
+    for (const s of SEASONS) grouped[s.id] = [];
+    for (const m of allMatches) {
+      const sid = getSeasonId(m.date);
+      if (!grouped[sid]) grouped[sid] = [];
+      grouped[sid].push(m);
+    }
+    for (const [sid, matches] of Object.entries(grouped)) {
+      const dir = join(SEASONS_DIR, sid);
+      mkdirSync(dir, { recursive: true });
+      matches.sort((a, b) => b.date.localeCompare(a.date));
+      writeFileSync(join(dir, "matches.json"), JSON.stringify(matches, null, 2));
+    }
+  }
+
+  function saveHighlightsBySeason(allHighlights: Record<string, HighlightVideo>, allMatches: Match[]) {
+    const matchDateMap = new Map(allMatches.map((m) => [m.matchId, m.date]));
+    const grouped: Record<string, Record<string, HighlightVideo>> = {};
+    for (const s of SEASONS) grouped[s.id] = {};
+    for (const [matchId, video] of Object.entries(allHighlights)) {
+      const date = matchDateMap.get(matchId) || "2025-07-01";
+      const sid = getSeasonId(date);
+      if (!grouped[sid]) grouped[sid] = {};
+      grouped[sid][matchId] = video;
+    }
+    for (const [sid, videos] of Object.entries(grouped)) {
+      const dir = join(SEASONS_DIR, sid);
+      mkdirSync(dir, { recursive: true });
+      const sortedKeys = Object.keys(videos).sort((a, b) => {
+        const dateA = a.split("-").pop() || "";
+        const dateB = b.split("-").pop() || "";
+        return dateB.localeCompare(dateA);
+      });
+      const sorted: Record<string, HighlightVideo> = {};
+      for (const k of sortedKeys) sorted[k] = videos[k];
+      writeFileSync(join(dir, "highlight-videos.json"), JSON.stringify(sorted, null, 2));
+    }
+  }
+
   if (updateStatsMode && updatedCount > 0) {
-    existingMatches.sort((a, b) => b.date.localeCompare(a.date));
-    writeFileSync(MATCHES_FILE, JSON.stringify(existingMatches, null, 2));
+    saveMatchesBySeason(existingMatches);
     console.log(`\n=== 完了: ${updatedCount}件の試合を更新しました ===`);
   } else if (updateStatsMode) {
     console.log("\n=== 完了: 更新対象の試合はありませんでした ===");
@@ -603,26 +656,21 @@ async function main() {
 
   if (newMatchCount > 0) {
     const allMatches = [...existingMatches, ...newMatches];
-    allMatches.sort((a, b) => b.date.localeCompare(a.date));
-    writeFileSync(MATCHES_FILE, JSON.stringify(allMatches, null, 2));
+    saveMatchesBySeason(allMatches);
 
-    // highlight-videos.json にプレースホルダ追加
-    const highlightVideos: Record<string, HighlightVideo> = JSON.parse(
-      readFileSync(HIGHLIGHT_VIDEOS_FILE, "utf-8")
-    );
+    // highlight-videos を全シーズンから読み込み、新規分を追加して保存
+    const allHighlights: Record<string, HighlightVideo> = {};
+    for (const s of SEASONS) {
+      try {
+        Object.assign(allHighlights, JSON.parse(readFileSync(join(SEASONS_DIR, s.id, "highlight-videos.json"), "utf-8")));
+      } catch { /* */ }
+    }
     for (const m of newMatches) {
-      if (!highlightVideos[m.matchId]) {
-        highlightVideos[m.matchId] = { enabled: false, youtubeId: "", title: "" };
+      if (!allHighlights[m.matchId]) {
+        allHighlights[m.matchId] = { enabled: false, youtubeId: "", title: "" };
       }
     }
-    const sortedKeys = Object.keys(highlightVideos).sort((a, b) => {
-      const dateA = a.split("-").pop() || "";
-      const dateB = b.split("-").pop() || "";
-      return dateB.localeCompare(dateA);
-    });
-    const sortedHighlights: Record<string, HighlightVideo> = {};
-    for (const k of sortedKeys) sortedHighlights[k] = highlightVideos[k];
-    writeFileSync(HIGHLIGHT_VIDEOS_FILE, JSON.stringify(sortedHighlights, null, 2));
+    saveHighlightsBySeason(allHighlights, allMatches);
 
     console.log(`\n=== 完了: ${newMatchCount}件の新しい試合を追加しました ===`);
   } else if (!updateStatsMode) {

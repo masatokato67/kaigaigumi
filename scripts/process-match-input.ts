@@ -9,17 +9,18 @@
  *   npm run process-match -- mitoma-20260304
  */
 
-import { readFileSync, existsSync } from "fs";
+import { readFileSync, existsSync, readdirSync } from "fs";
 import { join } from "path";
 import {
   readMatches,
   readPlayers,
-  readMediaRatings,
-  writeMediaRatings,
-  readHighlightVideos,
-  writeHighlightVideos,
+  readSeasonMediaRatings,
+  writeSeasonMediaRatings,
+  readSeasonHighlightVideos,
+  writeSeasonHighlightVideos,
   generateId,
 } from "./lib/file-utils";
+import { getSeasonFromMatchId, getMatchInputPath } from "./lib/season-utils";
 import { extractPlayerInfo } from "./lib/article-extractor";
 import { extractVoice } from "./lib/voice-extractor";
 import { extractThread } from "./lib/thread-extractor";
@@ -51,23 +52,29 @@ async function main() {
     console.log("使用方法: npm run process-match -- <matchId>");
     console.log("例: npm run process-match -- mitoma-20260304");
 
-    // 利用可能な入力ファイルを表示
-    const { readdirSync } = await import("fs");
+    // 利用可能な入力ファイルを表示（シーズンサブフォルダ対応）
     if (existsSync(INPUTS_DIR)) {
-      const files = readdirSync(INPUTS_DIR).filter((f) => f.endsWith(".json"));
-      if (files.length > 0) {
-        console.log("\n利用可能な入力ファイル:");
-        files.forEach((f) => console.log(`  ${f.replace(".json", "")}`));
+      const seasonDirs = readdirSync(INPUTS_DIR).filter((d) => {
+        try { return require("fs").statSync(join(INPUTS_DIR, d)).isDirectory(); } catch { return false; }
+      });
+      for (const season of seasonDirs) {
+        const files = readdirSync(join(INPUTS_DIR, season)).filter((f) => f.endsWith(".json"));
+        if (files.length > 0) {
+          console.log(`\n[${season}] 入力ファイル: ${files.length}件`);
+          files.slice(-5).forEach((f) => console.log(`  ${f.replace(".json", "")}`));
+          if (files.length > 5) console.log(`  ... 他${files.length - 5}件`);
+        }
       }
     }
     process.exit(1);
   }
 
-  // 入力ファイル読み込み
-  const inputFile = join(INPUTS_DIR, `${matchId}.json`);
+  // 入力ファイル読み込み（シーズンサブフォルダから）
+  const seasonId = getSeasonFromMatchId(matchId);
+  const inputFile = getMatchInputPath(matchId);
   if (!existsSync(inputFile)) {
     console.log(`❌ 入力ファイルが見つかりません: ${inputFile}`);
-    console.log(`   match-inputs/${matchId}.json を作成してください。`);
+    console.log(`   match-inputs/${seasonId}/${matchId}.json を作成してください。`);
     process.exit(1);
   }
 
@@ -94,8 +101,8 @@ async function main() {
     `   ${match.homeTeam.name} ${match.homeTeam.score}-${match.awayTeam.score} ${match.awayTeam.name}\n`
   );
 
-  // mediaRatings は記事とvoice_urlsの両方で使う
-  const mediaRatings = readMediaRatings();
+  // mediaRatings は記事とvoice_urlsの両方で使う（シーズン指定で読み書き）
+  const mediaRatings = readSeasonMediaRatings(seasonId);
   let mediaData = mediaRatings.find((m) => m.matchId === matchId);
 
   if (!mediaData) {
@@ -117,7 +124,7 @@ async function main() {
   if (input.highlight) {
     const youtubeId = extractYoutubeId(input.highlight);
     if (youtubeId) {
-      const videos = readHighlightVideos();
+      const videos = readSeasonHighlightVideos(seasonId);
       const current = videos[matchId];
 
       if (current?.youtubeId === youtubeId) {
@@ -128,7 +135,7 @@ async function main() {
           youtubeId,
           title: current?.title || "",
         };
-        writeHighlightVideos(videos);
+        writeSeasonHighlightVideos(seasonId, videos);
         console.log(`📹 ハイライト: ${current?.youtubeId ? "更新" : "追加"} → ${youtubeId}`);
         updated = true;
       }
@@ -477,7 +484,7 @@ async function main() {
 
   // ── 保存 ──
   mediaData.lastUpdated = new Date().toISOString();
-  writeMediaRatings(mediaRatings);
+  writeSeasonMediaRatings(seasonId, mediaRatings);
 
   // ── 結果サマリー ──
   console.log("\n" + "─".repeat(50));

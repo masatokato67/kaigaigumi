@@ -3,11 +3,12 @@
 import { select, input, confirm } from "@inquirer/prompts";
 import {
   readMatches,
-  readMediaRatings,
-  writeMediaRatings,
+  readSeasonMediaRatings,
+  writeSeasonMediaRatings,
   readPlayers,
   generateId,
 } from "./lib/file-utils";
+import { getSeasonFromMatchId } from "./lib/season-utils";
 import type { XThread, ThreadReply } from "../src/lib/types";
 
 const LANGUAGES = [
@@ -73,17 +74,11 @@ async function main() {
   }
 
   const matches = readMatches();
-  const mediaRatings = readMediaRatings();
   const players = readPlayers();
 
   // 試合を選択
   let matchId: string;
   if (matchIdArg) {
-    const found = mediaRatings.find((m) => m.matchId === matchIdArg);
-    if (!found) {
-      console.log(`❌ 試合が見つかりません: ${matchIdArg}`);
-      process.exit(1);
-    }
     matchId = matchIdArg;
   } else {
     const recentMatches = [...matches]
@@ -102,9 +97,12 @@ async function main() {
     });
   }
 
+  const seasonId = getSeasonFromMatchId(matchId);
+  const mediaRatings = readSeasonMediaRatings(seasonId);
   const mediaData = mediaRatings.find((m) => m.matchId === matchId);
   if (!mediaData) {
     console.log(`❌ メディアデータが見つかりません: ${matchId}`);
+    console.log(`   (シーズン: ${seasonId})`);
     process.exit(1);
   }
 
@@ -219,7 +217,7 @@ async function main() {
   }
 
   // 保存
-  writeMediaRatings(mediaRatings);
+  writeSeasonMediaRatings(seasonId, mediaRatings);
 
   console.log(`\n✅ 保存しました! Xスレッド: ${mediaData.xThreads!.length}件`);
 }

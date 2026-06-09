@@ -7,12 +7,13 @@ import { readFileSync, writeFileSync, existsSync, mkdirSync } from "fs";
 import { join } from "path";
 import { generateAIThreads } from "./lib/thread-generator";
 
+import { getSeasonId, getSeasonFromMatchId, SEASONS } from "./lib/season-utils";
+
 // データファイルのパス
 const DATA_DIR = join(__dirname, "../src/data");
+const SEASONS_DIR = join(DATA_DIR, "seasons");
 const MATCH_INPUTS_DIR = join(__dirname, "../match-inputs");
 const PLAYERS_FILE = join(DATA_DIR, "players.json");
-const MATCHES_FILE = join(DATA_DIR, "matches.json");
-const MEDIA_RATINGS_FILE = join(DATA_DIR, "media-ratings.json");
 
 // 型定義
 interface Player {
@@ -857,10 +858,14 @@ function generateXThreads(match: Match, player: Player): XThread[] {
 async function main(newMatchIds?: string[]) {
   console.log("=== コンテンツ自動生成スクリプト ===\n");
 
-  // データファイルを読み込み
+  // データファイルを読み込み（全シーズン横断）
   const players: Player[] = JSON.parse(readFileSync(PLAYERS_FILE, "utf-8"));
-  const matches: Match[] = JSON.parse(readFileSync(MATCHES_FILE, "utf-8"));
-  const existingMediaRatings: MatchMediaData[] = JSON.parse(readFileSync(MEDIA_RATINGS_FILE, "utf-8"));
+  const matches: Match[] = [];
+  const existingMediaRatings: MatchMediaData[] = [];
+  for (const s of SEASONS) {
+    try { matches.push(...JSON.parse(readFileSync(join(SEASONS_DIR, s.id, "matches.json"), "utf-8"))); } catch { /* */ }
+    try { existingMediaRatings.push(...JSON.parse(readFileSync(join(SEASONS_DIR, s.id, "media-ratings.json"), "utf-8"))); } catch { /* */ }
+  }
 
   // 既存データをMapで管理（matchId → MatchMediaData）
   const existingMap = new Map(existingMediaRatings.map((m) => [m.matchId, m]));
@@ -870,13 +875,13 @@ async function main(newMatchIds?: string[]) {
     ? matches.filter((m) => newMatchIds.includes(m.matchId))
     : matches.filter((m) => !existingMap.has(m.matchId));
 
-  // match-inputs JSONファイルを全試合に対して作成（未作成の場合）
-  if (!existsSync(MATCH_INPUTS_DIR)) {
-    mkdirSync(MATCH_INPUTS_DIR, { recursive: true });
-  }
+  // match-inputs/<season>/ にJSONファイルを全試合に対して作成（未作成の場合）
   let inputFileCount = 0;
   for (const m of matches) {
-    const inputFile = join(MATCH_INPUTS_DIR, `${m.matchId}.json`);
+    const seasonId = getSeasonId(m.date);
+    const seasonDir = join(MATCH_INPUTS_DIR, seasonId);
+    mkdirSync(seasonDir, { recursive: true });
+    const inputFile = join(seasonDir, `${m.matchId}.json`);
     if (!existsSync(inputFile)) {
       const inputData = {
         highlight: "",
@@ -962,9 +967,22 @@ async function main(newMatchIds?: string[]) {
 
   }
 
-  // Mapから配列に戻して保存
+  // Mapから配列に戻してシーズン別に保存
   const allMediaData = Array.from(existingMap.values());
-  writeFileSync(MEDIA_RATINGS_FILE, JSON.stringify(allMediaData, null, 2));
+  const matchDateMap = new Map(matches.map((m) => [m.matchId, m.date]));
+  const mediaBySeason: Record<string, MatchMediaData[]> = {};
+  for (const s of SEASONS) mediaBySeason[s.id] = [];
+  for (const md of allMediaData) {
+    const date = matchDateMap.get(md.matchId) || "2025-07-01";
+    const sid = getSeasonId(date);
+    if (!mediaBySeason[sid]) mediaBySeason[sid] = [];
+    mediaBySeason[sid].push(md);
+  }
+  for (const [sid, data] of Object.entries(mediaBySeason)) {
+    const dir = join(SEASONS_DIR, sid);
+    mkdirSync(dir, { recursive: true });
+    writeFileSync(join(dir, "media-ratings.json"), JSON.stringify(data, null, 2));
+  }
   console.log(`\n=== 完了: ${targetMatches.length}件の試合にコンテンツを生成しました ===`);
 }
 

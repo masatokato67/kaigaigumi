@@ -10,10 +10,11 @@
 import { select, input, confirm } from "@inquirer/prompts";
 import {
   readMatches,
-  readMediaRatings,
-  writeMediaRatings,
+  readSeasonMediaRatings,
+  writeSeasonMediaRatings,
   readPlayers,
 } from "./lib/file-utils";
+import { getSeasonFromMatchId } from "./lib/season-utils";
 import { extractPlayerInfo } from "./lib/article-extractor";
 import type { MediaRating } from "../src/lib/types";
 
@@ -35,18 +36,11 @@ async function main() {
   }
 
   const matches = readMatches();
-  const mediaRatings = readMediaRatings();
   const players = readPlayers();
 
   // 試合を選択
   let matchId: string;
   if (matchIdArg) {
-    const found = mediaRatings.find((m) => m.matchId === matchIdArg);
-    if (!found) {
-      console.log(`❌ メディアデータが見つかりません: ${matchIdArg}`);
-      console.log("   先に試合を追加してください: npm run add-match");
-      process.exit(1);
-    }
     matchId = matchIdArg;
   } else {
     const recentMatches = [...matches]
@@ -65,9 +59,13 @@ async function main() {
     });
   }
 
+  const seasonId = getSeasonFromMatchId(matchId);
+  const mediaRatings = readSeasonMediaRatings(seasonId);
   const mediaData = mediaRatings.find((m) => m.matchId === matchId);
   if (!mediaData) {
     console.log(`❌ メディアデータが見つかりません: ${matchId}`);
+    console.log(`   (シーズン: ${seasonId})`);
+    console.log("   先に試合を追加してください: npm run add-match");
     process.exit(1);
   }
 
@@ -227,7 +225,7 @@ async function main() {
   mediaData.lastUpdated = new Date().toISOString();
 
   // 保存
-  writeMediaRatings(mediaRatings);
+  writeSeasonMediaRatings(seasonId, mediaRatings);
 
   const finalManual = mediaData.ratings.filter((r) => r.isManual).length;
   const finalAuto = mediaData.ratings.filter((r) => !r.isManual).length;
