@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "node -e \"const fs=require('fs');const ids=fs.readdirSync('match-inputs').filter(f=>f.endsWith('.json')).map(f=>f.replace('.json','')).sort();fs.writeFileSync('src/data/match-inputs-index.json',JSON.stringify(ids,null,2));\"",
     "build": "next build",
     "start": "next start",
     "lint": "eslint",

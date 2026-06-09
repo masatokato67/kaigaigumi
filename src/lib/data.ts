@@ -2,7 +2,11 @@ import playersData from "@/data/players.json";
 import matchesData from "@/data/matches.json";
 import mediaRatingsData from "@/data/media-ratings.json";
 import highlightVideosData from "@/data/highlight-videos.json";
+import matchInputsIndex from "@/data/match-inputs-index.json";
 import type { Player, Match, MatchMediaData, PlayerFilters, HighlightVideo, PlayerMediaData } from "./types";
+
+// match-inputs/ フォルダにある運用ファイル済みのmatchIdセット（prebuildで自動生成）
+const matchInputIds = new Set<string>(matchInputsIndex as string[]);
 
 const players = playersData as Player[];
 const matches = matchesData as Match[];
@@ -82,14 +86,14 @@ export function getNotableMatches(): Match[] {
 }
 
 export function getRecentMatches(limit: number = 10): Match[] {
-  // media-ratings.jsonに登録済みの試合を lastUpdated の新しい順で返す
+  // match-inputs/ に運用ファイルがある試合のみ、lastUpdated の新しい順で返す
   const mediaMap = new Map(mediaRatings.map((mr) => [mr.matchId, mr]));
 
   return matches
-    .filter((m) => mediaMap.has(m.matchId))
+    .filter((m) => matchInputIds.has(m.matchId))
     .sort((a, b) => {
-      const aUpdated = mediaMap.get(a.matchId)?.lastUpdated ?? "";
-      const bUpdated = mediaMap.get(b.matchId)?.lastUpdated ?? "";
+      const aUpdated = mediaMap.get(a.matchId)?.lastUpdated ?? a.date;
+      const bUpdated = mediaMap.get(b.matchId)?.lastUpdated ?? b.date;
       return bUpdated.localeCompare(aUpdated);
     })
     .slice(0, limit);
@@ -174,11 +178,11 @@ export function getPlayerMediaData(playerId: string): PlayerMediaData | null {
 }
 
 export function getTopRatedMatches(limit: number = 10): Match[] {
-  // media-ratings.jsonに登録済みの試合を averageRating の高い順で返す
+  // match-inputs/ に運用ファイルがある試合のみ、averageRating の高い順で返す
   const mediaMap = new Map(mediaRatings.map((mr) => [mr.matchId, mr]));
 
   return matches
-    .filter((m) => mediaMap.has(m.matchId))
+    .filter((m) => matchInputIds.has(m.matchId))
     .map((match) => ({
       match,
       rating: mediaMap.get(match.matchId)?.averageRating ?? match.playerStats.rating,
