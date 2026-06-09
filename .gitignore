@@ -16,6 +16,15 @@
 # next.js
 /.next/
 /out/
+/out */
+
+# Claude
+.claude/
+PLAN.md
+
+# Duplicate scripts
+scripts/*\ *.ts
+src/components/**/\ *.tsx
 
 # production
 /build
