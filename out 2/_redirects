@@ -1,0 +1,2 @@
+# Redirect Netlify subdomain to custom domain
+https://genuine-malasada-c7de3e.netlify.app/* https://kaigaigumi-football.com/:splat 301!

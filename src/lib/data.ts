@@ -82,8 +82,16 @@ export function getNotableMatches(): Match[] {
 }
 
 export function getRecentMatches(limit: number = 10): Match[] {
+  // media-ratings.jsonに登録済みの試合を lastUpdated の新しい順で返す
+  const mediaMap = new Map(mediaRatings.map((mr) => [mr.matchId, mr]));
+
   return matches
-    .sort((a, b) => b.date.localeCompare(a.date))
+    .filter((m) => mediaMap.has(m.matchId))
+    .sort((a, b) => {
+      const aUpdated = mediaMap.get(a.matchId)?.lastUpdated ?? "";
+      const bUpdated = mediaMap.get(b.matchId)?.lastUpdated ?? "";
+      return bUpdated.localeCompare(aUpdated);
+    })
     .slice(0, limit);
 }
 
@@ -166,22 +174,15 @@ export function getPlayerMediaData(playerId: string): PlayerMediaData | null {
 }
 
 export function getTopRatedMatches(limit: number = 10): Match[] {
-  const oneMonthAgo = new Date();
-  oneMonthAgo.setMonth(oneMonthAgo.getMonth() - 1);
-  const oneMonthAgoStr = oneMonthAgo.toISOString().split("T")[0];
+  // media-ratings.jsonに登録済みの試合を averageRating の高い順で返す
+  const mediaMap = new Map(mediaRatings.map((mr) => [mr.matchId, mr]));
 
-  // 1ヶ月以内の試合をフィルタし、メディア平均評価でソート
-  const recentMatches = matches.filter((m) => m.date >= oneMonthAgoStr);
-
-  const matchesWithRating = recentMatches.map((match) => {
-    const mediaRating = getMediaAverageRating(match.matchId);
-    return {
+  return matches
+    .filter((m) => mediaMap.has(m.matchId))
+    .map((match) => ({
       match,
-      rating: mediaRating ?? match.playerStats.rating,
-    };
-  });
-
-  return matchesWithRating
+      rating: mediaMap.get(match.matchId)?.averageRating ?? match.playerStats.rating,
+    }))
     .sort((a, b) => b.rating - a.rating)
     .slice(0, limit)
     .map((item) => item.match);

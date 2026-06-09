@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <canvas id="canvas192" width="192" height="192"></canvas>
+  <canvas id="canvas512" width="512" height="512"></canvas>
+  <canvas id="canvas180" width="180" height="180"></canvas>
+  <canvas id="canvas48" width="48" height="48"></canvas>
+  <script>
+    function drawIcon(canvas, size) {
+      const ctx = canvas.getContext('2d');
+      const center = size / 2;
+      const radius = size * 0.4;
+      
+      // Background
+      ctx.fillStyle = '#0a0e1a';
+      ctx.fillRect(0, 0, size, size);
+      
+      // Soccer ball (white circle)
+      ctx.beginPath();
+      ctx.arc(center, center, radius, 0, Math.PI * 2);
+      ctx.fillStyle = '#ffffff';
+      ctx.fill();
+      
+      // Pentagon pattern (simplified)
+      ctx.fillStyle = '#1a1a2e';
+      const pentagonRadius = radius * 0.35;
+      
+      // Center pentagon
+      drawPentagon(ctx, center, center, pentagonRadius);
+      
+      // Surrounding pentagons
+      for (let i = 0; i < 5; i++) {
+        const angle = (i * 72 - 90) * Math.PI / 180;
+        const x = center + Math.cos(angle) * radius * 0.65;
+        const y = center + Math.sin(angle) * radius * 0.65;
+        drawPentagon(ctx, x, y, pentagonRadius * 0.8);
+      }
+      
+      // 日 character
+      ctx.fillStyle = '#e63946';
+      ctx.font = `bold ${size * 0.25}px sans-serif`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText('日', center, center);
+    }
+    
+    function drawPentagon(ctx, cx, cy, r) {
+      ctx.beginPath();
+      for (let i = 0; i < 5; i++) {
+        const angle = (i * 72 - 90) * Math.PI / 180;
+        const x = cx + Math.cos(angle) * r;
+        const y = cy + Math.sin(angle) * r;
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      }
+      ctx.closePath();
+      ctx.fill();
+    }
+    
+    drawIcon(document.getElementById('canvas192'), 192);
+    drawIcon(document.getElementById('canvas512'), 512);
+    drawIcon(document.getElementById('canvas180'), 180);
+    drawIcon(document.getElementById('canvas48'), 48);
+    
+    // Output as data URLs
+    console.log('192:', document.getElementById('canvas192').toDataURL());
+    console.log('512:', document.getElementById('canvas512').toDataURL());
+    console.log('180:', document.getElementById('canvas180').toDataURL());
+    console.log('48:', document.getElementById('canvas48').toDataURL());
+  </script>
+</body>
+</html>
