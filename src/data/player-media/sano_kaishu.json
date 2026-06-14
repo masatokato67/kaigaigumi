@@ -98,10 +98,27 @@
       "verified": false,
       "languageCode": "EN",
       "originalText": "Kodai Sano and Kaishu Sano. What a monstrous midfield that would be.",
-      "translatedText": "（翻訳未生成）",
+      "translatedText": "佐野航大と佐野海舟。なんて恐ろしい中盤になるだろう！",
       "likes": 9,
       "retweets": 0,
-      "replies": [],
+      "replies": [
+        {
+          "id": "id-1781479144626-be74cif5t",
+          "username": "@SanoBrosFan_JPN",
+          "languageCode": "JA",
+          "originalText": "本当に最高の組み合わせ！二人とも能力高いから夢のある話ですね。見てみたい！",
+          "translatedText": "本当に最高の組み合わせ！二人とも能力高いから夢のある話ですね。見てみたい！",
+          "likes": 210
+        },
+        {
+          "id": "id-1781479144626-ab269rf5r",
+          "username": "@FootyTacticsGuy",
+          "languageCode": "EN",
+          "originalText": "They're both great, but their playing styles might be a bit too similar to truly dominate together. You'd need more balance.",
+          "translatedText": "二人とも素晴らしいけど、プレースタイルが似すぎていて、一緒にプレーするのは本当に支配的とは言えないかも。もっとバランスが必要だね。",
+          "likes": 135
+        }
+      ],
       "isManual": true,
       "postUrl": "https://x.com/evanidaho/status/2048044042118668688"
     },

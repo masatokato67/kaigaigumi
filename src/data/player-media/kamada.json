@@ -2,6 +2,19 @@
   "playerId": "kamada",
   "mediaRatings": [
     {
+      "date": "2026-06-14",
+      "source": "Football FanCast",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Crystal Palace manager Oliver Glasner highly praised Daichi Kamada for his \"very, very well\" performance in their 1-0 Europa Conference League final victory against Rayo Vallecano, specifically noting his role in finding and using space. Despite this, Kamada is currently set to leave Crystal Palace this summer as his contract expires, though the club is reportedly keen to convince him to stay for their upcoming Europa League campaign. An encouraging sign for Palace is that Kamada himself \"wants to stay in London,\" and the article suggests keeping him should be a top priority.",
+      "commentTranslated": "クリスタル・パレスの監督オリバー・グラスナーは、ラージョ・バジェカーノとのヨーロッパカンファレンスリーグ決勝での1-0の勝利において、鎌田大地が「非常に、非常に良い」プレーをしたと高く評価し、特にスペースを見つけて活用する彼の役割を指摘しました。しかし、鎌田は今夏契約満了に伴いクリスタル・パレスを退団する予定ですが、クラブは来シーズンのヨーロッパリーグ戦に向けて彼を引き留めたいと考えていると報じられています。鎌田自身が「ロンドンに留まることを希望している」という点がパレスにとって心強い兆候であり、記事は彼を引き留めることが最優先事項であるべきだと示唆しています。",
+      "isManual": true,
+      "articleUrl": "https://www.footballfancast.com/crystal-palace-submit-transfer-bid-marc-casado-barcelona/",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-06-04",
       "source": "VAVEL International",
       "country": "国際",
