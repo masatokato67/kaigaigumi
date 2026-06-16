@@ -304,91 +304,97 @@
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1781479238573_0",
-        "username": "@WC2026LiveStats",
-        "verified": true,
+        "id": "id-1781601262953-7nw8njcxi",
+        "username": "@CPFC",
+        "verified": false,
         "languageCode": "EN",
-        "originalText": "Daichi Kamada delivered a standout performance for Japan today in their thrilling 2-2 draw with the Netherlands in World Cup Group F. The Crystal Palace midfielder played the full 90 minutes, scoring a crucial goal and earning an impressive 8.1 rating.",
-        "translatedText": "鎌田大地は今日のワールドカップグループF、オランダとのスリリングな2-2の引き分けで日本代表として際立ったパフォーマンスを見せた。クリスタルパレスのミッドフィールダーはフル出場し、重要なゴールを決め、8.1という素晴らしい評価を獲得した。",
-        "likes": 12500,
-        "retweets": 1500,
+        "originalText": "Daichi Kamada with an 88th-minute equaliser for Japan 🤌🇯🇵",
+        "translatedText": "鎌田大地が日本代表として88分に同点ゴールを決めた！🤌🇯🇵",
+        "likes": 29239,
+        "retweets": 1631,
         "replies": [
           {
-            "id": "r1781479238573_0_0",
-            "username": "@EaglesAnalyst",
-            "languageCode": "EN",
-            "originalText": "Kamada proving his quality on the biggest stage; Palace fans already know what he's capable of!",
-            "translatedText": "鎌田が最大の舞台でその実力を証明している。パレスのファンは彼が何ができるかもう知っているよ！",
+            "id": "id-1781601262953-i41ohhjpv",
+            "username": "@侍ブルーファン",
+            "languageCode": "JA",
+            "originalText": "劇的な同点弾！鎌田選手は本当に勝負強いな！🇯🇵",
+            "translatedText": "劇的な同点弾！鎌田選手は本当に勝負強いな！🇯🇵",
             "likes": 320
           },
           {
-            "id": "r1781479238573_0_1",
-            "username": "@Football_Facts",
+            "id": "id-1781601262953-1u0dmwej4",
+            "username": "@EaglesFan7_",
             "languageCode": "EN",
-            "originalText": "A crucial goal for Japan to snatch a point, and his rating reflects a truly dominant midfield display.",
-            "translatedText": "日本が勝ち点1をもぎ取るための重要なゴール。彼の評価はまさに支配的な中盤のパフォーマンスを反映している。",
+            "originalText": "Always reliable when it matters most. Top class player who doesn't get enough credit.",
+            "translatedText": "最も重要な場面で常に信頼できる。十分評価されていないトップクラスの選手だ。",
             "likes": 180
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFC/status/2066280853492142094"
       },
       {
-        "id": "t1781479238573_1",
-        "username": "@PalaceEagleEye",
+        "id": "id-1781601264275-k65i8nq02",
+        "username": "@fodboldword",
+        "verified": false,
+        "languageCode": "ES",
+        "originalText": "El mejor gol del Mundial hasta ahora 😅🇯🇵\n\n",
+        "translatedText": "今のところワールドカップ最高のゴールだね 😅🇯🇵",
+        "likes": 6153,
+        "retweets": 437,
+        "replies": [
+          {
+            "id": "id-1781601278080-z652z7j2v",
+            "username": "@FutbolMaestroES",
+            "languageCode": "ES",
+            "originalText": "¡Absolutamente! La forma en que se desmarcó y la definición... una obra de arte. Kamada es pura magia.",
+            "translatedText": "全くその通り！彼がマークを外した方法とフィニッシュ…芸術作品だ。鎌田は純粋な魔法だ。",
+            "likes": 210
+          },
+          {
+            "id": "id-1781601278080-yx4834rgs",
+            "username": "@JPN_FootballFan",
+            "languageCode": "EN",
+            "originalText": "It was amazing, but I think some of the team play leading up to it made it even better. Hard to say if it's THE best, but definitely a contender!",
+            "translatedText": "素晴らしかったけど、それまでのチームプレーがさらに良くしていたと思う。最高のゴールだとは断言できないけど、間違いなく候補だね！",
+            "likes": 125
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/fodboldword/status/2066552562573246727"
+      },
+      {
+        "id": "id-1781601271804-qqbaosg3q",
+        "username": "@FabrizioRomano",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "Absolutely buzzing for Daichi Kamada! Scoring for Japan at the World Cup against a team like the Netherlands is massive. What a player we have at Crystal Palace! 🦅🇯🇵",
-        "translatedText": "鎌田大地には本当に興奮してる！オランダのようなチーム相手にワールドカップで日本代表のためにゴールを決めるなんて本当にすごいことだ。クリスタルパレスにはなんて素晴らしい選手がいるんだ！🦅🇯🇵",
-        "likes": 3100,
-        "retweets": 450,
+        "originalText": "🌎🍿 Netherlands and Japan share points on World Cup opener!\n\nWho’s been your Man of the Match?",
+        "translatedText": "🌎🍿 オランダと日本がワールドカップ開幕戦で勝ち点を分け合った！あなたのマン・オブ・ザ・マッチは誰でしたか？",
+        "likes": 88965,
+        "retweets": 6275,
         "replies": [
           {
-            "id": "r1781479238573_1_0",
-            "username": "@CPFCFanatic",
+            "id": "id-1781601271804-hayqnw9my",
+            "username": "@JPN_Fanatic",
             "languageCode": "EN",
-            "originalText": "You love to see it! He's going to come back to Selhurst Park buzzing with confidence.",
-            "translatedText": "見てて本当に嬉しい！彼は自信満々でセルハーストパークに戻ってくるだろうね。",
-            "likes": 250
+            "originalText": "Exciting game! Mitoma was electric, but I think Gakpo for Netherlands was fantastic too. Hard to pick one!",
+            "translatedText": "エキサイティングな試合だった！三笘は電光石火だったけど、オランダのガクポも素晴らしかったと思う。一人を選ぶのは難しいね！",
+            "likes": 287
           },
           {
-            "id": "r1781479238573_1_1",
-            "username": "@SouthLondonSaviour",
-            "languageCode": "EN",
-            "originalText": "Our boy Kamada doing bits on the world stage! What a signing he was for us.",
-            "translatedText": "うちの鎌田が世界の舞台で大活躍してる！なんて良い補強だったんだ。",
-            "likes": 130
-          }
-        ]
-      },
-      {
-        "id": "t1781479238573_2",
-        "username": "@SAMURAIBLUE_JPN",
-        "verified": false,
-        "languageCode": "JA",
-        "originalText": "鎌田大地、やってくれたー！！！オランダ相手にワールドカップでゴール決めるなんて痺れる！2-2ドローは価値ある勝ち点1だね！🇯🇵✨",
-        "translatedText": "鎌田大地、やってくれたー！！！オランダ相手にワールドカップでゴール決めるなんて痺れる！2-2ドローは価値ある勝ち点1だね！🇯🇵✨",
-        "likes": 2800,
-        "retweets": 350,
-        "replies": [
-          {
-            "id": "r1781479238573_2_0",
-            "username": "@Football_JP_Info",
+            "id": "id-1781601271804-mczlcfeqy",
+            "username": "@サッカー好き",
             "languageCode": "JA",
-            "originalText": "鎌田選手のゴール、本当に素晴らしかったです！ワールドカップでの活躍、胸が熱くなりますね！",
-            "translatedText": "鎌田選手のゴール、本当に素晴らしかったです！ワールドカップでの活躍、胸が熱くなりますね！",
-            "likes": 190
-          },
-          {
-            "id": "r1781479238573_2_1",
-            "username": "@Jpn_Soccer_News",
-            "languageCode": "JA",
-            "originalText": "中盤でしっかりボールを収めて、あの決定力！Palaceでも頑張ってくれてる証拠だね！",
-            "translatedText": "中盤でしっかりボールを収めて、あの決定力！Palaceでも頑張ってくれてる証拠だね！",
-            "likes": 90
+            "originalText": "引き分けは残念だけど、W杯初戦で強豪オランダ相手に勝ち点1は大きい！遠藤航の守備は本当にすごかった！",
+            "translatedText": "引き分けは残念だけど、W杯初戦で強豪オランダ相手に勝ち点1は大きい！遠藤航の守備は本当にすごかった！",
+            "likes": 173
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/FabrizioRomano/status/2066278507970203770"
       }
     ],
-    "lastUpdated": "2026-06-16T09:11:52.287Z"
+    "lastUpdated": "2026-06-16T09:14:38.080Z"
   },
   {
     "matchId": "shiogai-20260614",
