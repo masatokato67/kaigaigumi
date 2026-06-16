@@ -2,7 +2,56 @@
   {
     "matchId": "kubo-20260614",
     "playerId": "kubo",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "LiveScore",
+        "country": "イングランド",
+        "rating": 7.4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takefusa Kubo provided the assist for Keito Nakamura's equaliser, demonstrating his ability to create scoring opportunities. He also caused problems for the opposition with his dribbling throughout his time on the pitch. However, his performance was cut short as he departed the game with apparent discomfort.",
+        "commentTranslated": "久保建英は中村敬斗の同点ゴールをアシストし、得点機会を創出する能力を示しました。また、彼はピッチ上でのドリブルで相手に問題を引き起こしました。しかし、体調不良のため途中交代となり、彼のプレー時間は短くなりました。",
+        "isManual": true,
+        "articleUrl": "https://www.livescore.com/en/news/football/world-cup/netherlands-v-japan-player-ratings-world-cup-group-stage/",
+        "hasArticleRating": true
+      },
+      {
+        "source": "The Guardian",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takefusa Kubo started for Japan in a 3-4-2-1 formation, playing as one of the two attacking midfielders, replacing Junya Ito from the previous match. In the 14th minute, he was involved in an attacking move, playing a pass to the underlapping Nakamura, whose dangerous low cross was ultimately cut out.",
+        "commentTranslated": "久保建英は日本の3-4-2-1システムで先発出場し、前回の試合の伊東純也に代わって2人の攻撃的ミッドフィールダーの1人としてプレーした。14分には攻撃的なプレーに絡み、アンダーラップで走り込んだ中村にパスを出し、その危険な低いクロスは最終的にカットされた。",
+        "isManual": true,
+        "articleUrl": "https://www.theguardian.com/football/live/2026/jun/14/netherlands-v-japan-world-cup-2026-live?page=with:block-6a2eef6d8f08b3c2b5d2f15e",
+        "hasArticleRating": false
+      },
+      {
+        "source": "AS USA",
+        "country": "アメリカ合衆国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takefusa Kubo was forced to leave Japan's 2-2 draw with the Netherlands early in the 71st minute due to a heavy collision with Denzel Dumfries, which caused significant knee contact. Initial concerns suggest a potential knee sprain or damage to his left knee, though medical tests are pending to confirm the severity. Despite initially struggling and later being photographed in a wheelchair, the Real Sociedad winger had walked off the field under his own power after the final whistle, appearing in better spirits. He now has a week to recover before Japan's next World Cup match on June 21.",
+        "commentTranslated": "久保建英は、デンゼル・ダンフリースとの激しい衝突により、日本対オランダの2-2の引き分け試合で71分に早期退場を強いられました。この衝突は久保の膝に大きな衝撃を与え、当初は左膝の捻挫や損傷の可能性が懸念されていますが、重症度確認のための精密検査が待たれています。レアル・ソシエダのウィンガーは、当初は苦しんでおり、後に車椅子に乗った写真が共有されましたが、試合終了後には自力でピッチを去り、比較的元気な様子を見せていました。日本の次のワールドカップの試合は6月21日で、久保には回復のための1週間が与えられています。",
+        "isManual": true,
+        "articleUrl": "https://en.as.com/soccer/world-cup/japans-kubo-leaves-in-a-wheelchair-after-dumfries-challenge-f202606-n/?outputType=amp",
+        "hasArticleRating": false
+      },
+      {
+        "source": "RotoWire",
+        "country": "アメリカ合衆国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takefusa Kubo was substituted in the 70th minute of Sunday's match against the Netherlands due to an apparent knee injury, after struggling in the second half. He left the field with medical attention and ice on his knee. His exit is a major storyline for his team as he is their \"star young talent\" and a \"major part of the attack,\" having started in the center of the attacking midfield.",
+        "commentTranslated": "久保建英は日曜日のオランダ戦で、後半に苦戦した後、膝の怪我のため70分に交代した。彼は医療処置を受け、膝にアイシングをしてピッチを後にした。彼は「スターの若手タレント」であり「攻撃の主要な部分」を担っていたため、彼の離脱はチームにとって重要な注目点である。彼は攻撃的ミッドフィールダーの中央で先発出場していた。",
+        "isManual": true,
+        "articleUrl": "https://www.rotowire.com/soccer/headlines/takefusa-kubo-injury-off-with-knee-injury-519415",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 7.2,
     "localVoices": [],
     "xThreads": [
@@ -91,12 +140,25 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-14T23:20:06.338Z"
+    "lastUpdated": "2026-06-16T13:58:54.096Z"
   },
   {
     "matchId": "tomiyasu-20260614",
     "playerId": "tomiyasu",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "LiveScore",
+        "country": "イングランド",
+        "rating": 6.2,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takehiro Tomiyasu's experience provided stability after he came on in the 75th minute. He helped maintain Japan's organisation during the frenetic finale of the match.",
+        "commentTranslated": "冨安健洋は75分に途中出場した後、その経験が安定をもたらしました。彼は試合の荒々しい終盤において、日本の組織を維持するのに貢献しました。",
+        "isManual": true,
+        "articleUrl": "https://www.livescore.com/en/news/football/world-cup/netherlands-v-japan-player-ratings-world-cup-group-stage/",
+        "hasArticleRating": true
+      }
+    ],
     "averageRating": 6.4,
     "localVoices": [],
     "xThreads": [
@@ -185,7 +247,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-14T23:20:24.015Z"
+    "lastUpdated": "2026-06-16T13:49:21.136Z"
   },
   {
     "matchId": "kamada-20260614",
@@ -399,101 +461,73 @@
   {
     "matchId": "shiogai-20260614",
     "playerId": "shiogai",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "LiveScore",
+        "country": "イングランド",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kento Shiogai made a brief appearance from the 84th minute. He was involved in pressing as Japan sought to find the equalising goal, which they eventually achieved.",
+        "commentTranslated": "塩貝健人は84分から短い出場を果たしました。彼は日本が同点ゴールを追いかける中でプレスに参加し、最終的にそのゴールは実現しました。",
+        "isManual": true,
+        "articleUrl": "https://www.livescore.com/en/news/football/world-cup/netherlands-v-japan-player-ratings-world-cup-group-stage/",
+        "hasArticleRating": true
+      }
+    ],
     "averageRating": 6.5,
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1781479253972_0",
-        "username": "@Kicker_DE",
-        "verified": true,
-        "languageCode": "DE",
-        "originalText": "Kento Shiogai feierte heute sein WM-Debüt für Japan im Spiel gegen die Niederlande. Der Stürmer des VfL Wolfsburg kam in der 84. Minute beim 2:2-Unentschieden zum Einsatz und erhielt eine solide Bewertung von 6.5. Ein vielversprechender erster Auftritt auf der Weltbühne.",
-        "translatedText": "塩貝健人選手は本日、オランダ戦で日本代表としてワールドカップデビューを果たしました。VfLヴォルフスブルクのストライカーは2-2の引き分けで84分から出場し、6.5という堅実な評価を得ました。世界舞台での有望な初出場です。",
-        "likes": 7856,
-        "retweets": 1123,
-        "replies": [
-          {
-            "id": "r1781479253972_0_0",
-            "username": "@WolfsburgNachrichten",
-            "languageCode": "DE",
-            "originalText": "Schön, dass er seine ersten Minuten bekommen hat. Potential ist da, muss jetzt weiter hart arbeiten.",
-            "translatedText": "彼が最初の出場機会を得られて良かった。ポテンシャルはあるから、これからも懸命に努力する必要がある。",
-            "likes": 210
-          },
-          {
-            "id": "r1781479253972_0_1",
-            "username": "@FootballGlobal",
-            "languageCode": "EN",
-            "originalText": "Good to see Shiogai getting a taste of the World Cup. Promising talent, hopefully more minutes to come for Japan.",
-            "translatedText": "塩貝がワールドカップの雰囲気を味わえて良かった。有望な才能、日本代表で今後さらに出場機会が増えることを願う。",
-            "likes": 125
-          }
-        ]
-      },
-      {
-        "id": "t1781479253972_1",
-        "username": "@VfLWolfsburgFans",
+        "id": "id-1781617746491-6wb7rnxzz",
+        "username": "@espremealaranja",
         "verified": false,
-        "languageCode": "EN",
-        "originalText": "Proud to see our very own Kento Shiogai make his World Cup debut for Japan today! Came on late in the exciting 2-2 draw against the Netherlands. Small steps, but it's great experience for him. Future is bright for this lad at Wolfsburg!",
-        "translatedText": "本日、我らが塩貝健人が日本代表としてワールドカップデビューを果たしたことを誇りに思う！オランダとの2-2というエキサイティングな引き分けの試合に終盤出場。小さな一歩だが、彼にとって素晴らしい経験だ。ヴォルフスブルクでのこの若者の未来は明るい！",
-        "likes": 2341,
-        "retweets": 387,
+        "languageCode": "PT",
+        "originalText": "O atacante japonês Kento Shiogai (que entrou no fim) e o goleiro holandês Robin Roefs: separados pelas seleções, unidos pelo passado recente no NEC.",
+        "translatedText": "日本のフォワード塩貝健人（終盤に途中出場）とオランダ人ゴールキーパーのロビン・ルーフス：代表チームでは別々の道を歩むも、NECでの最近の過去によって結ばれている。",
+        "likes": 8,
+        "retweets": 0,
         "replies": [
           {
-            "id": "r1781479253972_1_0",
-            "username": "@VfLNewsHub",
-            "languageCode": "EN",
-            "originalText": "Definitely! You could see he was eager to get involved. More to come from him, for sure.",
-            "translatedText": "間違いなく！彼が積極的に関わろうとしているのが分かった。今後彼からもっと多くが見られるのは確実だ。",
-            "likes": 165
+            "id": "id-1781617746491-7f1a7qeqr",
+            "username": "@JFA_SamuraiBlue",
+            "languageCode": "JA",
+            "originalText": "NECでの彼らの繋がりは本当に素晴らしいですね！また一緒にプレーする姿を見たいです。",
+            "translatedText": "NECでの彼らの繋がりは本当に素晴らしいですね！また一緒にプレーする姿を見たいです。",
+            "likes": 180
           },
           {
-            "id": "r1781479253972_1_1",
-            "username": "@BundesligaFanEN",
+            "id": "id-1781617746491-xoodl5jp2",
+            "username": "@DutchFootballWatch",
             "languageCode": "EN",
-            "originalText": "Always good to see young Bundesliga players on the big stage. Hope he gets a start in the next game!",
-            "translatedText": "若いブンデスリーガの選手が大きな舞台で活躍するのを見るのはいつも良いことだ。次の試合で先発出場できることを願う！",
-            "likes": 92
+            "originalText": "Interesting to see them both progressing. Shiogai really needs more minutes to properly showcase his talent, but good that he's getting some exposure.",
+            "translatedText": "二人とも成長しているのを見るのは興味深いですね。塩貝は才能をしっかり発揮するためにもっと出場時間が必要ですが、露出が増えるのは良いことです。",
+            "likes": 95
           }
-        ]
-      },
-      {
-        "id": "t1781479253972_2",
-        "username": "@SAMURAIBLUE_JPN",
-        "verified": false,
-        "languageCode": "JA",
-        "originalText": "塩貝選手、ワールドカップデビューおめでとうございます！短い時間だったけど、あの舞台に立てたことが本当に素晴らしい😭 オランダ相手に2-2のドローは価値ある結果！次の試合も期待してます！ #日本代表 #塩貝健人 #W杯",
-        "translatedText": "塩貝選手、ワールドカップデビューおめでとうございます！短い時間だったけど、あの舞台に立てたことが本当に素晴らしい😭 オランダ相手に2-2のドローは価値ある結果！次の試合も期待してます！ #日本代表 #塩貝健人 #W杯",
-        "likes": 1876,
-        "retweets": 254,
-        "replies": [
-          {
-            "id": "r1781479253972_2_0",
-            "username": "@JPNFootballSupporter",
-            "languageCode": "JA",
-            "originalText": "塩貝選手出てきた時、鳥肌立ったよ！これからもっと出番が増えて活躍してほしいね！",
-            "translatedText": "塩貝選手出てきた時、鳥肌立ったよ！これからもっと出番が増えて活躍してほしいね！",
-            "likes": 115
-          },
-          {
-            "id": "r1781479253972_2_1",
-            "username": "@SoccerJP_Fan",
-            "languageCode": "JA",
-            "originalText": "短い時間でも存在感あった！さすがブンデスリーガの選手だわ。次のコスタリカ戦はスタメンで見たい！",
-            "translatedText": "短い時間でも存在感あった！さすがブンデスリーガの選手だわ。次のコスタリカ戦はスタメンで見たい！",
-            "likes": 78
-          }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/espremealaranja/status/2066651108307587585"
       }
     ],
-    "lastUpdated": "2026-06-14T23:20:53.972Z"
+    "lastUpdated": "2026-06-16T13:49:06.492Z"
   },
   {
     "matchId": "sano_kaishu-20260614",
     "playerId": "sano_kaishu",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "RotoWire",
+        "country": "アメリカ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano played the full 90 minutes in a 2-2 draw against Netherlands, recording two tackles (one won), four recoveries, and one interception. While showing some offensive promise with an 81 percent pass accuracy, he offered little impact in the final third. His usual strength in physical play, like aerial duels, wasn't replicated, winning only one of five attempts. Overall, his value for Japan remains tied to defensive volume rather than attacking output.",
+        "commentTranslated": "佐野海舟はオランダとの2-2の引き分けの試合でフル出場し、2つのタックル（1つ成功）、4つのリカバリー、1つのインターセプトを記録した。攻撃面では81%のパス成功率でいくらかの可能性を見せたものの、ファイナルサードでの影響は少なかった。通常、空中戦のようなフィジカル面での強さが特徴だが、この試合では5回の試みのうち1回しか成功させられなかった。全体として、彼の日本代表での価値は攻撃的貢献よりも守備的貢献に結びついている。",
+        "isManual": true,
+        "articleUrl": "https://www.rotowire.com/soccer/headlines/kaishu-sano-news-goes-full-90-minutes-519447",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 6.3,
     "localVoices": [],
     "xThreads": [
@@ -582,6 +616,6 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-14T23:21:07.918Z"
+    "lastUpdated": "2026-06-16T13:48:40.079Z"
   }
 ]
