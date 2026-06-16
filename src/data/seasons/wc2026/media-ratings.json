@@ -190,7 +190,32 @@
   {
     "matchId": "kamada-20260614",
     "playerId": "kamada",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "Sky Sports",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada scored Japan's 89th-minute equaliser against the Netherlands, securing a 2-2 draw. His crucial late goal came from a deflection off his body after a header by teammate Kento Shiogai, which the goalkeeper then parried into his own net. This dramatic equaliser denied the Dutch a victory in their World Cup Group F opener.",
+        "commentTranslated": "鎌田大地は、オランダ戦で日本の89分同点ゴールを決め、2-2の引き分けに貢献した。彼の重要な試合終盤のゴールは、チームメイトの塩貝健人のヘディングシュートが彼に当たってから、キーパーが自分のネットに弾いたものだった。この劇的な同点ゴールは、ワールドカップグループFの開幕戦でオランダの勝利を阻止した。",
+        "isManual": true,
+        "articleUrl": "https://www.skysports.com/football/news/11095/13552697/world-cup-2026-netherlands-2-2-japan-daichi-kamadas-89th-minute-equaliser-denies-the-dutch-in-dallas",
+        "hasArticleRating": false
+      },
+      {
+        "source": "2news.com",
+        "country": "アメリカ合衆国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada scored a crucial late goal in the 88th minute, deflecting a header from teammate Koki Ogawa into the Dutch goal, to secure a 2-2 draw for Japan against the Netherlands in their World Cup opener. This tying goal, described as one that will be remembered for a long time, sent Japanese fans into a frenzy and helped Japan avoid an opening loss against the higher-ranked opponent.",
+        "commentTranslated": "鎌田大地は、ワールドカップ初戦のオランダ戦で、チームメイトの小川航基のヘディングシュートを88分にコースを変えてゴールにねじ込み、日本に2-2の引き分けをもたらす重要な遅延ゴールを決めた。長く記憶されるであろうこの同点ゴールは、日本のファンを熱狂させ、格上の相手に対する初戦での敗戦を回避するのに貢献した。",
+        "isManual": true,
+        "articleUrl": "https://www.2news.com/sports/daichi-kamadas-late-header-gives-japan-a-2-2-draw-with-the-netherlands-in-world/article_638787e1-8020-5e45-97df-c1fa1fe6c886.html",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 8.1,
     "localVoices": [],
     "xThreads": [
@@ -279,7 +304,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-14T23:20:38.573Z"
+    "lastUpdated": "2026-06-16T08:41:58.544Z"
   },
   {
     "matchId": "shiogai-20260614",
