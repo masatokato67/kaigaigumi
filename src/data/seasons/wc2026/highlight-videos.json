@@ -1,1 +1,27 @@
-{}
+{
+  "kubo-20260614": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260614": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260614": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260614": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260614": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  }
+}

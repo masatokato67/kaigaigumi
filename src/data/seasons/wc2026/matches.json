@@ -1,1 +1,220 @@
-[]
+[
+  {
+    "matchId": "kubo-20260614",
+    "playerId": "kubo",
+    "date": "2026-06-14",
+    "competition": "World Cup Grp. F",
+    "homeTeam": {
+      "name": "Netherlands",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 75,
+      "goals": 0,
+      "assists": 1,
+      "starting": true,
+      "position": "RW",
+      "rating": 7.2
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.02,
+      "expectedAssists": 0.03,
+      "totalPass": 16,
+      "accuratePass": 12,
+      "keyPass": 1,
+      "touches": 24,
+      "dispossessed": 1,
+      "totalLongBalls": 2,
+      "accurateLongBalls": 1,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 1,
+      "ballRecovery": 2,
+      "duelWon": 1,
+      "duelLost": 2,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "wasFouled": 1,
+      "fouls": 1,
+      "shotsOnTarget": 0,
+      "totalShots": 1
+    }
+  },
+  {
+    "matchId": "tomiyasu-20260614",
+    "playerId": "tomiyasu",
+    "date": "2026-06-14",
+    "competition": "World Cup Grp. F",
+    "homeTeam": {
+      "name": "Netherlands",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 15,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "LB",
+      "rating": 6.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.01,
+      "totalPass": 20,
+      "accuratePass": 19,
+      "keyPass": 0,
+      "touches": 24,
+      "dispossessed": 0,
+      "totalCross": 1,
+      "totalTackle": 1,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 1,
+      "interceptionWon": 0,
+      "ballRecovery": 1,
+      "duelWon": 2,
+      "duelLost": 2,
+      "aerialWon": 0,
+      "aerialLost": 1,
+      "wasFouled": 1,
+      "fouls": 1
+    }
+  },
+  {
+    "matchId": "kamada-20260614",
+    "playerId": "kamada",
+    "date": "2026-06-14",
+    "competition": "World Cup Grp. F",
+    "homeTeam": {
+      "name": "Netherlands",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 8.1
+    },
+    "notable": true,
+    "detailedStats": {
+      "expectedGoals": 0.15,
+      "expectedAssists": 0.12,
+      "totalPass": 61,
+      "accuratePass": 49,
+      "keyPass": 1,
+      "touches": 74,
+      "dispossessed": 1,
+      "totalLongBalls": 7,
+      "accurateLongBalls": 3,
+      "totalCross": 2,
+      "totalTackle": 3,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 1,
+      "interceptionWon": 1,
+      "ballRecovery": 4,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialWon": 0,
+      "aerialLost": 1,
+      "fouls": 0,
+      "shotsOnTarget": 1,
+      "totalShots": 1
+    }
+  },
+  {
+    "matchId": "shiogai-20260614",
+    "playerId": "shiogai",
+    "date": "2026-06-14",
+    "competition": "World Cup Grp. F",
+    "homeTeam": {
+      "name": "Netherlands",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 6,
+      "goals": 0,
+      "assists": 0,
+      "starting": false,
+      "position": "ST",
+      "rating": 6.5
+    },
+    "notable": false,
+    "detailedStats": {
+      "totalPass": 1,
+      "accuratePass": 1,
+      "keyPass": 0,
+      "touches": 2,
+      "dispossessed": 0,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 0,
+      "ballRecovery": 1,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 0
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260614",
+    "playerId": "sano_kaishu",
+    "date": "2026-06-14",
+    "competition": "World Cup Grp. F",
+    "homeTeam": {
+      "name": "Netherlands",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 2
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 6.3
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.01,
+      "totalPass": 31,
+      "accuratePass": 25,
+      "keyPass": 0,
+      "touches": 39,
+      "dispossessed": 2,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 0,
+      "totalTackle": 2,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 0,
+      "interceptionWon": 1,
+      "ballRecovery": 4,
+      "duelWon": 3,
+      "duelLost": 7,
+      "aerialWon": 1,
+      "aerialLost": 3,
+      "fouls": 0
+    }
+  }
+]

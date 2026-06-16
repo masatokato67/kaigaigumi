@@ -1,0 +1,1602 @@
+{
+  "shiogai-20260516": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260516": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260514": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260513": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260510": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260510": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260510": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260509": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260509": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260509": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260507": {
+    "enabled": true,
+    "youtubeId": "B35vVG3Zssc",
+    "title": ""
+  },
+  "kubo-20260504": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260503": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260503": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260503": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260502": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260502": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260430": {
+    "enabled": true,
+    "youtubeId": "RBkAflom2Hg",
+    "title": ""
+  },
+  "suzuki_yuito-20260430": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260426": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260425": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260425": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260425": {
+    "enabled": true,
+    "youtubeId": "pKWnFYZ3NgY",
+    "title": ""
+  },
+  "suzuki_yuito-20260423": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260422": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260421": {
+    "enabled": true,
+    "youtubeId": "pE-zEi0b5KU",
+    "title": ""
+  },
+  "kamada-20260420": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260419": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260419": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260419": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260418": {
+    "enabled": true,
+    "youtubeId": "FlDQktFaxgU",
+    "title": ""
+  },
+  "kubo-20260418": {
+    "enabled": true,
+    "youtubeId": "ELTKWfvghY8",
+    "title": ""
+  },
+  "shiogai-20260418": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260416": {
+    "enabled": true,
+    "youtubeId": "d_S5FgXQ-jA",
+    "title": ""
+  },
+  "sano_kaishu-20260416": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260416": {
+    "enabled": true,
+    "youtubeId": "WbRfsIIsKTI",
+    "title": ""
+  },
+  "kamada-20260412": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260412": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260412": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260411": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260411": {
+    "enabled": true,
+    "youtubeId": "65twx79qbVg",
+    "title": ""
+  },
+  "shiogai-20260411": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260411": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260409": {
+    "enabled": true,
+    "youtubeId": "lwlceXS-PTM",
+    "title": ""
+  },
+  "sano_kaishu-20260409": {
+    "enabled": true,
+    "youtubeId": "fOkqXjQOOTQ",
+    "title": ""
+  },
+  "suzuki_yuito-20260409": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260404": {
+    "enabled": true,
+    "youtubeId": "zvGlkMqjVHM",
+    "title": ""
+  },
+  "suzuki_yuito-20260404": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260404": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260331": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260331": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260331": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260331": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260328": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260328": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260328": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260328": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260328": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260322": {
+    "enabled": true,
+    "youtubeId": "ORazzrAVQyk",
+    "title": ""
+  },
+  "sano_kodai-20260322": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260322": {
+    "enabled": true,
+    "youtubeId": "g3LQty3aAfI",
+    "title": ""
+  },
+  "suzuki_yuito-20260322": {
+    "enabled": true,
+    "youtubeId": "oTKc8EVL2N4",
+    "title": ""
+  },
+  "mitoma-20260321": {
+    "enabled": true,
+    "youtubeId": "Oz5VvvaxCXw",
+    "title": ""
+  },
+  "shiogai-20260321": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260319": {
+    "enabled": true,
+    "youtubeId": "0tgc9ZG-rFI",
+    "title": ""
+  },
+  "sano_kaishu-20260319": {
+    "enabled": true,
+    "youtubeId": "QyaWyLBLNoQ",
+    "title": ""
+  },
+  "suzuki_yuito-20260319": {
+    "enabled": true,
+    "youtubeId": "pEFw0T0muI4",
+    "title": ""
+  },
+  "kamada-20260315": {
+    "enabled": true,
+    "youtubeId": "j5S6ViLWI6Q",
+    "title": ""
+  },
+  "sano_kaishu-20260315": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260315": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260314": {
+    "enabled": true,
+    "youtubeId": "hkK4l1xq79w",
+    "title": ""
+  },
+  "sano_kodai-20260314": {
+    "enabled": true,
+    "youtubeId": "RZwSFpvsTaw",
+    "title": ""
+  },
+  "kamada-20260312": {
+    "enabled": true,
+    "youtubeId": "zmU_mYL-cAY",
+    "title": ""
+  },
+  "sano_kaishu-20260312": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260312": {
+    "enabled": true,
+    "youtubeId": "38BbmT2i88k",
+    "title": ""
+  },
+  "sano_kodai-20260308": {
+    "enabled": true,
+    "youtubeId": "qHPNqNgHM4c",
+    "title": ""
+  },
+  "shiogai-20260307": {
+    "enabled": true,
+    "youtubeId": "pmYau_3Vd44",
+    "title": ""
+  },
+  "sano_kaishu-20260307": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260307": {
+    "enabled": true,
+    "youtubeId": "Q7d3CMSOxys",
+    "title": ""
+  },
+  "tomiyasu-20260307": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260305": {
+    "enabled": true,
+    "youtubeId": "OOd1kbnvJA0",
+    "title": ""
+  },
+  "mitoma-20260304": {
+    "enabled": true,
+    "youtubeId": "IH3-mVzXCvg",
+    "title": ""
+  },
+  "sano_kodai-20260303": {
+    "enabled": true,
+    "youtubeId": "PZ0cjTWjfY4",
+    "title": ""
+  },
+  "mitoma-20260301": {
+    "enabled": true,
+    "youtubeId": "ql8mO1o6ytg",
+    "title": ""
+  },
+  "tomiyasu-20260301": {
+    "enabled": true,
+    "youtubeId": "rcKvLM563EY",
+    "title": ""
+  },
+  "kamada-20260301": {
+    "enabled": true,
+    "youtubeId": "eXYfYs3DPVU",
+    "title": ""
+  },
+  "shiogai-20260301": {
+    "enabled": true,
+    "youtubeId": "3sXvXzIJpCs",
+    "title": ""
+  },
+  "suzuki_yuito-20260301": {
+    "enabled": true,
+    "youtubeId": "OzCfiZVTGws",
+    "title": ""
+  },
+  "sano_kaishu-20260228": {
+    "enabled": true,
+    "youtubeId": "tL1_X6n1Lhk",
+    "title": ""
+  },
+  "sano_kodai-20260228": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260226": {
+    "enabled": true,
+    "youtubeId": "bvB0Ttz99R4",
+    "title": ""
+  },
+  "kamada-20260222": {
+    "enabled": true,
+    "youtubeId": "G9qD6IKiHh4",
+    "title": ""
+  },
+  "suzuki_yuito-20260222": {
+    "enabled": true,
+    "youtubeId": "GPh2C9dSISA",
+    "title": ""
+  },
+  "mitoma-20260221": {
+    "enabled": true,
+    "youtubeId": "dLkAkBh-QoE",
+    "title": ""
+  },
+  "shiogai-20260221": {
+    "enabled": true,
+    "youtubeId": "PD5FWdpvq0c",
+    "title": ""
+  },
+  "tomiyasu-20260221": {
+    "enabled": true,
+    "youtubeId": "t-Sx95Ki0-A",
+    "title": ""
+  },
+  "sano_kodai-20260221": {
+    "enabled": true,
+    "youtubeId": "khhMJ1Kbc_8",
+    "title": ""
+  },
+  "sano_kaishu-20260220": {
+    "enabled": true,
+    "youtubeId": "gB2rpdu977E",
+    "title": ""
+  },
+  "kamada-20260219": {
+    "enabled": true,
+    "youtubeId": "PbjvoSGA-tA",
+    "title": ""
+  },
+  "sano_kodai-20260217": {
+    "enabled": true,
+    "youtubeId": "NCWOEIsp8hw",
+    "title": ""
+  },
+  "shiogai-20260215": {
+    "enabled": true,
+    "youtubeId": "aigKnTsm40k",
+    "title": ""
+  },
+  "mitoma-20260214": {
+    "enabled": true,
+    "youtubeId": "Z2DzVTAIE2Q",
+    "title": ""
+  },
+  "suzuki_yuito-20260214": {
+    "enabled": true,
+    "youtubeId": "MjXbBZaYkcg",
+    "title": ""
+  },
+  "sano_kaishu-20260213": {
+    "enabled": true,
+    "youtubeId": "zZkzACjXu1o",
+    "title": ""
+  },
+  "mitoma-20260211": {
+    "enabled": true,
+    "youtubeId": "34FTreCd-NA",
+    "title": ""
+  },
+  "kamada-20260211": {
+    "enabled": true,
+    "youtubeId": "T26z8yKS5YY",
+    "title": ""
+  },
+  "endo-20260211": {
+    "enabled": true,
+    "youtubeId": "uUzxmTvhlOY",
+    "title": ""
+  },
+  "sano_kodai-20260211": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260210": {
+    "enabled": true,
+    "youtubeId": "wDZQ8k9TwRQ",
+    "title": ""
+  },
+  "mitoma-20260208": {
+    "enabled": true,
+    "youtubeId": "x8zHGP5oWFo",
+    "title": ""
+  },
+  "kamada-20260208": {
+    "enabled": false,
+    "youtubeId": "VOAoKkE5aB8",
+    "title": ""
+  },
+  "shiogai-20260207": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260207": {
+    "enabled": true,
+    "youtubeId": "x8zHGP5oWFo",
+    "title": ""
+  },
+  "sano_kaishu-20260207": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260207": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260204": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260201": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260201": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260201": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260201": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260131": {
+    "enabled": true,
+    "youtubeId": "PHh4yY8Ub8A",
+    "title": ""
+  },
+  "sano_kaishu-20260131": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260131": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20260131": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260130": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260129": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20260128": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260125": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260125": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260125": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260124": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260124": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260124": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20260124": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260124": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260122": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260120": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260119": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260118": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260118": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260117": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260117": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260114": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260113": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260113": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260112": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260111": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260110": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260110": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260109": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260108": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260107": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260105": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260104": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260104": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20260103": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20251230": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251221": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20251220": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251220": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251220": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251220": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251220": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251218": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251216": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251216": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251216": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251214": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251214": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251214": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251214": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20251213": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251213": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251213": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251212": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251212": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251211": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251211": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251211": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251207": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251207": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251207": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251206": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20251206": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251206": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251205": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251203": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251203": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251130": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251130": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251130": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251130": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251129": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251129": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251127": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251127": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251127": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251123": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251123": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251123": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251122": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251122": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251122": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251121": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251118": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251118": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20251118": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251114": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251114": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251109": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251109": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251109": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251109": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251109": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251107": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251106": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251106": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251106": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251102": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251102": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251101": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251101": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251101": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20251030": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20251029": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251029": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251029": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251029": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251026": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251026": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251026": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251025": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251023": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251023": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251023": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20251019": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251018": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251018": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251018": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251014": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251014": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251014": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251010": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251010": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20251005": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251005": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20251005": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251005": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20251004": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20251002": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20251002": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250928": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250928": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250928": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250927": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250927": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250927": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250924": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250923": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20250921": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250921": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250920": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250920": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250920": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250919": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250916": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250913": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250913": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250913": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20250913": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250913": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250913": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250909": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250909": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250909": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20250909": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250907": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250907": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250907": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250907": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250907": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20250907": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20250831": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250830": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250828": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250828": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250825": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250824": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250824": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20250824": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250824": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250824": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20250823": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250821": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20250818": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20250816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20250816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250810": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250810": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250809": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250809": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20250809": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250804": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "mitoma-20250802": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250801": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20250730": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250730": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20250725": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20250713": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  }
+}
