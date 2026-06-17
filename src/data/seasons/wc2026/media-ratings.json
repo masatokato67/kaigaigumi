@@ -28,6 +28,18 @@
         "hasArticleRating": false
       },
       {
+        "source": "Yardbarker",
+        "country": "アメリカ合衆国",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "The article notes that Takefusa Kubo provided the assist for Keito Nakamura's equalizer in the 57th minute, operating from the left flank. He received a player rating of 7 out of 10.",
+        "commentTranslated": "記事によると、久保建英は57分に左サイドから中村敬斗の同点ゴールをアシストしました。彼は10点満点中7点の選手評価を受けました。",
+        "isManual": true,
+        "articleUrl": "https://www.yardbarker.com/soccer/articles/netherlands_vs_japan_player_ratings_who_was_the_man_of_the_match_in_the_world_cup_game/s1_17615_43955153",
+        "hasArticleRating": true
+      },
+      {
         "source": "AS USA",
         "country": "アメリカ合衆国",
         "rating": 0,
@@ -49,6 +61,30 @@
         "commentTranslated": "久保建英は日曜日のオランダ戦で、後半に苦戦した後、膝の怪我のため70分に交代した。彼は医療処置を受け、膝にアイシングをしてピッチを後にした。彼は「スターの若手タレント」であり「攻撃の主要な部分」を担っていたため、彼の離脱はチームにとって重要な注目点である。彼は攻撃的ミッドフィールダーの中央で先発出場していた。",
         "isManual": true,
         "articleUrl": "https://www.rotowire.com/soccer/headlines/takefusa-kubo-injury-off-with-knee-injury-519415",
+        "hasArticleRating": false
+      },
+      {
+        "source": "STARNEWS",
+        "country": "韓国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takefusa Kubo, a key attacking figure for Japan, suffered a knee injury in the 30th minute of the second half during the 2026 FIFA World Cup opening match against the Netherlands, requiring a self-requested substitution. His left knee was heavily iced post-match, and while Coach Moriyasu hopes for a minor injury as he could walk, his availability for the next game is unconfirmed. Despite a recent dip in club form, Kubo is considered a crucial second-line winger who previously achieved double-digit attacking points for three consecutive seasons in La Liga. His injury is a significant concern for Japan, already plagued by other key player absences.",
+        "commentTranslated": "日本代表の攻撃の要である久保建英は、2026 FIFAワールドカップのオランダとの初戦で後半30分に膝を負傷し、自ら交代を要求した。試合後、彼の左膝は強くアイシングされており、森保監督は歩行できていることから軽傷であることを望むものの、次戦への出場は未定である。クラブでの最近の成績は低迷しているが、久保はラ・リーガで3シーズン連続二桁の攻撃ポイントを記録した重要なセカンドラインのウインガーと見なされている。他の主要選手の負傷に悩まされている日本にとって、彼の負傷は大きな懸念材料である。",
+        "isManual": true,
+        "articleUrl": "https://www.starnewskorea.com/en/sports/2026/06/15/2026061508144820104",
+        "hasArticleRating": false
+      },
+      {
+        "source": "STARNEWS",
+        "country": "韓国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Takefusa Kubo, an ace and key second-line resource for the Japanese national team, suffered a knee injury in the 2026 FIFA World Cup match against the Netherlands, leading to his substitution and later being seen in a wheelchair. This raised high concerns, especially with Japan already facing other key player injuries. Despite initial worries, later reports suggest he was able to walk on his own at the hotel, indicating the injury may not be serious. He is noted for his role as a top-tier winger in La Liga and his sharp long-range shot in the match.",
+        "commentTranslated": "日本代表のエースであり、重要なセカンドラインの選手である久保建英は、オランダ戦の2026 FIFAワールドカップ中に膝を負傷し、交代を余儀なくされ、その後車椅子に乗っている姿が目撃された。日本がすでに他の主要選手の負傷に直面していることもあり、これは大きな懸念を引き起こした。当初の懸念にもかかわらず、その後の報道ではホテルで自力で歩くことができたとされており、怪我は深刻ではない可能性が示唆されている。彼はラ・リーガのトップティアのウィンガーとしての役割や、試合で見せた鋭いロングシュートが評価されている。",
+        "isManual": true,
+        "articleUrl": "https://www.starnewskorea.com/en/sports/2026/06/15/2026061511481081320",
         "hasArticleRating": false
       }
     ],
@@ -140,7 +176,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-16T13:58:54.096Z"
+    "lastUpdated": "2026-06-17T14:46:17.109Z"
   },
   {
     "matchId": "tomiyasu-20260614",
@@ -156,6 +192,18 @@
         "commentTranslated": "冨安健洋は75分に途中出場した後、その経験が安定をもたらしました。彼は試合の荒々しい終盤において、日本の組織を維持するのに貢献しました。",
         "isManual": true,
         "articleUrl": "https://www.livescore.com/en/news/football/world-cup/netherlands-v-japan-player-ratings-world-cup-group-stage/",
+        "hasArticleRating": true
+      },
+      {
+        "source": "VAVEL International",
+        "country": "スペイン",
+        "rating": 5,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Tomiyasu was introduced as a substitute, adding pace at the back as Japan pushed for an equalizer. He did not make any mistakes but also did not have a major impact on the game.",
+        "commentTranslated": "冨安は交代出場し、日本が同点ゴールを狙って前がかりになる中で、最終ラインにスピードを加えた。彼はミスをしなかったものの、試合に大きな影響を与えることはなかった。",
+        "isManual": true,
+        "articleUrl": "https://www.vavel.com/en/international-football/2026/06/15/1263556-netherlands-2-2-japan-post-match-japan-player-ratings.html",
         "hasArticleRating": true
       }
     ],
@@ -247,7 +295,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-16T13:49:21.136Z"
+    "lastUpdated": "2026-06-17T14:47:13.846Z"
   },
   {
     "matchId": "kamada-20260614",
@@ -360,6 +408,30 @@
         "isManual": true,
         "articleUrl": "https://www.nytimes.com/athletic/live-blogs/netherlands-vs-japan-live-updates-world-cup-2026-score-result/FruSpta6REdO/",
         "hasArticleRating": false
+      },
+      {
+        "source": "VAVEL International",
+        "country": "イングランド",
+        "rating": 7,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada scored a last-minute equalizer for Japan against the Netherlands, earning his team a valuable point. The Crystal Palace midfielder provided a decisive, if perhaps unintentional, touch to redirect Koki Ogawa's header into the net. He had a good overall display, showing forward-thinking intent and playing some exquisite passes, despite being wayward at times. Kamada worked hard defensively, winning all his tackles and 50% of his ground duels.",
+        "commentTranslated": "鎌田大地は、オランダ戦で日本に土壇場の同点ゴールをもたらし、貴重な勝ち点１を獲得した。クリスタル・パレスのミッドフィールダーは、小川航基のヘディングシュートをゴールへ方向転換させる決定的（おそらく意図的ではない）な触りを見せた。彼は全体的に良いパフォーマンスを見せ、前向きな姿勢で素晴らしいパスを繰り出し、時に不安定な部分もあった。鎌田は守備面でもハードワークし、全てのタックルに勝利し、地上戦デュエルの50%を制した。",
+        "isManual": true,
+        "articleUrl": "https://www.vavel.com/en/international-football/2026/06/15/1263556-netherlands-2-2-japan-post-match-japan-player-ratings.html",
+        "hasArticleRating": true
+      },
+      {
+        "source": "Goal.com",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada scored a crucial late equalizer against the Netherlands at the 2026 World Cup, reflecting on it as a \"dream come true\" after a challenging previous tournament. He credited his former manager Oliver Glasner for his successful transition into a deeper defensive No. 6 role, which he believes has revitalized his international career and helps Japan's current tactical system. Kamada made his 50th international appearance in this match.",
+        "commentTranslated": "鎌田大地は2026年ワールドカップのオランダ戦で重要な試合終盤の同点ゴールを決め、前回の苦しい大会を経て「夢が叶った」と振り返った。彼は元監督のオリバー・グラスナーが、自身の国際キャリアを活性化させ、現在の日本の戦術システムを助けていると考えている、より守備的な背番号6の役割への成功した移行を称賛した。鎌田はこの試合で国際試合50キャップ目を記録した。",
+        "isManual": true,
+        "articleUrl": "https://www.goal.com/en/lists/oliver-glasner-world-cup-japan-goalscorer-ex-crystal-palace-boss-netherlands/bltf47aed3f1cd2379a",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 8.1,
@@ -456,7 +528,7 @@
         "postUrl": "https://x.com/heis_fede/status/2066289181769203853"
       }
     ],
-    "lastUpdated": "2026-06-16T09:18:09.495Z"
+    "lastUpdated": "2026-06-17T14:45:47.595Z"
   },
   {
     "matchId": "shiogai-20260614",
@@ -473,6 +545,18 @@
         "isManual": true,
         "articleUrl": "https://www.livescore.com/en/news/football/world-cup/netherlands-v-japan-player-ratings-world-cup-group-stage/",
         "hasArticleRating": true
+      },
+      {
+        "source": "VAVEL International",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kento Shiogai is listed under substitutes with an 'N/A' rating, indicating that no specific performance comments or assessment were provided for him in the article.",
+        "commentTranslated": "塩貝健人は交代選手として『N/A』という評価で記載されており、記事中には彼の具体的なパフォーマンスに関するコメントや評価はありませんでした。",
+        "isManual": true,
+        "articleUrl": "https://www.vavel.com/en/international-football/2026/06/15/1263556-netherlands-2-2-japan-post-match-japan-player-ratings.html",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 6.5,
@@ -509,7 +593,7 @@
         "postUrl": "https://x.com/espremealaranja/status/2066651108307587585"
       }
     ],
-    "lastUpdated": "2026-06-16T13:49:06.492Z"
+    "lastUpdated": "2026-06-17T14:47:30.391Z"
   },
   {
     "matchId": "sano_kaishu-20260614",
@@ -526,6 +610,18 @@
         "isManual": true,
         "articleUrl": "https://www.rotowire.com/soccer/headlines/kaishu-sano-news-goes-full-90-minutes-519447",
         "hasArticleRating": false
+      },
+      {
+        "source": "VAVEL International",
+        "country": "イングランド",
+        "rating": 4,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kaishu Sano struggled against the Netherlands midfield, winning only two of eleven duels and being bypassed too easily, despite usually being disruptive and combative in the middle of the park. While he carried the ball well, the creative responsibility was placed on his midfield partner.",
+        "commentTranslated": "佐野海舟は通常、中盤で破壊的で闘争的なプレーをするが、オランダの中盤相手には苦戦し、11回のデュエルでわずか2回しか勝利できず、簡単に突破されてしまった。ボール運びは良かったものの、クリエイティブな役割は彼のミッドフィールドパートナーに課されていた。",
+        "isManual": true,
+        "articleUrl": "https://www.vavel.com/en/international-football/2026/06/15/1263556-netherlands-2-2-japan-post-match-japan-player-ratings.html",
+        "hasArticleRating": true
       }
     ],
     "averageRating": 6.3,
@@ -616,6 +712,6 @@
         ]
       }
     ],
-    "lastUpdated": "2026-06-16T13:48:40.079Z"
+    "lastUpdated": "2026-06-17T14:46:33.442Z"
   }
 ]
