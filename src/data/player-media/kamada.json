@@ -2,6 +2,19 @@
   "playerId": "kamada",
   "mediaRatings": [
     {
+      "date": "2026-06-17",
+      "source": "FotMob",
+      "country": "ノルウェー",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada highly praises his former coach Oliver Glasner, crediting him for building his defensive confidence and helping him transition into a deeper-lying midfield role (No. 6). Kamada, who scored Japan's equalizer against the Netherlands at the World Cup, states that Glasner's defensive tactics are 'among the best in the world' and believes lessons learned from him have secured him a more substantial role for Japan, which also plays a 3-4-3 system.",
+      "commentTranslated": "鎌田大地は、元監督であるオリバー・グラスナーを高く評価しており、彼が自身の守備の自信を築き、より深い位置のミッドフィールダー（6番）へと移行するのに貢献したと語っている。ワールドカップでオランダ相手に日本の同点ゴールを決めた鎌田は、グラスナーの守備戦術は「世界最高レベル」だと述べ、彼から学んだ教訓が、彼が日本代表でより重要な役割を確保するのに役立ったと信じている。日本代表も3-4-3システムを採用している。",
+      "isManual": true,
+      "articleUrl": "https://www.fotmob.com/news/pb69rp6hmbkt1unjqlly8g93s-glasners-defensive-tactics-among-best-world-says-kamada",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-06-14",
       "source": "Football FanCast",
       "country": "イングランド",

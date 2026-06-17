@@ -1,5 +1,19 @@
 {
   "playerId": "kubo",
-  "mediaRatings": [],
+  "mediaRatings": [
+    {
+      "date": "2026-06-17",
+      "source": "Marca",
+      "country": "スペイン",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "El artículo destaca a Takefusa Kubo como la estrella de Japón, generando mucho peligro por la banda derecha. El extremo de la Real Sociedad es el jugador más destacado de su selección, a través del cual pasarán los ataques del equipo. Su carta en FC26 tiene 81 puntos, destacando por su buen regate y movilidad, y será el encargado de llevar los goles para los nipones.",
+      "commentTranslated": "記事では、久保建英が日本のスター選手であり、右サイドから多くの危険を生み出すと強調されています。レアル・ソシエダのウィンガーである彼は、代表チームで最も際立った選手であり、チームの攻撃は彼を経由します。FC26での彼のカードは81ポイントで、優れたドリブルと機動性が際立っており、日本人選手のためにゴールをもたらす役割を担うでしょう。",
+      "isManual": true,
+      "articleUrl": "https://amp.marca.com/videojuegos/juegos/2026/06/16/liverpool-marca-mundial-son-mejores-jugadores-grupo-f-fc26.html",
+      "hasArticleRating": false
+    }
+  ],
   "xThreads": []
 }
