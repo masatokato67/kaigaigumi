@@ -210,9 +210,10 @@ async function main() {
     console.log(`\n[X投稿 ${i + 1}/${newThreadUrls.length}] ${url}`);
     try {
       const extracted = await extractThread(url, "日本代表", "Japan National Team");
+      const username = extracted.username.startsWith("@") ? extracted.username : `@${extracted.username}`;
       existing.xThreads.push({
         id: generateId(),
-        username: `@${extracted.username}`,
+        username,
         verified: extracted.verified,
         languageCode: extracted.languageCode,
         originalText: extracted.originalText,
@@ -221,7 +222,7 @@ async function main() {
         retweets: extracted.retweets,
         replies: extracted.replies.map((r) => ({
           id: generateId(),
-          username: `@${r.username}`,
+          username: r.username.startsWith("@") ? r.username : `@${r.username}`,
           languageCode: r.languageCode,
           originalText: r.originalText,
           translatedText: r.translatedText,
