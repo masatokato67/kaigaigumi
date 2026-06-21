@@ -3,11 +3,13 @@
 import { useSearchParams, useRouter } from "next/navigation";
 import { Suspense } from "react";
 import MatchResultCard from "@/components/top/MatchResultCard";
+import TeamReactionsSection from "@/components/matches/TeamReactionsSection";
 import {
   getMatchesBySeason,
   getTopRatedMatches,
   getAvailableSeasons,
   getPlayerById,
+  getTeamReactions,
 } from "@/lib/data";
 
 function MatchesContent() {
@@ -16,6 +18,7 @@ function MatchesContent() {
   const seasons = getAvailableSeasons();
   const currentSeason = searchParams.get("season") || seasons[0]?.id;
   const topRatedMatches = getTopRatedMatches(10);
+  const teamReactions = getTeamReactions(currentSeason);
   const allMatches = getMatchesBySeason(currentSeason);
 
   const handleSeasonChange = (seasonId: string) => {
@@ -41,31 +44,35 @@ function MatchesContent() {
         ))}
       </div>
 
-      {/* Top Rated Matches */}
-      <div className="mb-8">
-        <div className="flex items-center gap-2 mb-4">
-          <div className="w-1 h-8 bg-yellow-500 rounded" />
-          <div>
-            <p className="text-yellow-500 text-xs font-medium tracking-wider">
-              HIGHLIGHTS
-            </p>
-            <h2 className="text-lg font-bold">注目の試合結果</h2>
+      {/* WC2026: Team Reactions / Other seasons: Top Rated Matches */}
+      {teamReactions ? (
+        <TeamReactionsSection reactions={teamReactions} />
+      ) : (
+        <div className="mb-8">
+          <div className="flex items-center gap-2 mb-4">
+            <div className="w-1 h-8 bg-yellow-500 rounded" />
+            <div>
+              <p className="text-yellow-500 text-xs font-medium tracking-wider">
+                HIGHLIGHTS
+              </p>
+              <h2 className="text-lg font-bold">注目の試合結果</h2>
+            </div>
+          </div>
+          <div className="flex gap-4 overflow-x-auto scrollbar-hide pb-4">
+            {topRatedMatches.map((match) => {
+              const player = getPlayerById(match.playerId);
+              if (!player) return null;
+              return (
+                <MatchResultCard
+                  key={match.matchId}
+                  match={match}
+                  player={player}
+                />
+              );
+            })}
           </div>
         </div>
-        <div className="flex gap-4 overflow-x-auto scrollbar-hide pb-4">
-          {topRatedMatches.map((match) => {
-            const player = getPlayerById(match.playerId);
-            if (!player) return null;
-            return (
-              <MatchResultCard
-                key={match.matchId}
-                match={match}
-                player={player}
-              />
-            );
-          })}
-        </div>
-      </div>
+      )}
 
       {/* All Matches */}
       <div>

@@ -1,7 +1,7 @@
 import playersData from "@/data/players.json";
 import matchInputsIndex from "@/data/match-inputs-index.json";
 import { SEASONS } from "./seasons";
-import type { Player, Match, MatchMediaData, PlayerFilters, HighlightVideo, PlayerMediaData } from "./types";
+import type { Player, Match, MatchMediaData, PlayerFilters, HighlightVideo, PlayerMediaData, TeamReactions } from "./types";
 
 // ── シーズン別データの読み込み ──
 /* eslint-disable @typescript-eslint/no-require-imports */
@@ -35,6 +35,10 @@ try { playerMediaFiles["shiogai"] = require("@/data/player-media/shiogai.json");
 try { playerMediaFiles["sano_kodai"] = require("@/data/player-media/sano_kodai.json"); } catch { /* */ }
 try { playerMediaFiles["sano_kaishu"] = require("@/data/player-media/sano_kaishu.json"); } catch { /* */ }
 try { playerMediaFiles["suzuki_yuito"] = require("@/data/player-media/suzuki_yuito.json"); } catch { /* */ }
+
+// team-reactions (シーズン別チーム評価)
+const teamReactionsBySeason: Record<string, TeamReactions> = {};
+try { teamReactionsBySeason["wc2026"] = require("@/data/seasons/wc2026/team-reactions.json"); } catch { /* */ }
 /* eslint-enable @typescript-eslint/no-require-imports */
 
 // ── 統合データ（全シーズン横断） ──
@@ -200,6 +204,15 @@ export function getHighlightVideoByMatchId(
     return video;
   }
   return undefined;
+}
+
+// ── Team reactions ──
+
+export function getTeamReactions(seasonId: string): TeamReactions | null {
+  const data = teamReactionsBySeason[seasonId];
+  if (!data) return null;
+  if (data.articles.length === 0 && data.xThreads.length === 0) return null;
+  return data;
 }
 
 // ── Player media ──

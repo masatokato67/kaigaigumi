@@ -170,6 +170,21 @@ export interface PlayerMediaData {
   xThreads: PlayerXThread[];
 }
 
+export interface TeamArticle {
+  date: string;
+  source: string;
+  country: string;
+  title: string;
+  comment: string;
+  commentTranslated: string;
+  articleUrl: string;
+}
+
+export interface TeamReactions {
+  articles: TeamArticle[];
+  xThreads: XThread[];
+}
+
 export type LeagueFilter = "all" | "プレミアリーグ" | "ラ・リーガ" | "ブンデスリーガ" | "エールディヴィジ";
 export type PositionFilter = "all" | "FW" | "MF" | "DF" | "GK";
 export type SortField = "name" | "rating" | "goals" | "marketValue";
