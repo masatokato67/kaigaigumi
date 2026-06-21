@@ -2,6 +2,19 @@
   "playerId": "sano_kaishu",
   "mediaRatings": [
     {
+      "date": "2026-06-21",
+      "source": "ZDFheute",
+      "country": "ドイツ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Kaishu Sano, ein 25-jähriger japanischer defensiver Mittelfeldspieler von Mainz 05, wird als \"außergewöhnlicher Fußballer\" beschrieben, der gegen und mit dem Ball alles kann. Er ist ein gesetzter Stammspieler in Mainz und der Nationalmannschaft, bekannt für seine unermüdliche Laufleistung, starke Zweikampfführung und beidfüßiges Passspiel. Obwohl seine Torquote gering ist, wird erwartet, dass er seinen Marktwert während der WM auf bis zu 50 Millionen Euro steigert und Mainz verlassen wird.",
+      "commentTranslated": "カイシュウ・サノは、マインツ05の25歳の日本人守備的ミッドフィールダーで、「並外れたサッカー選手」と評されており、ボールを使ったプレーも、ボールのないプレーも全てこなせると言われています。彼はマインツと代表チームでレギュラーであり、その疲れを知らない走行距離、強いタックル、両足でのパス能力で知られています。得点率は低いものの、ワールドカップ中に市場価値が最大5000万ユーロまで上昇し、マインツを去ると予想されています。",
+      "isManual": true,
+      "articleUrl": "https://www.zdfheute.de/sport/fussball-wm/fussball-wm-2026-japan-kaishu-sano-mainz-100.html",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-04-09",
       "source": "Get German Football News",
       "country": "ドイツ",
