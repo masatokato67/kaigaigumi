@@ -241,10 +241,7 @@ async function main() {
     }
   }
 
-  // 記事を日付の新しい順にソート
-  existing.articles.sort((a, b) => b.date.localeCompare(a.date));
-
-  // 保存
+  // 保存（JSONの並び順をそのまま表示順として使用）
   writeFileSync(outputPath, JSON.stringify(existing, null, 2) + "\n", "utf8");
   console.log(`\n✅ 保存完了: ${outputPath}`);
   console.log(`  記事: ${existing.articles.length}件, X投稿: ${existing.xThreads.length}件`);
