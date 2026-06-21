@@ -722,91 +722,127 @@
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1782024582781_0",
-        "username": "@NOSSport",
-        "verified": true,
-        "languageCode": "NL",
-        "originalText": "Sterke prestatie van Takehiro Tomiyasu vanmiddag voor Japan in de WK-groepsfase! De verdediger van Ajax speelde 79 minuten en kreeg een solide 7.4 rating in de 4-0 overwinning op Tunesië. #Wereldkampioenschap #Japan #Tomiyasu",
-        "translatedText": "今午、ワールドカップグループステージでの冨安健洋の日本代表での力強いパフォーマンス！アヤックスのディフェンダーは79分間プレーし、チュニジアに対する4-0の勝利で安定した7.4の評価を得ました。#ワールドカップ #日本 #冨安",
-        "likes": 5123,
-        "retweets": 856,
+        "id": "id-1782026658582-3fawt2gc3",
+        "username": "@AarinH2",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Watching Tomiyasu play a full football game, absolutely dominating and thriving with the ball as well … it almost brings me tears",
+        "translatedText": "冨安がフルで試合に出て、ボールを持っても圧倒的で躍動しているのを見ると…涙が出そうになるよ。",
+        "likes": 59,
+        "retweets": 4,
         "replies": [
           {
-            "id": "r1782024582781_0_0",
-            "username": "@EredivisieNieuws",
-            "languageCode": "NL",
-            "originalText": "Een rots in de branding achterin! Goed om hem zo te zien presteren.",
-            "translatedText": "後方での頼れる存在！彼がこのように活躍するのを見るのは良いことです。",
+            "id": "id-1782026658582-pszdorhl8",
+            "username": "@TomiYasuFanatic",
+            "languageCode": "EN",
+            "originalText": "Absolutely! When he's fully fit, he's a world-class defender and so comfortable on the ball. What a player!",
+            "translatedText": "まさにその通り！完全にフィットしている時は、彼はワールドクラスのディフェンダーで、ボールの扱いも非常に巧い。なんて選手だ！",
+            "likes": 235
+          },
+          {
+            "id": "id-1782026658582-n823wd9wt",
+            "username": "@Arsenal_Japan",
+            "languageCode": "JA",
+            "originalText": "彼のコンディションが続くことを願うばかりですね。怪我さえなければ、本当に頼りになる選手です！",
+            "translatedText": "彼のコンディションが続くことを願うばかりですね。怪我さえなければ、本当に頼りになる選手です！",
+            "likes": 178
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/AarinH2/status/2068568830155043307"
+      },
+      {
+        "id": "id-1782026669559-k4i5jv0fj",
+        "username": "@dzi_analysis",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Tunisia don’t get any pressure on the ball high, aren’t a threat in transition, aren’t a threat in settled possession, took away their only part of deep creativity in settled possession with Hannibal now limiting him to only receiving wide left or in the left half space, they don’t defend open spaces well, poor in arial duels being bullied by a lightweight Japanese team, don’t have high quality individuals in the team. \n\nQatar \nTunisia \n\nThe 2 worst teams in the tournament. Jordan, Iraq, Curacao and Cape Verde all have at least SOME tactical qualities. \n\nJapan since their 2nd goal have started advancing Tomiyasu or Ito forward as much when Tanaka drops into the backline, instead now opting for a 4-3-3 but made up slightly different positionally. 4 in the back line to circulate the ball side to side combined with Tunisia’s lack of pressure on the ball in their mid block leads to total control for Japan WITH the ball.",
+        "translatedText": "チュニジアはハイプレスをかけず、トランジションでも、ポゼッションでも脅威にならない。ハンニバルを左サイドや左ハーフスペースでのボール受取に限定したことで、彼らの唯一の深い創造性を奪ってしまった。オープンなスペースの守備も下手で、軽量な日本チームに空中戦でいじめられており、質の高い個人選手もいない。\n\nカタールとチュニジアは、今大会で最も悪い2チームだ。ヨルダン、イラク、キュラソー、カーボベルデですら、何らかの戦術的クオリティを持っている。\n\n日本は2点目以降、田中が最終ラインに下がると冨安や伊東を積極的に前線に上げるようになった。今は少しポジションの異なる4-3-3を採用している。4バックでボールを左右に循環させる動きと、チュニジアがミドルブロックでボールにプレッシャーをかけないことが相まって、日本はボールを完全にコントロールできている。",
+        "likes": 20,
+        "retweets": 3,
+        "replies": [
+          {
+            "id": "id-1782026669559-krkiw0qul",
+            "username": "@J_FootballFan",
+            "languageCode": "EN",
+            "originalText": "Great breakdown! Tomiyasu's advanced role when Tanaka drops has been crucial. It really gives Japan a dynamic edge and makes them unpredictable.",
+            "translatedText": "素晴らしい分析ですね！田中が下がった時の冨安の攻撃参加は非常に重要です。それは日本にダイナミックな優位性を与え、予測不可能なチームにしています。",
             "likes": 210
           },
           {
-            "id": "r1782024582781_0_1",
-            "username": "@FootballNewsGlobal",
-            "languageCode": "EN",
-            "originalText": "Tomiyasu proving his class on the world stage. Ajax will be happy with his form.",
-            "translatedText": "冨安が世界の舞台でその実力を証明している。アヤックスも彼の調子に満足しているだろう。",
-            "likes": 105
+            "id": "id-1782026669559-fv3go79hs",
+            "username": "@SAMURAI_BLUE_F",
+            "languageCode": "JA",
+            "originalText": "チュニジアがここまでひどいとは予想外でした。日本の戦術もさすがだけど、相手のレベル差もかなりあると感じますね。Tomiyasuの上がりは面白いけど。",
+            "translatedText": "チュニジアがここまでひどいとは予想外でした。日本の戦術もさすがだけど、相手のレベル差もかなりあると感じますね。Tomiyasuの上がりは面白いけど。",
+            "likes": 125
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/dzi_analysis/status/2068557522307342530"
       },
       {
-        "id": "t1782024582781_1",
-        "username": "@TheAjaxFanHub",
+        "id": "id-1782026679264-p8zacfmfg",
+        "username": "@KpaghMatth71367",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "Our man Takehiro Tomiyasu putting in another stellar shift for Japan at the World Cup! A commanding 7.4 rating over 79 minutes in their dominant 4-0 win over Tunisia. Always proud to see an Ajax player shine! #Ajax #Tomiyasu #WorldCup",
-        "translatedText": "我らの冨安健洋がワールドカップで日本代表のためにまたしても素晴らしい働き！チュニジアに対する圧倒的な4-0の勝利で79分間プレーし、素晴らしい7.4の評価。アヤックスの選手が輝くのを見るのはいつも誇りです！#アヤックス #冨安 #ワールドカップ",
-        "likes": 2045,
-        "retweets": 312,
+        "originalText": "🚨🎙️Roy keane : Japan are the dark horses of this World Cup , Tunisia was not bad they were simply out classed . I said it earlier and I will say it again don’t underestimate them \n\n🗣️ \"People keep talking about the favourites, but I said it on Matchday One — Japan are the underdogs of this tournament and they’ll shock everyone. They’re a very good, organised team. What a performance.\n\n🗣️Suzuki had nothing to do today. Ito, Itakura and Tomiyasu were brilliant, the defence was strong, but the midfield is the engine of this team. Nakamura, Tanaka, Kaishu Sano and Doan controlled everything.\n\n🗣️Kamada and Junya Ito linked up nicely with the striker, and Ayase Ueda is my man of the match — clinical. My praise also goes to Hajime Moriyasu for what he’s doing with this side.\n\n🗣️And I tell you this, Tunisia head coach Hervé Renard would never have wanted to play Japan in his first match in charge. This Japanese team are organised, disciplined and they’ll give anybody problems.\" 🇯🇵\n#TUNJPN",
+        "translatedText": "🚨🎙️ロイ・キーン：日本はこのワールドカップのダークホースだ。チュニジアは悪くなかったが、単純に格が違った。以前も言ったし、もう一度言うが、彼らを過小評価するな。\n\n🗣️「人々は優勝候補について話し続けているが、私は大会初日から言っていた — 日本はこの大会のアンダードッグであり、皆を驚かせるだろう。彼らは非常に優れた、組織されたチームだ。なんてパフォーマンスだ。」\n\n🗣️「鈴木は今日、何もすることがなかった。伊東、板倉、冨安は素晴らしく、守備は堅固だったが、中盤こそがこのチームのエンジンだ。中村、田中、佐野海舟、堂安が全てをコントロールしていた。」\n\n🗣️「鎌田と伊東純也はストライカーと見事な連携を見せたし、上田綺世こそが私のマン・オブ・ザ・マッチだ — 決定力があった。森保一監督がこのチームで成し遂げていることにも称賛を送りたい。」\n\n🗣️「そしてこれだけは言っておくが、チュニジア代表監督のエルヴェ・ルナールは、初戦で日本と対戦したかったわけではないだろう。この日本チームは組織的で、規律があり、どんな相手にも問題を引き起こすだろう。」🇯🇵 #TUNJPN",
+        "likes": 0,
+        "retweets": 1,
         "replies": [
           {
-            "id": "r1782024582781_1_0",
-            "username": "@AjaxForever_",
+            "id": "id-1782026679264-1b3gssm0m",
+            "username": "@JpnFootballFan_",
             "languageCode": "EN",
-            "originalText": "Absolutely bossed it! We need him back at Ajax in this form ASAP.",
-            "translatedText": "完全に支配していた！この調子の彼を一刻も早くアヤックスに戻す必要がある。",
-            "likes": 158
+            "originalText": "Totally agree with Keane! Tomiyasu and the whole defense were immense today. Moriyasu has really built something special here.",
+            "translatedText": "キーンに全く同意です！冨安とDF陣は今日本当に素晴らしかった。森保監督は何か特別なものを作り上げましたね。",
+            "likes": 287
           },
           {
-            "id": "r1782024582781_1_1",
-            "username": "@DutchFootballFan",
+            "id": "id-1782026679264-ysg9ls7m5",
+            "username": "@FootballAnalyst_JP",
             "languageCode": "EN",
-            "originalText": "Solid performance from Tomiyasu. Japan are looking strong contenders!",
-            "translatedText": "冨安の堅実なパフォーマンス。日本は強い優勝候補に見える！",
-            "likes": 84
+            "originalText": "Great performance indeed, but let's see how they do against a top-tier European side. Tunisia wasn't their toughest test. Still, lots of promise!",
+            "translatedText": "確かに素晴らしいパフォーマンスでしたが、トップレベルの欧州勢と対戦したときにどうなるか見てみたいですね。チュニジアは彼らにとって最も厳しい試練ではなかった。それでも、多くの可能性を秘めています！",
+            "likes": 175
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/KpaghMatth71367/status/2068585056566677968"
       },
       {
-        "id": "t1782024582781_2",
-        "username": "@SAMURAIBLUEjp",
+        "id": "id-1782026685051-mqgs1sgt7",
+        "username": "@4Pramod",
         "verified": false,
-        "languageCode": "JA",
-        "originalText": "冨安選手、ワールドカップで最高のパフォーマンス！チュニジア相手に4-0の快勝、守備も安定してたし評価も7.4って素晴らしいね！アヤックスで培ったものが発揮されてる！ #冨安健洋 #日本代表 #ワールドカップ",
-        "translatedText": "冨安選手、ワールドカップで最高のパフォーマンス！チュニジア相手に4-0の快勝、守備も安定してたし評価も7.4って素晴らしいね！アヤックスで培ったものが発揮されてる！ #冨安健洋 #日本代表 #ワールドカップ",
-        "likes": 1567,
-        "retweets": 231,
+        "languageCode": "EN",
+        "originalText": "Good to see Tomiyasu fully fit, pressing with intensity like he used to for Arsenal.",
+        "translatedText": "冨安が完全にフィットして、以前アーセナルで見せたような激しさでプレスをかけているのを見るのは良いことだ。",
+        "likes": 34,
+        "retweets": 2,
         "replies": [
           {
-            "id": "r1782024582781_2_0",
-            "username": "@JAPAN_SOCCER_FAN",
-            "languageCode": "JA",
-            "originalText": "本当に頼りになるDFだ！怪我なくW杯を駆け抜けてほしい。",
-            "translatedText": "本当に頼りになるDFだ！怪我なくW杯を駆け抜けてほしい。",
-            "likes": 102
+            "id": "id-1782026685051-3f9i8n0ct",
+            "username": "@AFC_GoonerGuy",
+            "languageCode": "EN",
+            "originalText": "Absolutely! He's so crucial for our defense when he's on form. Great to have him back consistently and playing his best.",
+            "translatedText": "本当にその通り！彼が好調な時は、我々の守備にとって非常に重要だ。安定して戻ってきてくれて、最高のプレーを見せてくれるのは素晴らしい。",
+            "likes": 185
           },
           {
-            "id": "r1782024582781_2_1",
-            "username": "@TomiyasuSupporter",
-            "languageCode": "JA",
-            "originalText": "アヤックスでの経験が活きてるね！次の試合も期待してます！",
-            "translatedText": "アヤックスでの経験が活きてるね！次の試合も期待してます！",
-            "likes": 63
+            "id": "id-1782026685051-z59jbnjkw",
+            "username": "@TomiFan_JPN",
+            "languageCode": "EN",
+            "originalText": "Agreed, his work rate is immense. Just hope he can stay injury-free now and get a consistent run in the team, he's a real asset.",
+            "translatedText": "同意だ、彼の運動量は計り知れない。あとは怪我なく、チームで安定した出場機会を得られることを願うばかりだ、彼は本当に貴重な戦力だよ。",
+            "likes": 98
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/4Pramod/status/2068550416711737707"
       }
     ],
-    "lastUpdated": "2026-06-21T06:49:42.782Z"
+    "lastUpdated": "2026-06-21T07:24:45.052Z"
   },
   {
     "matchId": "kamada-20260621",
