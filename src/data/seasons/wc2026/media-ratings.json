@@ -722,6 +722,66 @@
     "localVoices": [],
     "xThreads": [
       {
+        "id": "id-1782118735493-ccaj0mhx7",
+        "username": "@Alarsenalnews_",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "If you want to get real engagement, tweet about Tomiyasu. Japanese love this guy❤️",
+        "translatedText": "本当にエンゲージメントを得たいなら、冨安についてツイートするといい。日本人は彼が大好きだからね❤️",
+        "likes": 218,
+        "retweets": 9,
+        "replies": [
+          {
+            "id": "id-1782118735493-uzdrp7jmh",
+            "username": "@Gooner_JP_Fan",
+            "languageCode": "EN",
+            "originalText": "Absolutely! Tomiyasu is a true professional and a fan favorite. His dedication is unmatched and he represents Japan so well.",
+            "translatedText": "本当にその通り！冨安は真のプロフェッショナルで、ファンに愛されています。彼の献身は比類なく、日本を素晴らしい形で代表しています。",
+            "likes": 312
+          },
+          {
+            "id": "id-1782118735493-vfz63wlen",
+            "username": "@Samurai_Gunners",
+            "languageCode": "JA",
+            "originalText": "冨安選手の人気は本当にすごいですよね。ただ、怪我が多いので、常に彼の健康を心配しています。どうか大事に至りませんように。",
+            "translatedText": "冨安選手の人気は本当にすごいですよね。ただ、怪我が多いので、常に彼の健康を心配しています。どうか大事に至りませんように。",
+            "likes": 198
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/Alarsenalnews_/status/2068707220305453239"
+      },
+      {
+        "id": "id-1782118741791-ax351q9ak",
+        "username": "@DailyAFC",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Former Arsenal defender Takehiro Tomiyasu played 79 minutes in their 4-0 victory over Tunisia. 🇯🇵",
+        "translatedText": "元アーセナルディフェンダーの冨安健洋が、チュニジアとの4-0の勝利で79分間プレーしました。🇯🇵",
+        "likes": 2567,
+        "retweets": 57,
+        "replies": [
+          {
+            "id": "id-1782118741791-0nuozet35",
+            "username": "@Gooner_Tokyo",
+            "languageCode": "EN",
+            "originalText": "Great to see Tomi getting minutes and a clean sheet! Hope he stays fit for Arsenal. Always solid for Japan.",
+            "translatedText": "冨安がプレー時間を獲得し、クリーンシートで終わったのを見るのは素晴らしいね！アーセナルでフィットしたままでいてほしい。日本代表ではいつも堅実だ。",
+            "likes": 287
+          },
+          {
+            "id": "id-1782118741791-afexr9asb",
+            "username": "@FootySensei",
+            "languageCode": "EN",
+            "originalText": "Good for Tomiyasu to get game time. Tunisia aren't the strongest opposition, but 79 minutes and a win is still positive for confidence.",
+            "translatedText": "冨安にとって試合時間を稼ぐのは良いことだね。チュニジアは最強の相手ではないが、79分の出場と勝利は自信につながる。",
+            "likes": 123
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/DailyAFC/status/2068768411560071561"
+      },
+      {
         "id": "id-1782026658582-3fawt2gc3",
         "username": "@AarinH2",
         "verified": false,
@@ -842,7 +902,7 @@
         "postUrl": "https://x.com/4Pramod/status/2068550416711737707"
       }
     ],
-    "lastUpdated": "2026-06-21T07:24:45.052Z"
+    "lastUpdated": "2026-06-22T08:59:01.792Z"
   },
   {
     "matchId": "kamada-20260621",
