@@ -1297,10 +1297,27 @@
         "verified": false,
         "languageCode": "EN",
         "originalText": "Who is this shit referee bro is dumb or what ? That was a clear foil on Yuito Suzuki no.17 !!Referee seriously hate Japanese 😂😂",
-        "translatedText": "（翻訳未生成）",
+        "translatedText": "このクソ審判なんなんだよ、頭おかしいのか？鈴木唯人17番への明らかなファウルだったろ！！審判は本気で日本人を嫌ってるな 😂😂",
         "likes": 13,
         "retweets": 0,
-        "replies": [],
+        "replies": [
+          {
+            "id": "id-1782119102907-ifyrocg2k",
+            "username": "@JPN_FootyFan",
+            "languageCode": "EN",
+            "originalText": "Absolutely agree! Saw that live, it was a blatant foul. The refs often seem biased against Asian players, it's infuriating.",
+            "translatedText": "全く同感です！生で見ていましたが、あれは明らかなファウルでした。審判はよくアジア人選手に偏見を持っているように見えます、本当に腹が立ちます。",
+            "likes": 287
+          },
+          {
+            "id": "id-1782119102907-pjtv5qs4d",
+            "username": "@TheRealistFan",
+            "languageCode": "EN",
+            "originalText": "It definitely looked like a foul from one angle, but it was a fast-paced moment. Not sure if it's 'hate Japanese' but a bad call for sure.",
+            "translatedText": "あるアングルから見ると確かにファウルに見えましたね、しかしあの瞬間は速かった。日本人嫌いかどうかは分かりませんが、間違いなくひどい判定でした。",
+            "likes": 112
+          }
+        ],
         "isManual": true,
         "postUrl": "https://x.com/izuna_x10/status/2068570189017608507"
       },
@@ -1346,8 +1363,38 @@
         "replies": [],
         "isManual": true,
         "postUrl": "https://x.com/gradasakura/status/2068573039986409546"
+      },
+      {
+        "id": "id-1782119096255-ymwhpvupv",
+        "username": "@vclosbfut",
+        "verified": false,
+        "languageCode": "CA",
+        "originalText": "És molt important per a Moriyasu el retorn de Yuito Suzuki. El mitjapunta japonès es va lesionar a principis de maig i es va perdre, de fet, la final de l’Europa League. Ha estat una de les grans sorpreses d’aquesta temporada, amb autèntiques exhibicions en competició europea.",
+        "translatedText": "森保にとって鈴木唯人の復帰は非常に重要だ。日本人攻撃的ミッドフィールダーは5月初旬に負傷し、事実上ヨーロッパリーグ決勝を欠場した。今シーズンは欧州大会での素晴らしい活躍で、大きなサプライズの一つだった。",
+        "likes": 8,
+        "retweets": 0,
+        "replies": [
+          {
+            "id": "id-1782119096255-2qawsftxm",
+            "username": "@CatalanFootyFan",
+            "languageCode": "CA",
+            "originalText": "Totalment d'acord! Va ser una llàstima perdre'l per la final. La seva creativitat al mig del camp és insubstituïble per al Japó.",
+            "translatedText": "全く同感です！決勝で彼を失ったのは残念でした。彼のミッドフィールドでの創造性は日本にとってかけがえのないものです。",
+            "likes": 185
+          },
+          {
+            "id": "id-1782119096255-4nu7oscx7",
+            "username": "@SamuraiBlueSupporter",
+            "languageCode": "EN",
+            "originalText": "Great news for Moriyasu, but I hope he's fully fit and not rushed back. His form before the injury was incredible.",
+            "translatedText": "森保にとっては素晴らしいニュースだが、彼が完全にフィットしており、無理に復帰させられていないことを願う。怪我をする前の彼の調子は信じられないほどだったからね。",
+            "likes": 90
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/vclosbfut/status/2068655454331224346"
       }
     ],
-    "lastUpdated": "2026-06-22T09:00:32.464Z"
+    "lastUpdated": "2026-06-22T09:05:05.042Z"
   }
 ]
