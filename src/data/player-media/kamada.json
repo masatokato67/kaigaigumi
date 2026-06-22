@@ -2,6 +2,19 @@
   "playerId": "kamada",
   "mediaRatings": [
     {
+      "date": "2026-06-22",
+      "source": "X (formerly Twitter)",
+      "country": "アメリカ合衆国",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada was asked which country he would support to win the World Cup if Japan were eliminated, following Japan's emphatic 4-0 victory over Tunisia. He stated that while Japan's focus is on winning, he believes many Japanese fans would support Portugal due to the widespread admiration for Cristiano Ronaldo and his inspiring influence on young players. Kamada noted Portugal as a fantastic team and suggested many Japanese would cheer for them if Japan's journey ended, but reiterated that Japan's success remains his primary focus.",
+      "commentTranslated": "日本のワールドカップ敗退時にどの国を応援するか尋ねられた鎌田大地選手は、日本のチュニジア戦での4-0の圧勝後にコメントしました。彼は、日本の目標は優勝であると強調しつつも、クリスティアーノ・ロナウドへの幅広い賞賛と、若い選手たちに与える彼の刺激的な影響から、多くの日本のファンがポルトガルを応援するだろうと信じていると述べました。鎌田選手はポルトガルを素晴らしいチームだとし、もし日本の道のりが終われば多くの日本人が彼らを応援すると示唆しましたが、日本の成功が最優先事項であると改めて強調しました。",
+      "isManual": true,
+      "articleUrl": "https://x.com/UTD_Seth001/status/2068593347791409522",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-06-17",
       "source": "FotMob",
       "country": "ノルウェー",
