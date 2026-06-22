@@ -13,6 +13,16 @@ function formatNumber(num: number): string {
   return num.toLocaleString();
 }
 
+function formatPostedAt(isoString: string): string {
+  const d = new Date(isoString);
+  const y = d.getFullYear();
+  const m = d.getMonth() + 1;
+  const day = d.getDate();
+  const h = d.getUTCHours().toString().padStart(2, "0");
+  const min = d.getUTCMinutes().toString().padStart(2, "0");
+  return `${y}/${m}/${day} ${h}:${min}`;
+}
+
 export default function XThreadCard({ thread }: XThreadCardProps) {
   const [showReplies, setShowReplies] = useState(thread.replies.length > 0);
 
@@ -56,6 +66,11 @@ export default function XThreadCard({ thread }: XThreadCardProps) {
               <span className="text-xs text-gray-500 px-1.5 py-0.5 bg-gray-800 rounded">
                 {thread.languageCode}
               </span>
+              {thread.postedAt && (
+                <span className="text-xs text-gray-600">
+                  {formatPostedAt(thread.postedAt)}
+                </span>
+              )}
               {isManual && thread.postUrl && (
                 <a
                   href={thread.postUrl}

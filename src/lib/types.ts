@@ -154,6 +154,7 @@ export interface XThread {
   replies: ThreadReply[];
   isManual?: boolean;
   postUrl?: string;
+  postedAt?: string;
 }
 
 export interface PlayerMediaRating extends MediaRating {
