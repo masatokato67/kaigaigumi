@@ -18,6 +18,13 @@ import { generateId } from "./lib/file-utils";
 
 config({ path: resolve(__dirname, "../.env.local") });
 
+const TWITTER_EPOCH = 1288834974657;
+function tweetIdToISOString(tweetUrl: string): string {
+  const id = BigInt(tweetUrl.split("/status/").pop()!);
+  const ms = Number(id >> 22n) + TWITTER_EPOCH;
+  return new Date(ms).toISOString().replace(".000Z", "Z");
+}
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 if (!GEMINI_API_KEY) {
   throw new Error("GEMINI_API_KEY が .env.local に設定されていません");
@@ -230,6 +237,7 @@ async function main() {
         })),
         isManual: true,
         postUrl: url,
+        postedAt: tweetIdToISOString(url),
       });
       console.log(`  ✅ @${extracted.username}: ${extracted.originalText.slice(0, 50)}...`);
     } catch (err) {
