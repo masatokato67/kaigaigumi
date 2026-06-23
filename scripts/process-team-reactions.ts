@@ -20,8 +20,8 @@ config({ path: resolve(__dirname, "../.env.local") });
 
 const TWITTER_EPOCH = 1288834974657;
 function tweetIdToISOString(tweetUrl: string): string {
-  const id = BigInt(tweetUrl.split("/status/").pop()!);
-  const ms = Number(id >> 22n) + TWITTER_EPOCH;
+  const id = Number(tweetUrl.split("/status/").pop()!);
+  const ms = Math.floor(id / 4194304) + TWITTER_EPOCH;
   return new Date(ms).toISOString().replace(".000Z", "Z");
 }
 
@@ -75,6 +75,7 @@ interface TeamReactionsData {
     }>;
     isManual: boolean;
     postUrl: string;
+    postedAt?: string;
   }>;
 }
 
