@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import HeroSection from "@/components/top/HeroSection";
 import MatchResultCard from "@/components/top/MatchResultCard";
 import FeaturedPlayerCard from "@/components/top/FeaturedPlayerCard";
@@ -30,7 +31,13 @@ export default function Home() {
         >
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-3">
-              <span className="text-2xl">🏆</span>
+              <Image
+                src="/images/wc2026-logo.webp"
+                alt="FIFA World Cup 2026"
+                width={40}
+                height={40}
+                className="object-contain"
+              />
               <div>
                 <p className="text-blue-400 text-xs font-medium tracking-wider">
                   FIFA WORLD CUP 2026
