@@ -2,6 +2,19 @@
   "playerId": "kubo",
   "mediaRatings": [
     {
+      "date": "2026-06-23",
+      "source": "RotoWire",
+      "country": "アメリカ合衆国",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Takefusa Kubo, recovering from a mild knee sprain suffered in Japan's World Cup opener against the Netherlands, has begun running on his own. He is confirmed to miss Thursday's match against Sweden. His target for return is a potential Round of 32 appearance, contingent on Japan advancing from the group stage and his rehabilitation progress.",
+      "commentTranslated": "ワールドカップ初戦のオランダ戦で負った軽度の膝の捻挫から回復中の久保建英は、独力で走り始めた。彼は木曜日のスウェーデン戦を欠場することが確認されている。彼の復帰目標は、日本がグループステージを突破し、リハビリの進捗次第で、決勝トーナメント1回戦出場となる。",
+      "isManual": true,
+      "articleUrl": "https://www.rotowire.com/soccer/headlines/takefusa-kubo-injury-begins-running-on-pitch-520633",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-06-17",
       "source": "Marca",
       "country": "スペイン",
