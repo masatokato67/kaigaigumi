@@ -9,6 +9,20 @@ export const metadata: Metadata = {
   description: "2026ワールドカップにおける日本代表に対する海外メディア・Xの反応一覧",
 };
 
+const MATCH_LABELS: { before: string; label: string }[] = [
+  { before: "2026-06-26", label: "チュニジア戦後" },
+  { before: "2026-06-30", label: "スウェーデン戦後（ブラジル戦前）" },
+];
+
+function getMatchLabel(postedAt?: string): string {
+  if (!postedAt) return MATCH_LABELS[0].label;
+  const date = postedAt.slice(0, 10);
+  for (const m of MATCH_LABELS) {
+    if (date < m.before) return m.label;
+  }
+  return "";
+}
+
 export default function TeamReactionsPage() {
   const reactions = getTeamReactions("wc2026");
 
@@ -46,9 +60,25 @@ export default function TeamReactionsPage() {
           </div>
           <p className="text-sm text-gray-400 mb-4">{threads.length}件の投稿</p>
           <div className="space-y-3">
-            {threads.map((thread) => (
-              <XThreadCard key={thread.id} thread={thread} />
-            ))}
+            {threads.map((thread, i) => {
+              const label = getMatchLabel(thread.postedAt);
+              const prevLabel = i > 0 ? getMatchLabel(threads[i - 1].postedAt) : "";
+              const showLabel = label && label !== prevLabel;
+              return (
+                <div key={thread.id}>
+                  {showLabel && (
+                    <div className="flex items-center gap-2 pt-2 pb-3">
+                      <div className="h-px flex-1 bg-gray-700" />
+                      <span className="text-xs font-medium text-gray-400 whitespace-nowrap">
+                        {label}
+                      </span>
+                      <div className="h-px flex-1 bg-gray-700" />
+                    </div>
+                  )}
+                  <XThreadCard thread={thread} />
+                </div>
+              );
+            })}
           </div>
         </div>
       )}
