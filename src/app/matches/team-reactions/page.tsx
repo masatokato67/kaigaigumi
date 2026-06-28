@@ -23,11 +23,28 @@ function getMatchLabel(postedAt?: string): string {
   return "";
 }
 
+function groupThreadsByMatch(threads: { postedAt?: string }[]) {
+  const groups: { label: string; indices: number[] }[] = [];
+  const labelMap = new Map<string, number[]>();
+
+  threads.forEach((t, i) => {
+    const label = getMatchLabel(t.postedAt);
+    if (!labelMap.has(label)) {
+      labelMap.set(label, []);
+      groups.push({ label, indices: labelMap.get(label)! });
+    }
+    labelMap.get(label)!.push(i);
+  });
+
+  return groups.reverse();
+}
+
 export default function TeamReactionsPage() {
   const reactions = getTeamReactions("wc2026");
 
   const articles = reactions?.articles ?? [];
   const threads = reactions?.xThreads ?? [];
+  const threadGroups = groupThreadsByMatch(threads);
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
@@ -60,25 +77,24 @@ export default function TeamReactionsPage() {
           </div>
           <p className="text-sm text-gray-400 mb-4">{threads.length}件の投稿</p>
           <div className="space-y-3">
-            {threads.map((thread, i) => {
-              const label = getMatchLabel(thread.postedAt);
-              const prevLabel = i > 0 ? getMatchLabel(threads[i - 1].postedAt) : "";
-              const showLabel = label && label !== prevLabel;
-              return (
-                <div key={thread.id}>
-                  {showLabel && (
-                    <div className="flex items-center gap-2 pt-2 pb-3">
-                      <div className="h-px flex-1 bg-gray-700" />
-                      <span className="text-xs font-medium text-gray-400 whitespace-nowrap">
-                        {label}
-                      </span>
-                      <div className="h-px flex-1 bg-gray-700" />
-                    </div>
-                  )}
-                  <XThreadCard thread={thread} />
+            {threadGroups.map((group) => (
+              <div key={group.label}>
+                {group.label && (
+                  <div className="flex items-center gap-2 pt-2 pb-3">
+                    <div className="h-px flex-1 bg-gray-700" />
+                    <span className="text-xs font-medium text-gray-400 whitespace-nowrap">
+                      {group.label}
+                    </span>
+                    <div className="h-px flex-1 bg-gray-700" />
+                  </div>
+                )}
+                <div className="space-y-3">
+                  {group.indices.map((idx) => (
+                    <XThreadCard key={threads[idx].id} thread={threads[idx]} />
+                  ))}
                 </div>
-              );
-            })}
+              </div>
+            ))}
           </div>
         </div>
       )}
