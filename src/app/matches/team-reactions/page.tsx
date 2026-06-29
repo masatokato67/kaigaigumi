@@ -10,16 +10,15 @@ export const metadata: Metadata = {
 };
 
 const MATCH_LABELS: { before: string; label: string }[] = [
-  { before: "2026-06-26", label: "チュニジア戦後" },
-  { before: "2026-06-30", label: "スウェーデン戦後（ブラジル戦前）" },
+  { before: "2026-06-25T15:00", label: "チュニジア戦後" },
+  { before: "2026-06-29T15:00", label: "スウェーデン戦後（ブラジル戦前）" },
 ];
 const FALLBACK_LABEL = "ブラジル戦後";
 
 function getMatchLabel(postedAt?: string): string {
   if (!postedAt) return MATCH_LABELS[0].label;
-  const date = postedAt.slice(0, 10);
   for (const m of MATCH_LABELS) {
-    if (date < m.before) return m.label;
+    if (postedAt < m.before) return m.label;
   }
   return FALLBACK_LABEL;
 }
