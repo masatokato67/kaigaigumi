@@ -13,6 +13,7 @@ const MATCH_LABELS: { before: string; label: string }[] = [
   { before: "2026-06-26", label: "チュニジア戦後" },
   { before: "2026-06-30", label: "スウェーデン戦後（ブラジル戦前）" },
 ];
+const FALLBACK_LABEL = "ブラジル戦後";
 
 function getMatchLabel(postedAt?: string): string {
   if (!postedAt) return MATCH_LABELS[0].label;
@@ -20,7 +21,7 @@ function getMatchLabel(postedAt?: string): string {
   for (const m of MATCH_LABELS) {
     if (date < m.before) return m.label;
   }
-  return "";
+  return FALLBACK_LABEL;
 }
 
 function groupThreadsByMatch(threads: { postedAt?: string }[]) {
