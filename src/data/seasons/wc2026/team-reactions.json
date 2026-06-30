@@ -2,626 +2,97 @@
   "articles": [],
   "xThreads": [
     {
-      "id": "id-1782030311263-1g0g90eij",
-      "username": "@UTD__Ronaldo",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨🎙️Wayne Rooney : Hajime moriyasu is doing an incredible job , doing all this without their main players is incredible. Japan fans will be so happy \n\n🗣️For Japan to play so well against Nederland and Tunisia without these players Mitoma, captain Wataru Endo and Takumi Minamino who all missed the World Cup  is just crazy especially that performance form ayase ueda\n\n🗣️People might blame the team or the coach Herve renard but Tunisia were not bad they were out played this Japanese team \n#TUNJPN",
-      "translatedText": "🚨🎙️ウェイン・ルーニー：森保一監督は素晴らしい仕事をしている、主力選手なしでこれらすべてをこなすのは信じられない。日本のファンはとても喜ぶだろう。\n\n🗣️三笘、キャプテン遠藤航、南野拓実といったワールドカップを欠場した選手たち抜きで、オランダやチュニジア相手にこれほど素晴らしいプレーを見せる日本は本当に驚異的だ。特に上田綺世のパフォーマンスは際立っていた。\n\n🗣️チームやエルヴェ・ルナール監督を非難する人もいるかもしれないが、チュニジアも悪くなかった。単にこの日本代表チームに圧倒されただけだ。\n#TUNJPN",
-      "likes": 222,
-      "retweets": 25,
-      "replies": [
-        {
-          "id": "id-1782030311264-w58joeaxa",
-          "username": "@Football_Nippon",
-          "languageCode": "EN",
-          "originalText": "Absolutely agree! Moriyasu deserves immense credit. The depth of talent coming through is insane, and Ueda really showed his class. Exciting times for Japan!",
-          "translatedText": "全く同感です！森保監督は多大な評価に値します。続々と現れるタレントの層の厚さは尋常じゃないし、上田は本当にその実力を見せつけましたね。日本にとってワクシングな時代だ！",
-          "likes": 280
-        },
-        {
-          "id": "id-1782030311264-qiitbf1qr",
-          "username": "@⚽️サムライ魂🇯🇵",
-          "languageCode": "JA",
-          "originalText": "怪我人多い中でよくやったのは事実だけど、やっぱり三笘や遠藤がいたらもっと攻撃に厚みが出たはず。次はフルメンバーでの最強日本が見たい！",
-          "translatedText": "怪我人多い中でよくやったのは事実だけど、やっぱり三笘や遠藤がいたらもっと攻撃に厚みが出たはず。次はフルメンバーでの最強日本が見たい！",
-          "likes": 120
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD__Ronaldo/status/2068579508643369098",
-      "postedAt": "2026-06-21T06:19:21Z"
-    },
-    {
-      "id": "id-1782030323788-pnisxaxfl",
+      "id": "id-1782793997567-r0wb1oopn",
       "username": "@markklfc",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "Sir Alex Ferguson on Japan's dominant 4-0 victory over Tunisia at the World Cup:\n\n🗣️ “I've watched football for decades, and one thing I've learned is that truly dangerous teams are often the ones people underestimate. Japan are no longer a team that should be underestimated by anybody.”\n\n“A 4-0 victory at a World Cup doesn't happen because of luck. It happens because of preparation, discipline, quality, and a group of players completely committed to a common goal.”\n\n“What stands out to me is their mentality. They don't play with fear. They don't play with doubt. They play with the confidence of a team that genuinely believes it belongs among the very best nations in football.”\n\n“Before the tournament, the conversation was always about the traditional giants. But while everyone was busy discussing the usual favourites, Japan were quietly building something very special.”\n\n“The best teams are not always the ones with the biggest names. The best teams are the ones that function as a unit, trust each other completely, and fight for every single moment. Japan have all of those qualities.”\n\n“What should worry the rest of the world is that they are getting stronger with every match. That's usually the sign of a team capable of going very deep into a tournament.”\n\n“When I watch Japan, I see hunger. I see organization. I see players willing to run, sacrifice, and work for each other. Those are the foundations of championship-winning teams.”\n\n“People might still hesitate to call them favourites, but if they continue producing performances like this, that debate won't last much longer.”\n\n“Every major tournament has a team that captures momentum and belief. Right now, Japan are building both at an alarming rate.”\n\n“And trust me, if I were managing one of the traditional powerhouses in this World Cup, Japan would be one of the last teams I'd want to face. Because they look like a team that believes its destiny is much bigger than simply participating.”",
-      "translatedText": "サー・アレックス・ファーガソンがワールドカップでの日本の圧倒的なチュニジア戦4-0勝利について語る：\n\n🗣️ 「私は何十年もサッカーを見てきたが、一つ学んだことがある。本当に危険なチームは、しばしば過小評価されるチームだということだ。日本はもはや誰にも過小評価されるべきチームではない。」\n\n「ワールドカップでの4-0の勝利は運で起こるものではない。それは準備、規律、質、そして共通の目標に完全にコミットした選手たちによって生まれるものだ。」\n\n「私が注目するのは彼らのメンタリティだ。彼らは恐れを持ってプレーしない。疑いを持ってプレーしない。サッカー界の最高峰の国々に自分たちが属していると心から信じるチームの自信を持ってプレーしている。」\n\n「大会前、会話はいつも伝統的な強豪国についてだった。しかし、皆がいつもの優勝候補について議論している間に、日本は静かに何か非常に特別なものを築いていた。」\n\n「最高のチームは必ずしも最大の名前を持つチームではない。最高のチームは、一つのユニットとして機能し、互いを完全に信頼し、すべての瞬間のために戦うチームだ。日本にはそのすべての資質がある。」\n\n「世界の他のチームが警戒すべきは、日本が試合ごとに強くなっていることだ。これは通常、大会で非常に深くまで勝ち進めるチームの兆候だ。」\n\n「日本を見ると、飢餓感が見える。組織力が見える。走り、犠牲になり、互いのために働く意欲のある選手たちが見える。これらはチャンピオンシップを勝ち取るチームの基盤だ。」\n\n「人々はまだ彼らを優勝候補と呼ぶのをためらうかもしれないが、このようなパフォーマンスを続ければ、その議論は長くは続かないだろう。」\n\n「すべての主要な大会には、勢いと信念を掴むチームがある。今、日本はその両方を驚くべき速さで築いている。」\n\n「そして信じてほしい、もし私がこのワールドカップの伝統的強豪国の一つを率いていたら、日本は最も対戦したくないチームの一つだろう。なぜなら、彼らは自分たちの運命が単なる参加よりもはるかに大きいと信じているチームに見えるからだ。」",
-      "likes": 314,
-      "retweets": 79,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/markklfc/status/2068601573622599680",
-      "postedAt": "2026-06-21T07:47:02Z"
-    },
-    {
-      "id": "id-1782030336272-qoyh02ouk",
-      "username": "@UTD_Seth001",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨Jürgen Klopp on Japan’s dominant 4–0 victory over Tunisia at the World Cup:\n\n🗣️ “Right now, we need to start asking ourselves the real question: are Japan really underdogs anymore?\n\n“After what they’ve shown in their first two matches, I don’t think so. They’ve been a handful for every opponent they’ve faced.\n\n“People need to stop looking down on Japan. I’ve had the opportunity to work with Japanese players, and I can tell you they bring incredible discipline, intensity, and professionalism.\n\n“In my opinion, they pose a bigger threat at this World Cup than many of the traditional favourites. Teams like Argentina, Portugal, France, and others will know they are in for a very difficult game if they face Japan.\n\n“This tournament should be a reminder that football is not about reputation—it’s about performances. And right now, Japan are performing at an exceptionally high level.\n\n“A 4–0 win at the World Cup doesn’t happen by accident. It happens because you have a clear identity, a strong structure, and players who fully believe in what they are doing.\n\n“What I love most about this Japan team is their intensity. They play with courage, they press together, they defend together, and they attack with real purpose.\n\n“The scary thing is they never stop. At 3–0, at 4–0, they keep running, keep pressing, and keep looking for more. That is the mentality of a team that believes it can achieve something special.\n\n“This World Cup should finally show everyone that Japan deserve far more respect on the football map.\n\n“Any team drawn against Japan in the next round will not be happy. They will be asking themselves one question: how do we stop them?”\n\n{@talksport}",
-      "translatedText": "🚨ユルゲン・クロップが日本のワールドカップでのチュニジア戦4-0圧勝について語る：\n\n🗣️ 「今、我々は本当の質問を自分自身に問いかける必要がある：日本は本当にまだアンダードッグなのか？\n\n「最初の2試合で彼らが見せたものを見れば、そうは思わない。彼らは対戦したすべての相手を苦しめてきた。\n\n「人々は日本を見下すのをやめる必要がある。私は日本人選手と仕事をする機会があったが、彼らは信じられないほどの規律、強度、プロフェッショナリズムをもたらすと断言できる。\n\n「私の意見では、彼らはこのワールドカップで多くの伝統的な優勝候補よりも大きな脅威をもたらしている。アルゼンチン、ポルトガル、フランスなどのチームは、日本と対戦すれば非常に厳しい試合になることを分かっているだろう。\n\n「この大会は、サッカーは評判ではなくパフォーマンスであることを思い出させるべきだ。そして今、日本は例外的に高いレベルでパフォーマンスを発揮している。\n\n「ワールドカップでの4-0の勝利は偶然には起こらない。明確なアイデンティティ、強固な構造、そして自分たちがやっていることを完全に信じる選手たちがいるから起こるのだ。\n\n「この日本チームで最も好きなのは、彼らの強度だ。勇気を持ってプレーし、一緒にプレスし、一緒に守り、本当の目的を持って攻撃する。\n\n「恐ろしいのは、彼らが決して止まらないことだ。3-0でも、4-0でも、走り続け、プレスし続け、さらなるゴールを求め続ける。これは何か特別なことを成し遂げられると信じるチームのメンタリティだ。\n\n「このワールドカップは、日本がサッカーの世界地図においてはるかに多くのリスペクトに値することをようやく示すべきだ。\n\n「次のラウンドで日本と対戦することになったチームは喜ばないだろう。彼らは一つの質問を自分自身に問いかけるだろう：どうすれば日本を止められるのか？」\n\n{@talksport}",
-      "likes": 84,
-      "retweets": 26,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2068602508449112337",
-      "postedAt": "2026-06-21T07:50:45Z"
-    },
-    {
-      "id": "id-1782029313593-caz33l70a",
-      "username": "@markklfc",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "Wesley Sneijder on Japan's dominant 4-0 victory over Tunisia at the World Cup:\n\n🗣️ “People might look at the Netherlands drawing 2-2 with Japan earlier in the tournament and only focus on the result. But after watching them destroy Tunisia 4-0, I can tell you that draw looks more impressive with every passing day.”\n\n“When we faced Japan, you could immediately feel how organized they were. They never stopped running, never stopped pressing, and never gave you a second to relax on the ball.”\n\n“A lot of teams have talented players, but Japan have something even more dangerous right now complete belief. Every player understands his role and every player is willing to sacrifice for the team.”\n\n“This 4-0 victory wasn't just a win. It was a statement to the rest of the World Cup. Tunisia simply could not live with the speed, movement, and intensity that Japan brought to the match.”\n\n“What impressed me most is that Japan don't play like outsiders anymore. They play like a team that genuinely believes it belongs among the best nations in the tournament.”\n\n“When the Netherlands played them, there were moments where they caused us serious problems. They were fearless. They attacked with confidence and defended with incredible discipline.”\n\n“That's why I'm not surprised by what happened against Tunisia. The signs were already there. Japan have been building towards a performance like this.”\n\n“If they continue playing with this level of confidence and organization, they will become one of the most dangerous teams in the knockout rounds. Nobody will be excited to face them.”\n\n“Before the tournament started, people talked about Japan as a dark horse. After performances like this, they're forcing people to have a completely different conversation.”\n\n“And trust me, after seeing them up close and watching them dismantle Tunisia 4-0, I can say with confidence that Japan are becoming one of the teams capable of shocking the entire football world.”",
-      "translatedText": "ワールドカップでのチュニジア戦、日本代表の圧倒的な4-0勝利について、ウェズレイ・スナイデルが語る：\n\n🗣️ 「大会序盤にオランダが日本と2-2で引き分けた時、人々は結果だけを見たかもしれない。しかし、彼らがチュニジアを4-0で粉砕するのを見て、あの引き分けは日が経つごとにますます印象的になっていると言える。」\n\n「日本と対戦した時、彼らがどれほど組織的であるかをすぐに感じた。彼らは走るのを止めず、プレスを止めず、ボールを持っている間に一瞬たりとも休ませてくれなかった。」\n\n「多くのチームには才能ある選手がいるが、今の日本にはさらに危険なもの、つまり完全な自信がある。すべての選手が自分の役割を理解し、チームのために犠牲を払うことを厭わない。」\n\n「この4-0の勝利は単なる勝利ではなかった。ワールドカップの他のチームへの声明だった。チュニジアは、日本が試合にもたらしたスピード、動き、強度に全く対応できなかった。」\n\n「私が最も感銘を受けたのは、日本がもはやアウトサイダーのようにプレーしていないことだ。彼らは、大会で最高の国々の中に自分たちが属していると心から信じているチームのようにプレーしている。」\n\n「オランダが彼らと対戦した時、彼らは我々に深刻な問題を引き起こす瞬間があった。彼らは恐れを知らなかった。自信を持って攻撃し、信じられないほどの規律で守備をした。」\n\n「だから、チュニジア戦での出来事にも驚かない。その兆候はすでにあった。日本はこのようなパフォーマンスに向けて着実に力をつけてきたのだ。」\n\n「もし彼らがこの自信と組織力を保ってプレーし続ければ、ノックアウトステージで最も危険なチームの一つになるだろう。誰も彼らと対戦したがらないだろう。」\n\n「大会が始まる前、人々は日本をダークホースと呼んでいた。このようなパフォーマンスの後では、彼らは人々に全く異なる議論を強いている。」\n\n「そして信じてほしい、彼らを間近で見て、チュニジアを4-0で解体するのを見た後、日本はフットボール界全体を驚かせることができるチームの一つになりつつあると自信を持って言える。」",
-      "likes": 1381,
-      "retweets": 200,
+      "originalText": "Pep Guardiola on Japan's first-half performance against Brazil:\n\n🗣️ “I don't know what Hajime Moriyasu has done with this Japanese team, but what I'm watching is extraordinary. People spent weeks talking about Brazil's stars, yet for forty-five minutes it's Japan who have looked like the real giants on this pitch.”\n\n“Brazil have world-class players in every position. Alisson, Marquinhos, Gabriel, Casemiro, Bruno Guimarães, Vinícius Júnior... these are names that strike fear across world football. But today, Japan have completely ignored reputations and played with courage, intelligence and absolute belief.”\n\n“Nakamura, Kamada, Sano and Doan have been fearless. Every attack looks dangerous, every press is coordinated, and every player is fighting as if this is the biggest moment of their lives. That mentality is worth more than any transfer fee.”\n\n“What impresses me most is the discipline. Tomiyasu, Taniguchi and Ito have made Brazil's attack look ordinary. When you can silence players like Vinícius Júnior and Matheus Cunha on the biggest stage, you're doing something very special.”\n\n“This is why football is the greatest sport in the world. Expensive squads don't win matches teams do. Right now Japan look hungrier, sharper and mentally stronger than Brazil.”\n\n“If Brazil don't change something immediately, this could become one of the biggest World Cup shocks we've seen in years. Japan aren't just competing anymore... they're making Brazil suffer.”",
+      "translatedText": "ペップ・グアルディオラがブラジル戦の日本代表前半のパフォーマンスについて語る：\n\n🗣️ 「森保一監督がこの日本チームに何をしたのか分からないが、私が見ているものは並外れている。人々は何週間もブラジルのスター選手について話していたが、45分間、ピッチ上の真の巨人のように見えたのは日本だ。」\n\n「ブラジルはあらゆるポジションにワールドクラスの選手がいる。アリソン、マルキーニョス、ガブリエル、カゼミーロ、ブルーノ・ギマランイス、ヴィニシウス・ジュニオール...これらは世界のサッカーに恐怖をもたらす名前だ。しかし今日、日本は名声など完全に無視し、勇気、知性、そして絶対的な信念を持ってプレーした。」\n\n「中村、鎌田、佐野、堂安は恐れることなくプレーした。どの攻撃も危険に見え、どのプレスも連携されており、全ての選手が人生最大の瞬間のために戦っているかのようだ。そのメンタリティはどんな移籍金よりも価値がある。」\n\n「私が最も感銘を受けたのは規律だ。冨安、谷口、伊藤はブラジルの攻撃を平凡に見せた。ヴィニシウス・ジュニオールやマテウス・クーニャのような選手を大舞台で沈黙させられるとき、それは非常に特別なことをしている証拠だ。」\n\n「これがサッカーが世界最高のスポーツである理由だ。高価な選手を揃えたチームが試合に勝つのではなく、チームが勝つのだ。今、日本はブラジルよりもハングリーで、シャープで、精神的に強い。」\n\n「もしブラジルがすぐに何かを変えなければ、これはここ数年で最大のワールドカップの番狂わせの一つになるかもしれない。日本はもはや競い合っているだけではない…ブラジルを苦しめているのだ。」",
+      "likes": 1536,
+      "retweets": 229,
       "replies": [
         {
-          "id": "id-1782029313593-stxh8omki",
-          "username": "@FootballInsightUK",
+          "id": "id-1782793997567-xnuhfqtw7",
+          "username": "@FootyTacticsGuy",
           "languageCode": "EN",
-          "originalText": "Sneijder absolutely nailed it. Japan's transformation has been incredible to watch. That belief he talks about is key. Truly deserved praise!",
-          "translatedText": "スナイデルの言う通りだ。日本の変貌ぶりは見ていて信じられないほどだ。彼が話すあの自信が鍵だね。本当に当然の賞賛だよ！",
-          "likes": 287
+          "originalText": "Pep gets it! Japan's spirit and tactics were on another level that half. Totally agree about team mentality over individual stars. Moriyasu's done a fantastic job.",
+          "translatedText": "ペップは分かってる！日本代表の精神力と戦術はあの前半、別次元だった。個々のスター選手よりもチームのメンタリティが大事だという点に完全に同意する。森保監督は素晴らしい仕事をしたね。",
+          "likes": 275
         },
         {
-          "id": "id-1782029313593-se6zu2ztj",
-          "username": "@SAMURAI_BLUE_Fan",
+          "id": "id-1782793997567-rnbf2fnn0",
+          "username": "@侍ブルー愛",
           "languageCode": "JA",
-          "originalText": "まさしく日本代表！スナイデル選手にここまで言ってもらえるなんて鳥肌もの。この勢いで、世界の強豪国を次々と倒してほしい！",
-          "translatedText": "まさしく日本代表！スナイデル選手にここまで言ってもらえるなんて鳥肌もの。この勢いで、世界の強豪国を次々と倒してほしい！",
-          "likes": 412
+          "originalText": "前半は本当に素晴らしかった！このまま後半も集中して、ブラジル相手に歴史を作ってほしい。森保監督の采配も光ってるね！",
+          "translatedText": "前半は本当に素晴らしかった！このまま後半も集中して、ブラジル相手に歴史を作ってほしい。森保監督の采配も光ってるね！",
+          "likes": 380
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/markklfc/status/2068586849673605635",
-      "postedAt": "2026-06-21T06:48:32Z"
+      "postUrl": "https://x.com/markklfc/status/2071651591825031558",
+      "postedAt": "2026-06-29T17:46:43.573Z"
     },
     {
-      "id": "id-1782029331511-be93qu1qz",
-      "username": "@Thewarjurnal_",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "@markklfc Japan just sent a message to the rest of the World Cup: underestimate them at your own risk.4-0, history made and the Samurai Blue are only getting started. \nhttps://x.com/i/status/2068584410522292581",
-      "translatedText": "日本はW杯の他の国々にメッセージを送った。彼らを過小評価すれば、それはあなたの自己責任だ。4-0、歴史が作られ、サムライブルーはまだ始まったばかりだ。",
-      "likes": 7,
-      "retweets": 0,
-      "replies": [
-        {
-          "id": "id-1782029331511-jfns4mi67",
-          "username": "@サッカー侍魂",
-          "languageCode": "JA",
-          "originalText": "本当に素晴らしい試合でした！この勢いでW杯を駆け上がってほしい！#SAMURAIBLUE",
-          "translatedText": "本当に素晴らしい試合でした！この勢いでW杯を駆け上がってほしい！#SAMURAIBLUE",
-          "likes": 280
-        },
-        {
-          "id": "id-1782029331511-qt9x1srmm",
-          "username": "@FootyAnalyst_",
-          "languageCode": "EN",
-          "originalText": "Great win, but let's not get ahead of ourselves. One big result doesn't guarantee the whole tournament. Still challenges ahead.",
-          "translatedText": "素晴らしい勝利だけど、浮かれすぎないようにしよう。一つの大きな結果が大会全体を保証するわけじゃない。まだ課題は山積している。",
-          "likes": 115
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/Thewarjurnal_/status/2068590806303486319",
-      "postedAt": "2026-06-21T07:04:15Z"
-    },
-    {
-      "id": "id-1782029353600-8d0r81i6f",
-      "username": "@UTD__Ronaldo",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨🎙️Roy keane : Japan are the dark horses of this World Cup , Tunisia was not bad they were simply out classed . I said it earlier and I will say it again don’t underestimate them \n\n🗣️ \"People keep talking about the favourites, but I said it on Matchday One — Japan are the underdogs of this tournament and they’ll shock everyone. They’re a very good, organised team. What a performance.\n\n🗣️Suzuki had nothing to do today. Ito, Itakura and Tomiyasu were brilliant, the defence was strong, but the midfield is the engine of this team. Nakamura, Tanaka, Kaishu Sano and Doan controlled everything.\n\n🗣️Kamada and Junya Ito linked up nicely with the striker, and Ayase Ueda is my man of the match — clinical. My praise also goes to Hajime Moriyasu for what he’s doing with this side.\n\n🗣️And I tell you this, Tunisia head coach Hervé Renard would never have wanted to play Japan in his first match in charge. This Japanese team are organised, disciplined and they’ll give anybody problems.\" 🇯🇵\n#TUNJPN",
-      "translatedText": "🚨🎙️ロイ・キーン：日本はワールドカップのダークホースだ。チュニジアは悪くなかった、ただ単に格が違っただけだ。以前も言ったが、もう一度言う、彼らを過小評価するな。\n\n🗣️「みんな優勝候補のことばかり話しているが、僕は初戦から言っていた — 日本はこの大会のアンダードッグであり、みんなを驚かせるだろう。彼らは非常に良い、組織されたチームだ。なんて素晴らしいパフォーマンスだ。\n\n🗣️鈴木は今日何もすることがなかった。伊藤、板倉、冨安は素晴らしく、守備は堅固だったが、このチームのエンジンは中盤だ。中村、田中、佐野海舟、堂安がすべてをコントロールしていた。\n\n🗣️鎌田と伊東純也はストライカーとうまく連携し、上田綺世が私のマン・オブ・ザ・マッチだ — 決定力がある。森保一監督がこのチームでやっていることにも賛辞を送りたい。\n\n🗣️そしてこれだけは言っておくが、チュニジア代表監督エルヴェ・ルナールは、就任初戦で日本と対戦したくはなかっただろう。この日本チームは組織され、規律があり、どんな相手にも問題を引き起こすだろう。」 🇯🇵\n#TUNJPN",
-      "likes": 169,
-      "retweets": 25,
-      "replies": [
-        {
-          "id": "id-1782029353600-pihv12uh2",
-          "username": "@Football_Nippon",
-          "languageCode": "EN",
-          "originalText": "Keane is absolutely spot on! The midfield truly is the engine, and Ueda was phenomenal. Moriyasu has built something special. Can't wait to see them go further!",
-          "translatedText": "キーンはまったくその通りだ！中盤は本当にエンジンだし、上田は驚異的だった。森保監督は何か特別なものを作り上げたね。彼らがさらに勝ち進むのが待ちきれない！",
-          "likes": 287
-        },
-        {
-          "id": "id-1782029353600-haebrnhi3",
-          "username": "@SamuraiBlueFan",
-          "languageCode": "EN",
-          "originalText": "Great win, but let's see how they perform against a top-tier European or South American side. Tunisia isn't exactly a powerhouse, even if Japan played brilliantly.",
-          "translatedText": "素晴らしい勝利だけど、欧州や南米のトップチーム相手にどうなるか見ものだね。日本は見事なプレーだったとはいえ、チュニジアは強豪ではないから。",
-          "likes": 154
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD__Ronaldo/status/2068575253035368612",
-      "postedAt": "2026-06-21T06:02:27Z"
-    },
-    {
-      "id": "id-1782029366117-3ediujmwd",
-      "username": "@InvictosSomos",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "En 2022, la Selección de Japón le ganó a Alemania y España en una Copa del Mundo. En 2023, venció a Alemania en Alemania. En 2025, le ganó a Brasil por primera vez en toda su historia. Y ahora, en el 2026, firmaron un partido memorable ante Holanda y lograron la primera goleada de toda su historia mundialista. Disculpa si te molesta, pero así funciona la libreta de Hajime Moriyasu. EL MAESTRO DE LOS SUPERCAMPEONES DE LA VIDA REAL.",
-      "translatedText": "2022年、日本代表はワールドカップでドイツとスペインに勝利しました。2023年には、ドイツの地でドイツを破りました。2025年には、史上初めてブラジルに勝利しました。そして今、2026年には、オランダとの記憶に残る試合を繰り広げ、W杯史上初の歴史的圧勝を飾りました。もしお気を悪くされたら申し訳ありませんが、これが森保一監督の采配術なんです。リアル・スーパーチャンピオンの巨匠。",
-      "likes": 1070,
-      "retweets": 110,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/InvictosSomos/status/2068585803052146742",
-      "postedAt": "2026-06-21T06:44:22Z"
-    },
-    {
-      "id": "id-1782029378639-wyjrbheeq",
-      "username": "@cfcchris17",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨 Thierry Henry on Japan beating Tunisia 4-0\n\n🗣️ After watching them against Netherlands, I said no team in the World Cup should underestimate Japan. They may not have one of the greatest squad in the world,but they have team and a good coach in Hajime Moriyasu.\n\nHerve Renard isn't a bad coach,he defeated Argentina in the last World Cup but today you see him looking so confused because of how smart this Japanese team is.\n\nIto, Itakura and Tomiyasu were Solid that Suzuki never had anything to worry about because Tunisia got Zero shot on target.\n\nNakamura,Tanaka and Sano handled their midfield quite well, Nakamura and Sano got an assist each,while their attacking players were excellent as well.\n\nAyase Ueda got a brace, with Kamada and Ito also on the score shit. Right now I don't see anything stopping Japan from reaching the world cup Round of 32 and probably going very far in the tournament.\n\nFootball is a game of intelligence,one team can have a scary squad and still don't have a team. The other can have average players with a beautiful team.\n\nAt the end of the day football is all about team performance and not individual brilliance without getting the results.",
-      "translatedText": "🚨 ティエリ・アンリが日本のチュニジア戦4-0勝利について語る\n\n🗣️ オランダ戦を見た後、ワールドカップのどのチームも日本を過小評価すべきではないと言った。世界最高のスカッドではないかもしれないが、彼らにはチームがあり、森保一という優れた監督がいる。\n\nエルヴェ・ルナールは悪い監督ではない。前回のワールドカップではアルゼンチンを破ったが、今日は日本チームの賢さに困惑している様子が見て取れた。\n\n伊藤、板倉、冨安は堅固で、チュニジアの枠内シュートはゼロだったため、鈴木は何も心配する必要がなかった。\n\n中村、田中、佐野は中盤をしっかりとコントロールし、中村と佐野はそれぞれアシストを記録。攻撃陣も素晴らしかった。\n\n上田綺世が2得点を挙げ、鎌田と伊藤もゴールを決めた。今の日本がワールドカップのラウンド32に進出し、おそらくかなり勝ち進むのを止めるものは何も見当たらない。\n\nサッカーは知性のスポーツだ。あるチームは恐ろしいスカッドを持ちながらチームになれないこともある。別のチームは平均的な選手で美しいチームを作ることもある。\n\n結局のところ、サッカーは結果を伴わない個人の輝きではなく、チームとしてのパフォーマンスがすべてだ。",
-      "likes": 914,
-      "retweets": 140,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/cfcchris17/status/2068576352664449180",
-      "postedAt": "2026-06-21T06:06:49Z"
-    },
-    {
-      "id": "id-1782031253496-9o7bgb6vx",
-      "username": "@UTD_Seth001",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨Zlatan Ibrahimović on Japan’s dominant 4–0 victory over Tunisia and Tunisia’s disappointing World Cup campaign:\n\n🗣️ “People need to stop calling Japan a surprise package. When you keep producing performances like this, you are no longer a surprise—you are a serious contender.\n\n“A 4–0 win at the World Cup is not normal. You don’t destroy teams by accident. You do it because you have quality, organisation, confidence, and players who know exactly what they’re doing.\n\n“What impresses me most is their mentality. There is no fear, no hesitation, and no respect for reputations. They attack with intensity, defend as a unit, and make life difficult for every opponent.\n\n“Before the tournament started, everyone talked about the traditional favourites. But match after match, Japan are forcing their way into that conversation.\n\n“If I’m one of the big nations watching this performance, I’m worried. Very worried. Because Japan look like a team improving with every game they play.\n\n“The scary thing is they never look satisfied. Even at 3–0 and 4–0, they keep pressing, keep running, and keep searching for more. That is the mentality of a team that believes it can achieve something special.\n\n“You can have all the star players in the world, but if you face a team playing with this level of discipline and confidence, you will suffer.\n\n“But we also have to talk about Tunisia, because this World Cup has been embarrassing for them.\n\n“They have looked unorganised, vulnerable, and completely unable to handle the intensity of the top teams. Conceding four goals like this without offering any real response is unacceptable at this level.\n\n“After two matches, they look short of confidence and short of solutions. At the World Cup, you cannot rely on hope alone—you need personality, belief, and a clear identity.\n\n“Right now, Japan are becoming one of the favourites to go deep into this tournament, while Tunisia have serious questions to answer.\n\n“And trust me, any team drawn against Japan in the next round will not be celebrating. They’ll be asking themselves one question: how do we stop them?”\n\n{@espn}",
-      "translatedText": "🚨ズラタン・イブラヒモビッチが日本のチュニジア戦4-0圧勝とチュニジアの失望的なワールドカップについて語る：\n\n🗣️ 「人々は日本をダークホースと呼ぶのをやめるべきだ。こういったパフォーマンスを出し続けているなら、もはやダークホースではない——真の優勝候補だ。\n\n「ワールドカップでの4-0は普通のことではない。偶然でチームを破壊することはできない。質、組織力、自信、そして自分たちが何をしているか正確に理解している選手たちがいるからこそできるのだ。\n\n「最も感銘を受けるのは彼らのメンタリティだ。恐れがなく、ためらいがなく、相手の名声への忖度もない。強度を持って攻撃し、一つのユニットとして守り、すべての相手を苦しめる。\n\n「大会前は、みんな伝統的な優勝候補について話していた。しかし試合を重ねるごとに、日本はその会話に割って入ってきている。\n\n「もし私が強豪国の一つとしてこのパフォーマンスを見ていたら、心配する。非常に心配だ。なぜなら日本は試合ごとに成長しているチームに見えるからだ。\n\n「恐ろしいのは、彼らが決して満足しないことだ。3-0でも4-0でも、プレスし続け、走り続け、さらなるゴールを探し続ける。これは何か特別なことを成し遂げられると信じるチームのメンタリティだ。\n\n「世界中のスター選手を集めても、このレベルの規律と自信でプレーするチームと対戦すれば、苦しむことになる。\n\n「しかしチュニジアについても語らなければならない。このワールドカップは彼らにとって恥ずかしいものだった。\n\n「彼らは無秩序で、脆弱で、トップチームの強度にまったく対応できていなかった。このように4失点して何の反撃もできないのは、このレベルでは許されない。\n\n「2試合を終えて、自信も解決策も不足しているように見える。ワールドカップでは希望だけに頼ることはできない——個性、信念、そして明確なアイデンティティが必要だ。\n\n「今、日本はこの大会で勝ち進む優勝候補の一つになりつつあり、チュニジアには深刻な問いかけが突きつけられている。\n\n「そして信じてほしい、次のラウンドで日本と対戦するチームは喜ばないだろう。彼らは一つの質問を自問することになる：どうすれば日本を止められるのか？」\n\n{@espn}",
-      "likes": 53,
-      "retweets": 16,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2068605874256371941",
-      "postedAt": "2026-06-21T08:04:07Z"
-    },
-    {
-      "id": "id-1782031266040-s3czqgr50",
-      "username": "@Gazpachen",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "Me quedé hasta las 3 AM por un único motivo: ver a Japón.\n\nMe encanta como juega el equipo de Moriyasu. El debut no fue el mejor, pero hoy dió gusto verlos jugar. Extremadamente ordenados y muy ofensivos, sobre todo, en el primer tiempo.\n\nMás allá de que hay puntos altísimos como Ueda, Ito, Kamada y Sano, la realidad está en que es injusto destacarlos sin mencionar que son un equipo. Un equipo de verdad. De 11 jugadores que entienden y se identifican con la idea de su entrenador.\n\nNo sé si este será el mejor Mundial en su historia, pero sí se que cada vez están más cerca.",
-      "translatedText": "午前3時まで起きていたのは一つの理由だけ：日本を見るためだ。\n\n森保のチームのプレーが大好きだ。デビュー戦は最高ではなかったが、今日は彼らのプレーを見るのが楽しかった。非常に組織的で、特に前半は非常に攻撃的だった。\n\n上田、伊藤、鎌田、佐野といった非常にレベルの高い選手がいるが、実際のところ、彼らがチームであることに触れずに個人を称えるのは不公平だ。本当のチーム。11人の選手全員が監督のアイデアを理解し、一体化している。\n\nこれが彼らの歴史上最高のワールドカップになるかは分からないが、確実にそこに近づいていることは分かる。",
-      "likes": 449,
-      "retweets": 25,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/Gazpachen/status/2068574719868101089",
-      "postedAt": "2026-06-21T06:00:20Z"
-    },
-    {
-      "id": "id-1782031278495-u6ygawkb0",
-      "username": "@Footballtweet",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🇯🇵 Japan's last 8 results since October 2025 are a big sign they could go far in this World Cup:\n\n✅ 4-0 win vs. Tunisia\n🤝 2-2 draw vs. Netherlands\n✅ 1-0 win vs. Iceland\n✅ 1-0 win vs. England\n✅ 1-0 win vs. Scotland\n✅ 3-0 win vs. Bolivia\n✅ 2-0 win vs. Ghana\n✅ 3-2 win vs. Brazil \n\nThey've also become the first country from the Asian Confederation to score 4 goals in a single World Cup match.\n\nYou do not want to play Japan in a knock-out match.",
-      "translatedText": "🇯🇵 2025年10月以降の日本の直近8試合の成績は、このワールドカップで勝ち進む大きな兆候だ：\n\n✅ チュニジアに4-0勝利\n🤝 オランダと2-2引き分け\n✅ アイスランドに1-0勝利\n✅ イングランドに1-0勝利\n✅ スコットランドに1-0勝利\n✅ ボリビアに3-0勝利\n✅ ガーナに2-0勝利\n✅ ブラジルに3-2勝利\n\nまた、アジアサッカー連盟所属国として初めてワールドカップの1試合で4得点を記録した国となった。\n\nノックアウトステージで日本と対戦したくないだろう。",
-      "likes": 813,
-      "retweets": 148,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/Footballtweet/status/2068578105401242051",
-      "postedAt": "2026-06-21T06:13:47Z"
-    },
-    {
-      "id": "id-1782036088256-yfbpp7r9e",
-      "username": "@UTD_Seth001",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "Pep Guardiola on Japan’s dominant 4–0 victory over Tunisia at the World Cup:\n\n🗣️ “People still talk about Japan as if they are underdogs. I don’t see it that way anymore.\n\n“When you perform at this level consistently, you stop being a surprise. You become a team that everyone must respect.\n\n“A 4–0 victory at a World Cup is not luck. It is the result of years of work, a clear idea of how you want to play, and players who believe completely in that idea.\n\n“What I admire most is their collective understanding of the game. They know exactly when to press, when to attack, and when to defend. Every player understands their role.\n\n“In football, the best teams are not always the ones with the biggest stars. The best teams are the ones that move together, think together, and suffer together. Japan are doing that better than many of the traditional favourites.\n\n“Before the tournament, everyone was speaking about the usual big nations. Meanwhile, Japan were quietly building a team with identity, discipline, and courage.\n\n“The most dangerous thing about this team is their mentality. Even at 3–0 or 4–0, they continue pressing, continue running, and continue searching for more goals. They never stop.\n\n“When you watch them, you see players fighting for each other in every action. That is why they are so difficult to play against.\n\n“Football does not care about history or reputation. It cares about what you do on the pitch. Right now, Japan are showing a level that puts them among the strongest teams in this tournament.\n\n“If I were managing one of the traditional powerhouses, Japan would be one of the teams I would least want to face. They are organised, fearless, and improving with every match.\n\n“And that is how great World Cup stories are written.”\n\n{@ManCityES }",
-      "translatedText": "ワールドカップでの日本代表のチュニジアに対する4-0の圧倒的な勝利について、ペップ・グアルディオラは次のように語った：\n\n🗣️「人々はまだ日本を弱者として話す。もう私はそうは見ていない。\n\n「このレベルで一貫してプレーすれば、驚きではなくなる。誰もが尊敬しなければならないチームになるんだ。\n\n「ワールドカップでの4-0の勝利は運ではない。それは長年の努力、プレーしたいという明確なアイデア、そしてそのアイデアを完全に信じる選手たちの結果だ。\n\n「私が最も感心するのは、彼らの試合に対する集団的な理解力だ。いつプレスをかけ、いつ攻撃し、いつ守備すべきかを正確に知っている。すべての選手が自分の役割を理解している。\n\n「フットボールにおいて、最高のチームは必ずしも最大のスターを擁するチームではない。最高のチームは、共に動き、共に考え、共に苦しむチームだ。日本は多くの伝統的な強豪国よりもそれをうまくやっている。\n\n「大会前は皆、いつもの強豪国について話していた。一方、日本は静かにアイデンティティ、規律、そして勇気を持ったチームを築いていたんだ。\n\n「このチームの最も危険な点は彼らのメンタリティだ。3-0や4-0になっても、彼らはプレスを続け、走り続け、さらなるゴールを探し続ける。決して止まらない。\n\n「彼らを見ていると、すべてのプレーで選手がお互いのために戦っているのがわかる。だから彼らと対戦するのは非常に難しいんだ。\n\n「フットボールは歴史や評判を気にしない。ピッチで何をするかを気にする。今、日本はこの大会で最も強いチームの一つに数えられるレベルを示している。\n\n「もし私が伝統的な強豪国の一つを率いているとしたら、日本は最も対戦したくないチームの一つだろう。彼らは組織化され、恐れを知らず、試合ごとに改善している。\n\n「そして、これこそが素晴らしいワールドカップの物語が書かれる方法だ。」\n\n{@ManCityES }",
-      "likes": 166,
-      "retweets": 32,
-      "replies": [
-        {
-          "id": "id-1782036088256-8vp88ddef",
-          "username": "@SamuraiBlueFanJP",
-          "languageCode": "EN",
-          "originalText": "Pep knows ball. Japan's rise is no fluke; it's a testament to their unwavering dedication and tactical brilliance. So proud!",
-          "translatedText": "ペップはサッカーをよく分かってる。日本の台頭はまぐれなんかじゃない。揺るぎない献身と戦術的な素晴らしさの証だよ。本当に誇らしい！",
-          "likes": 387
-        },
-        {
-          "id": "id-1782036088256-tx2u0r2th",
-          "username": "@WorldCup_Analyst",
-          "languageCode": "EN",
-          "originalText": "While true that Japan deserves respect, let's not crown them too early. The mental strength is there, but deeper knockout stages test different pressures entirely.",
-          "translatedText": "日本が尊敬に値するのは本当だが、まだ早すぎる。精神的な強さはあるが、ノックアウトステージの深部では全く異なるプレッシャーが試されるだろう。",
-          "likes": 193
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2068610041603661965",
-      "postedAt": "2026-06-21T08:20:41Z"
-    },
-    {
-      "id": "id-1782036109826-hcps2tb8b",
-      "username": "@tweetsesko",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨 Jamie Carragher: \"Japan Are Playing the Best Football in the Tournament\"\n\n🗣️\"I've got to be honest, this Japan team has been one of the biggest surprises of the tournament for me. They're absolutely superb. The way they press from the front, their work rate, their movement off the ball, and how quickly they transition from defence to attack it's outstanding. \n\nThey're so well-drilled that every player knows exactly what they're supposed to do.\n\n\"People keep talking about the traditional favourites, but if Japan continue playing like this, I genuinely believe they could go further than England. I know that sounds bold, but they've looked more convincing than a lot of the so-called big nations. I honestly don't see many teams being able to stop them if they maintain this level.\n\n\"Every opponent should be very careful because this Japan side is producing a footballing masterclass. They're fearless, disciplined, and incredibly difficult to break down. \n\nI don't know what it is, maybe it's just a feeling, but I've got this sense that Japan could go all the way to the World Cup final. It wouldn't shock me one bit if they did.\"",
-      "translatedText": "🚨 ジェイミー・キャラガー：「日本は今大会最高のサッカーをしている」\n\n🗣️「正直に言うと、この日本チームは私にとって今大会最大のサプライズの一つでした。彼らは本当に素晴らしい。前からプレスをかけ、運動量が多く、オフザボールの動きも、守備から攻撃への素早い切り替えも、すべてが傑出している。」\n\n「彼らは非常に統制が取れていて、すべての選手が自分のやるべきことを正確に理解している。」\n\n「人々は伝統的な優勝候補について語り続けていますが、もし日本がこのままプレーし続ければ、イングランドよりもさらに勝ち進むことができると私は心から信じています。大胆に聞こえるかもしれませんが、彼らは多くのいわゆる強豪国よりも説得力のある戦いを見せています。このレベルを維持できれば、彼らを止められるチームはそう多くないでしょう。」\n\n「すべての対戦相手は非常に注意すべきです。なぜなら、この日本代表はサッカーの傑作を生み出しているからです。彼らは恐れを知らず、規律があり、崩すのが信じられないほど難しい。」\n\n「何なのかは分かりませんが、単なる直感かもしれませんが、日本がワールドカップ決勝まで行けるような気がしています。もしそうなっても、私は全く驚きません。」",
-      "likes": 802,
-      "retweets": 143,
-      "replies": [
-        {
-          "id": "id-1782036109826-wsjlov001",
-          "username": "@SamuraiBlueFanJP",
-          "languageCode": "JA",
-          "originalText": "キャラガーがここまで褒めるとは！本当に今の日本代表は見ててワクワクするね！このまま突っ走ってほしい！",
-          "translatedText": "キャラガーがここまで褒めるとは！本当に今の日本代表は見ててワクワクするね！このまま突っ走ってほしい！",
-          "likes": 320
-        },
-        {
-          "id": "id-1782036109826-5u4si5jgd",
-          "username": "@FootyAnalyzer_X",
-          "languageCode": "EN",
-          "originalText": "While their play has been impressive, let's not get ahead of ourselves. The knockout stages are a different beast, and they'll face much tougher opposition.",
-          "translatedText": "彼らのプレーは印象的だが、先走りすぎないようにしよう。ノックアウトステージは全くの別物で、はるかに手強い相手と対戦することになるだろう。",
-          "likes": 185
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/tweetsesko/status/2068602381244178761",
-      "postedAt": "2026-06-21T07:50:15Z"
-    },
-    {
-      "id": "id-1782036122280-34p3wfoyr",
+      "id": "id-1782794019322-ep1ss30ll",
       "username": "@MatchReportH",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "🚨 Dimitar Berbatov & John Terry analysis on Supersport:\n\n🗣️ “Sitting in the studio with John Terry after the match, I honestly couldn’t believe what I just watched from Japan. We were breaking it down live on Supersport, and the conclusion was the same — this team is something different entirely.\n\nMost goals Japan have ever scored in a World Cup 🇯🇵, and a record-breaking 4-0 win — the largest margin by an Asian team 🌏 in the competition — and it didn’t even feel like a surprise by the end. It felt like a statement.\n\nWhat stood out to both me and John was the intensity. We kept asking ourselves how a team can press like that for 90+ minutes without dropping. From minute one to minute ninety-five, there was no rest. No pause. No drop in concentration.\n\nIt wasn’t just the attackers. It was the whole team. The goalkeeper was organizing, the defenders stepping in aggressively, the midfielders hunting every second ball, and the forwards never stopping their runs. It was total commitment from everyone.\n\nJohn Terry even said it looked like a team that “refuses to switch off,” and I agreed completely. At this level, that kind of discipline is rare. Very rare.\n\nWe also talked about Tunisia, and honestly, they had no answers. They were constantly under pressure, constantly rushed, constantly forced into mistakes. Japan didn’t allow them to breathe.\n\nAnd I’ll be honest, sitting there watching it back, you start to think — this might be a team that shocks the world. Not just compete. Not just qualify. But actually go deep and frighten every big nation in the tournament.\n\nIf they keep this level, football needs to pay attention.",
-      "translatedText": "🚨 ディミタール・ベルバトフとジョン・テリーがSupersportで分析：\n\n🗣️ 「試合後にジョン・テリーとスタジオに座りながら、日本から見たものが正直信じられなかった。Supersportで生中継で分析していたが、結論は同じだった——このチームはまったく別次元だ。\n\n日本がワールドカップで記録した最多得点🇯🇵、そしてアジアのチーム🌏として大会史上最大差となる4-0の記録的勝利——しかも終わってみれば驚きですらなかった。それは声明だった。\n\n私とジョンの両方が注目したのは強度だ。90分以上もあのようにプレスをかけ続けて、なぜ落ちないのかと何度も自問した。1分目から95分目まで、休みがなかった。間がなかった。集中力の低下がなかった。\n\nアタッカーだけではなかった。チーム全体だった。ゴールキーパーが指示を出し、ディフェンダーが積極的にステップインし、ミッドフィルダーがすべてのセカンドボールを狩り、フォワードは走りを止めなかった。全員からの完全なコミットメントだった。\n\nジョン・テリーは「スイッチを切ることを拒否するチーム」のようだと言い、私も完全に同意した。このレベルで、そのような規律は珍しい。非常に珍しい。\n\nチュニジアについても話したが、正直、彼らには答えがなかった。常にプレッシャーを受け、常に急かされ、常にミスを強いられていた。日本は彼らに息をする暇を与えなかった。\n\nそして正直に言うと、座って振り返りながら見ていると、こう思い始める——このチームは世界を驚かせるかもしれない。ただ競争するだけでなく。ただ予選を通過するだけでなく。実際に勝ち進み、大会のすべての強豪国を脅かすかもしれないと。\n\nもしこのレベルを維持すれば、サッカー界は注目する必要がある。",
-      "likes": 195,
-      "retweets": 22,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/MatchReportH/status/2068581984444510556",
-      "postedAt": "2026-06-21T06:29:12Z"
-    },
-    {
-      "id": "id-1782096903037-vtvnhccb0",
-      "username": "@markklfc",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "Kaka on Japan becoming the FIRST Asian nation to score 4 goals in a single World Cup match:\n\n🗣️ “This is much bigger than just a football statistic. What Japan achieved tonight is a historic moment not only for their country, but for Asian football as a whole.”\n\n“To become the first Asian team to score four goals in a World Cup match shows how far Japanese football has come. This is the result of years of investment, development, patience, and belief.”\n\n“When I watched them against Tunisia, I didn't see a team hoping to make history. I saw a team determined to make a statement. Every attack carried purpose, every movement showed confidence, and every goal reflected their quality.”\n\n“What impresses me most is that they never looked satisfied. Even after scoring, they kept pushing forward, kept attacking, and kept playing with the same intensity and hunger.”\n\n“For many years, people questioned whether Asian teams could consistently compete with the traditional football powers. Japan are answering that question in the strongest way possible.”\n\n“This achievement will inspire millions of young players across Asia. There will be children watching this performance and believing that they too can dream of reaching the highest level.”\n\n“The scary thing for the rest of the tournament is that Japan don't look like a team that has reached its limit. They look like a team that is growing stronger with every match they play.”\n\n“Records are important, but what matters most is the message behind them. Japan are showing the world that they are no longer here simply to participate they are here to compete with anyone.”\n\n“And after a performance like this, I think every nation still left in this World Cup will be paying very close attention to Japan. Because this team is making history, and it feels like they are only getting started.”",
-      "translatedText": "カカ、日本がワールドカップ1試合で4ゴールを決めた初のアジア国になったことについて：\n\n🗣️ 「これは単なるサッカーの統計以上のものです。今夜日本が達成したことは、彼らの国だけでなく、アジアサッカー全体にとって歴史的な瞬間です。」\n\n「ワールドカップの試合で4ゴールを決めた初のアジアチームになったことは、日本サッカーがいかに進化してきたかを示しています。これは長年の投資、育成、忍耐、そして信念の成果です。」\n\n「チュニジア戦で彼らを見たとき、私は歴史を作ろうと願うチームではなく、声明を出そうと決意したチームを見ました。すべての攻撃には目的があり、すべての動きには自信があり、すべてのゴールは彼らの質を反映していました。」\n\n「私が最も感銘を受けたのは、彼らが決して満足しているように見えなかったことです。得点した後も、彼らは前進し続け、攻撃し続け、同じ強度とハングリー精神でプレーし続けました。」\n\n「長年、アジアのチームが伝統的なサッカー大国と継続的に競い合えるのかという疑問が投げかけられてきました。日本はその疑問に可能な限り最も強力な方法で答えています。」\n\n「この偉業は、アジア中の何百万もの若い選手たちを鼓舞するでしょう。このパフォーマンスを見て、自分たちも最高レベルに到達できると信じる子供たちがいるはずです。」\n\n「残りのトーナメントにとって恐ろしいのは、日本が限界に達したチームには見えないことです。彼らは試合ごとに強くなっているチームのように見えます。」\n\n「記録は重要ですが、最も大切なのはその背後にあるメッセージです。日本は、もはや単に参加するだけではなく、誰とでも競い合うためにここにいることを世界に示しています。」\n\n「そして、このようなパフォーマンスの後、このワールドカップに残っているすべての国は日本に非常に注目するでしょう。なぜなら、このチームは歴史を作っており、まだ始まったばかりのように感じるからです。」",
-      "likes": 418,
-      "retweets": 85,
+      "originalText": "🚨🇯🇵Rio Ferdinand Praises Japan’s Coach After Brave World Cup Exit\n\n“I have to give enormous credit to Japan and especially to their coach. Before this tournament, almost every prediction had Brazil winning comfortably. Most people expected Japan to defend deep, concede possession and eventually get overwhelmed. Instead, they made one of the greatest football nations in history fight until the very last moments.”\n\n“What surprised me most throughout this World Cup wasn’t just the results—it was the discipline. Every player understood his role. Their defensive shape was outstanding, their pressing was organised, and whenever they had the ball, they attacked with courage instead of fear. That’s coaching. That’s hours on the training ground turning a group of good players into a genuine team.”\n\n“Against Brazil they never looked intimidated. They scored first, frustrated Brazil for long spells, and every time Brazil thought they had found a way through, Japan responded with incredible determination. They were only minutes away from taking one of the biggest scalps in World Cup history.”\n\n“It’s heartbreaking that a late goal from Martinelli is what sends them home. Football can be brutally cruel. One moment separates celebration from elimination. But Japan shouldn’t be remembered for losing this match—they should be remembered for making Brazil struggle far more than anyone expected.”\n\n“This tournament has changed the way people see Japanese football. Their coach deserves enormous praise because he built a team with identity, discipline and belief. They may be out of the competition, but they’ve earned something that lasts much longer than a place in the next round: the respect of the entire football world.”\n\n #BRAJPN",
+      "translatedText": "🚨🇯🇵リオ・ファーディナンド、勇気あるW杯敗退後も日本代表監督を称賛\n\n「日本、特に彼らの監督には多大な称賛を送らなければならない。今大会前、ほとんどの予想はブラジルが楽勝すると見ていた。多くの人は日本が深く守り、ボールを譲り、最終的には圧倒されるだろうと予想していた。しかし、彼らは史上最高のサッカー大国の一つを最後の最後まで戦わせた。」\n\n「今大会で最も驚いたのは、結果だけではなく、その規律だった。すべての選手が自分の役割を理解していた。守備の形は素晴らしく、プレッシングは組織化され、ボールを持てば恐れることなく勇気を持って攻撃した。これこそがコーチングだ。素晴らしい選手たちを真のチームに変える、練習場での何時間もの成果だ。」\n\n「ブラジル戦では、彼らは決して怯んでいるようには見えなかった。先制点を奪い、長い間ブラジルを苛立たせ、ブラジルが突破口を見つけたと思うたびに、日本は信じられないほどの決意で応じた。W杯史上最大級の番狂わせを起こすまで、あと数分というところだった。」\n\n「マルティネッリの遅いゴールによって彼らが敗退したことは、本当に胸が痛む。サッカーは残酷だ。一瞬が祝賀と敗退を分ける。しかし、日本はこの試合に負けたことではなく、誰も予想しなかった以上にブラジルを苦しめたことで記憶されるべきだ。」\n\n「この大会は、人々が日本サッカーを見る目を変えた。彼らの監督は、アイデンティティ、規律、そして信念を持ったチームを作り上げたので、絶大な称賛に値する。彼らは大会を去るかもしれないが、次のラウンドに進むことよりもはるかに長く続くもの、つまりサッカー界全体の尊敬を勝ち取ったのだ。」\n\n#BRAJPN",
+      "likes": 2404,
+      "retweets": 367,
       "replies": [
         {
-          "id": "id-1782096903037-n8hwa56b8",
-          "username": "@SamuraiBlueFan",
+          "id": "id-1782794019322-7fhzbwxmv",
+          "username": "@SoccerLoverJPN",
           "languageCode": "EN",
-          "originalText": "Kaka always has such insightful words! Japan truly played like a team with a point to prove. This World Cup is getting exciting!",
-          "translatedText": "カカはいつも洞察力に富んだ言葉を持っていますね！日本は本当に何かを証明しようとするチームのようにプレーしました。このワールドカップは盛り上がってきましたね！",
-          "likes": 321
+          "originalText": "Absolutely spot on, Rio! Japan played with such heart and intelligence. They truly changed perceptions. Our coach built something special.",
+          "translatedText": "リオ、全くその通り！日本は本当に心と知性を持ってプレーした。彼らは確かに見方を変えたね。監督が素晴らしいものを作り上げたよ。",
+          "likes": 287
         },
         {
-          "id": "id-1782096903037-fsv9dgx4p",
-          "username": "@FootballAnalystJP",
-          "languageCode": "JA",
-          "originalText": "カカの評価は嬉しいが、チュニジア戦は相手の守備が緩かった部分も否めない。次の強豪国相手に同じパフォーマンスを見せられるかが重要だ。",
-          "translatedText": "カカの評価は嬉しいが、チュニジア戦は相手の守備が緩かった部分も否めない。次の強豪国相手に同じパフォーマンスを見せられるかが重要だ。",
-          "likes": 187
+          "id": "id-1782794019322-r9simx5pf",
+          "username": "@FootballMind_8",
+          "languageCode": "EN",
+          "originalText": "While the praise is deserved, it's also a reminder of how fine the margins are. We need to find that extra gear to close out games against top nations, but the progress is undeniable.",
+          "translatedText": "称賛されるべきだけど、紙一重の差を改めて感じさせられるね。トップ国相手に試合を締めくくるためのもう一歩を見つける必要があるけど、進歩は間違いない。",
+          "likes": 135
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/markklfc/status/2068670880696135681",
-      "postedAt": "2026-06-21T12:22:26Z"
+      "postUrl": "https://x.com/MatchReportH/status/2071677789749563565",
+      "postedAt": "2026-06-29T19:30:49.645Z"
     },
     {
-      "id": "id-1782096923127-3xv5bq5zp",
-      "username": "@RealityLfc",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨Legendary Ronaldo Nazario on how fantastic and impressive the Japan team look after a 4-0 victory against Tunisia in group F of the 2026 World Cup.\n\n🗣️“The game between the Netherlands and Japan in their opener was really Impressive and joy to watch from them display such fabulous performance, the 2-2 draw against Netherland was a warm up for the up coming games and I could see it from today against Tunisia.\n\nLooking sharp with the ball and making every single possession worth of what they’re doing on the pitch, fighting for every second ball and getting the best out of each counter.\n\nThey’re never an underdogs in this competition, I trust they can compete with any team in the tournament with their best players on, I was really surprise when I saw their performance in the first half of the game then it motivated me to watch more of the second half.\n\nThey’re in the toughest group too as well but their level of performance shouldn’t be a joke to anyone in this competition, they can go far in the competition to the level no one expected them to be at.”",
-      "translatedText": "🚨伝説のロナウド・ナザリオが、2026年ワールドカップのグループFでチュニジアに4-0で勝利した日本チームがどれほど素晴らしく印象的であるかについて語っています。\n\n🗣️「彼らの初戦のオランダ対日本の試合は本当に印象的で、素晴らしいパフォーマンスを見せてくれて楽しかった。オランダとの2-2の引き分けは、今後の試合に向けたウォーミングアップだったと、今日のチュニジア戦を見て理解できました。\n\nボールを持った時の鋭さ、ピッチ上での全てのポゼッションを価値あるものにする姿勢、セカンドボール全てに食らいつき、それぞれのカウンターから最高のものを引き出している。\n\n彼らはこの大会で決してアンダードッグではない、ベストプレイヤーが揃えばどのチームとも戦えることを信頼しています。試合の最初のハーフで彼らのパフォーマンスを見た時、本当に驚き、それが後半ももっと見たいというモチベーションになりました。\n\n彼らは最も厳しいグループに入っていますが、彼らのパフォーマンスレベルは誰にとっても冗談ではありません。誰もが予想しなかったレベルまで、大会で遠くまで行けるでしょう。」",
-      "likes": 205,
-      "retweets": 27,
-      "replies": [
-        {
-          "id": "id-1782096923127-pf8zeyf69",
-          "username": "@SoccerFanJP_",
-          "languageCode": "EN",
-          "originalText": "Ronaldo's words mean a lot! Japan truly looks like a force to be reckoned with this World Cup. The teamwork is exceptional!",
-          "translatedText": "ロナウドの言葉は重い！日本は本当に今回のワールドカップで侮れない存在に見える。チームワークが格別だ！",
-          "likes": 320
-        },
-        {
-          "id": "id-1782096923127-3zi9wrqg8",
-          "username": "@BlueSamurai_Fan",
-          "languageCode": "EN",
-          "originalText": "It's great to hear such high praise, but Group F is incredibly tough. We need to maintain this level against stronger opponents next!",
-          "translatedText": "このような高い評価は嬉しいですが、グループFは信じられないほど厳しい。次のより強い相手に対してもこのレベルを維持する必要がありますね！",
-          "likes": 185
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/RealityLfc/status/2068689500977479711",
-      "postedAt": "2026-06-21T13:36:26Z"
-    },
-    {
-      "id": "id-1782096977022-xir2e7ktk",
+      "id": "id-1782794042398-p3c0vul5j",
       "username": "@UTD_Seth001",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "🚨Arsène Wenger on Japan’s dominant 4–0 victory over Tunisia and why the world must stop viewing them as underdogs:\n\n🗣️ “I think we need to change the conversation around Japan. At what point do we stop calling them underdogs and start recognising them as one of the strongest teams in this tournament?\n\n“A 4–0 victory at a World Cup is never accidental. It is the result of years of development, intelligent planning, and players who fully believe in their collective identity.\n\n“What impresses me most is their understanding of the game. Every player knows their role, every movement has purpose, and there is a remarkable level of cohesion throughout the team.\n\n“They play with courage, discipline, and intensity. They press together, defend together, and attack with great conviction.\n\n“For a long time, the focus has always been on the traditional football powers. Meanwhile, Japan have quietly built a team with a clear philosophy and a strong culture.\n\n“In modern football, the best teams are not always the ones with the biggest names. They are the teams that function as a unit, and Japan are demonstrating that at the highest level.\n\n“What should concern the rest of the world is that they are improving with every match. Confidence and momentum can carry a team a very long way in a tournament.\n\n“When I watch Japan, I see humility, hunger, and a deep commitment to the collective. Those qualities are essential for success.\n\n“People may still hesitate to call them favourites, but football does not reward reputation—it rewards performance. And Japan are performing at an exceptional level.\n\n“If they continue like this, they can achieve something truly special.\n\n“I can assure you that no team will be eager to face Japan in the knockout stages.”\n\n{@talksport}",
-      "translatedText": "（翻訳未生成）",
-      "likes": 272,
-      "retweets": 56,
-      "replies": [],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2068643900852449516",
-      "postedAt": "2026-06-21T10:35:14Z"
-    },
-    {
-      "id": "id-1782097009943-5uttjyj5d",
-      "username": "@markklfc",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "Antonio Conte on Japan's emphatic 4-0 victory over Tunisia at the World Cup:\n\n🗣️ “People need to understand something very clearly what Japan are doing is not a coincidence anymore. This is not a ‘good run’. This is a team with structure, discipline, and a winning mentality at the highest level.”\n\n“A 4-0 victory at the World Cup is not something you see every day. You don’t dominate a match like that unless every single player is committed to the system, to the work, and to suffering together when needed.”\n\n“What impresses me most is the tactical maturity. This is a team that understands when to press, when to wait, when to attack space, and when to control the tempo. That is not emotion that is intelligence.”\n\n“Before the tournament, many people spoke about the usual favourites. But Japan are not asking for permission anymore. They are taking their place in that conversation with every match they play.”\n\n“If I am one of the big national teams watching this, I am not comfortable at all. Because Japan don’t give you anything for free you have to earn every single meter against them.”\n\n“The most dangerous thing is their mentality. Even at 3-0, even at 4-0, they do not slow down. They do not relax. They keep pressing, keep running, keep punishing mistakes. That is the mindset of a team that wants to win everything.”\n\n“You can have talented players, big names, big reputations but if you face a team that is this organized and this hungry, reputation means nothing on the pitch.”\n\n“Right now, Japan are not just competing. They are imposing themselves. They are making every opponent uncomfortable, and that is the sign of a team built to go very far in a tournament like this.”\n\n“And I will say this very honestly if Japan continue like this, there is no reason they cannot reach the final stages of this World Cup. Because they are playing like a complete team, not just a good one.”",
-      "translatedText": "アントニオ・コンテがワールドカップでのチュニジアに対する日本の見事な4-0の勝利について語る：\n\n🗣️ 「人々は非常に明確に理解する必要があります。日本のやっていることは、もはや偶然ではありません。これは『好調な時期』ではありません。これは、最高レベルの組織、規律、そして勝利へのメンタリティを持ったチームです。」\n\n「ワールドカップでの4-0の勝利は、毎日見られるものではありません。システム、仕事、そして必要に応じて共に苦しむことに全ての選手がコミットしていなければ、そのような試合を支配することはできません。」\n\n「私が最も感銘を受けるのは、戦術的な成熟度です。このチームは、いつプレスをかけ、いつ待ち、いつスペースを攻撃し、いつテンポをコントロールすべきかを理解しています。それは感情ではなく、知性です。」\n\n「大会前、多くの人々はいつものお気に入りチームについて話していました。しかし、日本はもう許可を求めているわけではありません。彼らは試合ごとにその会話の中で自分たちの地位を確立しています。」\n\n「もし私がこれを観ている強豪国の一つだとしたら、全く落ち着かないでしょう。なぜなら、日本は何も無料で与えてくれないからです。彼ら相手には、全ての1メートルを勝ち取らなければなりません。」\n\n「最も危険なのは、彼らのメンタリティです。3-0になっても、4-0になっても、彼らはペースを落としません。リラックスすることなく、プレスをかけ続け、走り続け、ミスを罰し続けます。それは全てを勝ち取りたいチームの考え方です。」\n\n「才能ある選手、ビッグネーム、大きな評判を持っていても、これほど組織され、これほどハングリーなチームに直面すれば、ピッチ上では評判は意味をなしません。」\n\n「今、日本は単に競っているだけではありません。彼らは自らを押し付けています。彼らは全ての対戦相手を不快にさせており、それはこのような大会で非常に遠くまで行くために作られたチームの兆候です。」\n\n「そして正直に言います。もし日本がこのまま続けば、このワールドカップの最終段階に到達できない理由はありません。なぜなら、彼らは単に良いチームではなく、完全なチームとしてプレーしているからです。」",
-      "likes": 422,
-      "retweets": 72,
+      "originalText": "🚨 Sir Alex Ferguson on Brazil knocking Japan out of the 2026 FIFA World Cup after a thrilling 2–1 victory:\n\n🗣️ “That is what champions do. They don’t always play perfect football, but when the pressure is at its highest, they find a way to win. Brazil were pushed to their absolute limit tonight, and Japan deserve enormous credit for making one of the greatest football nations fight for every single ball.”\n\n“People will look at the result and simply say Brazil are through, but this match was much bigger than that. Japan showed courage, discipline and belief for almost the entire game. They never hid, they never gave up, and they made Brazil earn every inch of that victory. That’s the kind of performance that earns respect around the football world.”\n\n“The difference in the end was experience. Brazil understood that knockout football is decided by moments, not long spells of possession or beautiful football. When the decisive opportunity arrived, they took it. That’s the mentality of teams who expect to win World Cups.”\n\n“If I’m Brazil, I celebrate the qualification but I also know there is work to do. If they perform like this against even stronger opposition, they’ll have problems. If I’m Japan, I leave this tournament with my head held high because they’ve shown they belong among the best teams in world football. This was a defeat, but it was also a statement.”\n\n{@SkyNews }",
+      "translatedText": "🚨 サー・アレックス・ファーガソン、スリリングな2対1の勝利でブラジルが日本を2026 FIFAワールドカップから敗退させたことについて：\n\n🗣️ 「それがチャンピオンというものだ。常に完璧なサッカーをするわけではないが、最もプレッシャーがかかる時に、彼らは勝利への道を見つける。今夜、ブラジルは絶対的な限界まで追い込まれた。そして、日本はサッカー界で最も偉大な国の一つにボール一つ一つを争わせたことで、絶大な称賛に値する。」\n\n「人々は結果だけを見て、ブラジルが勝ち進んだと言うだろう。だが、この試合はそれ以上のものだった。日本はほぼ試合全体を通して、勇気、規律、そして信念を示した。彼らは決して隠れず、決して諦めず、ブラジルにその勝利のあらゆるインチを稼がせた。それこそが、サッカー界の尊敬を集めるパフォーマンスというものだ。」\n\n「最終的な違いは経験だった。ブラジルは、ノックアウト方式のサッカーは、長いポゼッションや美しいサッカーではなく、瞬間によって決まることを理解していた。決定的なチャンスが訪れた時、彼らはそれをものにした。それこそが、ワールドカップ優勝を期待されるチームのメンタリティだ。」\n\n「もし私がブラジルなら、予選突破を祝うが、同時にやるべき仕事があることも分かっている。もし彼らがさらに強い相手に対してこのようなパフォーマンスをしたら、問題が起こるだろう。もし私が日本なら、この大会を胸を張って去る。なぜなら彼らは、世界のトップチームの一員であることを示したからだ。これは敗北だったが、同時に声明でもあった。」\n\n{@SkyNews }",
+      "likes": 1261,
+      "retweets": 360,
       "replies": [
         {
-          "id": "id-1782097009943-9kb3zlhyb",
-          "username": "@サッカー日本代表_魂",
-          "languageCode": "JA",
-          "originalText": "コンテがここまで褒めてくれるなんて感動！本当に今の代表は見ててワクワクするし、最後まで手を抜かない姿勢が最高！",
-          "translatedText": "コンテがここまで褒めてくれるなんて感動！本当に今の代表は見ててワクワクするし、最後まで手を抜かない姿勢が最高！",
-          "likes": 387
+          "id": "id-1782794042398-gcx7nfn69",
+          "username": "@JapanProud_Fan",
+          "languageCode": "EN",
+          "originalText": "Sir Alex always speaks the truth! Japan played with such heart and truly earned global respect. This defeat hurts but it's a massive statement for our team's future. 🇯🇵",
+          "translatedText": "サー・アレックスはいつも真実を語る！日本は心を込めてプレーし、真に世界的な尊敬を得た。この敗北は痛いが、我々のチームの未来にとって大きな声明だ。🇯🇵",
+          "likes": 385
         },
         {
-          "id": "id-1782097009943-3x7a3aukx",
-          "username": "@FootyObserverX",
+          "id": "id-1782794042398-b4nkjzzqv",
+          "username": "@FootballAnalyst7",
           "languageCode": "EN",
-          "originalText": "Conte is right, Japan looked fantastic. But Tunisia isn't Germany or Brazil. Let's see how they perform against a true top-tier nation before crowning them.",
-          "translatedText": "コンテは正しい、日本は素晴らしかった。しかし、チュニジアはドイツやブラジルではない。彼らが真のトップティア国と対戦したときに、どうパフォーマンスするか見てから評価しよう。",
-          "likes": 165
+          "originalText": "While I agree Japan showed immense character, ultimately the 'difference in experience' is still a gap to close. Great performance, but the goal is to win these tight knockout games, not just compete.",
+          "translatedText": "日本が計り知れない個性を見せたことには同意するが、結局のところ「経験の差」は埋めるべきギャップだ。素晴らしいパフォーマンスだったが、目標はただ競うことではなく、これらの接戦を勝ち抜くことだ。",
+          "likes": 215
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/markklfc/status/2068631924105527550",
-      "postedAt": "2026-06-21T09:47:38Z"
-    },
-    {
-      "id": "id-1782621207354-b2d29ve1u",
-      "username": "@MotivacionesF",
-      "verified": false,
-      "languageCode": "ES",
-      "originalText": "¡¡JAPÓN NO LE TEME A BRASIL!! 😳🇯🇵\n\nLejos de preocuparse por enfrentar a la pentacampeona del mundo, en Japón recibieron el cruce con ilusión. El atacante Ritsu Doan fue contundente:\n\n“No podría haber un mejor rival. Es una enorme felicidad enfrentar a Brasil en el escenario de una Copa del Mundo.”\n\nEl seleccionador Hajime Moriyasu también dejó claro que saldrán a competir sin complejos:\n\n“Brasil es una de las mejores selecciones del mundo y la respetamos muchísimo. Pero cuando empieza el partido, cualquier cosa puede pasar. Nosotros también tenemos la oportunidad de ganar. En nuestro último enfrentamiento demostramos que no somos un rival fácil.”\n\n🇯🇵 Japón no se achica. Respeta a Brasil, pero cree firmemente que puede dar el golpe y avanzar a los octavos de final del Mundial.",
-      "translatedText": "日本はブラジルを恐れていない!! 😳🇯🇵\n世界王者ブラジルとの対戦を心配するどころか、日本ではこの組み合わせを期待感を持って受け止めている。攻撃的ミッドフィルダーの堂安律は断言した：\n「これ以上ない相手だ。ワールドカップという舞台でブラジルと対戦できるのは最高の喜びだ。」\n森保一監督も、臆することなく戦う姿勢を明確にした：\n「ブラジルは世界最高のチームの一つであり、我々は彼らを非常に尊敬している。しかし、試合が始まれば何が起こるかわからない。我々にも勝つチャンスがある。前回の対戦では、我々が決して楽な相手ではないことを示した。」\n🇯🇵 日本は縮こまらない。ブラジルを尊敬しつつも、サプライズを起こし、ワールドカップの決勝トーナメントに進出できると固く信じている。",
-      "likes": 2695,
-      "retweets": 208,
-      "replies": [
-        {
-          "id": "id-1782621207354-r5lfxl1ut",
-          "username": "@BlueSamuraiFan",
-          "languageCode": "EN",
-          "originalText": "Love the confidence! Japan always fights hard, and on a World Cup stage, anything can happen. Go Japan!",
-          "translatedText": "この自信、素晴らしい！日本はいつも懸命に戦うし、W杯の舞台では何が起こるかわからない。頑張れ日本！",
-          "likes": 287
-        },
-        {
-          "id": "id-1782621207354-mds890l7s",
-          "username": "@サッカー好きJAPAN",
-          "languageCode": "JA",
-          "originalText": "森保監督の言う通り、どんな強豪でもチャンスはある。ただ、ブラジルはやはり別格の強さだから、しっかり守ってカウンターで勝機を見出したいね。",
-          "translatedText": "森保監督の言う通り、どんな強豪でもチャンスはある。ただ、ブラジルはやはり別格の強さだから、しっかり守ってカウンターで勝機を見出したいね。",
-          "likes": 123
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/MotivacionesF/status/2070574159332032945",
-      "postedAt": "2026-06-26T18:25:23.649Z"
-    },
-    {
-      "id": "id-1782621229585-c8we2zd4r",
-      "username": "@tweetsesko",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨🇧🇷 🇯🇵Vinícius Júnior Sends Strong Warning to Japan Ahead of World Cup Clash:\n\n🗣️\"Japan have been one of the biggest surprises of this tournament. They've played with incredible discipline, intensity, and quality, and they've earned everyone's respect with the way they've performed.\n\nBut we're Brazil. We respect every opponent, but we never step onto the pitch believing anyone is better than us. Japan are a very good team, but we believe we're the better side.\n\nThey'll come with confidence, and so will we. It's going to be a great battle, but our objective is simple to remind everyone why Brazil are one of the greatest football nations in history. We wish them the best, but we're going there to win and show them how it's done.\"",
-      "translatedText": "🚨🇧🇷 🇯🇵ヴィニシウス・ジュニオールがW杯での日本戦を前に強い警告を発する：\n\n🗣️「日本はこのトーナメント最大のサプライズの一つでした。彼らは信じられないほどの規律、インテンシティ、そしてクオリティでプレーし、そのパフォーマンスで皆の尊敬を集めました。\n\nしかし、私たちはブラジルです。私たちはすべての対戦相手を尊重しますが、誰かが私たちより優れていると信じてピッチに立つことはありません。日本は非常に良いチームですが、私たちは自分たちの方が優れたチームだと信じています。\n\n彼らは自信を持ってくるでしょうし、私たちもそうです。素晴らしい戦いになるでしょうが、私たちの目標はシンプルです。ブラジルがなぜ史上最高のサッカー国の1つであるかを皆に思い出させることです。彼らの健闘を祈りますが、私たちは勝ちに行き、どうすれば勝てるかを見せつけます。」",
-      "likes": 6604,
-      "retweets": 343,
-      "replies": [
-        {
-          "id": "id-1782621229585-d02x4fspa",
-          "username": "@BrazilFanatico",
-          "languageCode": "EN",
-          "originalText": "Vini Jr. speaks nothing but facts. Japan has been great, but Brazil is on another level. Can't wait for this match!",
-          "translatedText": "ヴィニシウス・ジュニオールは真実しか語っていない。日本は素晴らしいが、ブラジルは別格だ。この試合が待ちきれない！",
-          "likes": 287
-        },
-        {
-          "id": "id-1782621229585-1tu51haza",
-          "username": "@NipponBlueSamurai",
-          "languageCode": "JA",
-          "originalText": "ブラジルが強いのは分かってるけど、日本だってここまで来たんだ！リスペクトはありがとう、でも私たちもベストを尽くしてサプライズを起こす準備はできてる！",
-          "translatedText": "ブラジルが強いのは分かってるけど、日本だってここまで来たんだ！リスペクトはありがとう、でも私たちもベストを尽くしてサプライズを起こす準備はできてる！",
-          "likes": 412
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/tweetsesko/status/2070506719893979642",
-      "postedAt": "2026-06-26T13:57:24.834Z"
-    },
-    {
-      "id": "id-1782621248830-yh1x7lxxi",
-      "username": "@ChinoUTD",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨 Van Dijk on Japan:\n\n“Netherlands may have more individual quality, but Japan are different. You don’t feel like you’re playing against 11 players. You feel like you’re playing against one idea that has been divided into 11 bodies. That is why they are so difficult to beat.”",
-      "translatedText": "🚨 ファン・ダイクが日本について語る：\n\n「オランダにはより個々のクオリティがあるかもしれないが、日本は違う。11人の選手と対戦しているとは感じない。11の体に分けられた一つのアイデアと対戦しているように感じる。だから彼らは倒すのがとても難しいんだ。」",
-      "likes": 6254,
-      "retweets": 260,
-      "replies": [
-        {
-          "id": "id-1782621248830-ha3xuuyta",
-          "username": "@SamuraiBlueFan",
-          "languageCode": "EN",
-          "originalText": "VVD knows ball! Japan's teamwork is truly next level. It's not just about individual stars, but how they move as one unit. So proud of the Samurai Blue!",
-          "translatedText": "VVDはサッカーをよく分かってる！日本のチームワークは本当に次のレベルだ。個々のスター選手のことだけではなく、彼らが一体となってどう動くかだ。サムライブルーをとても誇りに思う！",
-          "likes": 320
-        },
-        {
-          "id": "id-1782621248830-cb0yycgsc",
-          "username": "@Soccer_Nippon",
-          "languageCode": "JA",
-          "originalText": "ファンダイクにそう言われるのは嬉しいな。でも、個々のレベルアップも忘れずに、さらに高みを目指してほしい！次のW杯が楽しみ。",
-          "translatedText": "ファンダイクにそう言われるのは嬉しいな。でも、個々のレベルアップも忘れずに、さらに高みを目指してほしい！次のW杯が楽しみ。",
-          "likes": 185
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/ChinoUTD/status/2070322126284792255",
-      "postedAt": "2026-06-26T01:43:54.288Z"
-    },
-    {
-      "id": "id-1782621986622-k6s75zoit",
-      "username": "@FabrizioRomano",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨 OFFICIAL: Brazil 🆚 Japan at World Cup Round of 32!\n\nWho’s going to next round? 🇧🇷🇯🇵",
-      "translatedText": "🚨 公式発表: ワールドカップ ラウンド32でブラジル対日本！次のラウンドに進むのはどっち？🇧🇷🇯🇵",
-      "likes": 32085,
-      "retweets": 4423,
-      "replies": [
-        {
-          "id": "id-1782621986622-3xd5q54n6",
-          "username": "@SAMURAIBLUE_Fan",
-          "languageCode": "JA",
-          "originalText": "これは厳しい戦いになるけど、日本代表ならきっとやってくれる！奇跡を起こそう！",
-          "translatedText": "これは厳しい戦いになるけど、日本代表ならきっとやってくれる！奇跡を起こそう！",
-          "likes": 285
-        },
-        {
-          "id": "id-1782621986622-y7qgcbqc8",
-          "username": "@Football_Analyst",
-          "languageCode": "EN",
-          "originalText": "Brazil are clear favorites here. Japan has improved a lot but beating Brazil in a World Cup knockout game is a massive ask.",
-          "translatedText": "ブラジルが明らかに有利だね。日本はかなり成長したけど、ワールドカップのノックアウトステージでブラジルに勝つのはかなり難しい要求だよ。",
-          "likes": 162
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/FabrizioRomano/status/2070310904776847438",
-      "postedAt": "2026-06-26T00:59:18.872Z"
-    },
-    {
-      "id": "id-1782622005066-lsqi5tebz",
-      "username": "@Chiefofbridge",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨📢|  Japan Teaching the World Cup a Lesson in Class:\n\n“Japan is quickly becoming one of my favourite teams in this World Cup. They don’t talk much-they just deliver on the pitch. Absolutely clinical. Unbeaten through the group stage, qualified, and now everyone needs to be scared of them. Massive congratulations to the Samurai Blue!”",
-      "translatedText": "🚨📢| 日本がワールドカップに品格の教訓を教えている：\n「日本は今回のワールドカップで、私のお気に入りのチームの一つに急速になりつつある。彼らは多くを語らず、ただピッチで結果を出すだけだ。まったくもって冷静沈着だ。グループステージを無敗で突破し、決勝トーナメントに進出し、今や誰もが彼らを恐れる必要がある。サムライブルーに心からの祝福を！」",
-      "likes": 314,
-      "retweets": 25,
-      "replies": [
-        {
-          "id": "id-1782622005066-gzfqkg4ba",
-          "username": "@FootballFan_JP",
-          "languageCode": "JA",
-          "originalText": "本当にその通りです！彼らの規律とハードワークは見ていて感動します。次の試合も楽しみです！",
-          "translatedText": "本当にその通りです！彼らの規律とハードワークは見ていて感動します。次の試合も楽しみです！",
-          "likes": 287
-        },
-        {
-          "id": "id-1782622005066-ysis295h4",
-          "username": "@SoccerStatGuy",
-          "languageCode": "EN",
-          "originalText": "They've been impressive, no doubt. But the knockout stages are a different beast. Let's see how they handle the pressure against top-tier opposition. Still, brilliant group stage performance!",
-          "translatedText": "彼らは印象的だった、間違いない。しかし、決勝トーナメントは全く別の獣だ。トップクラスの相手に対してプレッシャーをどう乗り切るか見てみよう。それでも、素晴らしいグループステージのパフォーマンスだった！",
-          "likes": 165
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/Chiefofbridge/status/2070326486943371517",
-      "postedAt": "2026-06-26T02:01:13.950Z"
-    },
-    {
-      "id": "id-1782622028103-vmoi4mvst",
-      "username": "@UTD_Seth001",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨Jürgen Klopp on Japan becoming the first Asian nation to qualify for the Round of 32 at the 2026 FIFA World Cup after a thrilling 1-1 draw with Sweden:\n\n🗣️ “First of all, congratulations to Japan. They’ve fully deserved their place in the Round of 32.”\n\n“Daizen Maeda’s goal summed up everything this Japan team is about—intensity, intelligent movement and ruthless finishing. It was a fantastic team goal.”\n\n“Then Sweden responded through Anthony Elanga with an unbelievable strike. That’s the quality the World Cup brings. One moment you’re celebrating, the next you’re picking the ball out of your own net.”\n\n“But what impressed me most was Japan’s reaction. They didn’t panic. They didn’t lose their structure. They kept believing in the way they play.”\n\n“This is not a team that’s happy just to qualify. They’re organised, fearless and technically outstanding.”\n\n“If Brazil are their next opponents, they should be very careful.”\n\n“The biggest mistake you can make against Japan is underestimating them because of the badge on their shirt. Other nations have done that, and they’ve paid the price.”\n\n“Brazil have world-class players, but if they think talent alone will beat this Japan side, they’re in for a very long night.”\n\n“Japan press together, defend together and attack together. That’s why they’re such a dangerous team.”\n\n“I wouldn’t be surprised if they caused another upset. At this World Cup, Japan have shown they’re capable of beating anybody.”\n\n{@talkSPORT }",
-      "translatedText": "🚨イェルゲン・クロップ監督が、スウェーデンとのスリリングな1-1の引き分けの後、日本が2026年FIFAワールドカップでアジア勢として初めてベスト32に進出したことについて語る：\n\n🗣️「まず、日本におめでとうと言いたい。彼らはベスト32進出に完全に値する。」\n\n「前田大然のゴールは、この日本代表チームのすべてを象徴していた。インテンシティ、賢い動き、そして冷徹なフィニッシュ。素晴らしいチームゴールだった。」\n\n「その後、スウェーデンがアンソニー・エランガの信じられないようなシュートで応じた。それがワールドカップがもたらすクオリティだ。ある瞬間は祝っているが、次の瞬間には自陣のゴールからボールを拾っている。」\n\n「しかし、私が最も感銘を受けたのは日本の反応だった。彼らはパニックにならなかった。構造を崩さなかった。自分たちのプレースタイルを信じ続けた。」\n\n「これは、ただ予選を突破しただけで満足するチームではない。彼らは組織され、恐れを知らず、技術的に傑出している。」\n\n「もしブラジルが次の相手なら、彼らは非常に注意すべきだ。」\n\n「日本に対して犯す最大の過ちは、ユニフォームのエンブレムのせいで彼らを過小評価することだ。他の国々はそれをして、代償を払った。」\n\n「ブラジルには世界クラスの選手がいるが、もし彼らが才能だけでこの日本代表に勝てると思っているなら、非常に長い夜になるだろう。」\n\n「日本は一緒にプレスし、一緒に守り、一緒に攻める。だからこそ、彼らはこんなにも危険なチームなのだ。」\n\n「彼らがまた別の波乱を起こしても驚かないだろう。このワールドカップで、日本は誰にでも勝つ能力があることを示している。」\n\n{@talkSPORT }",
-      "likes": 2278,
-      "retweets": 458,
-      "replies": [
-        {
-          "id": "id-1782622028103-5x8djb538",
-          "username": "@NipponPride_2026",
-          "languageCode": "EN",
-          "originalText": "Klopp gets it! This Japan team is special. Maeda's goal was brilliant but the mental strength after Elanga's strike is what truly sets them apart. Bring on Brazil!",
-          "translatedText": "クロップはわかってる！この日本代表は特別だ。前田のゴールは見事だったけど、エランガのゴール後の精神的な強さが本当に彼らを際立たせている。ブラジルよ、かかってこい！",
-          "likes": 350
-        },
-        {
-          "id": "id-1782622028103-dy0xcvxdr",
-          "username": "@戦術解説マン",
-          "languageCode": "JA",
-          "originalText": "クロップ監督の評価は嬉しいが、ブラジル戦は全く別のレベル。守備の集中力と決定機での冷静さがより一層求められる。まだチャレンジャー精神で臨むべきだ。",
-          "translatedText": "クロップ監督の評価は嬉しいが、ブラジル戦は全く別のレベル。守備の集中力と決定機での冷静さがより一層求められる。まだチャレンジャー精神で臨むべきだ。",
-          "likes": 180
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2070417802712772867",
-      "postedAt": "2026-06-26T08:04:05.326Z"
-    },
-    {
-      "id": "id-1782622049097-35z2vhajn",
-      "username": "@Mufcjnr1",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🔴 Dimitar Berbatov on the World Cup and the breakout talent catching his eye, Keito Nakamura\n\n🗣️ “This World Cup has made me see a lot of talent and the player I’m most excited about is Keito Nakamura. I mostly watch the Japan matches and this kid impresses me so much. He’s such a talent  you could see his goal against Netherlands and assist against Tunisia. He made me remember players like Shinji Kagawa and Park Ji-sung. Those were the last guys we had at Manchester United with that profile. I just hope we can have those same profiles again. I know clubs will be keeping tabs on him and I believe Carrick will also be doing the same he’s such a talent.”",
-      "translatedText": "🔴 ディミタール・ベルバトフがワールドカップと彼の目を引いたブレイク中の才能、中村敬斗について語る\n\n🗣️「このワールドカップでは多くの才能を目にしましたが、私が最も興奮している選手は中村敬斗です。私は主に日本の試合を見ていますが、この若者には本当に感銘を受けています。彼は素晴らしい才能の持ち主で、オランダ戦での彼のゴールやチュニジア戦でのアシストを見ればわかるでしょう。彼は私に香川真司やパク・チソンといった選手を思い出させました。彼らがマンチェスター・ユナイテッドにいた最後の、あのようなプロフィールの選手たちでした。ただ、また同じようなプロフィールの選手が来てくれることを願っています。多くのクラブが彼を注視しているでしょうし、キャリックも同じように見ているはずです。彼は本当に才能がありますから。」",
-      "likes": 1779,
-      "retweets": 211,
-      "replies": [
-        {
-          "id": "id-1782622049097-pj9j2cwo1",
-          "username": "@RedDevilsJP",
-          "languageCode": "JA",
-          "originalText": "ベルバトフが中村敬斗を評価してるの嬉しい！香川やパク・チソンに匹敵するってのは本当に凄いこと。マンUに来てほしいな！",
-          "translatedText": "ベルバトフが中村敬斗を評価してるの嬉しい！香川やパク・チソンに匹敵するってのは本当に凄いこと。マンUに来てほしいな！",
-          "likes": 287
-        },
-        {
-          "id": "id-1782622049097-jkkt4skb1",
-          "username": "@FootballPundit_X",
-          "languageCode": "EN",
-          "originalText": "Nakamura definitely showed flashes of brilliance, but the Kagawa/Park comparison is a high bar. Let's see how he develops consistently at club level first. Still, exciting prospect!",
-          "translatedText": "中村は確かに素晴らしい輝きを見せましたが、香川/パクの比較は非常に高いハードルです。まずはクラブレベルで彼がどのように一貫して成長するかを見てみましょう。それでも、エキサイティングな有望株であることは間違いありません！",
-          "likes": 112
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/Mufcjnr1/status/2070226533780689122",
-      "postedAt": "2026-06-25T19:24:03.259Z"
+      "postUrl": "https://x.com/UTD_Seth001/status/2071671444875178328",
+      "postedAt": "2026-06-29T19:05:36.909Z"
     },
     {
       "id": "id-1782775547372-j0939ptcr",
@@ -653,6 +124,99 @@
       "isManual": true,
       "postUrl": "https://x.com/markklfc/status/2071659468144710054",
       "postedAt": "2026-06-29T18:18:01.434Z"
+    },
+    {
+      "id": "id-1782794066520-ky2lziadq",
+      "username": "@markklfc",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Juan Mata on Japan being eliminated from the FIFA World Cup after losing to Brazil:\n\n🗣️ “Some defeats hurt far more than the scoreline, and this is one of them. Japan gave everything they had, fought until their legs could carry them no more, and still walked away with broken hearts. Football can be painfully unfair.”\n\n“I can only imagine the silence inside that dressing room. Players who dreamed of making history for their country are now left staring at the floor, wondering how everything slipped away in the final moments.”\n\n“The tears we saw tonight are not tears of weakness they are tears of players who poured every ounce of their heart into that shirt. There is no greater pain than coming so close to something unforgettable and watching it disappear in an instant.”\n\n“Brazil move on, but Japan have earned the respect of the entire football world. They showed courage, humility and unbelievable togetherness. Those qualities will be remembered long after this tournament is over.”\n\n“To every Japanese supporter, I know tonight feels unbearable. But one painful defeat can never erase what this team gave you. They made a nation dream again, and sometimes that is the greatest legacy a team can leave behind.”",
+      "translatedText": "フアン・マタ、日本がブラジルに敗れてFIFAワールドカップから敗退したことについて：\n\n🗣️ 「いくつかの敗北は、スコア以上に心に痛手を負わせるものだが、これはその一つだ。日本は持てる力の全てを出し切り、足が動かなくなるまで戦い抜いたが、それでも傷心のまま去ることになった。フットボールは時に残酷なほど不公平だ。」\n\n「あのロッカールームの沈黙を想像することしかできない。国のために歴史を作ることを夢見ていた選手たちは今、床を見つめ、全てが最後の瞬間にどうして手からこぼれ落ちてしまったのかと考えていることだろう。」\n\n「今夜私たちが目にした涙は、弱さの涙ではない。あのユニフォームに心の全てを注ぎ込んだ選手たちの涙だ。忘れられないほどの偉業にあと一歩まで迫り、それが一瞬にして消え去るのを見る以上の苦痛はない。」\n\n「ブラジルは次へ進むが、日本は世界のサッカー界全体の尊敬を勝ち取った。彼らは勇気、謙虚さ、そして信じられないほどの団結力を示した。これらの資質は、この大会が終わった後も長く記憶されるだろう。」\n\n「全ての日本のサポーターへ、今夜は耐え難い気持ちでいることだろう。しかし、一つの痛ましい敗北が、このチームがあなた方に与えてくれたものを決して消し去ることはできない。彼らは国に再び夢を見させてくれた。そして、時にはそれがチームが残せる最大の遺産なのだ。」",
+      "likes": 1086,
+      "retweets": 168,
+      "replies": [
+        {
+          "id": "id-1782794066520-1v5abg97m",
+          "username": "@NipponBlueFan",
+          "languageCode": "JA",
+          "originalText": "本当にその通りです。日本代表は全力を尽くしました。この言葉が彼らに届くといいな。",
+          "translatedText": "本当にその通りです。日本代表は全力を尽くしました。この言葉が彼らに届くといいな。",
+          "likes": 320
+        },
+        {
+          "id": "id-1782794066520-u0h90z75v",
+          "username": "@FootballThinkerX",
+          "languageCode": "EN",
+          "originalText": "Mata nails it. The effort was immense, but the tactical choices in those final moments will haunt them. Still, nothing but pride for what they achieved.",
+          "translatedText": "マタは核心を突いている。努力は計り知れないが、最後の瞬間の戦術的な選択は彼らを悩ませるだろう。それでも、彼らが成し遂げたことには誇りしかない。",
+          "likes": 180
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/markklfc/status/2071689798209925511",
+      "postedAt": "2026-06-29T20:18:32.685Z"
+    },
+    {
+      "id": "id-1782794088156-rmut8c13g",
+      "username": "@UTD_Seth001",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨Jose Mourinho on Japan taking a 1-0 lead against Brazil:\n\n🗣️ “This is exactly why the World Cup is the greatest tournament in football. Ninety minutes ago, almost everyone expected Brazil to control this game. Now Japan have shaken the entire football world.”\n\n“You can see what that goal means. Every tackle, every sprint, every celebration is coming from years of sacrifice. This isn't just a goal it's a nation daring to believe.”\n\n“Brazil have produced miracles for decades, but today they're the ones searching for answers. Japan have shown absolutely no fear, and that's what makes this moment so special.”\n\n“If Japan can hold on, this won't just be remembered as a victory. It'll be remembered as one of the greatest World Cup performances their country has ever produced.”\n\n“The world expected Brazil to write another chapter. Right now, Japan are trying to rewrite the entire story.”",
+      "translatedText": "🚨ジョゼ・モウリーニョ、日本がブラジルに1-0でリードしていることについて：\n\n🗣️ 「これこそがワールドカップがサッカーにおいて最高の大会である理由だ。90分前には、ほとんどの人がブラジルがこの試合を支配すると予想していた。しかし今、日本はサッカー界全体を揺るがしている。」\n\n「あのゴールが何を意味するか、分かるだろう。全てのタックル、全ての疾走、全てのセレブレーションが何年もの犠牲から生まれている。これは単なるゴールではなく、国全体が信じることを敢行した瞬間なのだ。」\n\n「ブラジルは何十年も奇跡を生み出してきたが、今日は彼らが答えを探している側だ。日本は全く恐れを見せていない、それがこの瞬間を特別なものにしている。」\n\n「もし日本がこのまま持ちこたえられれば、これは単なる勝利として記憶されるだけでなく、彼らの国が生み出したワールドカップ史上最高のパフォーマンスの一つとして記憶されるだろう。」\n\n「世界はブラジルが新たな章を書き上げると予想していた。しかし今、日本は物語全体を書き換えようとしている。」",
+      "likes": 374,
+      "retweets": 37,
+      "replies": [
+        {
+          "id": "id-1782794088156-bpnmecxcd",
+          "username": "@SamuraiBlueFan",
+          "languageCode": "EN",
+          "originalText": "Absolutely electrifying! Mourinho hits the nail on the head. Japan playing with so much heart, they deserve this moment!",
+          "translatedText": "本当に痺れる！モウリーニョは的を射ている。日本はこれほどまでに魂を込めてプレーしている、この瞬間は彼らに値する！",
+          "likes": 320
+        },
+        {
+          "id": "id-1782794088156-3teer2kc1",
+          "username": "@FootballPulse_",
+          "languageCode": "EN",
+          "originalText": "Incredible start for Japan, but let's not forget Brazil's quality. They're capable of turning it around in a flash. Still, what a statement!",
+          "translatedText": "日本の素晴らしいスタートだが、ブラジルの実力を忘れてはならない。彼らは一瞬で状況をひっくり返す力がある。それでも、なんて声明だ！",
+          "likes": 180
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD_Seth001/status/2071648793762914586",
+      "postedAt": "2026-06-29T17:35:36.463Z"
+    },
+    {
+      "id": "id-1782794112341-ul6nchlo3",
+      "username": "@UTD_Seth001",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨 Xabi Alonso on Japan’s first-half performance against Brazil:\n\n🗣️ “Take the score away for a second and just watch the football. Japan have been outstanding. This isn’t a team hanging on against Brazil—this is a team playing with complete confidence, organisation and belief. They’ve made one of the biggest football nations in the world look uncomfortable.”\n\n“People spent the entire week talking about Brazil’s stars, but football has never been about names alone. Japan have pressed together, defended together and attacked with purpose. Every player understands his role, every movement has meaning, and that’s why Brazil have struggled to impose themselves. This has been one of the smartest tactical performances of the tournament.”\n\n“What impresses me the most is the mentality. Japan haven’t played with fear for a single second. They’ve looked brave in possession, aggressive without the ball and completely committed to their game plan. Sano, Kamada, Doan and the rest have shown incredible personality, while the defensive unit has made Brazil work for every opportunity.”\n\n“This is the beauty of football. Expensive squads don’t win matches by themselves—teams do. Right now Japan have looked hungrier, sharper and more disciplined than Brazil. If Brazil don’t find another level in the second half, this could become one of the biggest World Cup shocks we’ve seen in years.”\n\n{@Sports }",
+      "translatedText": "🚨 シャビ・アロンソがブラジル戦前半の日本のパフォーマンスについてコメント：\n\n🗣️ 「スコアはひとまず置いて、純粋にサッカーを見てほしい。日本は素晴らしかった。これはブラジル相手に持ちこたえているチームではない。完全な自信、組織力、信念を持ってプレーしているチームだ。彼らは世界最大のサッカー大国の一つを苦しめている。」\n\n「人々はこの一週間、ブラジルのスター選手たちについて話していたが、サッカーは決して名前だけのものではない。日本は連動してプレスをかけ、共に守り、意図を持って攻撃している。全選手が自分の役割を理解し、すべての動きに意味があり、だからこそブラジルは自分たちのサッカーを押し付けられずにいる。これは今大会で最も賢い戦術的パフォーマンスの一つだ。」\n\n「私が最も感銘を受けたのはメンタリティだ。日本は一瞬たりとも恐れることなくプレーしている。ボール保持では勇敢に、ボールがない時にはアグレッシブに、そしてゲームプランに完全にコミットしている。佐野、鎌田、堂安らが素晴らしい個性を発揮し、守備陣はブラジルにすべてのチャンスで労力を強いている。」\n\n「これこそがサッカーの美しさだ。高価なスカッドだけでは試合には勝てない。チームが勝つ。今、日本はブラジルよりもハングリーで、シャープで、規律が取れているように見える。もしブラジルが後半に別のレベルを見つけられなければ、これはここ数年で最大のワールドカップの衝撃の一つになるかもしれない。」",
+      "likes": 3114,
+      "retweets": 474,
+      "replies": [
+        {
+          "id": "id-1782794112341-2io5au7mv",
+          "username": "@JpnFootballFan_08",
+          "languageCode": "EN",
+          "originalText": "Alonso gets it! Japan has been absolutely brilliant, tactical masterclass. They're playing with such heart and intelligence. Hoping they can keep this up in the second half!",
+          "translatedText": "アロンソはわかってる！日本は本当に素晴らしい、戦術の傑作だ。彼らはあんなに情熱と知性を持ってプレーしている。後半もこの調子を維持できることを願ってるよ！",
+          "likes": 280
+        },
+        {
+          "id": "id-1782794112341-65zjv2ypn",
+          "username": "@Futbol_Analyst_",
+          "languageCode": "EN",
+          "originalText": "Japan has been fantastic, credit where it's due. But Brazil will surely come out swinging in the second half. This game is far from over, classic World Cup drama incoming!",
+          "translatedText": "日本は素晴らしい、正当に評価されるべきだ。しかしブラジルは後半には必ず猛攻を仕掛けてくるだろう。この試合はまだ終わってない、クラシックなワールドカップドラマがやってくるぞ！",
+          "likes": 110
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD_Seth001/status/2071652320929087767",
+      "postedAt": "2026-06-29T17:49:37.405Z"
     },
     {
       "id": "id-1782775570562-wzx6eyg7x",
@@ -841,190 +405,626 @@
       "postedAt": "2026-06-29T17:39:36.918Z"
     },
     {
-      "id": "id-1782793997567-r0wb1oopn",
-      "username": "@markklfc",
+      "id": "id-1782621986622-k6s75zoit",
+      "username": "@FabrizioRomano",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "Pep Guardiola on Japan's first-half performance against Brazil:\n\n🗣️ “I don't know what Hajime Moriyasu has done with this Japanese team, but what I'm watching is extraordinary. People spent weeks talking about Brazil's stars, yet for forty-five minutes it's Japan who have looked like the real giants on this pitch.”\n\n“Brazil have world-class players in every position. Alisson, Marquinhos, Gabriel, Casemiro, Bruno Guimarães, Vinícius Júnior... these are names that strike fear across world football. But today, Japan have completely ignored reputations and played with courage, intelligence and absolute belief.”\n\n“Nakamura, Kamada, Sano and Doan have been fearless. Every attack looks dangerous, every press is coordinated, and every player is fighting as if this is the biggest moment of their lives. That mentality is worth more than any transfer fee.”\n\n“What impresses me most is the discipline. Tomiyasu, Taniguchi and Ito have made Brazil's attack look ordinary. When you can silence players like Vinícius Júnior and Matheus Cunha on the biggest stage, you're doing something very special.”\n\n“This is why football is the greatest sport in the world. Expensive squads don't win matches teams do. Right now Japan look hungrier, sharper and mentally stronger than Brazil.”\n\n“If Brazil don't change something immediately, this could become one of the biggest World Cup shocks we've seen in years. Japan aren't just competing anymore... they're making Brazil suffer.”",
-      "translatedText": "ペップ・グアルディオラがブラジル戦の日本代表前半のパフォーマンスについて語る：\n\n🗣️ 「森保一監督がこの日本チームに何をしたのか分からないが、私が見ているものは並外れている。人々は何週間もブラジルのスター選手について話していたが、45分間、ピッチ上の真の巨人のように見えたのは日本だ。」\n\n「ブラジルはあらゆるポジションにワールドクラスの選手がいる。アリソン、マルキーニョス、ガブリエル、カゼミーロ、ブルーノ・ギマランイス、ヴィニシウス・ジュニオール...これらは世界のサッカーに恐怖をもたらす名前だ。しかし今日、日本は名声など完全に無視し、勇気、知性、そして絶対的な信念を持ってプレーした。」\n\n「中村、鎌田、佐野、堂安は恐れることなくプレーした。どの攻撃も危険に見え、どのプレスも連携されており、全ての選手が人生最大の瞬間のために戦っているかのようだ。そのメンタリティはどんな移籍金よりも価値がある。」\n\n「私が最も感銘を受けたのは規律だ。冨安、谷口、伊藤はブラジルの攻撃を平凡に見せた。ヴィニシウス・ジュニオールやマテウス・クーニャのような選手を大舞台で沈黙させられるとき、それは非常に特別なことをしている証拠だ。」\n\n「これがサッカーが世界最高のスポーツである理由だ。高価な選手を揃えたチームが試合に勝つのではなく、チームが勝つのだ。今、日本はブラジルよりもハングリーで、シャープで、精神的に強い。」\n\n「もしブラジルがすぐに何かを変えなければ、これはここ数年で最大のワールドカップの番狂わせの一つになるかもしれない。日本はもはや競い合っているだけではない…ブラジルを苦しめているのだ。」",
-      "likes": 1536,
-      "retweets": 229,
+      "originalText": "🚨 OFFICIAL: Brazil 🆚 Japan at World Cup Round of 32!\n\nWho’s going to next round? 🇧🇷🇯🇵",
+      "translatedText": "🚨 公式発表: ワールドカップ ラウンド32でブラジル対日本！次のラウンドに進むのはどっち？🇧🇷🇯🇵",
+      "likes": 32085,
+      "retweets": 4423,
       "replies": [
         {
-          "id": "id-1782793997567-xnuhfqtw7",
-          "username": "@FootyTacticsGuy",
-          "languageCode": "EN",
-          "originalText": "Pep gets it! Japan's spirit and tactics were on another level that half. Totally agree about team mentality over individual stars. Moriyasu's done a fantastic job.",
-          "translatedText": "ペップは分かってる！日本代表の精神力と戦術はあの前半、別次元だった。個々のスター選手よりもチームのメンタリティが大事だという点に完全に同意する。森保監督は素晴らしい仕事をしたね。",
-          "likes": 275
+          "id": "id-1782621986622-3xd5q54n6",
+          "username": "@SAMURAIBLUE_Fan",
+          "languageCode": "JA",
+          "originalText": "これは厳しい戦いになるけど、日本代表ならきっとやってくれる！奇跡を起こそう！",
+          "translatedText": "これは厳しい戦いになるけど、日本代表ならきっとやってくれる！奇跡を起こそう！",
+          "likes": 285
         },
         {
-          "id": "id-1782793997567-rnbf2fnn0",
-          "username": "@侍ブルー愛",
-          "languageCode": "JA",
-          "originalText": "前半は本当に素晴らしかった！このまま後半も集中して、ブラジル相手に歴史を作ってほしい。森保監督の采配も光ってるね！",
-          "translatedText": "前半は本当に素晴らしかった！このまま後半も集中して、ブラジル相手に歴史を作ってほしい。森保監督の采配も光ってるね！",
-          "likes": 380
+          "id": "id-1782621986622-y7qgcbqc8",
+          "username": "@Football_Analyst",
+          "languageCode": "EN",
+          "originalText": "Brazil are clear favorites here. Japan has improved a lot but beating Brazil in a World Cup knockout game is a massive ask.",
+          "translatedText": "ブラジルが明らかに有利だね。日本はかなり成長したけど、ワールドカップのノックアウトステージでブラジルに勝つのはかなり難しい要求だよ。",
+          "likes": 162
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/markklfc/status/2071651591825031558",
-      "postedAt": "2026-06-29T17:46:43.573Z"
+      "postUrl": "https://x.com/FabrizioRomano/status/2070310904776847438",
+      "postedAt": "2026-06-26T00:59:18.872Z"
     },
     {
-      "id": "id-1782794019322-ep1ss30ll",
-      "username": "@MatchReportH",
+      "id": "id-1782622005066-lsqi5tebz",
+      "username": "@Chiefofbridge",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "🚨🇯🇵Rio Ferdinand Praises Japan’s Coach After Brave World Cup Exit\n\n“I have to give enormous credit to Japan and especially to their coach. Before this tournament, almost every prediction had Brazil winning comfortably. Most people expected Japan to defend deep, concede possession and eventually get overwhelmed. Instead, they made one of the greatest football nations in history fight until the very last moments.”\n\n“What surprised me most throughout this World Cup wasn’t just the results—it was the discipline. Every player understood his role. Their defensive shape was outstanding, their pressing was organised, and whenever they had the ball, they attacked with courage instead of fear. That’s coaching. That’s hours on the training ground turning a group of good players into a genuine team.”\n\n“Against Brazil they never looked intimidated. They scored first, frustrated Brazil for long spells, and every time Brazil thought they had found a way through, Japan responded with incredible determination. They were only minutes away from taking one of the biggest scalps in World Cup history.”\n\n“It’s heartbreaking that a late goal from Martinelli is what sends them home. Football can be brutally cruel. One moment separates celebration from elimination. But Japan shouldn’t be remembered for losing this match—they should be remembered for making Brazil struggle far more than anyone expected.”\n\n“This tournament has changed the way people see Japanese football. Their coach deserves enormous praise because he built a team with identity, discipline and belief. They may be out of the competition, but they’ve earned something that lasts much longer than a place in the next round: the respect of the entire football world.”\n\n #BRAJPN",
-      "translatedText": "🚨🇯🇵リオ・ファーディナンド、勇気あるW杯敗退後も日本代表監督を称賛\n\n「日本、特に彼らの監督には多大な称賛を送らなければならない。今大会前、ほとんどの予想はブラジルが楽勝すると見ていた。多くの人は日本が深く守り、ボールを譲り、最終的には圧倒されるだろうと予想していた。しかし、彼らは史上最高のサッカー大国の一つを最後の最後まで戦わせた。」\n\n「今大会で最も驚いたのは、結果だけではなく、その規律だった。すべての選手が自分の役割を理解していた。守備の形は素晴らしく、プレッシングは組織化され、ボールを持てば恐れることなく勇気を持って攻撃した。これこそがコーチングだ。素晴らしい選手たちを真のチームに変える、練習場での何時間もの成果だ。」\n\n「ブラジル戦では、彼らは決して怯んでいるようには見えなかった。先制点を奪い、長い間ブラジルを苛立たせ、ブラジルが突破口を見つけたと思うたびに、日本は信じられないほどの決意で応じた。W杯史上最大級の番狂わせを起こすまで、あと数分というところだった。」\n\n「マルティネッリの遅いゴールによって彼らが敗退したことは、本当に胸が痛む。サッカーは残酷だ。一瞬が祝賀と敗退を分ける。しかし、日本はこの試合に負けたことではなく、誰も予想しなかった以上にブラジルを苦しめたことで記憶されるべきだ。」\n\n「この大会は、人々が日本サッカーを見る目を変えた。彼らの監督は、アイデンティティ、規律、そして信念を持ったチームを作り上げたので、絶大な称賛に値する。彼らは大会を去るかもしれないが、次のラウンドに進むことよりもはるかに長く続くもの、つまりサッカー界全体の尊敬を勝ち取ったのだ。」\n\n#BRAJPN",
-      "likes": 2404,
-      "retweets": 367,
+      "originalText": "🚨📢|  Japan Teaching the World Cup a Lesson in Class:\n\n“Japan is quickly becoming one of my favourite teams in this World Cup. They don’t talk much-they just deliver on the pitch. Absolutely clinical. Unbeaten through the group stage, qualified, and now everyone needs to be scared of them. Massive congratulations to the Samurai Blue!”",
+      "translatedText": "🚨📢| 日本がワールドカップに品格の教訓を教えている：\n「日本は今回のワールドカップで、私のお気に入りのチームの一つに急速になりつつある。彼らは多くを語らず、ただピッチで結果を出すだけだ。まったくもって冷静沈着だ。グループステージを無敗で突破し、決勝トーナメントに進出し、今や誰もが彼らを恐れる必要がある。サムライブルーに心からの祝福を！」",
+      "likes": 314,
+      "retweets": 25,
       "replies": [
         {
-          "id": "id-1782794019322-7fhzbwxmv",
-          "username": "@SoccerLoverJPN",
-          "languageCode": "EN",
-          "originalText": "Absolutely spot on, Rio! Japan played with such heart and intelligence. They truly changed perceptions. Our coach built something special.",
-          "translatedText": "リオ、全くその通り！日本は本当に心と知性を持ってプレーした。彼らは確かに見方を変えたね。監督が素晴らしいものを作り上げたよ。",
+          "id": "id-1782622005066-gzfqkg4ba",
+          "username": "@FootballFan_JP",
+          "languageCode": "JA",
+          "originalText": "本当にその通りです！彼らの規律とハードワークは見ていて感動します。次の試合も楽しみです！",
+          "translatedText": "本当にその通りです！彼らの規律とハードワークは見ていて感動します。次の試合も楽しみです！",
           "likes": 287
         },
         {
-          "id": "id-1782794019322-r9simx5pf",
-          "username": "@FootballMind_8",
+          "id": "id-1782622005066-ysis295h4",
+          "username": "@SoccerStatGuy",
           "languageCode": "EN",
-          "originalText": "While the praise is deserved, it's also a reminder of how fine the margins are. We need to find that extra gear to close out games against top nations, but the progress is undeniable.",
-          "translatedText": "称賛されるべきだけど、紙一重の差を改めて感じさせられるね。トップ国相手に試合を締めくくるためのもう一歩を見つける必要があるけど、進歩は間違いない。",
-          "likes": 135
+          "originalText": "They've been impressive, no doubt. But the knockout stages are a different beast. Let's see how they handle the pressure against top-tier opposition. Still, brilliant group stage performance!",
+          "translatedText": "彼らは印象的だった、間違いない。しかし、決勝トーナメントは全く別の獣だ。トップクラスの相手に対してプレッシャーをどう乗り切るか見てみよう。それでも、素晴らしいグループステージのパフォーマンスだった！",
+          "likes": 165
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/MatchReportH/status/2071677789749563565",
-      "postedAt": "2026-06-29T19:30:49.645Z"
+      "postUrl": "https://x.com/Chiefofbridge/status/2070326486943371517",
+      "postedAt": "2026-06-26T02:01:13.950Z"
     },
     {
-      "id": "id-1782794042398-p3c0vul5j",
+      "id": "id-1782622028103-vmoi4mvst",
       "username": "@UTD_Seth001",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "🚨 Sir Alex Ferguson on Brazil knocking Japan out of the 2026 FIFA World Cup after a thrilling 2–1 victory:\n\n🗣️ “That is what champions do. They don’t always play perfect football, but when the pressure is at its highest, they find a way to win. Brazil were pushed to their absolute limit tonight, and Japan deserve enormous credit for making one of the greatest football nations fight for every single ball.”\n\n“People will look at the result and simply say Brazil are through, but this match was much bigger than that. Japan showed courage, discipline and belief for almost the entire game. They never hid, they never gave up, and they made Brazil earn every inch of that victory. That’s the kind of performance that earns respect around the football world.”\n\n“The difference in the end was experience. Brazil understood that knockout football is decided by moments, not long spells of possession or beautiful football. When the decisive opportunity arrived, they took it. That’s the mentality of teams who expect to win World Cups.”\n\n“If I’m Brazil, I celebrate the qualification but I also know there is work to do. If they perform like this against even stronger opposition, they’ll have problems. If I’m Japan, I leave this tournament with my head held high because they’ve shown they belong among the best teams in world football. This was a defeat, but it was also a statement.”\n\n{@SkyNews }",
-      "translatedText": "🚨 サー・アレックス・ファーガソン、スリリングな2対1の勝利でブラジルが日本を2026 FIFAワールドカップから敗退させたことについて：\n\n🗣️ 「それがチャンピオンというものだ。常に完璧なサッカーをするわけではないが、最もプレッシャーがかかる時に、彼らは勝利への道を見つける。今夜、ブラジルは絶対的な限界まで追い込まれた。そして、日本はサッカー界で最も偉大な国の一つにボール一つ一つを争わせたことで、絶大な称賛に値する。」\n\n「人々は結果だけを見て、ブラジルが勝ち進んだと言うだろう。だが、この試合はそれ以上のものだった。日本はほぼ試合全体を通して、勇気、規律、そして信念を示した。彼らは決して隠れず、決して諦めず、ブラジルにその勝利のあらゆるインチを稼がせた。それこそが、サッカー界の尊敬を集めるパフォーマンスというものだ。」\n\n「最終的な違いは経験だった。ブラジルは、ノックアウト方式のサッカーは、長いポゼッションや美しいサッカーではなく、瞬間によって決まることを理解していた。決定的なチャンスが訪れた時、彼らはそれをものにした。それこそが、ワールドカップ優勝を期待されるチームのメンタリティだ。」\n\n「もし私がブラジルなら、予選突破を祝うが、同時にやるべき仕事があることも分かっている。もし彼らがさらに強い相手に対してこのようなパフォーマンスをしたら、問題が起こるだろう。もし私が日本なら、この大会を胸を張って去る。なぜなら彼らは、世界のトップチームの一員であることを示したからだ。これは敗北だったが、同時に声明でもあった。」\n\n{@SkyNews }",
-      "likes": 1261,
-      "retweets": 360,
+      "originalText": "🚨Jürgen Klopp on Japan becoming the first Asian nation to qualify for the Round of 32 at the 2026 FIFA World Cup after a thrilling 1-1 draw with Sweden:\n\n🗣️ “First of all, congratulations to Japan. They’ve fully deserved their place in the Round of 32.”\n\n“Daizen Maeda’s goal summed up everything this Japan team is about—intensity, intelligent movement and ruthless finishing. It was a fantastic team goal.”\n\n“Then Sweden responded through Anthony Elanga with an unbelievable strike. That’s the quality the World Cup brings. One moment you’re celebrating, the next you’re picking the ball out of your own net.”\n\n“But what impressed me most was Japan’s reaction. They didn’t panic. They didn’t lose their structure. They kept believing in the way they play.”\n\n“This is not a team that’s happy just to qualify. They’re organised, fearless and technically outstanding.”\n\n“If Brazil are their next opponents, they should be very careful.”\n\n“The biggest mistake you can make against Japan is underestimating them because of the badge on their shirt. Other nations have done that, and they’ve paid the price.”\n\n“Brazil have world-class players, but if they think talent alone will beat this Japan side, they’re in for a very long night.”\n\n“Japan press together, defend together and attack together. That’s why they’re such a dangerous team.”\n\n“I wouldn’t be surprised if they caused another upset. At this World Cup, Japan have shown they’re capable of beating anybody.”\n\n{@talkSPORT }",
+      "translatedText": "🚨イェルゲン・クロップ監督が、スウェーデンとのスリリングな1-1の引き分けの後、日本が2026年FIFAワールドカップでアジア勢として初めてベスト32に進出したことについて語る：\n\n🗣️「まず、日本におめでとうと言いたい。彼らはベスト32進出に完全に値する。」\n\n「前田大然のゴールは、この日本代表チームのすべてを象徴していた。インテンシティ、賢い動き、そして冷徹なフィニッシュ。素晴らしいチームゴールだった。」\n\n「その後、スウェーデンがアンソニー・エランガの信じられないようなシュートで応じた。それがワールドカップがもたらすクオリティだ。ある瞬間は祝っているが、次の瞬間には自陣のゴールからボールを拾っている。」\n\n「しかし、私が最も感銘を受けたのは日本の反応だった。彼らはパニックにならなかった。構造を崩さなかった。自分たちのプレースタイルを信じ続けた。」\n\n「これは、ただ予選を突破しただけで満足するチームではない。彼らは組織され、恐れを知らず、技術的に傑出している。」\n\n「もしブラジルが次の相手なら、彼らは非常に注意すべきだ。」\n\n「日本に対して犯す最大の過ちは、ユニフォームのエンブレムのせいで彼らを過小評価することだ。他の国々はそれをして、代償を払った。」\n\n「ブラジルには世界クラスの選手がいるが、もし彼らが才能だけでこの日本代表に勝てると思っているなら、非常に長い夜になるだろう。」\n\n「日本は一緒にプレスし、一緒に守り、一緒に攻める。だからこそ、彼らはこんなにも危険なチームなのだ。」\n\n「彼らがまた別の波乱を起こしても驚かないだろう。このワールドカップで、日本は誰にでも勝つ能力があることを示している。」\n\n{@talkSPORT }",
+      "likes": 2278,
+      "retweets": 458,
       "replies": [
         {
-          "id": "id-1782794042398-gcx7nfn69",
-          "username": "@JapanProud_Fan",
+          "id": "id-1782622028103-5x8djb538",
+          "username": "@NipponPride_2026",
           "languageCode": "EN",
-          "originalText": "Sir Alex always speaks the truth! Japan played with such heart and truly earned global respect. This defeat hurts but it's a massive statement for our team's future. 🇯🇵",
-          "translatedText": "サー・アレックスはいつも真実を語る！日本は心を込めてプレーし、真に世界的な尊敬を得た。この敗北は痛いが、我々のチームの未来にとって大きな声明だ。🇯🇵",
-          "likes": 385
+          "originalText": "Klopp gets it! This Japan team is special. Maeda's goal was brilliant but the mental strength after Elanga's strike is what truly sets them apart. Bring on Brazil!",
+          "translatedText": "クロップはわかってる！この日本代表は特別だ。前田のゴールは見事だったけど、エランガのゴール後の精神的な強さが本当に彼らを際立たせている。ブラジルよ、かかってこい！",
+          "likes": 350
         },
         {
-          "id": "id-1782794042398-b4nkjzzqv",
-          "username": "@FootballAnalyst7",
-          "languageCode": "EN",
-          "originalText": "While I agree Japan showed immense character, ultimately the 'difference in experience' is still a gap to close. Great performance, but the goal is to win these tight knockout games, not just compete.",
-          "translatedText": "日本が計り知れない個性を見せたことには同意するが、結局のところ「経験の差」は埋めるべきギャップだ。素晴らしいパフォーマンスだったが、目標はただ競うことではなく、これらの接戦を勝ち抜くことだ。",
-          "likes": 215
+          "id": "id-1782622028103-dy0xcvxdr",
+          "username": "@戦術解説マン",
+          "languageCode": "JA",
+          "originalText": "クロップ監督の評価は嬉しいが、ブラジル戦は全く別のレベル。守備の集中力と決定機での冷静さがより一層求められる。まだチャレンジャー精神で臨むべきだ。",
+          "translatedText": "クロップ監督の評価は嬉しいが、ブラジル戦は全く別のレベル。守備の集中力と決定機での冷静さがより一層求められる。まだチャレンジャー精神で臨むべきだ。",
+          "likes": 180
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2071671444875178328",
-      "postedAt": "2026-06-29T19:05:36.909Z"
+      "postUrl": "https://x.com/UTD_Seth001/status/2070417802712772867",
+      "postedAt": "2026-06-26T08:04:05.326Z"
     },
     {
-      "id": "id-1782794066520-ky2lziadq",
+      "id": "id-1782621207354-b2d29ve1u",
+      "username": "@MotivacionesF",
+      "verified": false,
+      "languageCode": "ES",
+      "originalText": "¡¡JAPÓN NO LE TEME A BRASIL!! 😳🇯🇵\n\nLejos de preocuparse por enfrentar a la pentacampeona del mundo, en Japón recibieron el cruce con ilusión. El atacante Ritsu Doan fue contundente:\n\n“No podría haber un mejor rival. Es una enorme felicidad enfrentar a Brasil en el escenario de una Copa del Mundo.”\n\nEl seleccionador Hajime Moriyasu también dejó claro que saldrán a competir sin complejos:\n\n“Brasil es una de las mejores selecciones del mundo y la respetamos muchísimo. Pero cuando empieza el partido, cualquier cosa puede pasar. Nosotros también tenemos la oportunidad de ganar. En nuestro último enfrentamiento demostramos que no somos un rival fácil.”\n\n🇯🇵 Japón no se achica. Respeta a Brasil, pero cree firmemente que puede dar el golpe y avanzar a los octavos de final del Mundial.",
+      "translatedText": "日本はブラジルを恐れていない!! 😳🇯🇵\n世界王者ブラジルとの対戦を心配するどころか、日本ではこの組み合わせを期待感を持って受け止めている。攻撃的ミッドフィルダーの堂安律は断言した：\n「これ以上ない相手だ。ワールドカップという舞台でブラジルと対戦できるのは最高の喜びだ。」\n森保一監督も、臆することなく戦う姿勢を明確にした：\n「ブラジルは世界最高のチームの一つであり、我々は彼らを非常に尊敬している。しかし、試合が始まれば何が起こるかわからない。我々にも勝つチャンスがある。前回の対戦では、我々が決して楽な相手ではないことを示した。」\n🇯🇵 日本は縮こまらない。ブラジルを尊敬しつつも、サプライズを起こし、ワールドカップの決勝トーナメントに進出できると固く信じている。",
+      "likes": 2695,
+      "retweets": 208,
+      "replies": [
+        {
+          "id": "id-1782621207354-r5lfxl1ut",
+          "username": "@BlueSamuraiFan",
+          "languageCode": "EN",
+          "originalText": "Love the confidence! Japan always fights hard, and on a World Cup stage, anything can happen. Go Japan!",
+          "translatedText": "この自信、素晴らしい！日本はいつも懸命に戦うし、W杯の舞台では何が起こるかわからない。頑張れ日本！",
+          "likes": 287
+        },
+        {
+          "id": "id-1782621207354-mds890l7s",
+          "username": "@サッカー好きJAPAN",
+          "languageCode": "JA",
+          "originalText": "森保監督の言う通り、どんな強豪でもチャンスはある。ただ、ブラジルはやはり別格の強さだから、しっかり守ってカウンターで勝機を見出したいね。",
+          "translatedText": "森保監督の言う通り、どんな強豪でもチャンスはある。ただ、ブラジルはやはり別格の強さだから、しっかり守ってカウンターで勝機を見出したいね。",
+          "likes": 123
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/MotivacionesF/status/2070574159332032945",
+      "postedAt": "2026-06-26T18:25:23.649Z"
+    },
+    {
+      "id": "id-1782622049097-35z2vhajn",
+      "username": "@Mufcjnr1",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🔴 Dimitar Berbatov on the World Cup and the breakout talent catching his eye, Keito Nakamura\n\n🗣️ “This World Cup has made me see a lot of talent and the player I’m most excited about is Keito Nakamura. I mostly watch the Japan matches and this kid impresses me so much. He’s such a talent  you could see his goal against Netherlands and assist against Tunisia. He made me remember players like Shinji Kagawa and Park Ji-sung. Those were the last guys we had at Manchester United with that profile. I just hope we can have those same profiles again. I know clubs will be keeping tabs on him and I believe Carrick will also be doing the same he’s such a talent.”",
+      "translatedText": "🔴 ディミタール・ベルバトフがワールドカップと彼の目を引いたブレイク中の才能、中村敬斗について語る\n\n🗣️「このワールドカップでは多くの才能を目にしましたが、私が最も興奮している選手は中村敬斗です。私は主に日本の試合を見ていますが、この若者には本当に感銘を受けています。彼は素晴らしい才能の持ち主で、オランダ戦での彼のゴールやチュニジア戦でのアシストを見ればわかるでしょう。彼は私に香川真司やパク・チソンといった選手を思い出させました。彼らがマンチェスター・ユナイテッドにいた最後の、あのようなプロフィールの選手たちでした。ただ、また同じようなプロフィールの選手が来てくれることを願っています。多くのクラブが彼を注視しているでしょうし、キャリックも同じように見ているはずです。彼は本当に才能がありますから。」",
+      "likes": 1779,
+      "retweets": 211,
+      "replies": [
+        {
+          "id": "id-1782622049097-pj9j2cwo1",
+          "username": "@RedDevilsJP",
+          "languageCode": "JA",
+          "originalText": "ベルバトフが中村敬斗を評価してるの嬉しい！香川やパク・チソンに匹敵するってのは本当に凄いこと。マンUに来てほしいな！",
+          "translatedText": "ベルバトフが中村敬斗を評価してるの嬉しい！香川やパク・チソンに匹敵するってのは本当に凄いこと。マンUに来てほしいな！",
+          "likes": 287
+        },
+        {
+          "id": "id-1782622049097-jkkt4skb1",
+          "username": "@FootballPundit_X",
+          "languageCode": "EN",
+          "originalText": "Nakamura definitely showed flashes of brilliance, but the Kagawa/Park comparison is a high bar. Let's see how he develops consistently at club level first. Still, exciting prospect!",
+          "translatedText": "中村は確かに素晴らしい輝きを見せましたが、香川/パクの比較は非常に高いハードルです。まずはクラブレベルで彼がどのように一貫して成長するかを見てみましょう。それでも、エキサイティングな有望株であることは間違いありません！",
+          "likes": 112
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/Mufcjnr1/status/2070226533780689122",
+      "postedAt": "2026-06-25T19:24:03.259Z"
+    },
+    {
+      "id": "id-1782621229585-c8we2zd4r",
+      "username": "@tweetsesko",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨🇧🇷 🇯🇵Vinícius Júnior Sends Strong Warning to Japan Ahead of World Cup Clash:\n\n🗣️\"Japan have been one of the biggest surprises of this tournament. They've played with incredible discipline, intensity, and quality, and they've earned everyone's respect with the way they've performed.\n\nBut we're Brazil. We respect every opponent, but we never step onto the pitch believing anyone is better than us. Japan are a very good team, but we believe we're the better side.\n\nThey'll come with confidence, and so will we. It's going to be a great battle, but our objective is simple to remind everyone why Brazil are one of the greatest football nations in history. We wish them the best, but we're going there to win and show them how it's done.\"",
+      "translatedText": "🚨🇧🇷 🇯🇵ヴィニシウス・ジュニオールがW杯での日本戦を前に強い警告を発する：\n\n🗣️「日本はこのトーナメント最大のサプライズの一つでした。彼らは信じられないほどの規律、インテンシティ、そしてクオリティでプレーし、そのパフォーマンスで皆の尊敬を集めました。\n\nしかし、私たちはブラジルです。私たちはすべての対戦相手を尊重しますが、誰かが私たちより優れていると信じてピッチに立つことはありません。日本は非常に良いチームですが、私たちは自分たちの方が優れたチームだと信じています。\n\n彼らは自信を持ってくるでしょうし、私たちもそうです。素晴らしい戦いになるでしょうが、私たちの目標はシンプルです。ブラジルがなぜ史上最高のサッカー国の1つであるかを皆に思い出させることです。彼らの健闘を祈りますが、私たちは勝ちに行き、どうすれば勝てるかを見せつけます。」",
+      "likes": 6604,
+      "retweets": 343,
+      "replies": [
+        {
+          "id": "id-1782621229585-d02x4fspa",
+          "username": "@BrazilFanatico",
+          "languageCode": "EN",
+          "originalText": "Vini Jr. speaks nothing but facts. Japan has been great, but Brazil is on another level. Can't wait for this match!",
+          "translatedText": "ヴィニシウス・ジュニオールは真実しか語っていない。日本は素晴らしいが、ブラジルは別格だ。この試合が待ちきれない！",
+          "likes": 287
+        },
+        {
+          "id": "id-1782621229585-1tu51haza",
+          "username": "@NipponBlueSamurai",
+          "languageCode": "JA",
+          "originalText": "ブラジルが強いのは分かってるけど、日本だってここまで来たんだ！リスペクトはありがとう、でも私たちもベストを尽くしてサプライズを起こす準備はできてる！",
+          "translatedText": "ブラジルが強いのは分かってるけど、日本だってここまで来たんだ！リスペクトはありがとう、でも私たちもベストを尽くしてサプライズを起こす準備はできてる！",
+          "likes": 412
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/tweetsesko/status/2070506719893979642",
+      "postedAt": "2026-06-26T13:57:24.834Z"
+    },
+    {
+      "id": "id-1782621248830-yh1x7lxxi",
+      "username": "@ChinoUTD",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨 Van Dijk on Japan:\n\n“Netherlands may have more individual quality, but Japan are different. You don’t feel like you’re playing against 11 players. You feel like you’re playing against one idea that has been divided into 11 bodies. That is why they are so difficult to beat.”",
+      "translatedText": "🚨 ファン・ダイクが日本について語る：\n\n「オランダにはより個々のクオリティがあるかもしれないが、日本は違う。11人の選手と対戦しているとは感じない。11の体に分けられた一つのアイデアと対戦しているように感じる。だから彼らは倒すのがとても難しいんだ。」",
+      "likes": 6254,
+      "retweets": 260,
+      "replies": [
+        {
+          "id": "id-1782621248830-ha3xuuyta",
+          "username": "@SamuraiBlueFan",
+          "languageCode": "EN",
+          "originalText": "VVD knows ball! Japan's teamwork is truly next level. It's not just about individual stars, but how they move as one unit. So proud of the Samurai Blue!",
+          "translatedText": "VVDはサッカーをよく分かってる！日本のチームワークは本当に次のレベルだ。個々のスター選手のことだけではなく、彼らが一体となってどう動くかだ。サムライブルーをとても誇りに思う！",
+          "likes": 320
+        },
+        {
+          "id": "id-1782621248830-cb0yycgsc",
+          "username": "@Soccer_Nippon",
+          "languageCode": "JA",
+          "originalText": "ファンダイクにそう言われるのは嬉しいな。でも、個々のレベルアップも忘れずに、さらに高みを目指してほしい！次のW杯が楽しみ。",
+          "translatedText": "ファンダイクにそう言われるのは嬉しいな。でも、個々のレベルアップも忘れずに、さらに高みを目指してほしい！次のW杯が楽しみ。",
+          "likes": 185
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/ChinoUTD/status/2070322126284792255",
+      "postedAt": "2026-06-26T01:43:54.288Z"
+    },
+    {
+      "id": "id-1782036088256-yfbpp7r9e",
+      "username": "@UTD_Seth001",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Pep Guardiola on Japan’s dominant 4–0 victory over Tunisia at the World Cup:\n\n🗣️ “People still talk about Japan as if they are underdogs. I don’t see it that way anymore.\n\n“When you perform at this level consistently, you stop being a surprise. You become a team that everyone must respect.\n\n“A 4–0 victory at a World Cup is not luck. It is the result of years of work, a clear idea of how you want to play, and players who believe completely in that idea.\n\n“What I admire most is their collective understanding of the game. They know exactly when to press, when to attack, and when to defend. Every player understands their role.\n\n“In football, the best teams are not always the ones with the biggest stars. The best teams are the ones that move together, think together, and suffer together. Japan are doing that better than many of the traditional favourites.\n\n“Before the tournament, everyone was speaking about the usual big nations. Meanwhile, Japan were quietly building a team with identity, discipline, and courage.\n\n“The most dangerous thing about this team is their mentality. Even at 3–0 or 4–0, they continue pressing, continue running, and continue searching for more goals. They never stop.\n\n“When you watch them, you see players fighting for each other in every action. That is why they are so difficult to play against.\n\n“Football does not care about history or reputation. It cares about what you do on the pitch. Right now, Japan are showing a level that puts them among the strongest teams in this tournament.\n\n“If I were managing one of the traditional powerhouses, Japan would be one of the teams I would least want to face. They are organised, fearless, and improving with every match.\n\n“And that is how great World Cup stories are written.”\n\n{@ManCityES }",
+      "translatedText": "ワールドカップでの日本代表のチュニジアに対する4-0の圧倒的な勝利について、ペップ・グアルディオラは次のように語った：\n\n🗣️「人々はまだ日本を弱者として話す。もう私はそうは見ていない。\n\n「このレベルで一貫してプレーすれば、驚きではなくなる。誰もが尊敬しなければならないチームになるんだ。\n\n「ワールドカップでの4-0の勝利は運ではない。それは長年の努力、プレーしたいという明確なアイデア、そしてそのアイデアを完全に信じる選手たちの結果だ。\n\n「私が最も感心するのは、彼らの試合に対する集団的な理解力だ。いつプレスをかけ、いつ攻撃し、いつ守備すべきかを正確に知っている。すべての選手が自分の役割を理解している。\n\n「フットボールにおいて、最高のチームは必ずしも最大のスターを擁するチームではない。最高のチームは、共に動き、共に考え、共に苦しむチームだ。日本は多くの伝統的な強豪国よりもそれをうまくやっている。\n\n「大会前は皆、いつもの強豪国について話していた。一方、日本は静かにアイデンティティ、規律、そして勇気を持ったチームを築いていたんだ。\n\n「このチームの最も危険な点は彼らのメンタリティだ。3-0や4-0になっても、彼らはプレスを続け、走り続け、さらなるゴールを探し続ける。決して止まらない。\n\n「彼らを見ていると、すべてのプレーで選手がお互いのために戦っているのがわかる。だから彼らと対戦するのは非常に難しいんだ。\n\n「フットボールは歴史や評判を気にしない。ピッチで何をするかを気にする。今、日本はこの大会で最も強いチームの一つに数えられるレベルを示している。\n\n「もし私が伝統的な強豪国の一つを率いているとしたら、日本は最も対戦したくないチームの一つだろう。彼らは組織化され、恐れを知らず、試合ごとに改善している。\n\n「そして、これこそが素晴らしいワールドカップの物語が書かれる方法だ。」\n\n{@ManCityES }",
+      "likes": 166,
+      "retweets": 32,
+      "replies": [
+        {
+          "id": "id-1782036088256-8vp88ddef",
+          "username": "@SamuraiBlueFanJP",
+          "languageCode": "EN",
+          "originalText": "Pep knows ball. Japan's rise is no fluke; it's a testament to their unwavering dedication and tactical brilliance. So proud!",
+          "translatedText": "ペップはサッカーをよく分かってる。日本の台頭はまぐれなんかじゃない。揺るぎない献身と戦術的な素晴らしさの証だよ。本当に誇らしい！",
+          "likes": 387
+        },
+        {
+          "id": "id-1782036088256-tx2u0r2th",
+          "username": "@WorldCup_Analyst",
+          "languageCode": "EN",
+          "originalText": "While true that Japan deserves respect, let's not crown them too early. The mental strength is there, but deeper knockout stages test different pressures entirely.",
+          "translatedText": "日本が尊敬に値するのは本当だが、まだ早すぎる。精神的な強さはあるが、ノックアウトステージの深部では全く異なるプレッシャーが試されるだろう。",
+          "likes": 193
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD_Seth001/status/2068610041603661965",
+      "postedAt": "2026-06-21T08:20:41Z"
+    },
+    {
+      "id": "id-1782096903037-vtvnhccb0",
       "username": "@markklfc",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "Juan Mata on Japan being eliminated from the FIFA World Cup after losing to Brazil:\n\n🗣️ “Some defeats hurt far more than the scoreline, and this is one of them. Japan gave everything they had, fought until their legs could carry them no more, and still walked away with broken hearts. Football can be painfully unfair.”\n\n“I can only imagine the silence inside that dressing room. Players who dreamed of making history for their country are now left staring at the floor, wondering how everything slipped away in the final moments.”\n\n“The tears we saw tonight are not tears of weakness they are tears of players who poured every ounce of their heart into that shirt. There is no greater pain than coming so close to something unforgettable and watching it disappear in an instant.”\n\n“Brazil move on, but Japan have earned the respect of the entire football world. They showed courage, humility and unbelievable togetherness. Those qualities will be remembered long after this tournament is over.”\n\n“To every Japanese supporter, I know tonight feels unbearable. But one painful defeat can never erase what this team gave you. They made a nation dream again, and sometimes that is the greatest legacy a team can leave behind.”",
-      "translatedText": "フアン・マタ、日本がブラジルに敗れてFIFAワールドカップから敗退したことについて：\n\n🗣️ 「いくつかの敗北は、スコア以上に心に痛手を負わせるものだが、これはその一つだ。日本は持てる力の全てを出し切り、足が動かなくなるまで戦い抜いたが、それでも傷心のまま去ることになった。フットボールは時に残酷なほど不公平だ。」\n\n「あのロッカールームの沈黙を想像することしかできない。国のために歴史を作ることを夢見ていた選手たちは今、床を見つめ、全てが最後の瞬間にどうして手からこぼれ落ちてしまったのかと考えていることだろう。」\n\n「今夜私たちが目にした涙は、弱さの涙ではない。あのユニフォームに心の全てを注ぎ込んだ選手たちの涙だ。忘れられないほどの偉業にあと一歩まで迫り、それが一瞬にして消え去るのを見る以上の苦痛はない。」\n\n「ブラジルは次へ進むが、日本は世界のサッカー界全体の尊敬を勝ち取った。彼らは勇気、謙虚さ、そして信じられないほどの団結力を示した。これらの資質は、この大会が終わった後も長く記憶されるだろう。」\n\n「全ての日本のサポーターへ、今夜は耐え難い気持ちでいることだろう。しかし、一つの痛ましい敗北が、このチームがあなた方に与えてくれたものを決して消し去ることはできない。彼らは国に再び夢を見させてくれた。そして、時にはそれがチームが残せる最大の遺産なのだ。」",
-      "likes": 1086,
-      "retweets": 168,
+      "originalText": "Kaka on Japan becoming the FIRST Asian nation to score 4 goals in a single World Cup match:\n\n🗣️ “This is much bigger than just a football statistic. What Japan achieved tonight is a historic moment not only for their country, but for Asian football as a whole.”\n\n“To become the first Asian team to score four goals in a World Cup match shows how far Japanese football has come. This is the result of years of investment, development, patience, and belief.”\n\n“When I watched them against Tunisia, I didn't see a team hoping to make history. I saw a team determined to make a statement. Every attack carried purpose, every movement showed confidence, and every goal reflected their quality.”\n\n“What impresses me most is that they never looked satisfied. Even after scoring, they kept pushing forward, kept attacking, and kept playing with the same intensity and hunger.”\n\n“For many years, people questioned whether Asian teams could consistently compete with the traditional football powers. Japan are answering that question in the strongest way possible.”\n\n“This achievement will inspire millions of young players across Asia. There will be children watching this performance and believing that they too can dream of reaching the highest level.”\n\n“The scary thing for the rest of the tournament is that Japan don't look like a team that has reached its limit. They look like a team that is growing stronger with every match they play.”\n\n“Records are important, but what matters most is the message behind them. Japan are showing the world that they are no longer here simply to participate they are here to compete with anyone.”\n\n“And after a performance like this, I think every nation still left in this World Cup will be paying very close attention to Japan. Because this team is making history, and it feels like they are only getting started.”",
+      "translatedText": "カカ、日本がワールドカップ1試合で4ゴールを決めた初のアジア国になったことについて：\n\n🗣️ 「これは単なるサッカーの統計以上のものです。今夜日本が達成したことは、彼らの国だけでなく、アジアサッカー全体にとって歴史的な瞬間です。」\n\n「ワールドカップの試合で4ゴールを決めた初のアジアチームになったことは、日本サッカーがいかに進化してきたかを示しています。これは長年の投資、育成、忍耐、そして信念の成果です。」\n\n「チュニジア戦で彼らを見たとき、私は歴史を作ろうと願うチームではなく、声明を出そうと決意したチームを見ました。すべての攻撃には目的があり、すべての動きには自信があり、すべてのゴールは彼らの質を反映していました。」\n\n「私が最も感銘を受けたのは、彼らが決して満足しているように見えなかったことです。得点した後も、彼らは前進し続け、攻撃し続け、同じ強度とハングリー精神でプレーし続けました。」\n\n「長年、アジアのチームが伝統的なサッカー大国と継続的に競い合えるのかという疑問が投げかけられてきました。日本はその疑問に可能な限り最も強力な方法で答えています。」\n\n「この偉業は、アジア中の何百万もの若い選手たちを鼓舞するでしょう。このパフォーマンスを見て、自分たちも最高レベルに到達できると信じる子供たちがいるはずです。」\n\n「残りのトーナメントにとって恐ろしいのは、日本が限界に達したチームには見えないことです。彼らは試合ごとに強くなっているチームのように見えます。」\n\n「記録は重要ですが、最も大切なのはその背後にあるメッセージです。日本は、もはや単に参加するだけではなく、誰とでも競い合うためにここにいることを世界に示しています。」\n\n「そして、このようなパフォーマンスの後、このワールドカップに残っているすべての国は日本に非常に注目するでしょう。なぜなら、このチームは歴史を作っており、まだ始まったばかりのように感じるからです。」",
+      "likes": 418,
+      "retweets": 85,
       "replies": [
         {
-          "id": "id-1782794066520-1v5abg97m",
-          "username": "@NipponBlueFan",
-          "languageCode": "JA",
-          "originalText": "本当にその通りです。日本代表は全力を尽くしました。この言葉が彼らに届くといいな。",
-          "translatedText": "本当にその通りです。日本代表は全力を尽くしました。この言葉が彼らに届くといいな。",
-          "likes": 320
-        },
-        {
-          "id": "id-1782794066520-u0h90z75v",
-          "username": "@FootballThinkerX",
-          "languageCode": "EN",
-          "originalText": "Mata nails it. The effort was immense, but the tactical choices in those final moments will haunt them. Still, nothing but pride for what they achieved.",
-          "translatedText": "マタは核心を突いている。努力は計り知れないが、最後の瞬間の戦術的な選択は彼らを悩ませるだろう。それでも、彼らが成し遂げたことには誇りしかない。",
-          "likes": 180
-        }
-      ],
-      "isManual": true,
-      "postUrl": "https://x.com/markklfc/status/2071689798209925511",
-      "postedAt": "2026-06-29T20:18:32.685Z"
-    },
-    {
-      "id": "id-1782794088156-rmut8c13g",
-      "username": "@UTD_Seth001",
-      "verified": false,
-      "languageCode": "EN",
-      "originalText": "🚨Jose Mourinho on Japan taking a 1-0 lead against Brazil:\n\n🗣️ “This is exactly why the World Cup is the greatest tournament in football. Ninety minutes ago, almost everyone expected Brazil to control this game. Now Japan have shaken the entire football world.”\n\n“You can see what that goal means. Every tackle, every sprint, every celebration is coming from years of sacrifice. This isn't just a goal it's a nation daring to believe.”\n\n“Brazil have produced miracles for decades, but today they're the ones searching for answers. Japan have shown absolutely no fear, and that's what makes this moment so special.”\n\n“If Japan can hold on, this won't just be remembered as a victory. It'll be remembered as one of the greatest World Cup performances their country has ever produced.”\n\n“The world expected Brazil to write another chapter. Right now, Japan are trying to rewrite the entire story.”",
-      "translatedText": "🚨ジョゼ・モウリーニョ、日本がブラジルに1-0でリードしていることについて：\n\n🗣️ 「これこそがワールドカップがサッカーにおいて最高の大会である理由だ。90分前には、ほとんどの人がブラジルがこの試合を支配すると予想していた。しかし今、日本はサッカー界全体を揺るがしている。」\n\n「あのゴールが何を意味するか、分かるだろう。全てのタックル、全ての疾走、全てのセレブレーションが何年もの犠牲から生まれている。これは単なるゴールではなく、国全体が信じることを敢行した瞬間なのだ。」\n\n「ブラジルは何十年も奇跡を生み出してきたが、今日は彼らが答えを探している側だ。日本は全く恐れを見せていない、それがこの瞬間を特別なものにしている。」\n\n「もし日本がこのまま持ちこたえられれば、これは単なる勝利として記憶されるだけでなく、彼らの国が生み出したワールドカップ史上最高のパフォーマンスの一つとして記憶されるだろう。」\n\n「世界はブラジルが新たな章を書き上げると予想していた。しかし今、日本は物語全体を書き換えようとしている。」",
-      "likes": 374,
-      "retweets": 37,
-      "replies": [
-        {
-          "id": "id-1782794088156-bpnmecxcd",
+          "id": "id-1782096903037-n8hwa56b8",
           "username": "@SamuraiBlueFan",
           "languageCode": "EN",
-          "originalText": "Absolutely electrifying! Mourinho hits the nail on the head. Japan playing with so much heart, they deserve this moment!",
-          "translatedText": "本当に痺れる！モウリーニョは的を射ている。日本はこれほどまでに魂を込めてプレーしている、この瞬間は彼らに値する！",
-          "likes": 320
+          "originalText": "Kaka always has such insightful words! Japan truly played like a team with a point to prove. This World Cup is getting exciting!",
+          "translatedText": "カカはいつも洞察力に富んだ言葉を持っていますね！日本は本当に何かを証明しようとするチームのようにプレーしました。このワールドカップは盛り上がってきましたね！",
+          "likes": 321
         },
         {
-          "id": "id-1782794088156-3teer2kc1",
-          "username": "@FootballPulse_",
-          "languageCode": "EN",
-          "originalText": "Incredible start for Japan, but let's not forget Brazil's quality. They're capable of turning it around in a flash. Still, what a statement!",
-          "translatedText": "日本の素晴らしいスタートだが、ブラジルの実力を忘れてはならない。彼らは一瞬で状況をひっくり返す力がある。それでも、なんて声明だ！",
-          "likes": 180
+          "id": "id-1782096903037-fsv9dgx4p",
+          "username": "@FootballAnalystJP",
+          "languageCode": "JA",
+          "originalText": "カカの評価は嬉しいが、チュニジア戦は相手の守備が緩かった部分も否めない。次の強豪国相手に同じパフォーマンスを見せられるかが重要だ。",
+          "translatedText": "カカの評価は嬉しいが、チュニジア戦は相手の守備が緩かった部分も否めない。次の強豪国相手に同じパフォーマンスを見せられるかが重要だ。",
+          "likes": 187
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2071648793762914586",
-      "postedAt": "2026-06-29T17:35:36.463Z"
+      "postUrl": "https://x.com/markklfc/status/2068670880696135681",
+      "postedAt": "2026-06-21T12:22:26Z"
     },
     {
-      "id": "id-1782794112341-ul6nchlo3",
+      "id": "id-1782096923127-3xv5bq5zp",
+      "username": "@RealityLfc",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨Legendary Ronaldo Nazario on how fantastic and impressive the Japan team look after a 4-0 victory against Tunisia in group F of the 2026 World Cup.\n\n🗣️“The game between the Netherlands and Japan in their opener was really Impressive and joy to watch from them display such fabulous performance, the 2-2 draw against Netherland was a warm up for the up coming games and I could see it from today against Tunisia.\n\nLooking sharp with the ball and making every single possession worth of what they’re doing on the pitch, fighting for every second ball and getting the best out of each counter.\n\nThey’re never an underdogs in this competition, I trust they can compete with any team in the tournament with their best players on, I was really surprise when I saw their performance in the first half of the game then it motivated me to watch more of the second half.\n\nThey’re in the toughest group too as well but their level of performance shouldn’t be a joke to anyone in this competition, they can go far in the competition to the level no one expected them to be at.”",
+      "translatedText": "🚨伝説のロナウド・ナザリオが、2026年ワールドカップのグループFでチュニジアに4-0で勝利した日本チームがどれほど素晴らしく印象的であるかについて語っています。\n\n🗣️「彼らの初戦のオランダ対日本の試合は本当に印象的で、素晴らしいパフォーマンスを見せてくれて楽しかった。オランダとの2-2の引き分けは、今後の試合に向けたウォーミングアップだったと、今日のチュニジア戦を見て理解できました。\n\nボールを持った時の鋭さ、ピッチ上での全てのポゼッションを価値あるものにする姿勢、セカンドボール全てに食らいつき、それぞれのカウンターから最高のものを引き出している。\n\n彼らはこの大会で決してアンダードッグではない、ベストプレイヤーが揃えばどのチームとも戦えることを信頼しています。試合の最初のハーフで彼らのパフォーマンスを見た時、本当に驚き、それが後半ももっと見たいというモチベーションになりました。\n\n彼らは最も厳しいグループに入っていますが、彼らのパフォーマンスレベルは誰にとっても冗談ではありません。誰もが予想しなかったレベルまで、大会で遠くまで行けるでしょう。」",
+      "likes": 205,
+      "retweets": 27,
+      "replies": [
+        {
+          "id": "id-1782096923127-pf8zeyf69",
+          "username": "@SoccerFanJP_",
+          "languageCode": "EN",
+          "originalText": "Ronaldo's words mean a lot! Japan truly looks like a force to be reckoned with this World Cup. The teamwork is exceptional!",
+          "translatedText": "ロナウドの言葉は重い！日本は本当に今回のワールドカップで侮れない存在に見える。チームワークが格別だ！",
+          "likes": 320
+        },
+        {
+          "id": "id-1782096923127-3zi9wrqg8",
+          "username": "@BlueSamurai_Fan",
+          "languageCode": "EN",
+          "originalText": "It's great to hear such high praise, but Group F is incredibly tough. We need to maintain this level against stronger opponents next!",
+          "translatedText": "このような高い評価は嬉しいですが、グループFは信じられないほど厳しい。次のより強い相手に対してもこのレベルを維持する必要がありますね！",
+          "likes": 185
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/RealityLfc/status/2068689500977479711",
+      "postedAt": "2026-06-21T13:36:26Z"
+    },
+    {
+      "id": "id-1782096977022-xir2e7ktk",
       "username": "@UTD_Seth001",
       "verified": false,
       "languageCode": "EN",
-      "originalText": "🚨 Xabi Alonso on Japan’s first-half performance against Brazil:\n\n🗣️ “Take the score away for a second and just watch the football. Japan have been outstanding. This isn’t a team hanging on against Brazil—this is a team playing with complete confidence, organisation and belief. They’ve made one of the biggest football nations in the world look uncomfortable.”\n\n“People spent the entire week talking about Brazil’s stars, but football has never been about names alone. Japan have pressed together, defended together and attacked with purpose. Every player understands his role, every movement has meaning, and that’s why Brazil have struggled to impose themselves. This has been one of the smartest tactical performances of the tournament.”\n\n“What impresses me the most is the mentality. Japan haven’t played with fear for a single second. They’ve looked brave in possession, aggressive without the ball and completely committed to their game plan. Sano, Kamada, Doan and the rest have shown incredible personality, while the defensive unit has made Brazil work for every opportunity.”\n\n“This is the beauty of football. Expensive squads don’t win matches by themselves—teams do. Right now Japan have looked hungrier, sharper and more disciplined than Brazil. If Brazil don’t find another level in the second half, this could become one of the biggest World Cup shocks we’ve seen in years.”\n\n{@Sports }",
-      "translatedText": "🚨 シャビ・アロンソがブラジル戦前半の日本のパフォーマンスについてコメント：\n\n🗣️ 「スコアはひとまず置いて、純粋にサッカーを見てほしい。日本は素晴らしかった。これはブラジル相手に持ちこたえているチームではない。完全な自信、組織力、信念を持ってプレーしているチームだ。彼らは世界最大のサッカー大国の一つを苦しめている。」\n\n「人々はこの一週間、ブラジルのスター選手たちについて話していたが、サッカーは決して名前だけのものではない。日本は連動してプレスをかけ、共に守り、意図を持って攻撃している。全選手が自分の役割を理解し、すべての動きに意味があり、だからこそブラジルは自分たちのサッカーを押し付けられずにいる。これは今大会で最も賢い戦術的パフォーマンスの一つだ。」\n\n「私が最も感銘を受けたのはメンタリティだ。日本は一瞬たりとも恐れることなくプレーしている。ボール保持では勇敢に、ボールがない時にはアグレッシブに、そしてゲームプランに完全にコミットしている。佐野、鎌田、堂安らが素晴らしい個性を発揮し、守備陣はブラジルにすべてのチャンスで労力を強いている。」\n\n「これこそがサッカーの美しさだ。高価なスカッドだけでは試合には勝てない。チームが勝つ。今、日本はブラジルよりもハングリーで、シャープで、規律が取れているように見える。もしブラジルが後半に別のレベルを見つけられなければ、これはここ数年で最大のワールドカップの衝撃の一つになるかもしれない。」",
-      "likes": 3114,
-      "retweets": 474,
+      "originalText": "🚨Arsène Wenger on Japan’s dominant 4–0 victory over Tunisia and why the world must stop viewing them as underdogs:\n\n🗣️ “I think we need to change the conversation around Japan. At what point do we stop calling them underdogs and start recognising them as one of the strongest teams in this tournament?\n\n“A 4–0 victory at a World Cup is never accidental. It is the result of years of development, intelligent planning, and players who fully believe in their collective identity.\n\n“What impresses me most is their understanding of the game. Every player knows their role, every movement has purpose, and there is a remarkable level of cohesion throughout the team.\n\n“They play with courage, discipline, and intensity. They press together, defend together, and attack with great conviction.\n\n“For a long time, the focus has always been on the traditional football powers. Meanwhile, Japan have quietly built a team with a clear philosophy and a strong culture.\n\n“In modern football, the best teams are not always the ones with the biggest names. They are the teams that function as a unit, and Japan are demonstrating that at the highest level.\n\n“What should concern the rest of the world is that they are improving with every match. Confidence and momentum can carry a team a very long way in a tournament.\n\n“When I watch Japan, I see humility, hunger, and a deep commitment to the collective. Those qualities are essential for success.\n\n“People may still hesitate to call them favourites, but football does not reward reputation—it rewards performance. And Japan are performing at an exceptional level.\n\n“If they continue like this, they can achieve something truly special.\n\n“I can assure you that no team will be eager to face Japan in the knockout stages.”\n\n{@talksport}",
+      "translatedText": "（翻訳未生成）",
+      "likes": 272,
+      "retweets": 56,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD_Seth001/status/2068643900852449516",
+      "postedAt": "2026-06-21T10:35:14Z"
+    },
+    {
+      "id": "id-1782036109826-hcps2tb8b",
+      "username": "@tweetsesko",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨 Jamie Carragher: \"Japan Are Playing the Best Football in the Tournament\"\n\n🗣️\"I've got to be honest, this Japan team has been one of the biggest surprises of the tournament for me. They're absolutely superb. The way they press from the front, their work rate, their movement off the ball, and how quickly they transition from defence to attack it's outstanding. \n\nThey're so well-drilled that every player knows exactly what they're supposed to do.\n\n\"People keep talking about the traditional favourites, but if Japan continue playing like this, I genuinely believe they could go further than England. I know that sounds bold, but they've looked more convincing than a lot of the so-called big nations. I honestly don't see many teams being able to stop them if they maintain this level.\n\n\"Every opponent should be very careful because this Japan side is producing a footballing masterclass. They're fearless, disciplined, and incredibly difficult to break down. \n\nI don't know what it is, maybe it's just a feeling, but I've got this sense that Japan could go all the way to the World Cup final. It wouldn't shock me one bit if they did.\"",
+      "translatedText": "🚨 ジェイミー・キャラガー：「日本は今大会最高のサッカーをしている」\n\n🗣️「正直に言うと、この日本チームは私にとって今大会最大のサプライズの一つでした。彼らは本当に素晴らしい。前からプレスをかけ、運動量が多く、オフザボールの動きも、守備から攻撃への素早い切り替えも、すべてが傑出している。」\n\n「彼らは非常に統制が取れていて、すべての選手が自分のやるべきことを正確に理解している。」\n\n「人々は伝統的な優勝候補について語り続けていますが、もし日本がこのままプレーし続ければ、イングランドよりもさらに勝ち進むことができると私は心から信じています。大胆に聞こえるかもしれませんが、彼らは多くのいわゆる強豪国よりも説得力のある戦いを見せています。このレベルを維持できれば、彼らを止められるチームはそう多くないでしょう。」\n\n「すべての対戦相手は非常に注意すべきです。なぜなら、この日本代表はサッカーの傑作を生み出しているからです。彼らは恐れを知らず、規律があり、崩すのが信じられないほど難しい。」\n\n「何なのかは分かりませんが、単なる直感かもしれませんが、日本がワールドカップ決勝まで行けるような気がしています。もしそうなっても、私は全く驚きません。」",
+      "likes": 802,
+      "retweets": 143,
       "replies": [
         {
-          "id": "id-1782794112341-2io5au7mv",
-          "username": "@JpnFootballFan_08",
+          "id": "id-1782036109826-wsjlov001",
+          "username": "@SamuraiBlueFanJP",
+          "languageCode": "JA",
+          "originalText": "キャラガーがここまで褒めるとは！本当に今の日本代表は見ててワクワクするね！このまま突っ走ってほしい！",
+          "translatedText": "キャラガーがここまで褒めるとは！本当に今の日本代表は見ててワクワクするね！このまま突っ走ってほしい！",
+          "likes": 320
+        },
+        {
+          "id": "id-1782036109826-5u4si5jgd",
+          "username": "@FootyAnalyzer_X",
           "languageCode": "EN",
-          "originalText": "Alonso gets it! Japan has been absolutely brilliant, tactical masterclass. They're playing with such heart and intelligence. Hoping they can keep this up in the second half!",
-          "translatedText": "アロンソはわかってる！日本は本当に素晴らしい、戦術の傑作だ。彼らはあんなに情熱と知性を持ってプレーしている。後半もこの調子を維持できることを願ってるよ！",
+          "originalText": "While their play has been impressive, let's not get ahead of ourselves. The knockout stages are a different beast, and they'll face much tougher opposition.",
+          "translatedText": "彼らのプレーは印象的だが、先走りすぎないようにしよう。ノックアウトステージは全くの別物で、はるかに手強い相手と対戦することになるだろう。",
+          "likes": 185
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/tweetsesko/status/2068602381244178761",
+      "postedAt": "2026-06-21T07:50:15Z"
+    },
+    {
+      "id": "id-1782036122280-34p3wfoyr",
+      "username": "@MatchReportH",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨 Dimitar Berbatov & John Terry analysis on Supersport:\n\n🗣️ “Sitting in the studio with John Terry after the match, I honestly couldn’t believe what I just watched from Japan. We were breaking it down live on Supersport, and the conclusion was the same — this team is something different entirely.\n\nMost goals Japan have ever scored in a World Cup 🇯🇵, and a record-breaking 4-0 win — the largest margin by an Asian team 🌏 in the competition — and it didn’t even feel like a surprise by the end. It felt like a statement.\n\nWhat stood out to both me and John was the intensity. We kept asking ourselves how a team can press like that for 90+ minutes without dropping. From minute one to minute ninety-five, there was no rest. No pause. No drop in concentration.\n\nIt wasn’t just the attackers. It was the whole team. The goalkeeper was organizing, the defenders stepping in aggressively, the midfielders hunting every second ball, and the forwards never stopping their runs. It was total commitment from everyone.\n\nJohn Terry even said it looked like a team that “refuses to switch off,” and I agreed completely. At this level, that kind of discipline is rare. Very rare.\n\nWe also talked about Tunisia, and honestly, they had no answers. They were constantly under pressure, constantly rushed, constantly forced into mistakes. Japan didn’t allow them to breathe.\n\nAnd I’ll be honest, sitting there watching it back, you start to think — this might be a team that shocks the world. Not just compete. Not just qualify. But actually go deep and frighten every big nation in the tournament.\n\nIf they keep this level, football needs to pay attention.",
+      "translatedText": "🚨 ディミタール・ベルバトフとジョン・テリーがSupersportで分析：\n\n🗣️ 「試合後にジョン・テリーとスタジオに座りながら、日本から見たものが正直信じられなかった。Supersportで生中継で分析していたが、結論は同じだった——このチームはまったく別次元だ。\n\n日本がワールドカップで記録した最多得点🇯🇵、そしてアジアのチーム🌏として大会史上最大差となる4-0の記録的勝利——しかも終わってみれば驚きですらなかった。それは声明だった。\n\n私とジョンの両方が注目したのは強度だ。90分以上もあのようにプレスをかけ続けて、なぜ落ちないのかと何度も自問した。1分目から95分目まで、休みがなかった。間がなかった。集中力の低下がなかった。\n\nアタッカーだけではなかった。チーム全体だった。ゴールキーパーが指示を出し、ディフェンダーが積極的にステップインし、ミッドフィルダーがすべてのセカンドボールを狩り、フォワードは走りを止めなかった。全員からの完全なコミットメントだった。\n\nジョン・テリーは「スイッチを切ることを拒否するチーム」のようだと言い、私も完全に同意した。このレベルで、そのような規律は珍しい。非常に珍しい。\n\nチュニジアについても話したが、正直、彼らには答えがなかった。常にプレッシャーを受け、常に急かされ、常にミスを強いられていた。日本は彼らに息をする暇を与えなかった。\n\nそして正直に言うと、座って振り返りながら見ていると、こう思い始める——このチームは世界を驚かせるかもしれない。ただ競争するだけでなく。ただ予選を通過するだけでなく。実際に勝ち進み、大会のすべての強豪国を脅かすかもしれないと。\n\nもしこのレベルを維持すれば、サッカー界は注目する必要がある。",
+      "likes": 195,
+      "retweets": 22,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/MatchReportH/status/2068581984444510556",
+      "postedAt": "2026-06-21T06:29:12Z"
+    },
+    {
+      "id": "id-1782031253496-9o7bgb6vx",
+      "username": "@UTD_Seth001",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨Zlatan Ibrahimović on Japan’s dominant 4–0 victory over Tunisia and Tunisia’s disappointing World Cup campaign:\n\n🗣️ “People need to stop calling Japan a surprise package. When you keep producing performances like this, you are no longer a surprise—you are a serious contender.\n\n“A 4–0 win at the World Cup is not normal. You don’t destroy teams by accident. You do it because you have quality, organisation, confidence, and players who know exactly what they’re doing.\n\n“What impresses me most is their mentality. There is no fear, no hesitation, and no respect for reputations. They attack with intensity, defend as a unit, and make life difficult for every opponent.\n\n“Before the tournament started, everyone talked about the traditional favourites. But match after match, Japan are forcing their way into that conversation.\n\n“If I’m one of the big nations watching this performance, I’m worried. Very worried. Because Japan look like a team improving with every game they play.\n\n“The scary thing is they never look satisfied. Even at 3–0 and 4–0, they keep pressing, keep running, and keep searching for more. That is the mentality of a team that believes it can achieve something special.\n\n“You can have all the star players in the world, but if you face a team playing with this level of discipline and confidence, you will suffer.\n\n“But we also have to talk about Tunisia, because this World Cup has been embarrassing for them.\n\n“They have looked unorganised, vulnerable, and completely unable to handle the intensity of the top teams. Conceding four goals like this without offering any real response is unacceptable at this level.\n\n“After two matches, they look short of confidence and short of solutions. At the World Cup, you cannot rely on hope alone—you need personality, belief, and a clear identity.\n\n“Right now, Japan are becoming one of the favourites to go deep into this tournament, while Tunisia have serious questions to answer.\n\n“And trust me, any team drawn against Japan in the next round will not be celebrating. They’ll be asking themselves one question: how do we stop them?”\n\n{@espn}",
+      "translatedText": "🚨ズラタン・イブラヒモビッチが日本のチュニジア戦4-0圧勝とチュニジアの失望的なワールドカップについて語る：\n\n🗣️ 「人々は日本をダークホースと呼ぶのをやめるべきだ。こういったパフォーマンスを出し続けているなら、もはやダークホースではない——真の優勝候補だ。\n\n「ワールドカップでの4-0は普通のことではない。偶然でチームを破壊することはできない。質、組織力、自信、そして自分たちが何をしているか正確に理解している選手たちがいるからこそできるのだ。\n\n「最も感銘を受けるのは彼らのメンタリティだ。恐れがなく、ためらいがなく、相手の名声への忖度もない。強度を持って攻撃し、一つのユニットとして守り、すべての相手を苦しめる。\n\n「大会前は、みんな伝統的な優勝候補について話していた。しかし試合を重ねるごとに、日本はその会話に割って入ってきている。\n\n「もし私が強豪国の一つとしてこのパフォーマンスを見ていたら、心配する。非常に心配だ。なぜなら日本は試合ごとに成長しているチームに見えるからだ。\n\n「恐ろしいのは、彼らが決して満足しないことだ。3-0でも4-0でも、プレスし続け、走り続け、さらなるゴールを探し続ける。これは何か特別なことを成し遂げられると信じるチームのメンタリティだ。\n\n「世界中のスター選手を集めても、このレベルの規律と自信でプレーするチームと対戦すれば、苦しむことになる。\n\n「しかしチュニジアについても語らなければならない。このワールドカップは彼らにとって恥ずかしいものだった。\n\n「彼らは無秩序で、脆弱で、トップチームの強度にまったく対応できていなかった。このように4失点して何の反撃もできないのは、このレベルでは許されない。\n\n「2試合を終えて、自信も解決策も不足しているように見える。ワールドカップでは希望だけに頼ることはできない——個性、信念、そして明確なアイデンティティが必要だ。\n\n「今、日本はこの大会で勝ち進む優勝候補の一つになりつつあり、チュニジアには深刻な問いかけが突きつけられている。\n\n「そして信じてほしい、次のラウンドで日本と対戦するチームは喜ばないだろう。彼らは一つの質問を自問することになる：どうすれば日本を止められるのか？」\n\n{@espn}",
+      "likes": 53,
+      "retweets": 16,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD_Seth001/status/2068605874256371941",
+      "postedAt": "2026-06-21T08:04:07Z"
+    },
+    {
+      "id": "id-1782031266040-s3czqgr50",
+      "username": "@Gazpachen",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Me quedé hasta las 3 AM por un único motivo: ver a Japón.\n\nMe encanta como juega el equipo de Moriyasu. El debut no fue el mejor, pero hoy dió gusto verlos jugar. Extremadamente ordenados y muy ofensivos, sobre todo, en el primer tiempo.\n\nMás allá de que hay puntos altísimos como Ueda, Ito, Kamada y Sano, la realidad está en que es injusto destacarlos sin mencionar que son un equipo. Un equipo de verdad. De 11 jugadores que entienden y se identifican con la idea de su entrenador.\n\nNo sé si este será el mejor Mundial en su historia, pero sí se que cada vez están más cerca.",
+      "translatedText": "午前3時まで起きていたのは一つの理由だけ：日本を見るためだ。\n\n森保のチームのプレーが大好きだ。デビュー戦は最高ではなかったが、今日は彼らのプレーを見るのが楽しかった。非常に組織的で、特に前半は非常に攻撃的だった。\n\n上田、伊藤、鎌田、佐野といった非常にレベルの高い選手がいるが、実際のところ、彼らがチームであることに触れずに個人を称えるのは不公平だ。本当のチーム。11人の選手全員が監督のアイデアを理解し、一体化している。\n\nこれが彼らの歴史上最高のワールドカップになるかは分からないが、確実にそこに近づいていることは分かる。",
+      "likes": 449,
+      "retweets": 25,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/Gazpachen/status/2068574719868101089",
+      "postedAt": "2026-06-21T06:00:20Z"
+    },
+    {
+      "id": "id-1782031278495-u6ygawkb0",
+      "username": "@Footballtweet",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🇯🇵 Japan's last 8 results since October 2025 are a big sign they could go far in this World Cup:\n\n✅ 4-0 win vs. Tunisia\n🤝 2-2 draw vs. Netherlands\n✅ 1-0 win vs. Iceland\n✅ 1-0 win vs. England\n✅ 1-0 win vs. Scotland\n✅ 3-0 win vs. Bolivia\n✅ 2-0 win vs. Ghana\n✅ 3-2 win vs. Brazil \n\nThey've also become the first country from the Asian Confederation to score 4 goals in a single World Cup match.\n\nYou do not want to play Japan in a knock-out match.",
+      "translatedText": "🇯🇵 2025年10月以降の日本の直近8試合の成績は、このワールドカップで勝ち進む大きな兆候だ：\n\n✅ チュニジアに4-0勝利\n🤝 オランダと2-2引き分け\n✅ アイスランドに1-0勝利\n✅ イングランドに1-0勝利\n✅ スコットランドに1-0勝利\n✅ ボリビアに3-0勝利\n✅ ガーナに2-0勝利\n✅ ブラジルに3-2勝利\n\nまた、アジアサッカー連盟所属国として初めてワールドカップの1試合で4得点を記録した国となった。\n\nノックアウトステージで日本と対戦したくないだろう。",
+      "likes": 813,
+      "retweets": 148,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/Footballtweet/status/2068578105401242051",
+      "postedAt": "2026-06-21T06:13:47Z"
+    },
+    {
+      "id": "id-1782097009943-5uttjyj5d",
+      "username": "@markklfc",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Antonio Conte on Japan's emphatic 4-0 victory over Tunisia at the World Cup:\n\n🗣️ “People need to understand something very clearly what Japan are doing is not a coincidence anymore. This is not a ‘good run’. This is a team with structure, discipline, and a winning mentality at the highest level.”\n\n“A 4-0 victory at the World Cup is not something you see every day. You don’t dominate a match like that unless every single player is committed to the system, to the work, and to suffering together when needed.”\n\n“What impresses me most is the tactical maturity. This is a team that understands when to press, when to wait, when to attack space, and when to control the tempo. That is not emotion that is intelligence.”\n\n“Before the tournament, many people spoke about the usual favourites. But Japan are not asking for permission anymore. They are taking their place in that conversation with every match they play.”\n\n“If I am one of the big national teams watching this, I am not comfortable at all. Because Japan don’t give you anything for free you have to earn every single meter against them.”\n\n“The most dangerous thing is their mentality. Even at 3-0, even at 4-0, they do not slow down. They do not relax. They keep pressing, keep running, keep punishing mistakes. That is the mindset of a team that wants to win everything.”\n\n“You can have talented players, big names, big reputations but if you face a team that is this organized and this hungry, reputation means nothing on the pitch.”\n\n“Right now, Japan are not just competing. They are imposing themselves. They are making every opponent uncomfortable, and that is the sign of a team built to go very far in a tournament like this.”\n\n“And I will say this very honestly if Japan continue like this, there is no reason they cannot reach the final stages of this World Cup. Because they are playing like a complete team, not just a good one.”",
+      "translatedText": "アントニオ・コンテがワールドカップでのチュニジアに対する日本の見事な4-0の勝利について語る：\n\n🗣️ 「人々は非常に明確に理解する必要があります。日本のやっていることは、もはや偶然ではありません。これは『好調な時期』ではありません。これは、最高レベルの組織、規律、そして勝利へのメンタリティを持ったチームです。」\n\n「ワールドカップでの4-0の勝利は、毎日見られるものではありません。システム、仕事、そして必要に応じて共に苦しむことに全ての選手がコミットしていなければ、そのような試合を支配することはできません。」\n\n「私が最も感銘を受けるのは、戦術的な成熟度です。このチームは、いつプレスをかけ、いつ待ち、いつスペースを攻撃し、いつテンポをコントロールすべきかを理解しています。それは感情ではなく、知性です。」\n\n「大会前、多くの人々はいつものお気に入りチームについて話していました。しかし、日本はもう許可を求めているわけではありません。彼らは試合ごとにその会話の中で自分たちの地位を確立しています。」\n\n「もし私がこれを観ている強豪国の一つだとしたら、全く落ち着かないでしょう。なぜなら、日本は何も無料で与えてくれないからです。彼ら相手には、全ての1メートルを勝ち取らなければなりません。」\n\n「最も危険なのは、彼らのメンタリティです。3-0になっても、4-0になっても、彼らはペースを落としません。リラックスすることなく、プレスをかけ続け、走り続け、ミスを罰し続けます。それは全てを勝ち取りたいチームの考え方です。」\n\n「才能ある選手、ビッグネーム、大きな評判を持っていても、これほど組織され、これほどハングリーなチームに直面すれば、ピッチ上では評判は意味をなしません。」\n\n「今、日本は単に競っているだけではありません。彼らは自らを押し付けています。彼らは全ての対戦相手を不快にさせており、それはこのような大会で非常に遠くまで行くために作られたチームの兆候です。」\n\n「そして正直に言います。もし日本がこのまま続けば、このワールドカップの最終段階に到達できない理由はありません。なぜなら、彼らは単に良いチームではなく、完全なチームとしてプレーしているからです。」",
+      "likes": 422,
+      "retweets": 72,
+      "replies": [
+        {
+          "id": "id-1782097009943-9kb3zlhyb",
+          "username": "@サッカー日本代表_魂",
+          "languageCode": "JA",
+          "originalText": "コンテがここまで褒めてくれるなんて感動！本当に今の代表は見ててワクワクするし、最後まで手を抜かない姿勢が最高！",
+          "translatedText": "コンテがここまで褒めてくれるなんて感動！本当に今の代表は見ててワクワクするし、最後まで手を抜かない姿勢が最高！",
+          "likes": 387
+        },
+        {
+          "id": "id-1782097009943-3x7a3aukx",
+          "username": "@FootyObserverX",
+          "languageCode": "EN",
+          "originalText": "Conte is right, Japan looked fantastic. But Tunisia isn't Germany or Brazil. Let's see how they perform against a true top-tier nation before crowning them.",
+          "translatedText": "コンテは正しい、日本は素晴らしかった。しかし、チュニジアはドイツやブラジルではない。彼らが真のトップティア国と対戦したときに、どうパフォーマンスするか見てから評価しよう。",
+          "likes": 165
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/markklfc/status/2068631924105527550",
+      "postedAt": "2026-06-21T09:47:38Z"
+    },
+    {
+      "id": "id-1782030311263-1g0g90eij",
+      "username": "@UTD__Ronaldo",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨🎙️Wayne Rooney : Hajime moriyasu is doing an incredible job , doing all this without their main players is incredible. Japan fans will be so happy \n\n🗣️For Japan to play so well against Nederland and Tunisia without these players Mitoma, captain Wataru Endo and Takumi Minamino who all missed the World Cup  is just crazy especially that performance form ayase ueda\n\n🗣️People might blame the team or the coach Herve renard but Tunisia were not bad they were out played this Japanese team \n#TUNJPN",
+      "translatedText": "🚨🎙️ウェイン・ルーニー：森保一監督は素晴らしい仕事をしている、主力選手なしでこれらすべてをこなすのは信じられない。日本のファンはとても喜ぶだろう。\n\n🗣️三笘、キャプテン遠藤航、南野拓実といったワールドカップを欠場した選手たち抜きで、オランダやチュニジア相手にこれほど素晴らしいプレーを見せる日本は本当に驚異的だ。特に上田綺世のパフォーマンスは際立っていた。\n\n🗣️チームやエルヴェ・ルナール監督を非難する人もいるかもしれないが、チュニジアも悪くなかった。単にこの日本代表チームに圧倒されただけだ。\n#TUNJPN",
+      "likes": 222,
+      "retweets": 25,
+      "replies": [
+        {
+          "id": "id-1782030311264-w58joeaxa",
+          "username": "@Football_Nippon",
+          "languageCode": "EN",
+          "originalText": "Absolutely agree! Moriyasu deserves immense credit. The depth of talent coming through is insane, and Ueda really showed his class. Exciting times for Japan!",
+          "translatedText": "全く同感です！森保監督は多大な評価に値します。続々と現れるタレントの層の厚さは尋常じゃないし、上田は本当にその実力を見せつけましたね。日本にとってワクシングな時代だ！",
           "likes": 280
         },
         {
-          "id": "id-1782794112341-65zjv2ypn",
-          "username": "@Futbol_Analyst_",
-          "languageCode": "EN",
-          "originalText": "Japan has been fantastic, credit where it's due. But Brazil will surely come out swinging in the second half. This game is far from over, classic World Cup drama incoming!",
-          "translatedText": "日本は素晴らしい、正当に評価されるべきだ。しかしブラジルは後半には必ず猛攻を仕掛けてくるだろう。この試合はまだ終わってない、クラシックなワールドカップドラマがやってくるぞ！",
-          "likes": 110
+          "id": "id-1782030311264-qiitbf1qr",
+          "username": "@⚽️サムライ魂🇯🇵",
+          "languageCode": "JA",
+          "originalText": "怪我人多い中でよくやったのは事実だけど、やっぱり三笘や遠藤がいたらもっと攻撃に厚みが出たはず。次はフルメンバーでの最強日本が見たい！",
+          "translatedText": "怪我人多い中でよくやったのは事実だけど、やっぱり三笘や遠藤がいたらもっと攻撃に厚みが出たはず。次はフルメンバーでの最強日本が見たい！",
+          "likes": 120
         }
       ],
       "isManual": true,
-      "postUrl": "https://x.com/UTD_Seth001/status/2071652320929087767",
-      "postedAt": "2026-06-29T17:49:37.405Z"
+      "postUrl": "https://x.com/UTD__Ronaldo/status/2068579508643369098",
+      "postedAt": "2026-06-21T06:19:21Z"
+    },
+    {
+      "id": "id-1782030323788-pnisxaxfl",
+      "username": "@markklfc",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Sir Alex Ferguson on Japan's dominant 4-0 victory over Tunisia at the World Cup:\n\n🗣️ “I've watched football for decades, and one thing I've learned is that truly dangerous teams are often the ones people underestimate. Japan are no longer a team that should be underestimated by anybody.”\n\n“A 4-0 victory at a World Cup doesn't happen because of luck. It happens because of preparation, discipline, quality, and a group of players completely committed to a common goal.”\n\n“What stands out to me is their mentality. They don't play with fear. They don't play with doubt. They play with the confidence of a team that genuinely believes it belongs among the very best nations in football.”\n\n“Before the tournament, the conversation was always about the traditional giants. But while everyone was busy discussing the usual favourites, Japan were quietly building something very special.”\n\n“The best teams are not always the ones with the biggest names. The best teams are the ones that function as a unit, trust each other completely, and fight for every single moment. Japan have all of those qualities.”\n\n“What should worry the rest of the world is that they are getting stronger with every match. That's usually the sign of a team capable of going very deep into a tournament.”\n\n“When I watch Japan, I see hunger. I see organization. I see players willing to run, sacrifice, and work for each other. Those are the foundations of championship-winning teams.”\n\n“People might still hesitate to call them favourites, but if they continue producing performances like this, that debate won't last much longer.”\n\n“Every major tournament has a team that captures momentum and belief. Right now, Japan are building both at an alarming rate.”\n\n“And trust me, if I were managing one of the traditional powerhouses in this World Cup, Japan would be one of the last teams I'd want to face. Because they look like a team that believes its destiny is much bigger than simply participating.”",
+      "translatedText": "サー・アレックス・ファーガソンがワールドカップでの日本の圧倒的なチュニジア戦4-0勝利について語る：\n\n🗣️ 「私は何十年もサッカーを見てきたが、一つ学んだことがある。本当に危険なチームは、しばしば過小評価されるチームだということだ。日本はもはや誰にも過小評価されるべきチームではない。」\n\n「ワールドカップでの4-0の勝利は運で起こるものではない。それは準備、規律、質、そして共通の目標に完全にコミットした選手たちによって生まれるものだ。」\n\n「私が注目するのは彼らのメンタリティだ。彼らは恐れを持ってプレーしない。疑いを持ってプレーしない。サッカー界の最高峰の国々に自分たちが属していると心から信じるチームの自信を持ってプレーしている。」\n\n「大会前、会話はいつも伝統的な強豪国についてだった。しかし、皆がいつもの優勝候補について議論している間に、日本は静かに何か非常に特別なものを築いていた。」\n\n「最高のチームは必ずしも最大の名前を持つチームではない。最高のチームは、一つのユニットとして機能し、互いを完全に信頼し、すべての瞬間のために戦うチームだ。日本にはそのすべての資質がある。」\n\n「世界の他のチームが警戒すべきは、日本が試合ごとに強くなっていることだ。これは通常、大会で非常に深くまで勝ち進めるチームの兆候だ。」\n\n「日本を見ると、飢餓感が見える。組織力が見える。走り、犠牲になり、互いのために働く意欲のある選手たちが見える。これらはチャンピオンシップを勝ち取るチームの基盤だ。」\n\n「人々はまだ彼らを優勝候補と呼ぶのをためらうかもしれないが、このようなパフォーマンスを続ければ、その議論は長くは続かないだろう。」\n\n「すべての主要な大会には、勢いと信念を掴むチームがある。今、日本はその両方を驚くべき速さで築いている。」\n\n「そして信じてほしい、もし私がこのワールドカップの伝統的強豪国の一つを率いていたら、日本は最も対戦したくないチームの一つだろう。なぜなら、彼らは自分たちの運命が単なる参加よりもはるかに大きいと信じているチームに見えるからだ。」",
+      "likes": 314,
+      "retweets": 79,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/markklfc/status/2068601573622599680",
+      "postedAt": "2026-06-21T07:47:02Z"
+    },
+    {
+      "id": "id-1782030336272-qoyh02ouk",
+      "username": "@UTD_Seth001",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨Jürgen Klopp on Japan’s dominant 4–0 victory over Tunisia at the World Cup:\n\n🗣️ “Right now, we need to start asking ourselves the real question: are Japan really underdogs anymore?\n\n“After what they’ve shown in their first two matches, I don’t think so. They’ve been a handful for every opponent they’ve faced.\n\n“People need to stop looking down on Japan. I’ve had the opportunity to work with Japanese players, and I can tell you they bring incredible discipline, intensity, and professionalism.\n\n“In my opinion, they pose a bigger threat at this World Cup than many of the traditional favourites. Teams like Argentina, Portugal, France, and others will know they are in for a very difficult game if they face Japan.\n\n“This tournament should be a reminder that football is not about reputation—it’s about performances. And right now, Japan are performing at an exceptionally high level.\n\n“A 4–0 win at the World Cup doesn’t happen by accident. It happens because you have a clear identity, a strong structure, and players who fully believe in what they are doing.\n\n“What I love most about this Japan team is their intensity. They play with courage, they press together, they defend together, and they attack with real purpose.\n\n“The scary thing is they never stop. At 3–0, at 4–0, they keep running, keep pressing, and keep looking for more. That is the mentality of a team that believes it can achieve something special.\n\n“This World Cup should finally show everyone that Japan deserve far more respect on the football map.\n\n“Any team drawn against Japan in the next round will not be happy. They will be asking themselves one question: how do we stop them?”\n\n{@talksport}",
+      "translatedText": "🚨ユルゲン・クロップが日本のワールドカップでのチュニジア戦4-0圧勝について語る：\n\n🗣️ 「今、我々は本当の質問を自分自身に問いかける必要がある：日本は本当にまだアンダードッグなのか？\n\n「最初の2試合で彼らが見せたものを見れば、そうは思わない。彼らは対戦したすべての相手を苦しめてきた。\n\n「人々は日本を見下すのをやめる必要がある。私は日本人選手と仕事をする機会があったが、彼らは信じられないほどの規律、強度、プロフェッショナリズムをもたらすと断言できる。\n\n「私の意見では、彼らはこのワールドカップで多くの伝統的な優勝候補よりも大きな脅威をもたらしている。アルゼンチン、ポルトガル、フランスなどのチームは、日本と対戦すれば非常に厳しい試合になることを分かっているだろう。\n\n「この大会は、サッカーは評判ではなくパフォーマンスであることを思い出させるべきだ。そして今、日本は例外的に高いレベルでパフォーマンスを発揮している。\n\n「ワールドカップでの4-0の勝利は偶然には起こらない。明確なアイデンティティ、強固な構造、そして自分たちがやっていることを完全に信じる選手たちがいるから起こるのだ。\n\n「この日本チームで最も好きなのは、彼らの強度だ。勇気を持ってプレーし、一緒にプレスし、一緒に守り、本当の目的を持って攻撃する。\n\n「恐ろしいのは、彼らが決して止まらないことだ。3-0でも、4-0でも、走り続け、プレスし続け、さらなるゴールを求め続ける。これは何か特別なことを成し遂げられると信じるチームのメンタリティだ。\n\n「このワールドカップは、日本がサッカーの世界地図においてはるかに多くのリスペクトに値することをようやく示すべきだ。\n\n「次のラウンドで日本と対戦することになったチームは喜ばないだろう。彼らは一つの質問を自分自身に問いかけるだろう：どうすれば日本を止められるのか？」\n\n{@talksport}",
+      "likes": 84,
+      "retweets": 26,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD_Seth001/status/2068602508449112337",
+      "postedAt": "2026-06-21T07:50:45Z"
+    },
+    {
+      "id": "id-1782029313593-caz33l70a",
+      "username": "@markklfc",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Wesley Sneijder on Japan's dominant 4-0 victory over Tunisia at the World Cup:\n\n🗣️ “People might look at the Netherlands drawing 2-2 with Japan earlier in the tournament and only focus on the result. But after watching them destroy Tunisia 4-0, I can tell you that draw looks more impressive with every passing day.”\n\n“When we faced Japan, you could immediately feel how organized they were. They never stopped running, never stopped pressing, and never gave you a second to relax on the ball.”\n\n“A lot of teams have talented players, but Japan have something even more dangerous right now complete belief. Every player understands his role and every player is willing to sacrifice for the team.”\n\n“This 4-0 victory wasn't just a win. It was a statement to the rest of the World Cup. Tunisia simply could not live with the speed, movement, and intensity that Japan brought to the match.”\n\n“What impressed me most is that Japan don't play like outsiders anymore. They play like a team that genuinely believes it belongs among the best nations in the tournament.”\n\n“When the Netherlands played them, there were moments where they caused us serious problems. They were fearless. They attacked with confidence and defended with incredible discipline.”\n\n“That's why I'm not surprised by what happened against Tunisia. The signs were already there. Japan have been building towards a performance like this.”\n\n“If they continue playing with this level of confidence and organization, they will become one of the most dangerous teams in the knockout rounds. Nobody will be excited to face them.”\n\n“Before the tournament started, people talked about Japan as a dark horse. After performances like this, they're forcing people to have a completely different conversation.”\n\n“And trust me, after seeing them up close and watching them dismantle Tunisia 4-0, I can say with confidence that Japan are becoming one of the teams capable of shocking the entire football world.”",
+      "translatedText": "ワールドカップでのチュニジア戦、日本代表の圧倒的な4-0勝利について、ウェズレイ・スナイデルが語る：\n\n🗣️ 「大会序盤にオランダが日本と2-2で引き分けた時、人々は結果だけを見たかもしれない。しかし、彼らがチュニジアを4-0で粉砕するのを見て、あの引き分けは日が経つごとにますます印象的になっていると言える。」\n\n「日本と対戦した時、彼らがどれほど組織的であるかをすぐに感じた。彼らは走るのを止めず、プレスを止めず、ボールを持っている間に一瞬たりとも休ませてくれなかった。」\n\n「多くのチームには才能ある選手がいるが、今の日本にはさらに危険なもの、つまり完全な自信がある。すべての選手が自分の役割を理解し、チームのために犠牲を払うことを厭わない。」\n\n「この4-0の勝利は単なる勝利ではなかった。ワールドカップの他のチームへの声明だった。チュニジアは、日本が試合にもたらしたスピード、動き、強度に全く対応できなかった。」\n\n「私が最も感銘を受けたのは、日本がもはやアウトサイダーのようにプレーしていないことだ。彼らは、大会で最高の国々の中に自分たちが属していると心から信じているチームのようにプレーしている。」\n\n「オランダが彼らと対戦した時、彼らは我々に深刻な問題を引き起こす瞬間があった。彼らは恐れを知らなかった。自信を持って攻撃し、信じられないほどの規律で守備をした。」\n\n「だから、チュニジア戦での出来事にも驚かない。その兆候はすでにあった。日本はこのようなパフォーマンスに向けて着実に力をつけてきたのだ。」\n\n「もし彼らがこの自信と組織力を保ってプレーし続ければ、ノックアウトステージで最も危険なチームの一つになるだろう。誰も彼らと対戦したがらないだろう。」\n\n「大会が始まる前、人々は日本をダークホースと呼んでいた。このようなパフォーマンスの後では、彼らは人々に全く異なる議論を強いている。」\n\n「そして信じてほしい、彼らを間近で見て、チュニジアを4-0で解体するのを見た後、日本はフットボール界全体を驚かせることができるチームの一つになりつつあると自信を持って言える。」",
+      "likes": 1381,
+      "retweets": 200,
+      "replies": [
+        {
+          "id": "id-1782029313593-stxh8omki",
+          "username": "@FootballInsightUK",
+          "languageCode": "EN",
+          "originalText": "Sneijder absolutely nailed it. Japan's transformation has been incredible to watch. That belief he talks about is key. Truly deserved praise!",
+          "translatedText": "スナイデルの言う通りだ。日本の変貌ぶりは見ていて信じられないほどだ。彼が話すあの自信が鍵だね。本当に当然の賞賛だよ！",
+          "likes": 287
+        },
+        {
+          "id": "id-1782029313593-se6zu2ztj",
+          "username": "@SAMURAI_BLUE_Fan",
+          "languageCode": "JA",
+          "originalText": "まさしく日本代表！スナイデル選手にここまで言ってもらえるなんて鳥肌もの。この勢いで、世界の強豪国を次々と倒してほしい！",
+          "translatedText": "まさしく日本代表！スナイデル選手にここまで言ってもらえるなんて鳥肌もの。この勢いで、世界の強豪国を次々と倒してほしい！",
+          "likes": 412
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/markklfc/status/2068586849673605635",
+      "postedAt": "2026-06-21T06:48:32Z"
+    },
+    {
+      "id": "id-1782029331511-be93qu1qz",
+      "username": "@Thewarjurnal_",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "@markklfc Japan just sent a message to the rest of the World Cup: underestimate them at your own risk.4-0, history made and the Samurai Blue are only getting started. \nhttps://x.com/i/status/2068584410522292581",
+      "translatedText": "日本はW杯の他の国々にメッセージを送った。彼らを過小評価すれば、それはあなたの自己責任だ。4-0、歴史が作られ、サムライブルーはまだ始まったばかりだ。",
+      "likes": 7,
+      "retweets": 0,
+      "replies": [
+        {
+          "id": "id-1782029331511-jfns4mi67",
+          "username": "@サッカー侍魂",
+          "languageCode": "JA",
+          "originalText": "本当に素晴らしい試合でした！この勢いでW杯を駆け上がってほしい！#SAMURAIBLUE",
+          "translatedText": "本当に素晴らしい試合でした！この勢いでW杯を駆け上がってほしい！#SAMURAIBLUE",
+          "likes": 280
+        },
+        {
+          "id": "id-1782029331511-qt9x1srmm",
+          "username": "@FootyAnalyst_",
+          "languageCode": "EN",
+          "originalText": "Great win, but let's not get ahead of ourselves. One big result doesn't guarantee the whole tournament. Still challenges ahead.",
+          "translatedText": "素晴らしい勝利だけど、浮かれすぎないようにしよう。一つの大きな結果が大会全体を保証するわけじゃない。まだ課題は山積している。",
+          "likes": 115
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/Thewarjurnal_/status/2068590806303486319",
+      "postedAt": "2026-06-21T07:04:15Z"
+    },
+    {
+      "id": "id-1782029353600-8d0r81i6f",
+      "username": "@UTD__Ronaldo",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨🎙️Roy keane : Japan are the dark horses of this World Cup , Tunisia was not bad they were simply out classed . I said it earlier and I will say it again don’t underestimate them \n\n🗣️ \"People keep talking about the favourites, but I said it on Matchday One — Japan are the underdogs of this tournament and they’ll shock everyone. They’re a very good, organised team. What a performance.\n\n🗣️Suzuki had nothing to do today. Ito, Itakura and Tomiyasu were brilliant, the defence was strong, but the midfield is the engine of this team. Nakamura, Tanaka, Kaishu Sano and Doan controlled everything.\n\n🗣️Kamada and Junya Ito linked up nicely with the striker, and Ayase Ueda is my man of the match — clinical. My praise also goes to Hajime Moriyasu for what he’s doing with this side.\n\n🗣️And I tell you this, Tunisia head coach Hervé Renard would never have wanted to play Japan in his first match in charge. This Japanese team are organised, disciplined and they’ll give anybody problems.\" 🇯🇵\n#TUNJPN",
+      "translatedText": "🚨🎙️ロイ・キーン：日本はワールドカップのダークホースだ。チュニジアは悪くなかった、ただ単に格が違っただけだ。以前も言ったが、もう一度言う、彼らを過小評価するな。\n\n🗣️「みんな優勝候補のことばかり話しているが、僕は初戦から言っていた — 日本はこの大会のアンダードッグであり、みんなを驚かせるだろう。彼らは非常に良い、組織されたチームだ。なんて素晴らしいパフォーマンスだ。\n\n🗣️鈴木は今日何もすることがなかった。伊藤、板倉、冨安は素晴らしく、守備は堅固だったが、このチームのエンジンは中盤だ。中村、田中、佐野海舟、堂安がすべてをコントロールしていた。\n\n🗣️鎌田と伊東純也はストライカーとうまく連携し、上田綺世が私のマン・オブ・ザ・マッチだ — 決定力がある。森保一監督がこのチームでやっていることにも賛辞を送りたい。\n\n🗣️そしてこれだけは言っておくが、チュニジア代表監督エルヴェ・ルナールは、就任初戦で日本と対戦したくはなかっただろう。この日本チームは組織され、規律があり、どんな相手にも問題を引き起こすだろう。」 🇯🇵\n#TUNJPN",
+      "likes": 169,
+      "retweets": 25,
+      "replies": [
+        {
+          "id": "id-1782029353600-pihv12uh2",
+          "username": "@Football_Nippon",
+          "languageCode": "EN",
+          "originalText": "Keane is absolutely spot on! The midfield truly is the engine, and Ueda was phenomenal. Moriyasu has built something special. Can't wait to see them go further!",
+          "translatedText": "キーンはまったくその通りだ！中盤は本当にエンジンだし、上田は驚異的だった。森保監督は何か特別なものを作り上げたね。彼らがさらに勝ち進むのが待ちきれない！",
+          "likes": 287
+        },
+        {
+          "id": "id-1782029353600-haebrnhi3",
+          "username": "@SamuraiBlueFan",
+          "languageCode": "EN",
+          "originalText": "Great win, but let's see how they perform against a top-tier European or South American side. Tunisia isn't exactly a powerhouse, even if Japan played brilliantly.",
+          "translatedText": "素晴らしい勝利だけど、欧州や南米のトップチーム相手にどうなるか見ものだね。日本は見事なプレーだったとはいえ、チュニジアは強豪ではないから。",
+          "likes": 154
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/UTD__Ronaldo/status/2068575253035368612",
+      "postedAt": "2026-06-21T06:02:27Z"
+    },
+    {
+      "id": "id-1782029366117-3ediujmwd",
+      "username": "@InvictosSomos",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "En 2022, la Selección de Japón le ganó a Alemania y España en una Copa del Mundo. En 2023, venció a Alemania en Alemania. En 2025, le ganó a Brasil por primera vez en toda su historia. Y ahora, en el 2026, firmaron un partido memorable ante Holanda y lograron la primera goleada de toda su historia mundialista. Disculpa si te molesta, pero así funciona la libreta de Hajime Moriyasu. EL MAESTRO DE LOS SUPERCAMPEONES DE LA VIDA REAL.",
+      "translatedText": "2022年、日本代表はワールドカップでドイツとスペインに勝利しました。2023年には、ドイツの地でドイツを破りました。2025年には、史上初めてブラジルに勝利しました。そして今、2026年には、オランダとの記憶に残る試合を繰り広げ、W杯史上初の歴史的圧勝を飾りました。もしお気を悪くされたら申し訳ありませんが、これが森保一監督の采配術なんです。リアル・スーパーチャンピオンの巨匠。",
+      "likes": 1070,
+      "retweets": 110,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/InvictosSomos/status/2068585803052146742",
+      "postedAt": "2026-06-21T06:44:22Z"
+    },
+    {
+      "id": "id-1782029378639-wyjrbheeq",
+      "username": "@cfcchris17",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨 Thierry Henry on Japan beating Tunisia 4-0\n\n🗣️ After watching them against Netherlands, I said no team in the World Cup should underestimate Japan. They may not have one of the greatest squad in the world,but they have team and a good coach in Hajime Moriyasu.\n\nHerve Renard isn't a bad coach,he defeated Argentina in the last World Cup but today you see him looking so confused because of how smart this Japanese team is.\n\nIto, Itakura and Tomiyasu were Solid that Suzuki never had anything to worry about because Tunisia got Zero shot on target.\n\nNakamura,Tanaka and Sano handled their midfield quite well, Nakamura and Sano got an assist each,while their attacking players were excellent as well.\n\nAyase Ueda got a brace, with Kamada and Ito also on the score shit. Right now I don't see anything stopping Japan from reaching the world cup Round of 32 and probably going very far in the tournament.\n\nFootball is a game of intelligence,one team can have a scary squad and still don't have a team. The other can have average players with a beautiful team.\n\nAt the end of the day football is all about team performance and not individual brilliance without getting the results.",
+      "translatedText": "🚨 ティエリ・アンリが日本のチュニジア戦4-0勝利について語る\n\n🗣️ オランダ戦を見た後、ワールドカップのどのチームも日本を過小評価すべきではないと言った。世界最高のスカッドではないかもしれないが、彼らにはチームがあり、森保一という優れた監督がいる。\n\nエルヴェ・ルナールは悪い監督ではない。前回のワールドカップではアルゼンチンを破ったが、今日は日本チームの賢さに困惑している様子が見て取れた。\n\n伊藤、板倉、冨安は堅固で、チュニジアの枠内シュートはゼロだったため、鈴木は何も心配する必要がなかった。\n\n中村、田中、佐野は中盤をしっかりとコントロールし、中村と佐野はそれぞれアシストを記録。攻撃陣も素晴らしかった。\n\n上田綺世が2得点を挙げ、鎌田と伊藤もゴールを決めた。今の日本がワールドカップのラウンド32に進出し、おそらくかなり勝ち進むのを止めるものは何も見当たらない。\n\nサッカーは知性のスポーツだ。あるチームは恐ろしいスカッドを持ちながらチームになれないこともある。別のチームは平均的な選手で美しいチームを作ることもある。\n\n結局のところ、サッカーは結果を伴わない個人の輝きではなく、チームとしてのパフォーマンスがすべてだ。",
+      "likes": 914,
+      "retweets": 140,
+      "replies": [],
+      "isManual": true,
+      "postUrl": "https://x.com/cfcchris17/status/2068576352664449180",
+      "postedAt": "2026-06-21T06:06:49Z"
     }
   ]
 }
