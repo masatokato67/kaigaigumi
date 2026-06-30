@@ -36,7 +36,7 @@ function groupThreadsByMatch(threads: { postedAt?: string }[]) {
     labelMap.get(label)!.push(i);
   });
 
-  return groups.reverse();
+  return groups;
 }
 
 export default function TeamReactionsPage() {
