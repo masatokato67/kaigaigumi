@@ -1,5 +1,185 @@
 [
   {
+    "matchId": "tomiyasu-20260629",
+    "playerId": "tomiyasu",
+    "date": "2026-06-29",
+    "competition": "World Cup",
+    "homeTeam": {
+      "name": "Brazil",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CB",
+      "rating": 7
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.01,
+      "totalPass": 33,
+      "accuratePass": 26,
+      "keyPass": 0,
+      "touches": 53,
+      "dispossessed": 0,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 1,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 1,
+      "totalClearance": 9,
+      "interceptionWon": 2,
+      "ballRecovery": 0,
+      "duelWon": 5,
+      "duelLost": 4,
+      "aerialWon": 3,
+      "aerialLost": 2,
+      "wasFouled": 1,
+      "fouls": 1
+    }
+  },
+  {
+    "matchId": "kamada-20260629",
+    "playerId": "kamada",
+    "date": "2026-06-29",
+    "competition": "World Cup",
+    "homeTeam": {
+      "name": "Brazil",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 78,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 6.3
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedGoals": 0.09,
+      "expectedAssists": 0.01,
+      "totalPass": 33,
+      "accuratePass": 33,
+      "keyPass": 1,
+      "touches": 37,
+      "dispossessed": 1,
+      "totalLongBalls": 3,
+      "accurateLongBalls": 3,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 1,
+      "interceptionWon": 0,
+      "ballRecovery": 2,
+      "duelLost": 3,
+      "aerialWon": 0,
+      "aerialLost": 0,
+      "fouls": 1,
+      "shotsOnTarget": 0,
+      "totalShots": 1
+    }
+  },
+  {
+    "matchId": "sano_kaishu-20260629",
+    "playerId": "sano_kaishu",
+    "date": "2026-06-29",
+    "competition": "World Cup",
+    "homeTeam": {
+      "name": "Brazil",
+      "score": 2
+    },
+    "awayTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 1,
+      "assists": 0,
+      "starting": true,
+      "position": "CDM",
+      "rating": 7.5
+    },
+    "notable": true,
+    "detailedStats": {
+      "expectedGoals": 0.12,
+      "expectedAssists": 0.03,
+      "totalPass": 31,
+      "accuratePass": 28,
+      "keyPass": 0,
+      "touches": 44,
+      "dispossessed": 1,
+      "totalLongBalls": 1,
+      "accurateLongBalls": 1,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 2,
+      "totalClearance": 2,
+      "interceptionWon": 1,
+      "ballRecovery": 2,
+      "duelWon": 3,
+      "duelLost": 4,
+      "aerialWon": 1,
+      "aerialLost": 0,
+      "fouls": 2,
+      "shotsOnTarget": 1,
+      "totalShots": 1
+    }
+  },
+  {
+    "matchId": "kamada-20260625",
+    "playerId": "kamada",
+    "date": "2026-06-25",
+    "competition": "World Cup Grp. F",
+    "homeTeam": {
+      "name": "Japan",
+      "score": 1
+    },
+    "awayTeam": {
+      "name": "Sweden",
+      "score": 1
+    },
+    "playerStats": {
+      "minutesPlayed": 90,
+      "goals": 0,
+      "assists": 0,
+      "starting": true,
+      "position": "CM",
+      "rating": 7.4
+    },
+    "notable": false,
+    "detailedStats": {
+      "expectedAssists": 0.16,
+      "totalPass": 76,
+      "accuratePass": 66,
+      "keyPass": 2,
+      "touches": 88,
+      "dispossessed": 1,
+      "totalLongBalls": 4,
+      "accurateLongBalls": 2,
+      "totalCross": 2,
+      "totalTackle": 0,
+      "blockedScoringAttempt": 0,
+      "totalClearance": 1,
+      "interceptionWon": 0,
+      "ballRecovery": 11,
+      "duelWon": 4,
+      "duelLost": 5,
+      "aerialWon": 0,
+      "aerialLost": 2,
+      "wasFouled": 3,
+      "fouls": 1
+    }
+  },
+  {
     "matchId": "tomiyasu-20260621",
     "playerId": "tomiyasu",
     "date": "2026-06-21",
