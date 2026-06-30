@@ -1656,9 +1656,9 @@
         "id": "id-1782796616026-ux28ozhe7",
         "username": "@Fooootest",
         "verified": false,
-        "languageCode": "JA",
+        "languageCode": "EN",
         "originalText": "佐野海舟がブラジル戦でトップの攻撃スコアを記録🇯🇵🔥\n\n※ゴール・アシストだけでなく、シュート、突破、ボール前進などを含めて、その選手がどれだけ攻撃で効いていたかを評価した数値。",
-        "translatedText": "",
+        "translatedText": "（翻訳未生成）",
         "likes": 3535,
         "retweets": 292,
         "replies": [],
@@ -1705,7 +1705,7 @@
         "postUrl": "https://x.com/markklfc/status/2071649802303991926"
       }
     ],
-    "lastUpdated": "2026-06-30T05:24:21.627Z"
+    "lastUpdated": "2026-06-30T05:36:02.837Z"
   },
   {
     "matchId": "kamada-20260625",
