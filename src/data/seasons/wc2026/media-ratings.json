@@ -1593,91 +1593,119 @@
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1782795635751_0",
-        "username": "@ブンデスリーガReporter",
-        "verified": true,
-        "languageCode": "DE",
-        "originalText": "Watching Kaishu Sano develop in ブンデスリーガ has been a joy. Another composed performance vs Brazil.",
-        "translatedText": "ブンデスリーガでの佐野海舟の成長を見るのは喜びだ。Brazil戦でまた落ち着いたパフォーマンス。",
-        "likes": 18406,
-        "retweets": 3119,
+        "id": "id-1782796608678-0rpdyt9yl",
+        "username": "@FabrizioRomano",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🤩🇯🇵 Sano’s goal against Brazil was his first career goal ever for Japan. 💥",
+        "translatedText": "🤩🇯🇵 佐野のブラジル戦でのゴールは、彼にとって日本代表でのキャリア初ゴールだった。💥",
+        "likes": 64254,
+        "retweets": 4270,
         "replies": [
           {
-            "id": "r1782795635750_0_0",
-            "username": "@FinalThird_",
+            "id": "id-1782796608679-lf6hmd7jw",
+            "username": "@JapanFootballFan",
             "languageCode": "EN",
-            "originalText": "Good game! Keep it up Kaishu Sano! 👏",
-            "translatedText": "良い試合！この調子で佐野海舟！👏",
-            "likes": 85
+            "originalText": "Incredible moment for Sano! What a way to open his account against Brazil. Future looks bright for him and Japan!",
+            "translatedText": "佐野にとって信じられない瞬間だね！ブラジル相手に初ゴールを決めるなんてすごい。彼と日本代表の未来は明るい！",
+            "likes": 280
           },
           {
-            "id": "r1782795635751_0_1",
-            "username": "@AsianFooty",
-            "languageCode": "EN",
-            "originalText": "Solid as always. Love his consistency.",
-            "translatedText": "いつも通り堅実。彼の安定感が好きだ。",
-            "likes": 52
-          }
-        ]
-      },
-      {
-        "id": "t1782795635751_1",
-        "username": "@1.FSVMainz05",
-        "verified": true,
-        "languageCode": "DE",
-        "originalText": "Kaishu Sano puts in a solid shift against Brazil. 1 goal 💪",
-        "translatedText": "佐野海舟がBrazil戦で堅実なプレー。1 goal 💪",
-        "likes": 3603,
-        "retweets": 4465,
-        "replies": [
-          {
-            "id": "r1782795635751_1_0",
-            "username": "@ScoutingReport",
-            "languageCode": "EN",
-            "originalText": "He just does his job every week. Respect.",
-            "translatedText": "毎週仕事をこなす。リスペクト。",
-            "likes": 247
-          },
-          {
-            "id": "r1782795635751_1_1",
-            "username": "@海外サッカー通信",
+            "id": "id-1782796608679-i3hxjb6ig",
+            "username": "@サッカー観戦者",
             "languageCode": "JA",
-            "originalText": "Solid as always. Love his consistency.",
-            "translatedText": "いつも通り堅実。彼の安定感が好きだ。",
-            "likes": 96
+            "originalText": "本当に素晴らしいゴールでしたね。彼の代表での存在感が増していくことを期待しています。次も楽しみ！",
+            "translatedText": "本当に素晴らしいゴールでしたね。彼の代表での存在感が増していくことを期待しています。次も楽しみ！",
+            "likes": 190
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/FabrizioRomano/status/2071649283070202060"
       },
       {
-        "id": "t1782795635751_2",
-        "username": "@TacticsAnalyst",
-        "verified": true,
-        "languageCode": "DE",
-        "originalText": "Kaishu Sano's positioning today was excellent. Always making himself available. 1 goal Good tactical awareness on display.",
-        "translatedText": "佐野海舟の今日のポジショニングは素晴らしかった。常に受ける位置を取っていた。1 goal良い戦術的意識を見せた。",
-        "likes": 8397,
-        "retweets": 3792,
+        "id": "id-1782796615677-fpch9yalg",
+        "username": "@mainz05_world",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "What a masterclass in scouting by Mainz 05! 🤯 \n\nTo find a gem like Kaishu Sano and see how incredible his development has been up to this point is just insane. \nHe arrived as a hidden talent and is now dominating on the biggest stage. Credit to the scouting team! 💎🇯🇵",
+        "translatedText": "マインツ05のスカウトはまさに名手芸だね！🤯 佐野海舟のような逸材を見つけ出し、彼のここまでの信じられないほどの成長ぶりを見ると、ただただ驚くばかりだよ。彼は隠れた才能としてやって来て、今や最高の舞台で活躍している。スカウトチームに拍手！💎🇯🇵",
+        "likes": 1976,
+        "retweets": 104,
         "replies": [
           {
-            "id": "r1782795635751_2_0",
-            "username": "@FootyAnalytics",
+            "id": "id-1782796615677-cft2x009z",
+            "username": "@MainzFanatic05",
             "languageCode": "EN",
-            "originalText": "Reliable performance. Exactly what we needed.",
-            "translatedText": "頼れるパフォーマンス。まさに必要としていたもの。",
-            "likes": 88
+            "originalText": "Absolutely! His work rate and vision are top-tier. So proud to see him shine. Mainz always finds these diamonds!",
+            "translatedText": "その通り！彼の運動量とビジョンは最高レベルだね。彼が輝いているのを見るのは本当に誇らしいよ。マインツはいつもこんなダイヤを見つけてくるんだ！",
+            "likes": 187
           },
           {
-            "id": "r1782795635751_2_1",
-            "username": "@BigMatchFeel",
-            "languageCode": "EN",
-            "originalText": "Good game! Keep it up Kaishu Sano! 👏",
-            "translatedText": "良い試合！この調子で佐野海舟！👏",
-            "likes": 218
+            "id": "id-1782796615677-zik2v2i55",
+            "username": "@J_League_Watcher",
+            "languageCode": "JA",
+            "originalText": "彼の才能はJリーグ時代から光ってたけど、ブンデスリーガでここまで順応して成長するとはね。スカウトも素晴らしいが、本人の努力とコーチ陣の育成も大きい。🇯🇵✨",
+            "translatedText": "彼の才能はJリーグ時代から光ってたけど、ブンデスリーガでここまで順応して成長するとはね。スカウトも素晴らしいが、本人の努力とコーチ陣の育成も大きい。🇯🇵✨",
+            "likes": 93
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/mainz05_world/status/2071657293276758352"
+      },
+      {
+        "id": "id-1782796616026-ux28ozhe7",
+        "username": "@Fooootest",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "佐野海舟がブラジル戦でトップの攻撃スコアを記録🇯🇵🔥\n\n※ゴール・アシストだけでなく、シュート、突破、ボール前進などを含めて、その選手がどれだけ攻撃で効いていたかを評価した数値。",
+        "translatedText": "（翻訳未生成）",
+        "likes": 3535,
+        "retweets": 292,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/Fooootest/status/2071744801721270386"
+      },
+      {
+        "id": "id-1782796616436-s7z7gyw85",
+        "username": "@UTD_Seth001",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🚨Gary Linker on Kaishu Sano scoring his first-ever goal for Japan against Brazil at the FIFA World Cup:\n\n🗣️ “You couldn't write a better story. Your first goal for your country... and it comes against Brazil on the biggest stage in football. That's the kind of moment every kid dreams about.”\n\n“Forget the statistics for a second. That goal has just changed Kaishu Sano's life forever. From this day on, he'll never just be another Japan international he'll be remembered as the man who stunned Brazil at the World Cup.”\n\n“You can see the emotion on his face. That's not just a celebration, that's years of sacrifice, heartbreak and belief all coming out in one unforgettable moment.”\n\n“People will remember the score, but they'll remember that goal even more. Some players wait their whole careers for a moment like this and never get it. Sano has written his name into Japanese football history tonight.”\n\n{@DailyMail }",
+        "translatedText": "（翻訳未生成）",
+        "likes": 135,
+        "retweets": 19,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/UTD_Seth001/status/2071651144242246122"
+      },
+      {
+        "id": "id-1782796616744-bcc0bq8sw",
+        "username": "@FabrizioRomano",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🌎🇯🇵 First World Cup goal for Sano, as Japan lead against Brazil. 💥",
+        "translatedText": "（翻訳未生成）",
+        "likes": 84055,
+        "retweets": 4856,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/FabrizioRomano/status/2071647930243489813"
+      },
+      {
+        "id": "id-1782796617015-ewa0a5646",
+        "username": "@markklfc",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "Micah Richards on Kaishu Sano scoring his first-ever goal for Japan against Brazil at the FIFA World Cup:\n\n🗣️ “You couldn't write a better story. Your first goal for your country... and it comes against Brazil on the biggest stage in football. That's the kind of moment every kid dreams about.”\n\n“Forget the statistics for a second. That goal has just changed Kaishu Sano's life forever. From this day on, he'll never just be another Japan international he'll be remembered as the man who stunned Brazil at the World Cup.”\n\n“You can see the emotion on his face. That's not just a celebration, that's years of sacrifice, heartbreak and belief all coming out in one unforgettable moment.”\n\n“People will remember the score, but they'll remember that goal even more. Some players wait their whole careers for a moment like this and never get it. Sano has written his name into Japanese football history tonight.”",
+        "translatedText": "（翻訳未生成）",
+        "likes": 174,
+        "retweets": 22,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/markklfc/status/2071649802303991926"
       }
     ],
-    "lastUpdated": "2026-06-30T05:00:35.752Z"
+    "lastUpdated": "2026-06-30T05:16:58.120Z"
   },
   {
     "matchId": "kamada-20260625",
