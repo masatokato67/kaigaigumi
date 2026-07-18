@@ -2,6 +2,19 @@
   "playerId": "kamada",
   "mediaRatings": [
     {
+      "date": "2026-07-18",
+      "source": "Palace Report",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Daichi Kamada expressed his childhood dream of representing Japan at the World Cup, stating that a recent result has made those dreams feel closer than ever. He emphasized that the team's aspiration has evolved beyond mere participation or reaching the next round, now aiming to make history by winning the World Cup for Japan for the very first time.",
+      "commentTranslated": "鎌田大地は、幼い頃からのワールドカップで日本代表としてプレーするという夢を語り、最近の結果によってその夢がこれまで以上に身近に感じられるようになったと述べた。彼は、チームの目標が単なる参加や次のラウンド進出を超え、日本に初めてワールドカップをもたらすことで歴史を作ることを目指していると強調した。",
+      "isManual": true,
+      "articleUrl": "https://x.com/PalaceReport/status/2068608372291539081",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-06-22",
       "source": "X (formerly Twitter)",
       "country": "アメリカ合衆国",
