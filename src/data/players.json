@@ -363,5 +363,253 @@
       "averageRating": 6.6
     },
     "featured": false
+  },
+  {
+    "id": "tanaka_ao",
+    "name": {
+      "ja": "田中碧",
+      "en": "Ao Tanaka"
+    },
+    "position": "CM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "Leeds United",
+      "shortName": "リーズ"
+    },
+    "league": {
+      "name": "Premier League",
+      "shortName": "プレミアリーグ",
+      "country": "イングランド"
+    },
+    "photo": "/images/players/tanaka_ao.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "sakamoto",
+    "name": {
+      "ja": "坂元達裕",
+      "en": "Tatsuhiro Sakamoto"
+    },
+    "position": "RW",
+    "positionCategory": "FW",
+    "nationality": "日本",
+    "club": {
+      "name": "Coventry City",
+      "shortName": "コヴェントリー"
+    },
+    "league": {
+      "name": "Premier League",
+      "shortName": "プレミアリーグ",
+      "country": "イングランド"
+    },
+    "photo": "/images/players/sakamoto.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "takai",
+    "name": {
+      "ja": "高井幸大",
+      "en": "Kota Takai"
+    },
+    "position": "CB",
+    "positionCategory": "DF",
+    "nationality": "日本",
+    "club": {
+      "name": "Tottenham Hotspur",
+      "shortName": "トッテナム"
+    },
+    "league": {
+      "name": "Premier League",
+      "shortName": "プレミアリーグ",
+      "country": "イングランド"
+    },
+    "photo": "/images/players/takai.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "sato_ryunosuke",
+    "name": {
+      "ja": "佐藤龍之介",
+      "en": "Ryunosuke Sato"
+    },
+    "position": "AM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "Valencia CF",
+      "shortName": "バレンシア"
+    },
+    "league": {
+      "name": "La Liga",
+      "shortName": "ラ・リーガ",
+      "country": "スペイン"
+    },
+    "photo": "/images/players/sato_ryunosuke.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "kosugi",
+    "name": {
+      "ja": "小杉啓太",
+      "en": "Keita Kosugi"
+    },
+    "position": "CB",
+    "positionCategory": "DF",
+    "nationality": "日本",
+    "club": {
+      "name": "Eintracht Frankfurt",
+      "shortName": "フランクフルト"
+    },
+    "league": {
+      "name": "Bundesliga",
+      "shortName": "ブンデスリーガ",
+      "country": "ドイツ"
+    },
+    "photo": "/images/players/kosugi.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "goto",
+    "name": {
+      "ja": "後藤啓介",
+      "en": "Keisuke Goto"
+    },
+    "position": "ST",
+    "positionCategory": "FW",
+    "nationality": "日本",
+    "club": {
+      "name": "SC Freiburg",
+      "shortName": "フライブルク"
+    },
+    "league": {
+      "name": "Bundesliga",
+      "shortName": "ブンデスリーガ",
+      "country": "ドイツ"
+    },
+    "photo": "/images/players/goto.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "yamamoto",
+    "name": {
+      "ja": "山本理仁",
+      "en": "Rihito Yamamoto"
+    },
+    "position": "CM",
+    "positionCategory": "MF",
+    "nationality": "日本",
+    "club": {
+      "name": "SC Freiburg",
+      "shortName": "フライブルク"
+    },
+    "league": {
+      "name": "Bundesliga",
+      "shortName": "ブンデスリーガ",
+      "country": "ドイツ"
+    },
+    "photo": "/images/players/yamamoto.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
+  },
+  {
+    "id": "suzuki_zion",
+    "name": {
+      "ja": "鈴木彩艶",
+      "en": "Zion Suzuki"
+    },
+    "position": "GK",
+    "positionCategory": "GK",
+    "nationality": "日本",
+    "club": {
+      "name": "Parma Calcio 1913",
+      "shortName": "パルマ"
+    },
+    "league": {
+      "name": "Serie A",
+      "shortName": "セリエA",
+      "country": "イタリア"
+    },
+    "photo": "/images/players/suzuki_zion.webp",
+    "marketValue": "",
+    "caps": 0,
+    "seasonStats": {
+      "season": "2026-27",
+      "goals": 0,
+      "assists": 0,
+      "appearances": 0,
+      "minutesPlayed": 0,
+      "averageRating": 0
+    },
+    "featured": false
   }
 ]

@@ -35,6 +35,14 @@ try { playerMediaFiles["shiogai"] = require("@/data/player-media/shiogai.json");
 try { playerMediaFiles["sano_kodai"] = require("@/data/player-media/sano_kodai.json"); } catch { /* */ }
 try { playerMediaFiles["sano_kaishu"] = require("@/data/player-media/sano_kaishu.json"); } catch { /* */ }
 try { playerMediaFiles["suzuki_yuito"] = require("@/data/player-media/suzuki_yuito.json"); } catch { /* */ }
+try { playerMediaFiles["tanaka_ao"] = require("@/data/player-media/tanaka_ao.json"); } catch { /* */ }
+try { playerMediaFiles["sakamoto"] = require("@/data/player-media/sakamoto.json"); } catch { /* */ }
+try { playerMediaFiles["takai"] = require("@/data/player-media/takai.json"); } catch { /* */ }
+try { playerMediaFiles["sato_ryunosuke"] = require("@/data/player-media/sato_ryunosuke.json"); } catch { /* */ }
+try { playerMediaFiles["kosugi"] = require("@/data/player-media/kosugi.json"); } catch { /* */ }
+try { playerMediaFiles["goto"] = require("@/data/player-media/goto.json"); } catch { /* */ }
+try { playerMediaFiles["yamamoto"] = require("@/data/player-media/yamamoto.json"); } catch { /* */ }
+try { playerMediaFiles["suzuki_zion"] = require("@/data/player-media/suzuki_zion.json"); } catch { /* */ }
 
 // team-reactions (シーズン別チーム評価)
 const teamReactionsBySeason: Record<string, TeamReactions> = {};
