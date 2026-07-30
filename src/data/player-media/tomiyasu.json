@@ -1,5 +1,99 @@
 {
   "playerId": "tomiyasu",
   "mediaRatings": [],
-  "xThreads": []
+  "xThreads": [
+    {
+      "date": "2026-07-30",
+      "id": "id-1785421847699-vpg56lybq",
+      "username": "@FabrizioRomano",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🔴🔵🇯🇵 Takehiro Tomiyasu starts his trial at Crystal Palace today ahead of proposed move as free agent.\n\nTomiyasu also has two proposals from Serie A with #CPFC assessing this possibility, as @gunnerblog reported.",
+      "translatedText": "🔴🔵🇯🇵 冨安健洋は、フリーエージェントとしての移籍提案に先立ち、本日クリスタル・パレスでトライアルを開始する。@gunnerblogが報じたように、冨安はセリエAからも2つのオファーを受けており、#CPFCはこの可能性を評価している。",
+      "likes": 67274,
+      "retweets": 3750,
+      "replies": [
+        {
+          "id": "id-1785421847700-zldprqtaa",
+          "username": "@CPFC_EagleFan",
+          "languageCode": "EN",
+          "originalText": "Wow, Tomiyasu at Palace? That would be a fantastic signing for us, especially on a free! Hope the trial goes well.",
+          "translatedText": "うわー、トミヤスがパレスに？フリーエージェントで来てくれたら、僕らにとって素晴らしい補強になるだろうね！トライアルがうまくいくことを願うよ。",
+          "likes": 215
+        },
+        {
+          "id": "id-1785421847700-fjjx7dhe3",
+          "username": "@JapaneseFootyFan",
+          "languageCode": "EN",
+          "originalText": "Interesting. Serie A might be a better fit for his development, but a free move to a Premier League club like Palace is tempting too. Good luck, Tomiyasu!",
+          "translatedText": "面白いね。彼の成長にはセリエAの方が合っているかもしれないけど、パレスのようなプレミアリーグのクラブにフリーで移籍するのも魅力的だね。頑張れ、冨安！",
+          "likes": 138
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/FabrizioRomano/status/2082148089326874695"
+    },
+    {
+      "date": "2026-07-30",
+      "id": "id-1785421854710-x273u7ze9",
+      "username": "@j_football_now",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "Takehiro Tomiyasu is training with Crystal Palace during the club’s pre-season camp in Como as he weighs up a potential move this summer, per @TheAthleticFC.\n\nThe Japanese defender is currently a free agent and is interested in returning to the Premier League.",
+      "translatedText": "冨安健洋は、今夏移籍の可能性を検討しており、クリスタル・パレスのコモでのプレシーズン合宿に参加してトレーニングを行っているとのこと、@TheAthleticFCが報じています。この日本人ディフェンダーは現在フリーエージェントで、プレミアリーグへの復帰を希望しています。",
+      "likes": 210,
+      "retweets": 8,
+      "replies": [
+        {
+          "id": "id-1785421854710-qad8dqz4y",
+          "username": "@EaglesFan_UK",
+          "languageCode": "EN",
+          "originalText": "Tomiyasu would be an incredible signing for Palace! Solid defender, versatile, exactly what we need. Hope we can get this done.",
+          "translatedText": "トミヤスがパレスに来たら素晴らしい補強になる！堅実なDFで、多様性もあるし、まさに我々が必要としている選手。実現してほしい！",
+          "likes": 287
+        },
+        {
+          "id": "id-1785421854710-28ryy3v9u",
+          "username": "@FootballInsiderJP",
+          "languageCode": "EN",
+          "originalText": "Crystal Palace could be a good step, but I wonder if he can stay injury-free and get consistent playing time there. Hope he makes the right choice.",
+          "translatedText": "クリスタル・パレスも良いステップアップかもしれないけど、怪我なくコンスタントに出場できるかが心配。彼にとって正しい選択をしてほしい。",
+          "likes": 135
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/j_football_now/status/2082071271479951692"
+    },
+    {
+      "date": "2026-07-30",
+      "id": "id-1785421861729-pchqf0r6i",
+      "username": "@PalaceReport",
+      "verified": false,
+      "languageCode": "EN",
+      "originalText": "🚨🇯🇵 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: Takehiro Tomiyasu is training with Crystal Palace, with a transfer possible.\n\n27-yr-old Japan int'l is free agent after Ajax. Tomiyasu is keen to return to PL.\n\nPalace provide high level training as he weighs options.\n\n@gunnerblog",
+      "translatedText": "🚨🇯🇵 速報: 冨安健洋がクリスタル・パレスで練習しており、移籍の可能性がある。\n\n27歳の日本代表選手はアヤックスを退団し、フリーエージェント。冨安はプレミアリーグ復帰を熱望している。\n\nパレスは彼が選択肢を検討する間、高レベルのトレーニングを提供している。",
+      "likes": 1773,
+      "retweets": 91,
+      "replies": [
+        {
+          "id": "id-1785421861729-zy11z0p46",
+          "username": "@CPFC_EagleFan",
+          "languageCode": "EN",
+          "originalText": "Wow, Tomiyasu to Palace? That would be an incredible signing! He's a top-quality defender, exactly what we need. Hope we can get this done!",
+          "translatedText": "冨安がパレスに？信じられないような獲得になるだろうね！彼は最高のディフェンダーで、まさに我々が必要としている選手だ。実現するといいな！",
+          "likes": 287
+        },
+        {
+          "id": "id-1785421861729-50kzn7hee",
+          "username": "@TokyoPalaceSupporter",
+          "languageCode": "EN",
+          "originalText": "Interesting! A bit surprising after Ajax, but if he's fit and hungry, he could be a good addition. Hope he's not just using us for fitness before a bigger move.",
+          "translatedText": "面白いね！アヤックスの後だと少し驚きだけど、もし彼がフィットしていてハングリーなら良い補強になるかも。もっと大きな移籍の前にフィットネス目的で利用されているだけじゃないといいけど。",
+          "likes": 135
+        }
+      ],
+      "isManual": true,
+      "postUrl": "https://x.com/PalaceReport/status/2082065150945738770"
+    }
+  ]
 }
