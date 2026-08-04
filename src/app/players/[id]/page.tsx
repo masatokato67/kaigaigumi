@@ -1,6 +1,5 @@
 import { notFound } from "next/navigation";
 import BackLink from "@/components/ui/BackLink";
-import StatBox from "@/components/ui/StatBox";
 import PlayerProfile from "@/components/players/PlayerProfile";
 import PlayerSeasonContent from "@/components/players/PlayerSeasonContent";
 import { getPlayerById, getMatchesByPlayerId, getAllPlayers, getPlayerMediaData, getPlayerSeasons } from "@/lib/data";
@@ -65,13 +64,6 @@ export default async function PlayerDetailPage({
       <BackLink href="/players" label="選手一覧に戻る" />
 
       <PlayerProfile player={player} />
-
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
-        <StatBox value={player.seasonStats.goals} label="ゴール" accent />
-        <StatBox value={player.seasonStats.assists} label="アシスト" accent />
-        <StatBox value={player.seasonStats.appearances} label="出場試合" />
-        <StatBox value={player.seasonStats.minutesPlayed} label="出場時間" />
-      </div>
 
       <ImobileAd className="mb-8" />
 

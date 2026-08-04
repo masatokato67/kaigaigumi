@@ -1,8 +1,9 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import RatingChart from "./RatingChart";
 import PlayerMatchList from "./PlayerMatchList";
+import StatBox from "@/components/ui/StatBox";
 import type { Match } from "@/lib/types";
 
 interface SeasonOption {
@@ -27,6 +28,18 @@ export default function PlayerSeasonContent({
 }) {
   const [currentSeason, setCurrentSeason] = useState(defaultSeason);
   const matches = matchesBySeason[currentSeason] || [];
+
+  const stats = useMemo(() => {
+    return matches.reduce(
+      (acc, m) => ({
+        goals: acc.goals + m.playerStats.goals,
+        assists: acc.assists + m.playerStats.assists,
+        appearances: acc.appearances + 1,
+        minutesPlayed: acc.minutesPlayed + m.playerStats.minutesPlayed,
+      }),
+      { goals: 0, assists: 0, appearances: 0, minutesPlayed: 0 }
+    );
+  }, [matches]);
 
   const ratingData = [...matches]
     .sort((a, b) => a.date.localeCompare(b.date))
@@ -55,6 +68,13 @@ export default function PlayerSeasonContent({
           ))}
         </div>
       )}
+
+      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+        <StatBox value={stats.goals} label="ゴール" accent />
+        <StatBox value={stats.assists} label="アシスト" accent />
+        <StatBox value={stats.appearances} label="出場試合" />
+        <StatBox value={stats.minutesPlayed} label="出場時間" />
+      </div>
 
       {ratingData.length > 0 && (
         <div className="mb-8">
