@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
 import HeroSection from "@/components/top/HeroSection";
 import MatchResultCard from "@/components/top/MatchResultCard";
 import FeaturedPlayerCard from "@/components/top/FeaturedPlayerCard";
@@ -22,47 +21,6 @@ export default function Home() {
   return (
     <div>
       <HeroSection />
-
-      {/* World Cup Banner */}
-      <section className="max-w-6xl mx-auto px-4 pt-6">
-        <Link
-          href="/matches?season=wc2026"
-          className="block rounded-xl border border-blue-500/30 bg-gradient-to-r from-blue-900/40 to-purple-900/40 p-4 hover:border-blue-400/50 transition-colors group"
-        >
-          <div className="flex items-center justify-between">
-            <div className="flex items-center gap-3">
-              <Image
-                src="/images/wc2026-logo.webp"
-                alt="FIFA World Cup 2026"
-                width={40}
-                height={40}
-                className="object-contain"
-              />
-              <div>
-                <p className="text-blue-400 text-xs font-medium tracking-wider">
-                  FIFA WORLD CUP 2026
-                </p>
-                <p className="text-white font-bold">
-                  ワールドカップ特集ページ
-                </p>
-              </div>
-            </div>
-            <svg
-              className="w-5 h-5 text-gray-400 group-hover:text-white transition-colors"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M9 5l7 7-7 7"
-              />
-            </svg>
-          </div>
-        </Link>
-      </section>
 
       {/* Recent Match Results */}
       <section className="max-w-6xl mx-auto px-4 py-6">
