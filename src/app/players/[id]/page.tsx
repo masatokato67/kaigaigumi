@@ -67,6 +67,15 @@ export default async function PlayerDetailPage({
 
       <ImobileAd className="mb-8" />
 
+      <PlayerSeasonContent
+        playerId={id}
+        seasons={seasons}
+        matchesBySeason={matchesBySeason}
+        defaultSeason={defaultSeason}
+      />
+
+      <ImobileAd className="my-8" />
+
       {playerMedia && playerMedia.mediaRatings.length > 0 && (
         <div className="mb-8">
           <PlayerMediaRatings ratings={playerMedia.mediaRatings} playerId={id} />
@@ -78,15 +87,6 @@ export default async function PlayerDetailPage({
           <PlayerXThreads threads={playerMedia.xThreads} playerId={id} />
         </div>
       )}
-
-      <ImobileAd className="mb-8" />
-
-      <PlayerSeasonContent
-        playerId={id}
-        seasons={seasons}
-        matchesBySeason={matchesBySeason}
-        defaultSeason={defaultSeason}
-      />
 
       <ImobileAd className="mt-8" />
     </div>
