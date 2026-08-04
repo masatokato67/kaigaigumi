@@ -13,7 +13,7 @@ export interface SeasonConfig {
 
 // 新しい順に定義（UI表示順）
 export const SEASONS: SeasonConfig[] = [
-  { id: "2026-27",  label: "2026-2027",         from: "2026-08-01", to: "2027-06-30" },
+  { id: "2026-27",  label: "2026-2027",         from: "2026-08-01", to: "2027-06-30", visible: true },
   { id: "wc2026",   label: "2026 ワールドカップ", from: "2026-06-01", to: "2026-07-31", visible: true },
   { id: "2025-26",  label: "2025-2026",         from: "2025-07-01", to: "2026-05-31" },
 ];
