@@ -65,7 +65,7 @@ export default async function PlayerDetailPage({
 
       <PlayerProfile player={player} />
 
-      <ImobileAd className="mb-8" />
+      <ImobileAd className="my-8" />
 
       <PlayerSeasonContent
         playerId={id}
