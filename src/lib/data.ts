@@ -132,10 +132,17 @@ export function getAllMatches(): Match[] {
   return allMatches;
 }
 
-export function getMatchesByPlayerId(playerId: string): Match[] {
-  return allMatches
+export function getMatchesByPlayerId(playerId: string, seasonId?: string): Match[] {
+  const source = seasonId ? (matchesBySeason[seasonId] || []) : allMatches;
+  return source
     .filter((m) => m.playerId === playerId)
     .sort((a, b) => b.date.localeCompare(a.date));
+}
+
+export function getPlayerSeasons(playerId: string): { id: string; label: string }[] {
+  return SEASONS.filter(
+    (s) => (matchesBySeason[s.id] || []).some((m) => m.playerId === playerId)
+  ).map((s) => ({ id: s.id, label: s.label }));
 }
 
 export function getMatchById(matchId: string): Match | undefined {

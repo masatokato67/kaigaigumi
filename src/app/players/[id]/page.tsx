@@ -2,9 +2,8 @@ import { notFound } from "next/navigation";
 import BackLink from "@/components/ui/BackLink";
 import StatBox from "@/components/ui/StatBox";
 import PlayerProfile from "@/components/players/PlayerProfile";
-import RatingChart from "@/components/players/RatingChart";
-import PlayerMatchList from "@/components/players/PlayerMatchList";
-import { getPlayerById, getMatchesByPlayerId, getAllPlayers, getPlayerMediaData } from "@/lib/data";
+import PlayerSeasonContent from "@/components/players/PlayerSeasonContent";
+import { getPlayerById, getMatchesByPlayerId, getAllPlayers, getPlayerMediaData, getPlayerSeasons } from "@/lib/data";
 import PlayerMediaRatings from "@/components/players/PlayerMediaRatings";
 import PlayerXThreads from "@/components/players/PlayerXThreads";
 import ImobileAd from "@/components/ads/ImobileAd";
@@ -54,13 +53,12 @@ export default async function PlayerDetailPage({
 
   const matches = getMatchesByPlayerId(id);
   const playerMedia = getPlayerMediaData(id);
-  const ratingData = matches
-    .slice(0, 10) // 最新10試合のみ
-    .sort((a, b) => a.date.localeCompare(b.date))
-    .map((m) => ({
-      date: m.date,
-      rating: m.playerStats.rating,
-    }));
+  const seasons = getPlayerSeasons(id);
+  const matchesBySeason: Record<string, typeof matches> = {};
+  for (const s of seasons) {
+    matchesBySeason[s.id] = getMatchesByPlayerId(id, s.id);
+  }
+  const defaultSeason = seasons[0]?.id || "";
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
@@ -73,10 +71,6 @@ export default async function PlayerDetailPage({
         <StatBox value={player.seasonStats.assists} label="アシスト" accent />
         <StatBox value={player.seasonStats.appearances} label="出場試合" />
         <StatBox value={player.seasonStats.minutesPlayed} label="出場時間" />
-      </div>
-
-      <div className="mb-8">
-        <RatingChart data={ratingData} />
       </div>
 
       <ImobileAd className="mb-8" />
@@ -95,7 +89,12 @@ export default async function PlayerDetailPage({
 
       <ImobileAd className="mb-8" />
 
-      <PlayerMatchList matches={matches} playerId={id} />
+      <PlayerSeasonContent
+        playerId={id}
+        seasons={seasons}
+        matchesBySeason={matchesBySeason}
+        defaultSeason={defaultSeason}
+      />
 
       <ImobileAd className="mt-8" />
     </div>
