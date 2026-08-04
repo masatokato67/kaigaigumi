@@ -177,10 +177,11 @@ export function getRecentMatches(limit: number = 10): Match[] {
     .slice(0, limit);
 }
 
-export function getTopRatedMatches(limit: number = 10): Match[] {
+export function getTopRatedMatches(limit: number = 10, seasonId?: string): Match[] {
   const mediaMap = new Map(allMediaRatings.map((mr) => [mr.matchId, mr]));
+  const source = seasonId ? (matchesBySeason[seasonId] || []) : allMatches;
 
-  return allMatches
+  return source
     .filter((m) => matchInputIds.has(m.matchId))
     .map((match) => ({
       match,

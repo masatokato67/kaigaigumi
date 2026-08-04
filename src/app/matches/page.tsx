@@ -17,7 +17,7 @@ function MatchesContent() {
   const router = useRouter();
   const seasons = getAvailableSeasons();
   const currentSeason = searchParams.get("season") || seasons[0]?.id;
-  const topRatedMatches = getTopRatedMatches(10);
+  const topRatedMatches = getTopRatedMatches(10, currentSeason);
   const teamReactions = getTeamReactions(currentSeason);
   const allMatches = getMatchesBySeason(currentSeason);
 
