@@ -1,7 +1,12 @@
+"use client";
+
+import { useState, useEffect } from "react";
 import Link from "next/link";
 import RatingBadge from "@/components/ui/RatingBadge";
 import { getMediaAverageRating } from "@/lib/data";
 import type { Match } from "@/lib/types";
+
+const INITIAL_COUNT = 5;
 
 export default function PlayerMatchList({
   matches,
@@ -10,6 +15,11 @@ export default function PlayerMatchList({
   matches: Match[];
   playerId: string;
 }) {
+  const [expanded, setExpanded] = useState(false);
+  useEffect(() => setExpanded(false), [matches]);
+  const visibleMatches = expanded ? matches : matches.slice(0, INITIAL_COUNT);
+  const hasMore = matches.length > INITIAL_COUNT;
+
   const getRating = (match: Match) =>
     getMediaAverageRating(match.matchId) ?? match.playerStats.rating;
   return (
@@ -31,7 +41,7 @@ export default function PlayerMatchList({
         <h2 className="font-bold">試合リスト</h2>
       </div>
       <div className="space-y-3">
-        {matches.map((match) => (
+        {visibleMatches.map((match) => (
           <Link
             key={match.matchId}
             href={`/players/${playerId}/matches/${match.matchId}`}
@@ -67,6 +77,14 @@ export default function PlayerMatchList({
           </Link>
         ))}
       </div>
+      {hasMore && !expanded && (
+        <button
+          onClick={() => setExpanded(true)}
+          className="w-full mt-4 py-3 text-sm text-gray-400 hover:text-white border border-gray-700 rounded-lg hover:border-gray-500 transition-colors"
+        >
+          もっと見る（残り{matches.length - INITIAL_COUNT}件）
+        </button>
+      )}
     </div>
   );
 }
