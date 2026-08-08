@@ -3,6 +3,19 @@
   "mediaRatings": [
     {
       "date": "2026-08-08",
+      "source": "Frankfurter Rundschau",
+      "country": "ドイツ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Der Artikel von fr.de hebt Kaishu Sano als den besten und begehrtesten Spieler von Mainz 05 hervor. Er wird als oft unterschätzter Mittelfeldmann beschrieben, dessen Fähigkeiten durch ein Traumtor im WM-Achtelfinale gegen Brasilien ein internationales Publikum beeindruckten. Das Fachmagazin „Kicker“ stufte ihn in seiner Position im defensiven Mittelfeld nur hinter DFB-Kapitän Joshua Kimmich ein, was seine Klasse unterstreicht. Sportdirektor Niko Bungert schließt einen Rekordtransfer für Kaishu Sano nicht aus und deutet an, dass der Verein von einem möglichen Verkauf für bis zu 60 Millionen Euro finanziell stark profitieren würde.",
+      "commentTranslated": "fr.deの記事は、佐野海舟をマインツ05の最高かつ最も人気のある選手として強調しています。彼は過小評価されがちなミッドフィールダーとされており、ブラジル戦のワールドカップラウンド16での素晴らしいゴールによって、その能力が国際的な観客を魅了しました。専門誌「Kicker」は、彼を守備的ミッドフィールダーのポジションでDFBキャプテンのジョシュア・キミッヒに次ぐ評価をしており、彼のクラスを示しています。スポーツディレクターのニコ・ブンガートは、佐野の移籍金が6000万ユーロに達する可能性のある記録的な移籍を排除せず、クラブがその売却から財政的に大きく利益を得ることを示唆しています。",
+      "isManual": true,
+      "articleUrl": "https://www.fr.de/sport/fussball/mainz-05-koennte-kaishu-sano-fuer-60-millionen-euro-verkaufen-94429839.html",
+      "hasArticleRating": false
+    },
+    {
+      "date": "2026-08-08",
       "source": "Yahoo Sports",
       "country": "アメリカ",
       "rating": 0,
