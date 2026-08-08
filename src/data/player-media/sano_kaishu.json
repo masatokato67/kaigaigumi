@@ -2,6 +2,19 @@
   "playerId": "sano_kaishu",
   "mediaRatings": [
     {
+      "date": "2026-08-08",
+      "source": "Yahoo Sports",
+      "country": "アメリカ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Kaishu Sano, a 25-year-old Japanese international defensive midfielder, is reportedly being monitored by Liverpool and Arsenal for a potential move away from Mainz 05. Mainz's sporting director indicated they prefer to keep him but would consider a sale if an \"irrefusable\" offer, touted around €60 million, arrives. He is highly valued by the club and his departure would make many unhappy within the team.",
+      "commentTranslated": "25歳の日本代表守備的ミッドフィールダーである佐野海舟は、マインツ05からの移籍の可能性に関して、リヴァプールとアーセナルが獲得を監視していると報じられています。マインツのスポーツディレクターは、クラブは彼を維持することを望んでいるが、拒否できないほどのオファー（約6000万ユーロとされている）があれば売却を検討すると述べました。彼はクラブから高く評価されており、彼の退団はチーム内で多くの人々を不幸にするでしょう。",
+      "isManual": true,
+      "articleUrl": "https://sports.yahoo.com/articles/mainz-boss-opens-door-kaishu-121100259.html",
+      "hasArticleRating": false
+    },
+    {
       "date": "2026-06-21",
       "source": "ZDFheute",
       "country": "ドイツ",
