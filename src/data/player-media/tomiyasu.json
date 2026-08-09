@@ -1,6 +1,46 @@
 {
   "playerId": "tomiyasu",
-  "mediaRatings": [],
+  "mediaRatings": [
+    {
+      "date": "2026-08-09",
+      "source": "Metro News",
+      "country": "イングランド",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Takehiro Tomiyasu has joined Crystal Palace on a free transfer after a successful trial period that included pre-season games. He was a fan-favourite at Arsenal but his contract was terminated due to significant injury problems in the 2024/25 season. After a brief spell at Ajax, the versatile Japan international is manager Pierre Sage's second signing, expected to provide much-needed squad depth.",
+      "commentTranslated": "冨安健洋は、プレシーズンマッチへの参加を含むトライアル期間を経て、クリスタル・パレスにフリー移籍しました。彼はアーセナルでファンに愛されていましたが、2024/25シーズンに負傷問題でほとんどを欠場したため、契約が解除されました。アヤックスでの短い期間を経て、多才な日本人ディフェンダーはピエール・サージ監督にとって2人目の補強となり、チームに必要な戦力層の厚さをもたらすと期待されています。",
+      "isManual": true,
+      "articleUrl": "https://metro.co.uk/2026/08/07/crystal-palace-want-untouchable-chelsea-star-signing-ex-arsenal-defender-29324446/",
+      "hasArticleRating": false
+    },
+    {
+      "date": "2026-08-09",
+      "source": "Vodacom Soccer",
+      "country": "南アフリカ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "The article reports that Crystal Palace has strengthened its defence by signing Takehiro Tomiyasu, who previously played for Arsenal. This news focuses on his transfer to Crystal Palace to bolster their defensive line.",
+      "commentTranslated": "記事によると、クリスタル・パレスは元アーセナルのディフェンダーである冨安健洋を獲得し、守備を強化したと報じられています。このニュースは、彼がクリスタル・パレスに移籍し、守備陣を強化することに焦点を当てています。",
+      "isManual": true,
+      "articleUrl": "https://vodacomsoccer.com/news/crystal-palace-strengthen-defence-with-takehiro-tomiyasu-signing",
+      "hasArticleRating": false
+    },
+    {
+      "date": "2026-08-09",
+      "source": "Yahoo Sports",
+      "country": "カナダ",
+      "rating": 0,
+      "maxRating": 10,
+      "ratingSystem": "standard",
+      "comment": "Takehiro Tomiyasu has signed for Crystal Palace on a free transfer after a successful trial, joining from Ajax where he made nine appearances. He previously played 84 games for Arsenal between 2021 and 2025, but his final season was marred by injury, leading to his contract termination. A Japan international, he played three times in the 2026 World Cup and is seen as a versatile defender capable of playing full-back or centre-back, bringing needed experience to Palace's backline.",
+      "commentTranslated": "冨安健洋は、トライアル成功後、アヤックスでの9試合出場を経て、クリスタル・パレスと自由移籍で契約した。彼は2021年から2025年の間にアーセナルで84試合に出場したが、最後のシーズンは怪我に悩まされ、契約解除に至った。日本代表でもあり、2026年ワールドカップには3回出場。サイドバックまたはセンターバックとしてプレー可能な多才なディフェンダーであり、パレスの守備陣に必要とされている経験をもたらすだろう。",
+      "isManual": true,
+      "articleUrl": "https://ca.sports.yahoo.com/news/crystal-palace-complete-free-transfer-110500873.html",
+      "hasArticleRating": false
+    }
+  ],
   "xThreads": [
     {
       "date": "2026-07-30",
