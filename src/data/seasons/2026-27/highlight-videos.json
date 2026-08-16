@@ -1,1 +1,52 @@
-{}
+{
+  "endo-20260816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260816": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kubo-20260815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "tomiyasu-20260815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "kamada-20260815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kodai-20260815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "sano_kaishu-20260815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "suzuki_yuito-20260815": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "endo-20260809": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  },
+  "shiogai-20260808": {
+    "enabled": false,
+    "youtubeId": "",
+    "title": ""
+  }
+}
