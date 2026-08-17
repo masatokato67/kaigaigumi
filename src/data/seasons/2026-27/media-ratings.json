@@ -472,7 +472,20 @@
   {
     "matchId": "sano_kodai-20260815",
     "playerId": "sano_kodai",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "PSV Inside",
+        "country": "オランダ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Henk Spaan is critical of Kodai Sano's transfer to PSV, stating that Sano's qualities are disappointing compared to other NEC players, and that fellow player Nejasmic is actually better in his position. He also expresses frustration over the €14 million transfer fee, claiming Nottingham Forest had offered €20 million. However, the comments section offers opposing views, arguing that Sano is crucially important for breakthroughs in NEC's system and that PSV might have specific reasons for acquiring him beyond just finding the \"best\" player.",
+        "commentTranslated": "ヘンク・スパーンは佐野航大のPSVへの移籍に批判的で、佐野の能力は他のNEC選手と比較して期待外れであり、同僚のネヤシュミッチの方が彼のポジションでは実際により優れていると述べている。彼はまた、移籍金1400万ユーロについても不満を表明し、ノッティンガム・フォレストが冬に2000万ユーロを提示していたと主張している。しかし、コメント欄では反対意見が寄せられており、佐野はNECのシステムにおいて突破と移行に決定的に重要であり、PSVは単に「最高の」選手を見つける以上の特定の理由で彼を獲得した可能性があると主張している。",
+        "isManual": true,
+        "articleUrl": "https://www.psvinside.nl/kritiek/transfer-sano-naar-psv",
+        "hasArticleRating": false
+      }
+    ],
     "averageRating": 6.3,
     "localVoices": [],
     "xThreads": [
@@ -561,7 +574,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-08-16T14:52:07.263Z"
+    "lastUpdated": "2026-08-17T01:58:30.248Z"
   },
   {
     "matchId": "sano_kaishu-20260815",

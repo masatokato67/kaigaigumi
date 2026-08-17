@@ -422,7 +422,7 @@
         "postUrl": "https://x.com/AspireTechno/status/2035792066647663084"
       }
     ],
-    "lastUpdated": "2026-03-23T04:49:30.649Z"
+    "lastUpdated": "2026-08-17T01:58:17.434Z"
   },
   {
     "matchId": "tomiyasu-20260314",
@@ -626,7 +626,7 @@
         "postUrl": "https://x.com/AFC_Monty_/status/2033935264939196456"
       }
     ],
-    "lastUpdated": "2026-03-18T14:40:29.418Z"
+    "lastUpdated": "2026-08-17T01:58:04.859Z"
   },
   {
     "matchId": "tomiyasu-20260307",
@@ -1415,18 +1415,6 @@
         "isManual": true,
         "articleUrl": "https://www.sueddeutsche.de/sport/fussball-europa-league-freiburg-furios-nach-erneutem-sieg-im-halbfinale-dpa.urn-newsml-dpa-com-20090101-260416-930-955286",
         "hasArticleRating": false
-      },
-      {
-        "source": "goslarsche.de",
-        "country": "ドイツ",
-        "rating": 0,
-        "maxRating": 10,
-        "ratingSystem": "standard",
-        "comment": "The provided article text is a Contentpass subscription prompt and does not contain any information about Yuito Suzuki or any football match. Therefore, no details regarding the player's performance, tactical observations, or quotes can be extracted from this content.",
-        "commentTranslated": "提供された記事のテキストはContentpassの購読案内であり、鈴木唯人に関する情報やサッカーの試合内容は含まれていません。したがって、選手のパフォーマンス、戦術的な観察、引用などの詳細は、このコンテンツから抽出できません。",
-        "isManual": true,
-        "articleUrl": "https://www.contentpass.net/en/on/goslarsche.de/plan/48e64987-3032-4a34-be5c-4b1b84429968?continue=https%3A%2F%2Fwww.goslarsche.de%2FNachrichten%2FFreiburg-furios-Nach-erneutem-Sieg-im-Halbfinale-735712.html&instanceId=d9ab29f6-7675-45a7-829c-450d7cc8ea4f&planId=48e64987-3032-4a34-be5c-4b1b84429968&propertyId=59e6397d-c97a-48c2-9940-99714050679a&route=register&activationCode=false",
-        "hasArticleRating": false
       }
     ],
     "averageRating": 8.4,
@@ -1565,7 +1553,7 @@
         "postUrl": "https://x.com/JapaneseFbl/status/2044862521668993129"
       }
     ],
-    "lastUpdated": "2026-04-17T02:41:02.655Z"
+    "lastUpdated": "2026-08-17T01:57:52.230Z"
   },
   {
     "matchId": "suzuki_yuito-20260409",
@@ -2497,7 +2485,7 @@
         "postUrl": "https://x.com/pasaportebundes/status/2035782887711097124"
       }
     ],
-    "lastUpdated": "2026-03-23T04:51:54.535Z"
+    "lastUpdated": "2026-08-17T01:57:37.697Z"
   },
   {
     "matchId": "suzuki_yuito-20260319",
@@ -2665,7 +2653,7 @@
         "postUrl": "https://x.com/dashstatsbr/status/2034745238418256231"
       }
     ],
-    "lastUpdated": "2026-03-19T23:54:38.209Z"
+    "lastUpdated": "2026-08-17T01:57:25.110Z"
   },
   {
     "matchId": "suzuki_yuito-20260315",
@@ -3081,7 +3069,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-13T05:06:58.949Z"
+    "lastUpdated": "2026-08-17T01:57:12.520Z"
   },
   {
     "matchId": "suzuki_yuito-20260307",
@@ -3276,7 +3264,7 @@
         "postUrl": "https://x.com/ayubafootball/status/2030304254150234525"
       }
     ],
-    "lastUpdated": "2026-03-08T01:27:40.473Z"
+    "lastUpdated": "2026-08-17T01:56:59.945Z"
   },
   {
     "matchId": "suzuki_yuito-20260301",
@@ -7167,7 +7155,7 @@
         "postUrl": "https://x.com/schurrleee/status/2030317418657042905"
       }
     ],
-    "lastUpdated": "2026-03-08T01:28:05.960Z"
+    "lastUpdated": "2026-08-17T01:56:47.182Z"
   },
   {
     "matchId": "shiogai-20260301",
@@ -10617,7 +10605,7 @@
         "postUrl": "https://x.com/TerryFooty/status/2034252713463087560"
       }
     ],
-    "lastUpdated": "2026-03-18T14:23:14.264Z"
+    "lastUpdated": "2026-08-17T01:56:34.602Z"
   },
   {
     "matchId": "sano_kodai-20260308",
@@ -10770,12 +10758,48 @@
         "postUrl": "https://x.com/FutbolWaffle/status/2030328738940920255"
       }
     ],
-    "lastUpdated": "2026-03-09T02:01:38.409Z"
+    "lastUpdated": "2026-08-17T01:56:22.046Z"
   },
   {
     "matchId": "sano_kodai-20260303",
     "playerId": "sano_kodai",
     "ratings": [
+      {
+        "source": "VoetbalPrimeur",
+        "country": "オランダ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kodai Sano was ecstatic after NEC's spectacular victory over PSV, which secured their place in the KNVB Beker final. The Japanese player, along with several teammates, joined the ESPN desk for the post-match analysis. Sano notably took the lead in the celebrations, even grabbing the microphone, showcasing his intense joy and enthusiasm.",
+        "commentTranslated": "NECがPSVに劇的な勝利を収め、KNVBベーカー決勝進出を決めた後、佐野航大は歓喜に沸いた。この日本人選手は、数名のチームメイトと共に試合後の分析のためESPNのデスクに現れた。佐野は祝賀ムードの中で率先して行動し、マイクを掴むほど、その強い喜びと熱意を示した。",
+        "isManual": true,
+        "articleUrl": "https://www.voetbalprimeur.nl/nieuws/1748032/uitzinnige-nec-spelers-nemen-nabeschouwing-espn-over.html",
+        "hasArticleRating": false
+      },
+      {
+        "source": "Voetbal International",
+        "country": "オランダ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Sano werd door coach Schreuder genoemd als een van de spelers die fouten maakten bij tegendoelpunten van NEC. Echter, hij kreeg ook complimenten voor zijn harde werk op trainingen. Schreuder merkte op dat Sano nu een hoger niveau laat zien dan voor de winterstop en dat hij 100% van alle wedstrijd- en trainingsminuten heeft gehad, wat zijn consistentie en fitheid benadrukt.",
+        "commentTranslated": "佐野はNECの失点時にミスを犯した選手の一人としてシュロイダー監督に言及された。しかし、彼は練習での努力についても称賛された。シュロイダー監督は、佐野が冬休み前よりも高いレベルを示しており、すべての試合と練習で100%の出場時間を記録していると述べ、その一貫性とフィットネスを強調した。",
+        "isManual": true,
+        "articleUrl": "https://www.vi.nl/nieuws/schreuder-na-bereiken-finale-vergeleken-met-simeone-kan-ik-niet-ontkennen",
+        "hasArticleRating": false
+      },
+      {
+        "source": "Voetbalflitsen.nl",
+        "country": "オランダ",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Kodai Sano wordt in het artikel genoemd in de context van een eerdere transferpoging van Ajax. Ajax probeerde hem te contracteren en was bereid ongeveer tien miljoen euro voor hem te betalen. Als onderdeel van dit \"Sano-pakket\" zou Ahmetcan Kaplan, ter waarde van vijf miljoen euro, definitief bij NEC worden ondergebracht. Het artikel benadrukt echter dat de waarde van Kaplan inmiddels is gestegen, waardoor deze oorspronkelijke dealstructuur niet meer realistisch is.",
+        "commentTranslated": "記事では、佐野航大がアヤックスの以前の移籍試行に関連して言及されています。アヤックスは彼を獲得しようとし、約1000万ユーロを支払う用意がありました。この「佐野パッケージ」の一部として、アーメットジャン・カプラン（Ahmetcan Kaplan）が500万ユーロの価値でNECに完全に移籍することになっていました。しかし、記事はカプランの価値が現在上昇しているため、この元の取引構造はもはや現実的ではないと強調しています。",
+        "isManual": true,
+        "articleUrl": "https://voetbalflitsen.nl/nieuws/rtgngz/ajax-kaplan-waarde-nec-transferdeal",
+        "hasArticleRating": false
+      },
       {
         "source": "Voetbalzone",
         "country": "オランダ",
@@ -10877,7 +10901,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-07T15:15:22.667Z"
+    "lastUpdated": "2026-08-17T01:56:09.382Z"
   },
   {
     "matchId": "sano_kodai-20260228",
@@ -14313,7 +14337,7 @@
         "postUrl": "https://x.com/BluesBallersHQ/status/2042010143475499344"
       }
     ],
-    "lastUpdated": "2026-04-09T22:47:41.831Z"
+    "lastUpdated": "2026-08-17T01:29:45.632Z"
   },
   {
     "matchId": "sano_kaishu-20260404",
@@ -14484,7 +14508,7 @@
         "postUrl": "https://x.com/_yperion_/status/2040550443315536065"
       }
     ],
-    "lastUpdated": "2026-04-04T23:16:16.660Z"
+    "lastUpdated": "2026-08-17T00:44:09.120Z"
   },
   {
     "matchId": "sano_kaishu-20260331",
@@ -14984,7 +15008,7 @@
         "postUrl": "https://x.com/lukaasxn7/status/2035796581111169410"
       }
     ],
-    "lastUpdated": "2026-03-23T04:51:22.886Z"
+    "lastUpdated": "2026-08-17T00:12:25.595Z"
   },
   {
     "matchId": "sano_kaishu-20260319",
@@ -15110,7 +15134,7 @@
         "postUrl": "https://x.com/JHarrisCFC/status/2034751854291112063"
       }
     ],
-    "lastUpdated": "2026-03-20T00:06:14.704Z"
+    "lastUpdated": "2026-08-16T23:45:37.492Z"
   },
   {
     "matchId": "sano_kaishu-20260315",
@@ -15327,7 +15351,7 @@
         "postUrl": "https://x.com/FourtyNiner1909/status/2033898823261606111"
       }
     ],
-    "lastUpdated": "2026-03-18T14:14:41.450Z"
+    "lastUpdated": "2026-08-16T23:11:24.506Z"
   },
   {
     "matchId": "sano_kaishu-20260312",
@@ -19570,7 +19594,7 @@
         "postUrl": "https://x.com/Always_chels1/status/2046514964093948039"
       }
     ],
-    "lastUpdated": "2026-04-24T14:27:18.475Z"
+    "lastUpdated": "2026-08-16T22:37:24.816Z"
   },
   {
     "matchId": "mitoma-20260418",
@@ -19959,7 +19983,7 @@
         "postUrl": "https://x.com/HassanSports26/status/2043001664324419662"
       }
     ],
-    "lastUpdated": "2026-04-11T16:38:30.855Z"
+    "lastUpdated": "2026-08-16T16:05:35.779Z"
   },
   {
     "matchId": "mitoma-20260331",
@@ -20643,7 +20667,7 @@
         "postUrl": "https://x.com/asensiotroluu/status/2035363376457494688"
       }
     ],
-    "lastUpdated": "2026-03-21T15:21:59.619Z"
+    "lastUpdated": "2026-08-16T15:30:12.062Z"
   },
   {
     "matchId": "mitoma-20260304",
@@ -20706,9 +20730,39 @@
         ],
         "isManual": true,
         "postUrl": "https://x.com/AndrewJames1901/status/2029855918406472150"
+      },
+      {
+        "id": "id-1786894193267-4akillewb",
+        "username": "@BrightonBuzzz",
+        "verified": false,
+        "languageCode": "EN",
+        "originalText": "🚨 Breaking news: Japan's team manager Moriyasu gives update on Mitoma: \n\n\"According to the medical report, I understand he will be fit in time for the international break and that it is not a long-term absence. However, with injuries, recovery times can vary depending on the condition at the time”\n\nLooks to be a quicker recovery (at least end of March) for our Samurai Blue, Kaoru! 🙏🏻 🚑\n\n#BHAFC #japan #三笘薫 #三笘薫 #日本代表 #サッカー日本代表 #SAMURAIBLUE #ブライトン",
+        "translatedText": "🚨 速報: 日本代表監督の森保が三笘について最新情報を発表:\n\n「医療報告書によると、彼は国際試合の期間までに間に合うように復帰し、長期離脱ではないと理解しています。しかし、怪我の場合、回復期間はその時の状態によって異なる可能性があります」\n\n我らのサムライブルー、薫の回復は早そうです（少なくとも3月末までには）！🙏🏻 🚑\n\n#BHAFC #japan #三笘薫 #三笘薫 #日本代表 #サッカー日本代表 #SAMURAIBLUE #ブライトン",
+        "likes": 394,
+        "retweets": 22,
+        "replies": [
+          {
+            "id": "id-1786894199458-9oim4tu9y",
+            "username": "@SeagullsJapanFan",
+            "languageCode": "EN",
+            "originalText": "This is fantastic news! So relieved to hear it's not a long-term one. Get well soon, Mitoma-san! 🙏",
+            "translatedText": "これは素晴らしいニュースだ！長期離脱じゃないと聞いて本当に安心した。三笘さん、早く良くなってください！🙏",
+            "likes": 280
+          },
+          {
+            "id": "id-1786894199458-uh23wjie0",
+            "username": "@FootballJP_Analyst",
+            "languageCode": "EN",
+            "originalText": "Good to hear, but 'recovery times can vary' is a crucial point. Hope they don't rush him back, his long-term health is more important.",
+            "translatedText": "良い知らせだけど、『回復期間は異なる可能性がある』というのは重要な点だね。無理に復帰させないでほしい、彼の長期的な健康がもっと重要だ。",
+            "likes": 165
+          }
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/BrightonBuzzz/status/2030243510662607296"
       }
     ],
-    "lastUpdated": "2026-03-07T15:17:22.545Z"
+    "lastUpdated": "2026-08-16T15:29:59.458Z"
   },
   {
     "matchId": "mitoma-20260301",
@@ -23586,7 +23640,7 @@
         "postUrl": "https://x.com/JInsiderBR/status/2045622136903966789"
       }
     ],
-    "lastUpdated": "2026-04-19T00:15:04.579Z"
+    "lastUpdated": "2026-08-16T15:29:40.294Z"
   },
   {
     "matchId": "kubo-20260411",
@@ -23727,7 +23781,7 @@
         "postUrl": "https://x.com/hiitsmeadrie/status/2042968785095954641"
       }
     ],
-    "lastUpdated": "2026-04-11T16:24:21.977Z"
+    "lastUpdated": "2026-08-16T15:29:27.250Z"
   },
   {
     "matchId": "kubo-20260118",
@@ -26935,7 +26989,7 @@
         "postUrl": "https://x.com/ShunaCocoa/status/2044930943493067040"
       }
     ],
-    "lastUpdated": "2026-04-17T03:14:51.933Z"
+    "lastUpdated": "2026-08-16T15:28:03.930Z"
   },
   {
     "matchId": "kamada-20260412",
@@ -27235,22 +27289,22 @@
         "postUrl": "https://x.com/neiog/status/2043367379162341659"
       }
     ],
-    "lastUpdated": "2026-04-12T16:38:30.682Z"
+    "lastUpdated": "2026-08-16T15:27:51.228Z"
   },
   {
     "matchId": "kamada-20260409",
     "playerId": "kamada",
     "ratings": [
       {
-        "source": "Football Italia",
+        "source": "TribalFootball.com",
         "country": "イングランド",
         "rating": 0,
         "maxRating": 10,
         "ratingSystem": "standard",
-        "comment": "Football Italia's Man of the Match, Daichi Kamada, shone for Crystal Palace with an assist and a dominant display in midfield. He created numerous chances for his side and worked hard defensively, contributing to their 3-0 victory over Fiorentina.",
-        "commentTranslated": "Football Italiaのマン・オブ・ザ・マッチである鎌田大地は、アシストと中盤での支配的なパフォーマンスでクリスタル・パレスのために輝いた。彼はチームのために多くのチャンスを作り出し、守備でも懸命に働き、フィオレンティーナに対する3-0の勝利に貢献した。",
+        "comment": "The article mentions Daichi Kamada responding by hitting the side netting early in the second half. Crucially, he delivered a 91st-minute cross from which Ismaïla Sarr scored, significantly extending Crystal Palace's lead. Kamada's impactful performance was further highlighted as he was named the Flashscore Man of the Match for Crystal Palace.",
+        "commentTranslated": "記事によると、鎌田大地は後半早々にサイドネットを揺らすシュートを放ったとされている。決定的なのは、彼が91分にクロスを供給し、それからイスマイラ・サールが得点し、クリスタル・パレスのリードを大きく広げたことである。鎌田のインパクトのあるパフォーマンスは、彼がクリスタル・パレスのフラッシュスコア・マン・オブ・ザ・マッチに選ばれたことでさらに強調された。",
         "isManual": true,
-        "articleUrl": "https://football-italia.net/conference-crystal-palace-fiorentina-ratings/",
+        "articleUrl": "https://www.tribalfootball.com/article/soccer-conference-league-sarr-s-late-goal-gives-crystal-palace-huge-first-leg-advantage-over-fiorentina-e9b9b028-73c1-4ebe-99b8-e2855055a160",
         "hasArticleRating": false
       },
       {
@@ -27266,6 +27320,18 @@
         "hasArticleRating": true
       },
       {
+        "source": "Football Italia",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Football Italia's Man of the Match, Daichi Kamada, shone for Crystal Palace with an assist and a dominant display in midfield. He created numerous chances for his side and worked hard defensively, contributing to their 3-0 victory over Fiorentina.",
+        "commentTranslated": "Football Italiaのマン・オブ・ザ・マッチである鎌田大地は、アシストと中盤での支配的なパフォーマンスでクリスタル・パレスのために輝いた。彼はチームのために多くのチャンスを作り出し、守備でも懸命に働き、フィオレンティーナに対する3-0の勝利に貢献した。",
+        "isManual": true,
+        "articleUrl": "https://football-italia.net/conference-crystal-palace-fiorentina-ratings/",
+        "hasArticleRating": false
+      },
+      {
         "source": "Goal.com",
         "country": "イングランド",
         "rating": 0,
@@ -27276,6 +27342,30 @@
         "isManual": true,
         "articleUrl": "https://www.goal.com/en/news/crystal-palace-player-ratings-vs-fiorentina-jean-philippe-mateta-stars-as-ruthless-eagles-dismantle-the-viola/bltce077b56b823c01b",
         "hasArticleRating": false
+      },
+      {
+        "source": "beIN SPORTS",
+        "country": "アメリカ合衆国",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada had a notable impact on the game for Fiorentina, first coming close to scoring a third goal for his side. Later in the match, he provided a crucial assist, powering a cross into the top right corner which led to a goal.",
+        "commentTranslated": "鎌田大地はフィオレンティーナにとって試合に大きな影響を与え、まずチームの3点目に迫る場面がありました。その後、試合の終盤には重要なアシストを提供し、トップライトコーナーへのクロスからゴールが生まれました。",
+        "isManual": true,
+        "articleUrl": "https://www.beinsports.com/en-us/soccer/uefa-conference-league/articles/crystal-palace-3-0-fiorentina-glasners-side-put-on-a-show-to-take-commanding-first-leg-lead-2026-04-09",
+        "hasArticleRating": false
+      },
+      {
+        "source": "BBC Sport",
+        "country": "イングランド",
+        "rating": 7.99,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada, wearing number 18, started as a midfielder for Crystal Palace. He provided an assist for Ismaila Sarr's goal in the 90th minute with a cross and was also involved in the build-up for Palace's second goal. Kamada was substituted in the 94th minute. He received an average user rating of 7.99.",
+        "commentTranslated": "鎌田大地は背番号18をつけ、クリスタル・パレスのミッドフィールダーとして先発出場した。彼は90分にイスマイラ・サールのゴールにクロスでアシストを供給し、パレスの2点目のゴールにも絡んだ。鎌田は94分に交代した。彼は平均ユーザー評価で7.99を獲得した。",
+        "isManual": true,
+        "articleUrl": "https://www.bbc.com/sport/football/live/cdrmkpxymdrt",
+        "hasArticleRating": true
       }
     ],
     "averageRating": 7.7,
@@ -27309,6 +27399,19 @@
       }
     ],
     "xThreads": [
+      {
+        "id": "id-1775832100810-7iwfm2t8v",
+        "username": "@CPFC",
+        "verified": true,
+        "languageCode": "EN",
+        "originalText": "Pure magic from Daichi 🪄\n\nYour Player of the Match from last night 👏🇯🇵",
+        "translatedText": "大地の純粋な魔法 🪄\n\n昨夜のプレイヤー・オブ・ザ・マッチ 👏🇯🇵",
+        "likes": 2884,
+        "retweets": 203,
+        "replies": [],
+        "isManual": true,
+        "postUrl": "https://x.com/CPFC/status/2042573307938259268"
+      },
       {
         "id": "id-1775812344504-9jo7ywpx6",
         "username": "@PalaceReport",
@@ -27360,22 +27463,9 @@
         "replies": [],
         "isManual": true,
         "postUrl": "https://x.com/liamb0117/status/2042352149074432493"
-      },
-      {
-        "id": "id-1775832100810-7iwfm2t8v",
-        "username": "@CPFC",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Pure magic from Daichi 🪄\n\nYour Player of the Match from last night 👏🇯🇵",
-        "translatedText": "大地の純粋な魔法 🪄\n\n昨夜のプレイヤー・オブ・ザ・マッチ 👏🇯🇵",
-        "likes": 2884,
-        "retweets": 203,
-        "replies": [],
-        "isManual": true,
-        "postUrl": "https://x.com/CPFC/status/2042573307938259268"
       }
     ],
-    "lastUpdated": "2026-04-10T14:41:40.811Z"
+    "lastUpdated": "2026-08-16T15:27:38.594Z"
   },
   {
     "matchId": "kamada-20260331",
@@ -28039,7 +28129,7 @@
         "postUrl": "https://x.com/JapaneseFbl/status/2034727604284953052"
       }
     ],
-    "lastUpdated": "2026-03-20T00:02:13.311Z"
+    "lastUpdated": "2026-08-16T15:27:06.684Z"
   },
   {
     "matchId": "kamada-20260315",
@@ -28246,7 +28336,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-03-18T14:02:20.756Z"
+    "lastUpdated": "2026-08-16T15:26:54.100Z"
   },
   {
     "matchId": "kamada-20260312",
@@ -28508,7 +28598,7 @@
         "postUrl": "https://x.com/fergcpfc/status/2032210052187074681"
       }
     ],
-    "lastUpdated": "2026-03-14T05:39:33.018Z"
+    "lastUpdated": "2026-08-16T15:26:40.966Z"
   },
   {
     "matchId": "kamada-20260305",
@@ -28525,97 +28615,85 @@
         "isManual": true,
         "articleUrl": "https://www.sportsdunia.com/football-ratings/tottenham-vs-crystal-palace-player-ratings-premier-league-5th-march-2026",
         "hasArticleRating": true
+      },
+      {
+        "source": "Spurs Odyssey",
+        "country": "イングランド",
+        "rating": 0,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada started for Crystal Palace, wearing the number 18 shirt. He was part of a 3-4-2-1 formation, playing in midfield alongside Wharton and Mitchell. The article does not provide any further specific details about his performance or actions during the game.",
+        "commentTranslated": "鎌田大地はクリスタル・パレスのスターティングメンバーとして、背番号18をつけて出場した。彼は3-4-2-1のフォーメーションの一員で、ウォートンやミッチェルと共に中盤でプレーした。記事には彼の試合中のパフォーマンスや行動に関する具体的な詳細は一切記載されていない。",
+        "isManual": true,
+        "articleUrl": "https://www.spursodyssey.com/2526/cp050326.html",
+        "hasArticleRating": false
       }
     ],
     "averageRating": 6.6,
     "localVoices": [],
     "xThreads": [
       {
-        "id": "t1772896577217_0",
-        "username": "@SkySportsPL",
-        "verified": true,
-        "languageCode": "EN",
-        "originalText": "Daichi Kamada featured for 90 minutes as Crystal Palace secured an impressive 3-1 victory over Tottenham in the Premier League. The midfielder earned a 6.4 rating for his shift in the engine room, helping his side to a crucial three points.",
-        "translatedText": "鎌田大地はクリスタルパレスがプレミアリーグでトッテナムに3-1の素晴らしい勝利を収めた試合で90分間出場しました。このミッドフィールダーは中盤での働きに対して6.4の評価を受け、チームが重要な勝ち点3を獲得するのに貢献しました。",
-        "likes": 9876,
-        "retweets": 1567,
+        "id": "id-1786893982210-wqya9dwpi",
+        "username": "@erdalgungor1905",
+        "verified": false,
+        "languageCode": "TR",
+        "originalText": "Daichi Kamada, hayaller Milan gerçekler Londra'nın kenar mahallesi",
+        "translatedText": "鎌田大地、夢はミラン、現実はロンドンの郊外。",
+        "likes": 4,
+        "retweets": 0,
         "replies": [
           {
-            "id": "r1772896577217_0_0",
-            "username": "@ThePalaceView",
+            "id": "id-1786893982210-vg5tvqi7d",
+            "username": "@TurkishFootyFan",
             "languageCode": "EN",
-            "originalText": "Great result for Palace! Kamada was solid in midfield, quietly doing the unseen work that allows others to shine.",
-            "translatedText": "パレスにとって素晴らしい結果！鎌田は中盤で堅実で、他の選手が輝けるように見えない仕事を着実にこなしていた。",
-            "likes": 289
+            "originalText": "It's a common story in football. The Milan dream was strong, but a Premier League club, even if it's a 'London suburb' team, is still a significant achievement for many players.",
+            "translatedText": "サッカーではよくある話だね。ミランの夢は大きかったけど、たとえ「ロンドンの郊外」チームでも、プレミアリーグのクラブは多くの選手にとって重要な功績だよ。",
+            "likes": 215
           },
           {
-            "id": "r1772896577217_0_1",
-            "username": "@FootballFanaticX",
-            "languageCode": "EN",
-            "originalText": "Palace look a different team under Glasner, even without goals, Kamada's presence in midfield helps them tick.",
-            "translatedText": "グラスナー体制下のパレスは別チームに見える。ゴールはなくても、鎌田の中盤での存在は彼らにとって重要な役割を果たしている。",
-            "likes": 165
+            "id": "id-1786893982210-99ai9w7lf",
+            "username": "@鎌田応援隊長",
+            "languageCode": "JA",
+            "originalText": "ロンドンのクラブだって素晴らしい挑戦だよ！プレミアリーグで活躍して、その評価を覆してほしい！",
+            "translatedText": "ロンドンのクラブだって素晴らしい挑戦だよ！プレミアリーグで活躍して、その評価を覆してほしい！",
+            "likes": 380
           }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/erdalgungor1905/status/2029650301163127067"
       },
       {
-        "id": "t1772896577217_1",
-        "username": "@PalaceEagleZone",
+        "id": "id-1786893988349-d2kytd2sl",
+        "username": "@j_football_now",
         "verified": false,
         "languageCode": "EN",
-        "originalText": "What a massive 3-1 win against Spurs! Every single player put in a shift today, Kamada played the full 90 and was key in maintaining control in midfield against a tough opponent. Absolutely buzzing!",
-        "translatedText": "スパーズ相手に3-1のビッグウィン！今日の全選手が頑張った、鎌田もフル出場で、強敵相手に中盤のコントロールを維持するのに重要な役割を果たした。最高に興奮してる！",
-        "likes": 3874,
-        "retweets": 512,
+        "originalText": "Crystal Palace when Daichi Kamada is injured vs. when he plays 😮\n\nWhen he was injured:\n▪️ 11 games\n▪️ 5 draws\n▪️ 6 losses\n\nWhen he plays:\n▪️ 7 games\n▪️ 4 wins\n▪️ 1 draw\n▪️ 2 losses\n\nUnderrated 🇯🇵",
+        "translatedText": "鎌田大地が負傷していた時とプレーした時のクリスタル・パレス 😮\n\n彼が負傷していた時：\n▪️ 11試合\n▪️ 5引き分け\n▪️ 6敗\n\n彼がプレーした時：\n▪️ 7試合\n▪️ 4勝\n▪️ 1引き分け\n▪️ 2敗\n\n過小評価されている🇯🇵",
+        "likes": 49,
+        "retweets": 1,
         "replies": [
           {
-            "id": "r1772896577217_1_0",
-            "username": "@CPFC_True",
+            "id": "id-1786893988349-lbh95kevy",
+            "username": "@CPFC_EagleFan",
             "languageCode": "EN",
-            "originalText": "Kamada just does his job so effectively, always reliable and puts in the hard yards for the team. Up the Palace!",
-            "translatedText": "鎌田は本当に効果的に仕事をする、いつも信頼できて、チームのためにしっかり走り回ってくれる。アップ・ザ・パレス！",
-            "likes": 198
+            "originalText": "The stats don't lie! His impact on our midfield is undeniable. We definitely look more composed and creative when he's on the pitch. Such an underrated player!",
+            "translatedText": "データは嘘をつかない！彼が中盤に与える影響は否定できない。彼がピッチにいると、間違いなくチームはもっと落ち着いてクリエイティブに見える。本当に過小評価されている選手だよ！",
+            "likes": 287
           },
           {
-            "id": "r1772896577217_1_1",
-            "username": "@SelhurstSupporter",
+            "id": "id-1786893988349-qjmxkpivh",
+            "username": "@JFootballStats",
             "languageCode": "EN",
-            "originalText": "Yeah, he might not be scoring, but his positioning and pressing are so vital for our midfield stability. Great team performance!",
-            "translatedText": "うん、彼は得点しないかもしれないけど、彼のポジショニングとプレッシングは中盤の安定に非常に重要だ。素晴らしいチームパフォーマンス！",
-            "likes": 87
+            "originalText": "Solid numbers for Kamada, no doubt he makes a difference. However, it's also important to consider the opponents faced in those periods and other concurrent team changes. Still, a strong case for his value!",
+            "translatedText": "鎌田にとっては堅実な数字だ、彼が違いを生み出しているのは間違いない。しかし、それらの期間に対戦した相手や、同時に起こった他のチーム変更も考慮することが重要だ。それでも、彼の価値を示す強力な根拠にはなるね！",
+            "likes": 155
           }
-        ]
-      },
-      {
-        "id": "t1772896577217_2",
-        "username": "@KamadaJP_Fan",
-        "verified": false,
-        "languageCode": "JA",
-        "originalText": "鎌田選手、トッテナム戦フル出場お疲れ様でした！パレスが3-1で勝利は本当に嬉しい！派手な活躍はなかったけど、中盤でしっかり仕事してたね。次の試合も期待！ #プレミアリーグ #鎌田大地",
-        "translatedText": "鎌田選手、トッテナム戦フル出場お疲れ様でした！パレスが3-1で勝利は本当に嬉しい！派手な活躍はなかったけど、中盤でしっかり仕事してたね。次の試合も期待！ #プレミアリーグ #鎌田大地",
-        "likes": 1789,
-        "retweets": 267,
-        "replies": [
-          {
-            "id": "r1772896577217_2_0",
-            "username": "@SAMURAIBLUE_JP",
-            "languageCode": "JA",
-            "originalText": "フル出場で勝利に貢献は素晴らしい！評価はまずまずだけど、チームが勝てばOKだよね！",
-            "translatedText": "フル出場で勝利に貢献は素晴らしい！評価はまずまずだけど、チームが勝てばOKだよね！",
-            "likes": 115
-          },
-          {
-            "id": "r1772896577217_2_1",
-            "username": "@Eagles_Nippon",
-            "languageCode": "JA",
-            "originalText": "中盤での安定感はさすがでした！パレスの勝利に貢献できてよかったね！お疲れ様！",
-            "translatedText": "中盤での安定感はさすがでした！パレスの勝利に貢献できてよかったね！お疲れ様！",
-            "likes": 73
-          }
-        ]
+        ],
+        "isManual": true,
+        "postUrl": "https://x.com/j_football_now/status/2029923109567185205"
       }
     ],
-    "lastUpdated": "2026-03-07T15:16:17.217Z"
+    "lastUpdated": "2026-08-16T15:26:28.350Z"
   },
   {
     "matchId": "kamada-20260301",
@@ -34624,7 +34702,7 @@
         "postUrl": "https://x.com/hart_henri/status/2048183500486906098"
       }
     ],
-    "lastUpdated": "2026-04-26T06:52:38.840Z"
+    "lastUpdated": "2026-08-17T01:55:34.240Z"
   },
   {
     "matchId": "kamada-20260430",
@@ -34875,7 +34953,7 @@
         "postUrl": "https://x.com/JxmesCPFC/status/2049944088116371535"
       }
     ],
-    "lastUpdated": "2026-05-01T04:16:53.327Z"
+    "lastUpdated": "2026-08-16T15:28:16.480Z"
   },
   {
     "matchId": "suzuki_yuito-20260430",
@@ -35852,10 +35930,27 @@
         "verified": false,
         "languageCode": "EN",
         "originalText": "Full time thoughts - Delayed as I’m pissed \n\nHendo - 10/10 \nMunoz - 10/10 \nLacroix - 10/10 \nRichards - 10/10\nCanvot - 10/10\nMitchell - 10/10 \nWharton - 10/10 \nKamada - 10/10 \nSarr - 10/10 \nPino - 10/10 \nMateta - 10/10 \n\nJSL - 10/10 \nHughes - 10/10 \nLerma - 10/10 \nJohnson - 10/10\nClyne - 10/10 \n\nJokes aside that couldn’t have gone better. \n\nUp the palace #cpfc",
-        "translatedText": "（翻訳未生成）",
+        "translatedText": "試合終了後の感想 - 酔っぱらって遅れたけど。ヘンド - 10点/10点、ムニョス - 10点/10点、ラクロワ - 10点/10点、リチャーズ - 10点/10点、カンヴォ - 10点/10点、ミッチェル - 10点/10点、ウォートン - 10点/10点、鎌田 - 10点/10点、サール - 10点/10点、ピノ - 10点/10点、マテタ - 10点/10点。JSL - 10点/10点、ヒューズ - 10点/10点、レルマ - 10点/10点、ジョンソン - 10点/10点、クライン - 10点/10点。冗談抜きで、これ以上ないくらい最高の試合だった。アップ・ザ・パレス #cpfc",
         "likes": 184,
         "retweets": 9,
-        "replies": [],
+        "replies": [
+          {
+            "id": "id-1786894117822-az05nt1zh",
+            "username": "@PalaceFanatic_7",
+            "languageCode": "EN",
+            "originalText": "You're not wrong mate, what a performance! Everyone was absolutely immense today, great day to be a Palace fan!",
+            "translatedText": "その通りだよ、最高のパフォーマンスだった！今日は全員がとてつもなく素晴らしかった、パレスファンでいるのが最高の1日だね！",
+            "likes": 287
+          },
+          {
+            "id": "id-1786894117822-r3xo8avd1",
+            "username": "@CPFC_StatMan",
+            "languageCode": "EN",
+            "originalText": "Haha, I love it! While I agree it was a fantastic result, Kamada definitely stood out, but maybe not quite a 10/10 for *everyone* 😉 Up the Palace!",
+            "translatedText": "ハハ、最高だね！素晴らしい結果だったのは同意だけど、鎌田は確かに際立っていたよ、でも全員が10点/10点ってわけじゃないかもね😉 アップ・ザ・パレス！",
+            "likes": 172
+          }
+        ],
         "isManual": true,
         "postUrl": "https://x.com/henryswainjourn/status/2052504622691164451"
       },
@@ -35865,15 +35960,32 @@
         "verified": false,
         "languageCode": "EN",
         "originalText": "On our way, we’re on our way… can’t believe it. Palace in a European final! Incredible effort from everyone. Kamada my MOTM. Was everywhere! #cpfc 🔴🔵🔴🔵",
-        "translatedText": "（翻訳未生成）",
+        "translatedText": "やったぞ、やったんだ…信じられない。パレスがヨーロッパの決勝に進出だ！みんなの努力は信じられないほど素晴らしい。鎌田が僕のMOTM。どこにでもいた！ #cpfc 🔴🔵🔴🔵",
         "likes": 2,
         "retweets": 0,
-        "replies": [],
+        "replies": [
+          {
+            "id": "id-1786894125667-0ozcmhqo1",
+            "username": "@Eagles_Abroad",
+            "languageCode": "EN",
+            "originalText": "Totally agree! Kamada was immense today, absolutely ran the show from midfield. What a night for Palace and for him!",
+            "translatedText": "全く同感です！鎌田は今日すごかった、中盤から完全に試合を支配していた。パレスにとっても彼にとってもなんて夜だ！",
+            "likes": 285
+          },
+          {
+            "id": "id-1786894125667-fzqtivz3v",
+            "username": "@CPFC_Analyst",
+            "languageCode": "EN",
+            "originalText": "Kamada was fantastic, no doubt. But the defensive effort across the board was incredible too. Deserved European final!",
+            "translatedText": "鎌田は素晴らしかった、間違いない。でも守備陣全体の努力も信じられないほどだった。ヨーロッパ決勝にふさわしい！",
+            "likes": 167
+          }
+        ],
         "isManual": true,
         "postUrl": "https://x.com/onporter/status/2052506667690914166"
       }
     ],
-    "lastUpdated": "2026-05-07T22:29:21.422Z"
+    "lastUpdated": "2026-08-16T15:28:45.667Z"
   },
   {
     "matchId": "kamada-20260510",
@@ -36912,7 +37024,20 @@
   {
     "matchId": "kamada-20260524",
     "playerId": "kamada",
-    "ratings": [],
+    "ratings": [
+      {
+        "source": "Sportsdunia",
+        "country": "イングランド",
+        "rating": 6,
+        "maxRating": 10,
+        "ratingSystem": "standard",
+        "comment": "Daichi Kamada played only the first half for Crystal Palace, struggling to get on the ball and influence the game. Although his passing was neat, he failed to create anything of note and was largely bypassed by the Arsenal midfield. His halftime withdrawal was considered unsurprising due to his limited impact.",
+        "commentTranslated": "鎌田大地はクリスタル・パレスで前半のみプレーし、ボールに関与して試合に影響を与えるのに苦戦した。パスは正確だったものの、特筆すべきチャンスは作り出せず、アーセナルのミッドフィールダーに簡単に突破された。その限られた影響力のため、ハーフタイムでの交代は驚きではなかった。",
+        "isManual": true,
+        "articleUrl": "https://www.sportsdunia.com/football-ratings/crystal-palace-vs-arsenal-player-ratings-epl-26th-may-2026",
+        "hasArticleRating": true
+      }
+    ],
     "averageRating": 6.2,
     "localVoices": [],
     "xThreads": [
@@ -37001,7 +37126,7 @@
         ]
       }
     ],
-    "lastUpdated": "2026-05-25T06:37:51.851Z"
+    "lastUpdated": "2026-08-16T15:29:04.205Z"
   },
   {
     "matchId": "tomiyasu-20260521",
@@ -37902,7 +38027,7 @@
         "postUrl": "https://x.com/Eintracht/status/2059759691433976100"
       }
     ],
-    "lastUpdated": "2026-06-09T14:30:54.084Z"
+    "lastUpdated": "2026-08-16T15:29:16.768Z"
   },
   {
     "matchId": "shiogai-20260525",
